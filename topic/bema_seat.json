@@ -1,0 +1,34 @@
+{
+    "name": "Bema Seat",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Bema Seat",
+            "url": "http:\/\/sermonindex.net\/SID20365",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bema Seat",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20365-download",
+            "preacher_name": "Pete Briscoe",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Main Thing, Part 3, The Bema Judgement",
+            "url": "http:\/\/sermonindex.net\/SID3871",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bema Seat",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3871-download",
+            "preacher_name": "Devern Fromke",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Perilous Times",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Last Days - Perilous Times",
+            "url": "http:\/\/sermonindex.net\/SID3640",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Perilous Times",
+            "description": "Pastor Geehan continues his series warning on conditions in the last days before Christ returns. Discusses problems with easy believism.",
+            "download": "http:\/\/sermonindex.net\/SID3640-download",
+            "preacher_name": "Martin Geehan",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Last Days Perilous Times",
+            "url": "http:\/\/sermonindex.net\/SID24349",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy 3:1-16",
+            "topic": "Perilous Times",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24349-download",
+            "preacher_name": "John McGregor",
+            "preacher_image": "",
+            "preacher_description": "John McGregor ( - )\r\nListen to freely downloadable audio sermons by the speaker John McGregor in mp3 format.  At John McGregor Ministries, we are focused on providing renewal  services with the highest levels of integrity \u2013 we will do everything we can to seek the Face of God (2 Chron. 7:14) With 40 years of experience in ministry  we\u2019re sure you\u2019ll find working with us can bring encouragement and strength to your church or organization. Look around our website and if you have any comments or questions, please feel free to contact us. We hope to see you again! Check back later for new updates to our website. There\u2019s much more to come!\r\nJohn McGregor has a world-wide preaching schedule and enjoys traveling to the four corners of the earth to share the Gospel of God. John has worked closely with Billy Graham Ministries, Canadian Revival Fellowship and has been serving Glencairn as full time Lead pastor since 2009. He has a deep passion to see people introduced to Jesus and desires to nurture the love of God in each person he meets.",
+            "_scripture": [
+                {
+                    "book": "2 Timothy",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

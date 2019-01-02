@@ -1,0 +1,30 @@
+{
+    "name": "Lamentations 5",
+    "book": "Lamentations",
+    "chapter": 5,
+    "audio_sermons": [
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 4",
+            "url": "http:\/\/sermonindex.net\/SID15283",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Deuteronomy 5: 8-10, Lamentations 5-7",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15283-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Deuteronomy",
+                    "chapter": "5"
+                },
+                {
+                    "book": "Lamentations",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Sincerity",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Are You Real With God?",
+            "url": "http:\/\/sermonindex.net\/SID7202",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 7:14, 1 Timothy 3:16, John 7:5",
+            "topic": "Sincerity",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7202-download",
+            "preacher_name": "Keith Daniel",
+            "preacher_image": "\/images\/keith_daniel.gif",
+            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "_scripture": [
+                {
+                    "book": "John",
+                    "chapter": "7"
+                },
+                {
+                    "book": "1 Timothy",
+                    "chapter": "3"
+                },
+                {
+                    "book": "Isaiah",
+                    "chapter": "7"
+                }
+            ]
+        },
+        {
+            "title": "Real Talk About Talk",
+            "url": "http:\/\/sermonindex.net\/SID24444",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Sincerity",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24444-download",
+            "preacher_name": "Jim Cymbala",
+            "preacher_image": "\/images\/jim_cymbala.gif",
+            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "_scripture": []
+        }
+    ]
+}

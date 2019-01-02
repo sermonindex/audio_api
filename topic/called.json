@@ -1,0 +1,20 @@
+{
+    "name": "Called",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Called",
+            "url": "http:\/\/sermonindex.net\/SID22305",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Called",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22305-download",
+            "preacher_name": "C.J. Mahaney",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

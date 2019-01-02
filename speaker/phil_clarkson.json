@@ -1,0 +1,59 @@
+{
+    "name": "Phil Clarkson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Cornerstone 50'th Anniversary Des Moines Conference",
+            "url": "http:\/\/sermonindex.net\/SID9887",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9887-download",
+            "preacher_name": "Phil Clarkson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Joy",
+            "url": "http:\/\/sermonindex.net\/SID9885",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 2:8",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9885-download",
+            "preacher_name": "Phil Clarkson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "Wonderful",
+            "url": "http:\/\/sermonindex.net\/SID9886",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 9:6",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9886-download",
+            "preacher_name": "Phil Clarkson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "9"
+                }
+            ]
+        }
+    ]
+}

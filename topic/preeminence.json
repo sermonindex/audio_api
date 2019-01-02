@@ -1,0 +1,34 @@
+{
+    "name": "Preeminence",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Seeking His Preeminence - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID23326",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Preeminence",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23326-download",
+            "preacher_name": "Lehman Strauss",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Seeking His Preeminence - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID23327",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Preeminence",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23327-download",
+            "preacher_name": "Lehman Strauss",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

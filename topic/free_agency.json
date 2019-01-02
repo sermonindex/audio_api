@@ -1,0 +1,34 @@
+{
+    "name": "Free Agency",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Free Agency",
+            "url": "http:\/\/sermonindex.net\/SID1275",
+            "size": "6044160",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Free Agency",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1275-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Free Agency Concluded - Consistant with Certainty",
+            "url": "http:\/\/sermonindex.net\/SID1277",
+            "size": "6150656",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Free Agency",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1277-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

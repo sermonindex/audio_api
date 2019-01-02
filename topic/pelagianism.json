@@ -1,0 +1,34 @@
+{
+    "name": "Pelagianism",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Imputation of Adam's Sin - Pelagianism Refuted",
+            "url": "http:\/\/sermonindex.net\/SID1267",
+            "size": "5689344",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Pelagianism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1267-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Imputation of Adam's Sin - Pelagianism, Romanism, Calvinism",
+            "url": "http:\/\/sermonindex.net\/SID1266",
+            "size": "5702144",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Pelagianism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1266-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

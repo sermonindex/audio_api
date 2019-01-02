@@ -1,0 +1,26 @@
+{
+    "name": "Russ Sukhia",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "America's Greatest Need",
+            "url": "http:\/\/sermonindex.net\/SID15879",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Jeremiah 2",
+            "topic": "",
+            "description": "As we celebrate our country's birthday, many Americans, as grateful as we are to live in this land of freedom and opportunity, are aware that in some critical areas, America seems to have lost her way. In fact, Christians can see some striking parallels between modern America and Israel and Judah before they were taken captive centuries ago. Perhaps no passage of Scripture speaks to our nation more directly than Jeremiah 2. It is a powerful warning  of impending judgement, and a call to national repentance.",
+            "download": "http:\/\/sermonindex.net\/SID15879-download",
+            "preacher_name": "Russ Sukhia",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Jeremiah",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

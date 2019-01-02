@@ -1,0 +1,20 @@
+{
+    "name": "Good News",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Evangel",
+            "url": "http:\/\/sermonindex.net\/SID18547",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Good News",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18547-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

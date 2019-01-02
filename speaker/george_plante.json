@@ -1,0 +1,26 @@
+{
+    "name": "George Plante",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Way of the Righteous and the Way of the Wicked",
+            "url": "http:\/\/sermonindex.net\/SID16131",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 1",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16131-download",
+            "preacher_name": "George Plante",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

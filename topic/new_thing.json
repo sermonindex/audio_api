@@ -1,0 +1,34 @@
+{
+    "name": "New Thing",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "God is doing a new thing",
+            "url": "http:\/\/sermonindex.net\/SID21495",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "New Thing",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21495-download",
+            "preacher_name": "Peter Maiden",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "God\u00e2\u20ac\u2122s New Thing",
+            "url": "http:\/\/sermonindex.net\/SID25490",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "New Thing",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID25490-download",
+            "preacher_name": "Brother Yun",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

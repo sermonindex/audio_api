@@ -1,0 +1,30 @@
+{
+    "name": "J.B. Nicholson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Uniqueness of Christianity",
+            "url": "http:\/\/sermonindex.net\/SID25156",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 1:18, Psalm 22:16",
+            "topic": "Christianity",
+            "description": "Aren't all religions basically the same? Does Christianity offer any convincing proof?  Are there real answers for the big questions in life? Is there any way of knowing for sure? Listen to \"The uniqueness of Christianity\" for answers to these questions.",
+            "download": "http:\/\/sermonindex.net\/SID25156-download",
+            "preacher_name": "J.B. Nicholson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "1"
+                },
+                {
+                    "book": "Psalm",
+                    "chapter": "22"
+                }
+            ]
+        }
+    ]
+}

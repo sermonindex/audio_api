@@ -1,0 +1,138 @@
+{
+    "name": "Bill Stafford",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Christ Our Passover",
+            "url": "http:\/\/sermonindex.net\/SID20428",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Passover",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20428-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "God Is Our Sufficiency",
+            "url": "http:\/\/sermonindex.net\/SID23310",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Sufficiency",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23310-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Obedience",
+            "url": "http:\/\/sermonindex.net\/SID23311",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Corinthians 7",
+            "topic": "Obedience",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23311-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Corinthians",
+                    "chapter": "7"
+                }
+            ]
+        },
+        {
+            "title": "Permanency Of The Covenant  ",
+            "url": "http:\/\/sermonindex.net\/SID20429",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Covenant",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20429-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Person Of The Covenant",
+            "url": "http:\/\/sermonindex.net\/SID20433",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Covenant",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20433-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Provision Of The Covenant - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID20431",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Covenant",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20431-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Provision Of The Covenant - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID20432",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Covenant",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20432-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Revival",
+            "url": "http:\/\/sermonindex.net\/SID23309",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23309-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Purpose Of The Covenant",
+            "url": "http:\/\/sermonindex.net\/SID20430",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Covenant",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20430-download",
+            "preacher_name": "Bill Stafford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

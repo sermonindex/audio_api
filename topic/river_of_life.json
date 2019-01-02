@@ -1,0 +1,33 @@
+{
+    "name": "River of Life",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A River of Life",
+            "url": "http:\/\/sermonindex.net\/SID3161",
+            "size": "13230416",
+            "format": "mp3",
+            "scripture": "Revelation 22:1-5, Genesis 3:22-24, Ezekiel 47:1-12",
+            "topic": "River of Life",
+            "description": "Art insists that the waters of life flowing from the Throne are available here and now for those who are yielded to that Throne and to that Lordship. As believers, why are so few of us accessing that life? Could it be we are not yielded to the totality of that Lordship?",
+            "download": "http:\/\/sermonindex.net\/SID3161-download",
+            "preacher_name": "Art Katz",
+            "preacher_image": "\/images\/art_katz.gif",
+            "preacher_description": "Art Katz (1929 \u00e2\u20ac\u201c 2007)\r\nListen to freely downloadable audio sermons by the speaker Art Katz in mp3 format. He was radically converted by reading the New Testament. God used him to have a powerful prophetic insight into the end-times and the coming suffering of the jewish people before the great accepting of Jesus as Messiah. His eschatological insight is a very needful truth to be realized in the body of Christ. \r\n\r\nArt was a prophetic voice insofar as he called his listeners to purposes in God that would affect both time and eternity, purposes that had to do with the glory of God in the Church.   Frequently, his messages called the Church to an awareness of the Last Days [End-times] in such a way that made that time seem imminent and at the door.",
+            "_scripture": [
+                {
+                    "book": "Ezekiel",
+                    "chapter": "47"
+                },
+                {
+                    "book": "Genesis",
+                    "chapter": "3"
+                },
+                {
+                    "book": "Revelation",
+                    "chapter": "22"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "William McCrea",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Hindrance to Revival",
+            "url": "http:\/\/sermonindex.net\/SID12011",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 1",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12011-download",
+            "preacher_name": "William McCrea",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "The cost of Revival",
+            "url": "http:\/\/sermonindex.net\/SID12012",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 11",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12012-download",
+            "preacher_name": "William McCrea",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "11"
+                }
+            ]
+        },
+        {
+            "title": "Why Revival Tarries",
+            "url": "http:\/\/sermonindex.net\/SID12010",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Jeremiah 3",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12010-download",
+            "preacher_name": "William McCrea",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Jeremiah",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

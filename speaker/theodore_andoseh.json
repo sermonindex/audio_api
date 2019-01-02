@@ -1,0 +1,35 @@
+{
+    "name": "Theodore Andoseh",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Call of God",
+            "url": "http:\/\/sermonindex.net\/SID23760",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Call Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23760-download",
+            "preacher_name": "Theodore Andoseh",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Faithfulness of a Co-worker",
+            "url": "http:\/\/sermonindex.net\/SID23759",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Co-Worker",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23759-download",
+            "preacher_name": "Theodore Andoseh",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

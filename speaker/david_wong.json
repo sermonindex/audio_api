@@ -1,0 +1,26 @@
+{
+    "name": "David Wong",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Unworthy, But Not Worthless",
+            "url": "http:\/\/sermonindex.net\/SID24003",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 6:1-13",
+            "topic": "Unworthy",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24003-download",
+            "preacher_name": "David Wong",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "6"
+                }
+            ]
+        }
+    ]
+}

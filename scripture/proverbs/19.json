@@ -1,0 +1,49 @@
+{
+    "name": "Proverbs 19",
+    "book": "Proverbs",
+    "chapter": 19,
+    "audio_sermons": [
+        {
+            "title": "78. What is forbidden in the ninth commandment?",
+            "url": "http:\/\/sermonindex.net\/SID22432",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Proverbs 19:5, 1 Samuel 17:28",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22432-download",
+            "preacher_name": "Westminster Shorter Catechism",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Proverbs",
+                    "chapter": "19"
+                },
+                {
+                    "book": "1 Samuel",
+                    "chapter": "17"
+                }
+            ]
+        },
+        {
+            "title": "Proverbs - Chapter 19",
+            "url": "http:\/\/sermonindex.net\/SID6007",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Proverbs 19",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID6007-download",
+            "preacher_name": "Proverbs",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Proverbs",
+                    "chapter": "19"
+                }
+            ]
+        }
+    ]
+}

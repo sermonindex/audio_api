@@ -1,0 +1,39 @@
+{
+    "name": "Change",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "How to Be Changed",
+            "url": "http:\/\/sermonindex.net\/SID12669",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Change",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12669-download",
+            "preacher_name": "Denny Kenaston",
+            "preacher_image": "\/images\/denny_kenaston.gif",
+            "preacher_description": "Denny Kenaston (1949 - 2012)\r\nListen to freely downloadable audio sermons by the speaker Denny Kenaston in mp3 format. Denny were saved in 1972 out of the \u201cHippy culture.\u201d The Lord Jesus delivered them from drugs, drinking, and many other things that go along with that life style. They felt the Lord call them to help establish Charity Christian Fellowship in Lancaster county.\r\nBro Denny served as an elder in his church for many years. He also traveled extensively in a church planting, and preaching ministry. God has placed an anointing upon him to call the church back to a burden for the family. Tens of thousands of tape set have been sent out all over the world in the last twelve years. Many families have fallen on their faces in repentance, and received a new vision for a Godly Home.",
+            "_scripture": []
+        },
+        {
+            "title": "The Great Change",
+            "url": "http:\/\/sermonindex.net\/SID18694",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 16:19\u00e2\u20ac\u201c31",
+            "topic": "Change",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18694-download",
+            "preacher_name": "Erlo Stegen",
+            "preacher_image": "\/images\/erlo_stegen.gif",
+            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "16"
+                }
+            ]
+        }
+    ]
+}

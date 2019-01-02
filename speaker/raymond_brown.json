@@ -1,0 +1,35 @@
+{
+    "name": "Raymond Brown",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Bearing the Family Likeness",
+            "url": "http:\/\/sermonindex.net\/SID23566",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Sanctification",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23566-download",
+            "preacher_name": "Raymond Brown",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Trusting the Fathers plan",
+            "url": "http:\/\/sermonindex.net\/SID23565",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Plan Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23565-download",
+            "preacher_name": "Raymond Brown",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Favouritism",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Favouritism - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID22247",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "James 2:1-4",
+            "topic": "Favouritism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22247-download",
+            "preacher_name": "Alistair Begg",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "James",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "Favouritism - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID22246",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "James 2:1-7",
+            "topic": "Favouritism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22246-download",
+            "preacher_name": "Alistair Begg",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "James",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "Favouritism - Part 3",
+            "url": "http:\/\/sermonindex.net\/SID22245",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "James 2:8",
+            "topic": "Favouritism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22245-download",
+            "preacher_name": "Alistair Begg",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "James",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

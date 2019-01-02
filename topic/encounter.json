@@ -1,0 +1,20 @@
+{
+    "name": "Encounter",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "An Encounter with God",
+            "url": "http:\/\/sermonindex.net\/SID27775",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Encounter",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27775-download",
+            "preacher_name": "R. Edward Miller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

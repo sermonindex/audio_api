@@ -1,0 +1,26 @@
+{
+    "name": "Fred Zaspel",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Glory of the New Covenant",
+            "url": "http:\/\/sermonindex.net\/SID13057",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Corinthians 3:1-18; Jeremiah 31:31-34",
+            "topic": "New Covenant",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13057-download",
+            "preacher_name": "Fred Zaspel",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Corinthians",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

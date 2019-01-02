@@ -1,0 +1,35 @@
+{
+    "name": "Jim Binney",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Spiritual Call",
+            "url": "http:\/\/sermonindex.net\/SID14140",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Calling Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14140-download",
+            "preacher_name": "Jim Binney",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Cup of Christ",
+            "url": "http:\/\/sermonindex.net\/SID14141",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Gethsemane",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14141-download",
+            "preacher_name": "Jim Binney",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

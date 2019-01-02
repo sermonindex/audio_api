@@ -1,0 +1,47 @@
+{
+    "name": "Counseling",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Counselling Ministry",
+            "url": "http:\/\/sermonindex.net\/SID19937",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Counseling",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19937-download",
+            "preacher_name": "George Verwer",
+            "preacher_image": "\/images\/george_verwer.gif",
+            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "_scripture": []
+        },
+        {
+            "title": "Christian Counseling",
+            "url": "http:\/\/sermonindex.net\/SID19778",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 11:28-30, 1 Corinthians 10:13, Romans 15:14",
+            "topic": "Counseling",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19778-download",
+            "preacher_name": "Richard Sipley",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "11"
+                },
+                {
+                    "book": "1 Corinthians",
+                    "chapter": "10"
+                },
+                {
+                    "book": "Romans",
+                    "chapter": "15"
+                }
+            ]
+        }
+    ]
+}

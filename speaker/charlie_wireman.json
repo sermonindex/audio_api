@@ -1,0 +1,21 @@
+{
+    "name": "Charlie Wireman",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Gettin' Religion",
+            "url": "http:\/\/sermonindex.net\/SID16583",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Religion",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16583-download",
+            "preacher_name": "Charlie Wireman",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

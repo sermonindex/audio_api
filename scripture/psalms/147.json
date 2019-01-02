@@ -1,0 +1,30 @@
+{
+    "name": "Psalms 147",
+    "book": "Psalms",
+    "chapter": 147,
+    "audio_sermons": [
+        {
+            "title": "Water",
+            "url": "http:\/\/sermonindex.net\/SID25442",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 1:2, Psalms 147",
+            "topic": "Blessing",
+            "description": "In this study, Pastor Cymbala talks about the importance of water to our bodies, the earth and how water is recorded in scriptures. Be encouraged, God can take something that is a mess and turns it into a blessing and something beautiful.",
+            "download": "http:\/\/sermonindex.net\/SID25442-download",
+            "preacher_name": "Jim Cymbala",
+            "preacher_image": "\/images\/jim_cymbala.gif",
+            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "1"
+                },
+                {
+                    "book": "Psalms",
+                    "chapter": "147"
+                }
+            ]
+        }
+    ]
+}

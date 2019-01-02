@@ -1,0 +1,26 @@
+{
+    "name": "Andy Zelinski",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Eternity",
+            "url": "http:\/\/sermonindex.net\/SID15264",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Corinthians 12:2-4",
+            "topic": "Eternity",
+            "description": "God wants us to think on eternity. Seeing things in the light of eternity will reset your priorities. The busyness of life is not what life is about. Eternity is what life is about. By having our focus on eternity, we will influence eternity for ourselves, our children, grandchildren and others. We must have this vision of eternity and pass it on.",
+            "download": "http:\/\/sermonindex.net\/SID15264-download",
+            "preacher_name": "Andy Zelinski",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Corinthians",
+                    "chapter": "12"
+                }
+            ]
+        }
+    ]
+}

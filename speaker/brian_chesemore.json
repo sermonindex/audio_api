@@ -1,0 +1,26 @@
+{
+    "name": "Brian Chesemore",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Difference Mercy Makes",
+            "url": "http:\/\/sermonindex.net\/SID13762",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 6:36-39",
+            "topic": "Mercy",
+            "description": "Brian speaks frankly and openly about our tendencies to make sinful judgments based upon faulty assumptions that wreak havoc in interpersonal relationships.  Jesus was not prohibiting all judging, but judgment that does not begin with ourselves and thinking of the abundant mercy we've received from God.  This biblically balanced sermon is pointedly practical and interspersed with humor that drives the message close to home.  (Used by permission of Grace Community Church in Ashburn, VA) http:\/\/www.gccashburn.us\/extras\/messagelist",
+            "download": "http:\/\/sermonindex.net\/SID13762-download",
+            "preacher_name": "Brian Chesemore",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "6"
+                }
+            ]
+        }
+    ]
+}

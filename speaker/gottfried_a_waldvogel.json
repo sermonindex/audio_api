@@ -1,0 +1,35 @@
+{
+    "name": "Gottfried A. Waldvogel",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Loins Girt and Lamps Burning",
+            "url": "http:\/\/sermonindex.net\/SID26969",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26969-download",
+            "preacher_name": "Gottfried A. Waldvogel",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Talk on Communion",
+            "url": "http:\/\/sermonindex.net\/SID26970",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Communion",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26970-download",
+            "preacher_name": "Gottfried A. Waldvogel",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

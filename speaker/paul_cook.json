@@ -1,0 +1,21 @@
+{
+    "name": "Paul Cook",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Solomon's Dream",
+            "url": "http:\/\/sermonindex.net\/SID22635",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Solomon",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22635-download",
+            "preacher_name": "Paul Cook",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

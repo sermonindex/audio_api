@@ -1,0 +1,49 @@
+{
+    "name": "The Antunes",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Hear Oh Lord",
+            "url": "http:\/\/sermonindex.net\/SID20011",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20011-download",
+            "preacher_name": "The Antunes",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Psalm 91",
+            "url": "http:\/\/sermonindex.net\/SID20010",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20010-download",
+            "preacher_name": "The Antunes",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Woe Unto Me",
+            "url": "http:\/\/sermonindex.net\/SID20009",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20009-download",
+            "preacher_name": "The Antunes",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

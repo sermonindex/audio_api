@@ -1,0 +1,25 @@
+{
+    "name": "Penitence",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Prospect To Penitents",
+            "url": "http:\/\/sermonindex.net\/SID4610",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hosea 14:4-7",
+            "topic": "Penitence",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID4610-download",
+            "preacher_name": "J. Glyn Owen",
+            "preacher_image": "\/images\/j_glyn_owen.gif",
+            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "_scripture": [
+                {
+                    "book": "Hosea",
+                    "chapter": "14"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Bill Bright",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "How You Can Help Fulfill The Great Commission",
+            "url": "http:\/\/sermonindex.net\/SID17555",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Great Commission",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17555-download",
+            "preacher_name": "Bill Bright",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "How You Can Walk In The Spirit",
+            "url": "http:\/\/sermonindex.net\/SID17554",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Walk In The Spirit",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17554-download",
+            "preacher_name": "Bill Bright",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Uniqueness of Christ",
+            "url": "http:\/\/sermonindex.net\/SID23577",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christ",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23577-download",
+            "preacher_name": "Bill Bright",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

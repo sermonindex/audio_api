@@ -1,0 +1,25 @@
+{
+    "name": "Gomorrah",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Genesis #15 Ch. 19-21 Sodom an Gomorrah",
+            "url": "http:\/\/sermonindex.net\/SID12142",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 19-21",
+            "topic": "Gomorrah",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12142-download",
+            "preacher_name": "Chuck Missler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "19"
+                }
+            ]
+        }
+    ]
+}

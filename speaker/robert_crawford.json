@@ -1,0 +1,54 @@
+{
+    "name": "Robert Crawford",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Atlantic Lyman Ministry 01 Atlantic Lyman Conference",
+            "url": "http:\/\/sermonindex.net\/SID10053",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10053-download",
+            "preacher_name": "Robert Crawford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Atlantic Lyman Ministry 02 John 12;31",
+            "url": "http:\/\/sermonindex.net\/SID10054",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "John 12:31",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10054-download",
+            "preacher_name": "Robert Crawford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "John",
+                    "chapter": "12"
+                }
+            ]
+        },
+        {
+            "title": "Atlantic Lyman Ministry 04 Open House At Lyman",
+            "url": "http:\/\/sermonindex.net\/SID10068",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10068-download",
+            "preacher_name": "Robert Crawford",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

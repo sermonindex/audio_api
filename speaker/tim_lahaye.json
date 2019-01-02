@@ -1,0 +1,49 @@
+{
+    "name": "Tim LaHaye",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Battle for the Bible",
+            "url": "http:\/\/sermonindex.net\/SID21963",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bible",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21963-download",
+            "preacher_name": "Tim LaHaye",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Spirit Controlled Temperament",
+            "url": "http:\/\/sermonindex.net\/SID21961",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Temperament",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21961-download",
+            "preacher_name": "Tim LaHaye",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Spirit-Controlled Family Living",
+            "url": "http:\/\/sermonindex.net\/SID21962",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Family Living",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21962-download",
+            "preacher_name": "Tim LaHaye",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

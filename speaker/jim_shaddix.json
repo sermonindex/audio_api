@@ -1,0 +1,26 @@
+{
+    "name": "Jim Shaddix",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Pursuing God's Presence",
+            "url": "http:\/\/sermonindex.net\/SID20379",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Haggai 1:1-15",
+            "topic": "God's Presence",
+            "description": "Dr. Jim Shaddix from Riverside Baptist Church in Denver, Colorado. Dr. Shaddix will be speaking on Haggai 1:1-15. It is a fact that God dwells among His people but it is not a given that we will always experience Him functionally. The message of Haggai reminds us how we can.",
+            "download": "http:\/\/sermonindex.net\/SID20379-download",
+            "preacher_name": "Jim Shaddix",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Haggai",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

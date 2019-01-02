@@ -1,0 +1,35 @@
+{
+    "name": "Ken Miller",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "No Compromise",
+            "url": "http:\/\/sermonindex.net\/SID24692",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Compromise",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24692-download",
+            "preacher_name": "Ken Miller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Two Priorities in 2013",
+            "url": "http:\/\/sermonindex.net\/SID24691",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Priorities",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24691-download",
+            "preacher_name": "Ken Miller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

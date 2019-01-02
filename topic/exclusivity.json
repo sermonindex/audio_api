@@ -1,0 +1,25 @@
+{
+    "name": "Exclusivity",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Exclusivity: How can there be just one true religion?",
+            "url": "http:\/\/sermonindex.net\/SID22509",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 John 4:1-10",
+            "topic": "Exclusivity",
+            "description": "Religion poses a danger of creating division or intolerance between groups of people. However, the gospel lead us to three things: humble service, reconciling behavior that is neither patronizing nor self-righteous, and a love toward people who hold different beliefs than we do.",
+            "download": "http:\/\/sermonindex.net\/SID22509-download",
+            "preacher_name": "Tim Keller",
+            "preacher_image": "",
+            "preacher_description": "Tim Keller ( - )\r\nListen to freely downloadable audio sermons by the speaker Tim Keller in mp3 format.  Is an American Christian apologist, author, speaker, and the founding pastor of Redeemer Presbyterian Church in New York City, New York. He is the author of several books, including The Reason for God: Belief in an Age of Skepticism, which garnered awards from World Magazine and Christianity Today and was No. 7 on The New York Times Best Seller list for non-fiction in March 2008.\r\nHe was ordained by the Presbyterian Church in America (PCA) and served as a pastor in Virginia for nine years, while serving as director of church planting for the PCA. He also served on the faculty of Westminster Theological Seminary, in Philadelphia, Pennsylvania, where he and his wife Kathy were involved in urban ministry and he continues as an adjunct professor of practical theology. Keller is a co-founder of The Gospel Coalition, a group of Reformed leaders from around the United States.",
+            "_scripture": [
+                {
+                    "book": "1 John",
+                    "chapter": "4"
+                }
+            ]
+        }
+    ]
+}

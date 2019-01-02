@@ -1,0 +1,25 @@
+{
+    "name": "Stolen Blessing",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(Genesis) 43 - The Stolen Blessing",
+            "url": "http:\/\/sermonindex.net\/SID13086",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 27:1-46",
+            "topic": "Stolen Blessing",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13086-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "27"
+                }
+            ]
+        }
+    ]
+}

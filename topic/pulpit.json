@@ -1,0 +1,20 @@
+{
+    "name": "Pulpit",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Pastor's Conference #5 - The Pulpit: It's Power & Pitfalls",
+            "url": "http:\/\/sermonindex.net\/SID17025",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Pulpit",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17025-download",
+            "preacher_name": "Alistair Begg",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

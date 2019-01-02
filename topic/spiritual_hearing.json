@@ -1,0 +1,25 @@
+{
+    "name": "Spiritual Hearing",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "He Who Has An Ear Let Him Hear",
+            "url": "http:\/\/sermonindex.net\/SID5367",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Revelation 2:7",
+            "topic": "Spiritual Hearing",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID5367-download",
+            "preacher_name": "Pat Kenney",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Revelation",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

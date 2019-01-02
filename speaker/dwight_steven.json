@@ -1,0 +1,35 @@
+{
+    "name": "Dwight Steven",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Beware of Spiritual Pride",
+            "url": "http:\/\/sermonindex.net\/SID19337",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Pride",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19337-download",
+            "preacher_name": "Dwight Steven",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "JESUS, What Would You Have Me to Do?",
+            "url": "http:\/\/sermonindex.net\/SID21480",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Surrender",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21480-download",
+            "preacher_name": "Dwight Steven",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

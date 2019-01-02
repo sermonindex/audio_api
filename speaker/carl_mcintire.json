@@ -1,0 +1,26 @@
+{
+    "name": "Carl McIntire",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Wickedness of Noah's Day",
+            "url": "http:\/\/sermonindex.net\/SID15625",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 24:37",
+            "topic": "",
+            "description": "Carl McIntire reminds us that Jesus told us that as in Noah's day, the same conditions would exist just before His return. A world lost without God rejects Him and His Word, and ridicules those who stand fast in obedience to God. Yet we must be faithful to proclaim the Truth to all, and let the decision be theirs, as did Noah - who's entire household was saved by God from destruction.",
+            "download": "http:\/\/sermonindex.net\/SID15625-download",
+            "preacher_name": "Carl McIntire",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "24"
+                }
+            ]
+        }
+    ]
+}

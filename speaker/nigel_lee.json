@@ -1,0 +1,35 @@
+{
+    "name": "Nigel Lee",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Battle for the Bible",
+            "url": "http:\/\/sermonindex.net\/SID18202",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bible",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18202-download",
+            "preacher_name": "Nigel Lee",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "What Would You Be Willing To Die For?",
+            "url": "http:\/\/sermonindex.net\/SID18201",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Martyrdom",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18201-download",
+            "preacher_name": "Nigel Lee",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

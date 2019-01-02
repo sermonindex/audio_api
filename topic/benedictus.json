@@ -1,0 +1,25 @@
+{
+    "name": "Benedictus",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "What Child Is This? The Benedictus",
+            "url": "http:\/\/sermonindex.net\/SID4744",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 1:67-69",
+            "topic": "Benedictus",
+            "description": "J. Glyn Owen speaks on the wonderful words of Zacharias that the Lord has come to redeem the people. The beginning of light is shining in the advent season, John the Baptist is showing the way to our Saviour.  The Benedictus was the song of thanksgiving uttered by Zechariah on the occasion of the circumcision of his son, John the Baptist. The canticle received its name from its first words in Latin (Benedictus Dominus Deus Israel, \u00e2\u20ac\u0153Blessed be the Lord God of Israel\u00e2\u20ac\u009d).",
+            "download": "http:\/\/sermonindex.net\/SID4744-download",
+            "preacher_name": "J. Glyn Owen",
+            "preacher_image": "\/images\/j_glyn_owen.gif",
+            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

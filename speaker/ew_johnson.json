@@ -1,0 +1,49 @@
+{
+    "name": "E.W. Johnson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Questions Concerning Repentance",
+            "url": "http:\/\/sermonindex.net\/SID1484",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Repentance",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1484-download",
+            "preacher_name": "E.W. Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Election of Grace",
+            "url": "http:\/\/sermonindex.net\/SID1485",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Election",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1485-download",
+            "preacher_name": "E.W. Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Saving Knowledge Of God",
+            "url": "http:\/\/sermonindex.net\/SID1486",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Knowledge Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1486-download",
+            "preacher_name": "E.W. Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

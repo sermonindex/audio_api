@@ -1,0 +1,21 @@
+{
+    "name": "Samuel Brown",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "All Things New",
+            "url": "http:\/\/sermonindex.net\/SID25182",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID25182-download",
+            "preacher_name": "Samuel Brown",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

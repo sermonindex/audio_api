@@ -1,0 +1,25 @@
+{
+    "name": "Propaganda",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "How to use propaganda for Jesus",
+            "url": "http:\/\/sermonindex.net\/SID26028",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 13:3 ",
+            "topic": "Propaganda",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26028-download",
+            "preacher_name": "Bob Faulkner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "13"
+                }
+            ]
+        }
+    ]
+}

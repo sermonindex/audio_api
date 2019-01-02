@@ -1,0 +1,64 @@
+{
+    "name": "Fred Condick",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Belfast Conference 1964-01 Acts 16;",
+            "url": "http:\/\/sermonindex.net\/",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 16",
+            "topic": "Conference",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/-download",
+            "preacher_name": "Fred Condick",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "16"
+                }
+            ]
+        },
+        {
+            "title": "Belfast Conference 1964-02 Luke 1;8",
+            "url": "http:\/\/sermonindex.net\/",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 1:8",
+            "topic": "Conference",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/-download",
+            "preacher_name": "Fred Condick",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "Belfast Conference 1964-03 Judges 8:22",
+            "url": "http:\/\/sermonindex.net\/SID10000",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Judges 8:22",
+            "topic": "Conference",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10000-download",
+            "preacher_name": "Fred Condick",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Judges",
+                    "chapter": "8"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Satisfaction",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Study in Satisfaction",
+            "url": "http:\/\/sermonindex.net\/SID27694",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 15:33-37",
+            "topic": "Satisfaction",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27694-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "15"
+                }
+            ]
+        }
+    ]
+}

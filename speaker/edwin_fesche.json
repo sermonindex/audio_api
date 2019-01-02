@@ -1,0 +1,40 @@
+{
+    "name": "Edwin Fesche",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Herod",
+            "url": "http:\/\/sermonindex.net\/SID10345",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Herod",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10345-download",
+            "preacher_name": "Edwin Fesche",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Thirst",
+            "url": "http:\/\/sermonindex.net\/SID10346",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Proverbs 25:25",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10346-download",
+            "preacher_name": "Edwin Fesche",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Proverbs",
+                    "chapter": "25"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Inner Man",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Knowing the Inner Man Body Soul and Spirit",
+            "url": "http:\/\/sermonindex.net\/SID6701",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Galatians 3:23, Acts 13:38",
+            "topic": "Inner Man",
+            "description": "God\u2019s Word is our plumb line for everything.  In a society where anything seems to go, he reminds us that is not so.  We are shown here how to line up everything according to the Word of God.",
+            "download": "http:\/\/sermonindex.net\/SID6701-download",
+            "preacher_name": "Major Ian Thomas",
+            "preacher_image": "\/images\/major_ian_thomas.gif",
+            "preacher_description": "Major Ian Thomas (1914 \u2013 2007)\r\nListen to freely downloadable audio sermons by the speaker Major Ian Thomas in mp3 format. Evangelical writer, theological teacher and founder of the Torchbearers bible schools. These schools are now world-wide in many countries and provide a teaching base on the person of Christ in the believer and basic Biblical exposition of Bible books.\r\n\r\nAmong the many books that he wrote, the most influential have been: \"The Saving Life Of Christ\" , \"The mystery of godliness\" and \"If I perish, I Perish.\" His burden in ministry was to express and show the indwelling life of Christ in believers and the rest and power that life will have in us as we trust and have faith.",
+            "_scripture": [
+                {
+                    "book": "Galatians",
+                    "chapter": "3"
+                },
+                {
+                    "book": "Acts",
+                    "chapter": "13"
+                }
+            ]
+        },
+        {
+            "title": "The Inner Man",
+            "url": "http:\/\/sermonindex.net\/SID23061",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Inner Man",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23061-download",
+            "preacher_name": "Hans R. Waldvogel",
+            "preacher_image": "\/images\/hans_r_waldvogel.gif",
+            "preacher_description": "Hans R. Waldvogel (1893 - 1969)\r\nListen to freely downloadable audio sermons by the speaker Hans R. Waldvogel in mp3 format. A powerful preacher who ministered as a pentecostal minister. He did not believe in sectarian groups but rather saw the Church as a whole who have the person of Christ in them.  Brother Waldvogel gleamed from many different men of God including A.B. Simpson.\r\n\r\nHis preaching was centred around the very person of Jesus Christ and the work of the Holy Spirit. He spoke much of the rest of the Lord in Christian work and experience and the Spirit-filled life.",
+            "_scripture": []
+        }
+    ]
+}

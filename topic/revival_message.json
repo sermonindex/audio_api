@@ -1,0 +1,20 @@
+{
+    "name": "Revival Message",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Gone With the Wind",
+            "url": "http:\/\/sermonindex.net\/SID24843",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival Message",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24843-download",
+            "preacher_name": "Harold Vaughan",
+            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

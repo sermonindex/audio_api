@@ -1,0 +1,35 @@
+{
+    "name": "Wagdi Iskander",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Living Martyr",
+            "url": "http:\/\/sermonindex.net\/SID21672",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Testimony",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21672-download",
+            "preacher_name": "Wagdi Iskander",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Ministering To Muslims",
+            "url": "http:\/\/sermonindex.net\/SID21199",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Islam",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21199-download",
+            "preacher_name": "Wagdi Iskander",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

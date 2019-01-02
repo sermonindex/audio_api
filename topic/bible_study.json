@@ -1,0 +1,34 @@
+{
+    "name": "Bible Study",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "How To Study The Bible",
+            "url": "http:\/\/sermonindex.net\/SID23780",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bible Study",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23780-download",
+            "preacher_name": "Walter Wilson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The King's Garden",
+            "url": "http:\/\/sermonindex.net\/SID28039",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bible Study",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID28039-download",
+            "preacher_name": "Alfred P. Gibbs",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

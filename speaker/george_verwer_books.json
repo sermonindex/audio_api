@@ -1,0 +1,26 @@
+{
+    "name": "George Verwer Books",
+    "image": "",
+    "description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+    "audio_sermons": [
+        {
+            "title": "The Revolution of Love (reading)",
+            "url": "http:\/\/sermonindex.net\/SID17006",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Galatians 5:22-26",
+            "topic": "Audio Books",
+            "description": "There is, I believe, a basic ingredient which is largely lacking in Christianity today, and the lack of it is the source of most of our problems. It is the cancer which is eating away at the church, but it is no secret. In fact, it is so non-secretive that it is written on almost every page of the New Testament. And yet, because the heart of man is deceitful and desperately wicked, and because we are so bent on our own way, we do not see (or seeing we do not believe) that the basic message of the New Testament is LOVE!",
+            "download": "http:\/\/sermonindex.net\/SID17006-download",
+            "preacher_name": "George Verwer Books",
+            "preacher_image": "",
+            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "_scripture": [
+                {
+                    "book": "Galatians",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

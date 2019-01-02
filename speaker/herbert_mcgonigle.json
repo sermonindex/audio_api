@@ -1,0 +1,72 @@
+{
+    "name": "Herbert McGonigle",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Heart From Sin Set Free ",
+            "url": "http:\/\/sermonindex.net\/SID20704",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Freedom From Sin",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20704-download",
+            "preacher_name": "Herbert McGonigle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "John Wesley's Vision of Authentic Christianity",
+            "url": "http:\/\/sermonindex.net\/SID20703",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Authentic Christianity",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20703-download",
+            "preacher_name": "Herbert McGonigle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Life in the Spirit Romans 7 & 8",
+            "url": "http:\/\/sermonindex.net\/SID20706",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 7, Romans 8",
+            "topic": "Freedom From Sin",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20706-download",
+            "preacher_name": "Herbert McGonigle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "7"
+                },
+                {
+                    "book": "Romans",
+                    "chapter": "8"
+                }
+            ]
+        },
+        {
+            "title": "Principles for Holy Living",
+            "url": "http:\/\/sermonindex.net\/SID20705",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Holy Living",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20705-download",
+            "preacher_name": "Herbert McGonigle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

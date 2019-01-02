@@ -1,0 +1,49 @@
+{
+    "name": "Philip Yoder",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Believe Jesus",
+            "url": "http:\/\/sermonindex.net\/SID19591",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Belief",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19591-download",
+            "preacher_name": "Philip Yoder",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Our Purpose",
+            "url": "http:\/\/sermonindex.net\/SID19593",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Purpose",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19593-download",
+            "preacher_name": "Philip Yoder",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Two Kingdoms",
+            "url": "http:\/\/sermonindex.net\/SID19592",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Kingdom Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19592-download",
+            "preacher_name": "Philip Yoder",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

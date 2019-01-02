@@ -1,0 +1,97 @@
+{
+    "name": "Venus Brooks",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Hebrews 12:3",
+            "url": "http:\/\/sermonindex.net\/SID9752",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 12:3",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9752-download",
+            "preacher_name": "Venus Brooks",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "12"
+                }
+            ]
+        },
+        {
+            "title": "John 7:14",
+            "url": "http:\/\/sermonindex.net\/SID9753",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "John 7:14",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9753-download",
+            "preacher_name": "Venus Brooks",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "John",
+                    "chapter": "7"
+                }
+            ]
+        },
+        {
+            "title": "Philippians 1",
+            "url": "http:\/\/sermonindex.net\/SID9754",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Philippians 1",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9754-download",
+            "preacher_name": "Venus Brooks",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Philippians",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "Psalm 16",
+            "url": "http:\/\/sermonindex.net\/SID9755",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 16",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9755-download",
+            "preacher_name": "Venus Brooks",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "16"
+                }
+            ]
+        },
+        {
+            "title": "Testimony and Message",
+            "url": "http:\/\/sermonindex.net\/SID9756",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9756-download",
+            "preacher_name": "Venus Brooks",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

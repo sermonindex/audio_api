@@ -1,0 +1,34 @@
+{
+    "name": "Agonizing Prayer",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Call To Agonizing Prayer",
+            "url": "http:\/\/sermonindex.net\/SID19731",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Agonizing Prayer",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19731-download",
+            "preacher_name": "Andrew Strom",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Pray Along With Agonizing Prayer",
+            "url": "http:\/\/sermonindex.net\/SID19736",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Agonizing Prayer",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19736-download",
+            "preacher_name": "Andrew Strom",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

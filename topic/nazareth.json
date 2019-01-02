@@ -1,0 +1,34 @@
+{
+    "name": "Nazareth",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Jesus Of Nazareth",
+            "url": "http:\/\/sermonindex.net\/SID19029",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Nazareth",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19029-download",
+            "preacher_name": "David Guzik",
+            "preacher_image": "",
+            "preacher_description": "David Guzik ( - )\r\nListen to freely downloadable audio sermons by the speaker David Guzik in mp3 format.  David Guzik is the pastor of Calvary Chapel Santa Barbara, having come to serve that congregation in July 2010. For 7 years before that, David was the director of Calvary Chapel Bible College Germany, near Siegen, Germany. David took this position in January of 2003, after serving for 14 years as the founding and Senior Pastor of Calvary Chapel of Simi Valley. He has been in pastoral ministry since 1982.\r\nDavid has no formal Bible College or seminary training, but does have a Bachelors of Arts degree from the University of California, Santa Barbara. David, his wife Inga-Lill, live in Santa Barbara, California. Their three children are grown; Aan-Sofie serves as a missionary in Ireland, Nathan lives in Los Angeles, and Jonathan lives in Santa Barbara.",
+            "_scripture": []
+        },
+        {
+            "title": "Mark - In Nazareth Again",
+            "url": "http:\/\/sermonindex.net\/SID26533",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Nazareth",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26533-download",
+            "preacher_name": "J. Glyn Owen",
+            "preacher_image": "\/images\/j_glyn_owen.gif",
+            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "_scripture": []
+        }
+    ]
+}

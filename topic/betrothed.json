@@ -1,0 +1,39 @@
+{
+    "name": "Betrothed",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Betrothed of God",
+            "url": "http:\/\/sermonindex.net\/SID3246",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Betrothed",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3246-download",
+            "preacher_name": "Erlo Stegen",
+            "preacher_image": "\/images\/erlo_stegen.gif",
+            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "_scripture": []
+        },
+        {
+            "title": "God\u00b4s Marriage Proposal",
+            "url": "http:\/\/sermonindex.net\/SID14374",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hosea 2:16-20",
+            "topic": "Betrothed",
+            "description": "This is a marvelous word! This is God Himself speaking to people who continually trouble Him. They've broken their covenant with God time and again. They turned aside from God Who brought them out of Egypt with an outstretched hand and great power. Time after time they would repent, often half-heartedly, but then fall back worse than before. God refers here to \"the names of Baalim\" in their mouth - serving many Baals. You might serve many things, money, honour or pleasure. God says that He will make a covenant with them and the beasts of the field. What does He mean by this expression? There's a reference in the Bible that \"you may not muzzle the ox who treads the corn\", and it is applied in the New Testament to refer to those who sow the Gospel. So too these animals are a symbol of people.",
+            "download": "http:\/\/sermonindex.net\/SID14374-download",
+            "preacher_name": "Erlo Stegen",
+            "preacher_image": "\/images\/erlo_stegen.gif",
+            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "_scripture": [
+                {
+                    "book": "Hosea",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

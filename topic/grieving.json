@@ -1,0 +1,25 @@
+{
+    "name": "Grieving",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Spirit 01  - 1 John 1: Grieve Not",
+            "url": "http:\/\/sermonindex.net\/SID10615",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 John 1",
+            "topic": "Grieving",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10615-download",
+            "preacher_name": "Alden Gannett",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 John",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

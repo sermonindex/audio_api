@@ -1,0 +1,26 @@
+{
+    "name": "Psalm 3",
+    "book": "Psalm",
+    "chapter": 3,
+    "audio_sermons": [
+        {
+            "title": "Psalm 3",
+            "url": "http:\/\/sermonindex.net\/SID8029",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 3",
+            "topic": "Psalms",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID8029-download",
+            "preacher_name": "Carl Armerding",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

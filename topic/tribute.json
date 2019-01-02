@@ -1,0 +1,34 @@
+{
+    "name": "Tribute",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "In Tribute to Kathryn Kuhlman - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID0919",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Tribute",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID0919-download",
+            "preacher_name": "Kathryn Kuhlman",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "In Tribute to Kathryn Kuhlman - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID0920",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Tribute",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID0920-download",
+            "preacher_name": "Kathryn Kuhlman",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Roger Oakland",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "New Wine And The Babylonian Vine - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID17036",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17036-download",
+            "preacher_name": "Roger Oakland",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "New Wine And The Babylonian Vine - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID17037",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17037-download",
+            "preacher_name": "Roger Oakland",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

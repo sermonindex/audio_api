@@ -1,0 +1,35 @@
+{
+    "name": "Sister Charlotte",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Nun's Testimony - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID17403",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17403-download",
+            "preacher_name": "Sister Charlotte",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "A Nun's Testimony - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID17404",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17404-download",
+            "preacher_name": "Sister Charlotte",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

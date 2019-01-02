@@ -1,0 +1,40 @@
+{
+    "name": "Richard Burson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Hope Thou In God",
+            "url": "http:\/\/sermonindex.net\/SID9791",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9791-download",
+            "preacher_name": "Richard Burson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Is The Lord Sleeping?",
+            "url": "http:\/\/sermonindex.net\/SID9792",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 5",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9792-download",
+            "preacher_name": "Richard Burson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

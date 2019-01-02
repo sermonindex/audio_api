@@ -1,0 +1,34 @@
+{
+    "name": "Roman Catholic",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Roman Catholic's View of Man's Primitive Condition",
+            "url": "http:\/\/sermonindex.net\/SID1256",
+            "size": "6161920",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Roman Catholic",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1256-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Roman Catholic's View of Man's Primitive Condition Criticized",
+            "url": "http:\/\/sermonindex.net\/SID1257",
+            "size": "6034432",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Roman Catholic",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1257-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

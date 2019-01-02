@@ -1,0 +1,33 @@
+{
+    "name": "Clear Conscience",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Gaining and Maintaining a Clear Conscience",
+            "url": "http:\/\/sermonindex.net\/SID14153",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 19:2-3, Acts 24:16, 1 Timothy 1:5 ",
+            "topic": "Clear Conscience",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14153-download",
+            "preacher_name": "Tom Palmer",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Timothy",
+                    "chapter": "1"
+                },
+                {
+                    "book": "Acts",
+                    "chapter": "24"
+                },
+                {
+                    "book": "Luke",
+                    "chapter": "19"
+                }
+            ]
+        }
+    ]
+}

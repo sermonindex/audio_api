@@ -1,0 +1,26 @@
+{
+    "name": "Achille Blaize",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Why will you die?",
+            "url": "http:\/\/sermonindex.net\/SID2474",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ezekiel 33",
+            "topic": "Death",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID2474-download",
+            "preacher_name": "Achille Blaize",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Ezekiel",
+                    "chapter": "33"
+                }
+            ]
+        }
+    ]
+}

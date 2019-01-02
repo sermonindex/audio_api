@@ -1,0 +1,35 @@
+{
+    "name": "Jeffrey Khoo",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "God With Us",
+            "url": "http:\/\/sermonindex.net\/SID12099",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12099-download",
+            "preacher_name": "Jeffrey Khoo",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Jesus Our Only Help",
+            "url": "http:\/\/sermonindex.net\/SID12102",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12102-download",
+            "preacher_name": "Jeffrey Khoo",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

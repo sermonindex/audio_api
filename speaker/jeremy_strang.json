@@ -1,0 +1,35 @@
+{
+    "name": "Jeremy Strang",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Holy God and a Holy People: The Church",
+            "url": "http:\/\/sermonindex.net\/SID24867",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Holiness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24867-download",
+            "preacher_name": "Jeremy Strang",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Authentically Casting Our Vision Upon Christ Through Grace",
+            "url": "http:\/\/sermonindex.net\/SID28285",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Vision",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID28285-download",
+            "preacher_name": "Jeremy Strang",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

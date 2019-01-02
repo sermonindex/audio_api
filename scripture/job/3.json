@@ -1,0 +1,26 @@
+{
+    "name": "Job 3",
+    "book": "Job",
+    "chapter": 3,
+    "audio_sermons": [
+        {
+            "title": "Through The Bible - Job - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID2251",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Job 3-42",
+            "topic": "",
+            "description": "In this insightful lesson, Zac shows the four types of preachers today in Christendom.  Can you see yourself in Zophar, the self-appointed prophet, or Eliphaz, the one who tries to lend weight to his words by supernatural happenings, or Elihu, the man with the right knowledge by no experience of deep suffering?  The fifth preacher, who brought Job to repentance, was God, who loved him and that was what made all the difference.",
+            "download": "http:\/\/sermonindex.net\/SID2251-download",
+            "preacher_name": "Zac Poonen",
+            "preacher_image": "\/images\/zac_poonen.gif",
+            "preacher_description": "Zac Poonen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Zac Poonen in mp3 format. God called brother Zac Poonen to a new work early on in his Christian experience. The movement is now called Christian Fellowship Churches where the New Covenant of New Testament Christianity is clearly preached. \r\n\r\nBrother Zac Poonen has written 25 books most of them being on the deeper Christian life. Many of these have been translated into a number of languages and have been circulated widely around the world. He clearly and passionately shares the  narrow way of Christian discipleship that is neglected by so many modern preachers.",
+            "_scripture": [
+                {
+                    "book": "Job",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

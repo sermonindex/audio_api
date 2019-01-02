@@ -1,0 +1,49 @@
+{
+    "name": "Kay Arthur",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "How To Study Your Bible - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID17978",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17978-download",
+            "preacher_name": "Kay Arthur",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "How To Study Your Bible - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID17979",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17979-download",
+            "preacher_name": "Kay Arthur",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Overcoming Satan's Lies",
+            "url": "http:\/\/sermonindex.net\/SID3681",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3681-download",
+            "preacher_name": "Kay Arthur",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "John Daniel",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The History of Free Masonry - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID3691",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Free Masonry",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3691-download",
+            "preacher_name": "John Daniel",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The History of Free Masonry - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID3692",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Free Masonry",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3692-download",
+            "preacher_name": "John Daniel",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

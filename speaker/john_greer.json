@@ -1,0 +1,40 @@
+{
+    "name": "John Greer",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A True Revival Meeting",
+            "url": "http:\/\/sermonindex.net\/SID14369",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14369-download",
+            "preacher_name": "John Greer",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "No Holiness - No Heaven",
+            "url": "http:\/\/sermonindex.net\/SID17270",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 12:1-17",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17270-download",
+            "preacher_name": "John Greer",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "12"
+                }
+            ]
+        }
+    ]
+}

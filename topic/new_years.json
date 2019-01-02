@@ -1,0 +1,47 @@
+{
+    "name": "New Years",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "53 - A New Years reflection",
+            "url": "http:\/\/sermonindex.net\/SID24762",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "New Years",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24762-download",
+            "preacher_name": "Ben Torrey",
+            "preacher_image": "",
+            "preacher_description": "Ben Torrey ( - )\r\nListen to freely downloadable audio sermons by the speaker Ben Torrey in mp3 format. Executive director of The Fourth River Project, Inc which is an organization that is preparing for the opening of North Korea. Their intercession and practical preparations are helping the body of Christ to be spiritually prepared to share the Good News of Christ effectively with North Korea.\r\nJesus Abbey is an intentional community and house of intercessory prayer founded by Jane and Archer Torrey, in 1965 by faith in God's provision. Currently Ben Torrey serves as chairman of the Jesus Abbey board of trustees. As he travels to America yearly he serves as the Archdeacon in the Evangelical Apostolic Church of North America which is in the tradition of the Church of the East. All 53 of the recordings below were recorded for the Far East Broadcasting company in 2007.",
+            "_scripture": []
+        },
+        {
+            "title": "The New Year as God Sees It",
+            "url": "http:\/\/sermonindex.net\/SID5794",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Job 23:6, Psalm 85:8, Matthew 24:4-14",
+            "topic": "New Years",
+            "description": "A. W. Tozer discusses the end of the world, the end of civilization, the difference between the two, and why so many accuse Jesus of failing to keep a promise of world peace. \u201cThey create a Christianity of their own, and then they try to make Christ conform to their own, homemade Christianity. \u2026 It may surprise some of you to know that our Lord Jesus Christ never promised peace\u2014world peace, peace among the nations\u2014during this age.\u201d Christians shouldn\u2019t blame the church, either. The pastor addresses a range of other vital issues in this excellent sermon, reading from Job 23:6, Psalm 85:8, and Matthew 24:4-14. \u201cThe New Year As God Sees It\u201d was preached the night of New Year\u2019s Eve, 1961, in Toronto, Ontario. The length of the recording is 41 minutes and 7 seconds.",
+            "download": "http:\/\/sermonindex.net\/SID5794-download",
+            "preacher_name": "A.W. Tozer",
+            "preacher_image": "\/images\/aw_tozer.gif",
+            "preacher_description": "A.W. Tozer (1897 - 1963)\r\nListen to freely downloadable audio sermons by the speaker A.W. Tozer in mp3 format. A \"20th-century prophet\" many called him during his lifetime. For 31 years A.W.Tozer was pastor of Southside Alliance Church in Chicago. He was involved in the missionary alliance movement for most of his pulpit life. A.W. Tozer lived in the presence of God he saw clearly and he spoke as a prophet to the church. He sought for God's honor with the zeal of Elijah and mourned with Jeremiah at the apostasy of God's people. \r\n\r\nLeonard Ravenhill was a close friend of pastor and writer A. W. Tozer and spoke of him as one of the most influential voices in the Church in America. A.W. Tozer's materials are a mainstay in Evangelical churches in our day and he is one of the most quoted authors. He was a prophet in his day and his writings are even more influential in our day. One of his books: The Pursuit of God, has had over 1 million copies sold world-wide.",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "24"
+                },
+                {
+                    "book": "Psalm",
+                    "chapter": "85"
+                },
+                {
+                    "book": "Job",
+                    "chapter": "23"
+                }
+            ]
+        }
+    ]
+}

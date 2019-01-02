@@ -1,0 +1,30 @@
+{
+    "name": "Leviticus 19",
+    "book": "Leviticus",
+    "chapter": 19,
+    "audio_sermons": [
+        {
+            "title": "58. What is required in the fourth commandment?",
+            "url": "http:\/\/sermonindex.net\/SID22412",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Leviticus 19:30, Isaiah 56:2-7",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22412-download",
+            "preacher_name": "Westminster Shorter Catechism",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Leviticus",
+                    "chapter": "19"
+                },
+                {
+                    "book": "Isaiah",
+                    "chapter": "56"
+                }
+            ]
+        }
+    ]
+}

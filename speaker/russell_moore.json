@@ -1,0 +1,68 @@
+{
+    "name": "Russell Moore",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Christianity is Warfare",
+            "url": "http:\/\/sermonindex.net\/SID13059",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Peter 3:18-22",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13059-download",
+            "preacher_name": "Russell Moore",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Peter",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "The Warfare of Suffering Brothers",
+            "url": "http:\/\/sermonindex.net\/SID13061",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 8:12-29",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13061-download",
+            "preacher_name": "Russell Moore",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "8"
+                }
+            ]
+        },
+        {
+            "title": "Warfare is Global Missions",
+            "url": "http:\/\/sermonindex.net\/SID13060",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Jonah 1:11, Matthew 1:38",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13060-download",
+            "preacher_name": "Russell Moore",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Jonah",
+                    "chapter": "1"
+                },
+                {
+                    "book": "Matthew",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

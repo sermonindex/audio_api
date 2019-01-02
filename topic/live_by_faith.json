@@ -1,0 +1,34 @@
+{
+    "name": "Live By Faith",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(February 1987) 05 - The Just Live By Faith",
+            "url": "http:\/\/sermonindex.net\/SID6134",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Live By Faith",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID6134-download",
+            "preacher_name": "Ray Lowe",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Just Shall Live By Faith",
+            "url": "http:\/\/sermonindex.net\/SID12488",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Live By Faith",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12488-download",
+            "preacher_name": "Charles E. Fuller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Earl Fox",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Becoming An Effective Worship Leader",
+            "url": "http:\/\/sermonindex.net\/SID14846",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Worship",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14846-download",
+            "preacher_name": "Earl Fox",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Principles Of Godly Music",
+            "url": "http:\/\/sermonindex.net\/SID14845",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14845-download",
+            "preacher_name": "Earl Fox",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

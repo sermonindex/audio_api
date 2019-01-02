@@ -1,0 +1,34 @@
+{
+    "name": "Evangelization",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Evangelizing Sin City",
+            "url": "http:\/\/sermonindex.net\/SID26705",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Evangelization",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26705-download",
+            "preacher_name": "Mariano Di Gangi",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "TRUE Christians Evangelize!",
+            "url": "http:\/\/sermonindex.net\/SID21275",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Evangelization",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21275-download",
+            "preacher_name": "Aaron Clark",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

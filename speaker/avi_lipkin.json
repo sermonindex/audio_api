@@ -1,0 +1,35 @@
+{
+    "name": "Avi Lipkin",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Islamic Spiritual War #1",
+            "url": "http:\/\/sermonindex.net\/SID13725",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Islam",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13725-download",
+            "preacher_name": "Avi Lipkin",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Islamic Spiritual War #2 - Wake Up America",
+            "url": "http:\/\/sermonindex.net\/SID13728",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Islam",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13728-download",
+            "preacher_name": "Avi Lipkin",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

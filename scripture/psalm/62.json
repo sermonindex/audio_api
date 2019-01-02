@@ -1,0 +1,30 @@
+{
+    "name": "Psalm 62",
+    "book": "Psalm",
+    "chapter": 62,
+    "audio_sermons": [
+        {
+            "title": "98. What is prayer?",
+            "url": "http:\/\/sermonindex.net\/SID22452",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 62:8, 1 John 5:14",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22452-download",
+            "preacher_name": "Westminster Shorter Catechism",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "62"
+                },
+                {
+                    "book": "1 John",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

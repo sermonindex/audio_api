@@ -1,0 +1,64 @@
+{
+    "name": "Mark Turner",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Blessed Are the Merciful",
+            "url": "http:\/\/sermonindex.net\/SID7267",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 5:1-7",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7267-download",
+            "preacher_name": "Mark Turner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "5"
+                }
+            ]
+        },
+        {
+            "title": "Christian Contentment",
+            "url": "http:\/\/sermonindex.net\/SID7129",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Timothy 6:10-11",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7129-download",
+            "preacher_name": "Mark Turner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Timothy",
+                    "chapter": "6"
+                }
+            ]
+        },
+        {
+            "title": "Hebrews 3",
+            "url": "http:\/\/sermonindex.net\/SID7130",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 3",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7130-download",
+            "preacher_name": "Mark Turner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Following The Lord",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Followers of the Lamb",
+            "url": "http:\/\/sermonindex.net\/SID1002",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 8:18-27, Luke 9:61-62",
+            "topic": "Following The Lord",
+            "description": "\"What does it mean to follow the Lord?\" asks Ed Miller.  Miller carefully analyzes the lives of ones who came to Jesus, sifting out the speculation of commentators, and bringing out truths to search our own hearts.  The key to being a follower of the Lamb is identifying His purpose and will so we can move with Him in them.",
+            "download": "http:\/\/sermonindex.net\/SID1002-download",
+            "preacher_name": "Ed Miller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "9"
+                },
+                {
+                    "book": "Matthew",
+                    "chapter": "8"
+                }
+            ]
+        }
+    ]
+}

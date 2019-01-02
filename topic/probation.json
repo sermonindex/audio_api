@@ -1,0 +1,39 @@
+{
+    "name": "Probation",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(Genesis) 6 - Man in His Probation",
+            "url": "http:\/\/sermonindex.net\/SID12417",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 2:8-17",
+            "topic": "Probation",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12417-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "Adamic Administration - \"Condition\" (Probation, Temporary)",
+            "url": "http:\/\/sermonindex.net\/SID1261",
+            "size": "6103040",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Probation",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1261-download",
+            "preacher_name": "John Murray",
+            "preacher_image": "\/images\/john_murray.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

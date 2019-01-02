@@ -1,0 +1,64 @@
+{
+    "name": "Robert Dowie",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "God Speaking About His Son",
+            "url": "http:\/\/sermonindex.net\/SID22564",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 1:1",
+            "topic": "Jesus Christ",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22564-download",
+            "preacher_name": "Robert Dowie",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "The Church and the Saviour",
+            "url": "http:\/\/sermonindex.net\/SID22566",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 2:11-16",
+            "topic": "Saviour",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22566-download",
+            "preacher_name": "Robert Dowie",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "The Warning Stated",
+            "url": "http:\/\/sermonindex.net\/SID22565",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Hebrews 2:1-8",
+            "topic": "Warning",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22565-download",
+            "preacher_name": "Robert Dowie",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

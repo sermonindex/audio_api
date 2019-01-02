@@ -1,0 +1,26 @@
+{
+    "name": "Reginald Cranston",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Prayer Meeting in Hell",
+            "url": "http:\/\/sermonindex.net\/SID11532",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 16:19-31",
+            "topic": "Prayer Meeting",
+            "description": "The hopeless state of a lost soul in Hell. This sermon is powerful and true and the preacher bring out the plain truth that there is a hell to shun and a heaven to Gain.. he show also that there is torments in hell and no escape for those who got to hell.",
+            "download": "http:\/\/sermonindex.net\/SID11532-download",
+            "preacher_name": "Reginald Cranston",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "16"
+                }
+            ]
+        }
+    ]
+}

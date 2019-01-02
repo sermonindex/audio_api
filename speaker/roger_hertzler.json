@@ -1,0 +1,35 @@
+{
+    "name": "Roger Hertzler",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The god of Materialism and Heavenly Treasure",
+            "url": "http:\/\/sermonindex.net\/SID19604",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Materialism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19604-download",
+            "preacher_name": "Roger Hertzler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Waking Up America With Gospel Signs",
+            "url": "http:\/\/sermonindex.net\/SID25935",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Witnessing",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID25935-download",
+            "preacher_name": "Roger Hertzler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

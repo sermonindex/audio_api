@@ -1,0 +1,30 @@
+{
+    "name": "Amos 5",
+    "book": "Amos",
+    "chapter": 5,
+    "audio_sermons": [
+        {
+            "title": "A Warning To Those at Ease",
+            "url": "http:\/\/sermonindex.net\/SID19893",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Amos 5:18-27, Amos 6:1",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19893-download",
+            "preacher_name": "Ronald Glass",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Amos",
+                    "chapter": "5"
+                },
+                {
+                    "book": "Amos",
+                    "chapter": "6"
+                }
+            ]
+        }
+    ]
+}

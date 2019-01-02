@@ -1,0 +1,35 @@
+{
+    "name": "Allan Brown",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "How to be Mighty in the Spirit",
+            "url": "http:\/\/sermonindex.net\/SID16578",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Filled With The Spirit",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16578-download",
+            "preacher_name": "Allan Brown",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Spirit Filled Life",
+            "url": "http:\/\/sermonindex.net\/SID16579",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Filled With The Spirit",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16579-download",
+            "preacher_name": "Allan Brown",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

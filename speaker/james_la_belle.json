@@ -1,0 +1,26 @@
+{
+    "name": "James La Belle",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "You Cannot Love God And The World",
+            "url": "http:\/\/sermonindex.net\/SID22278",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 12:30",
+            "topic": "Worldliness",
+            "description": "It is my firm conviction that worldliness is destroying the church of Jesus Christ. The church is more and more becoming like the world, indistinguishable from the world, pursuers of the world, lovers of the world. Our relationship with Jesus Christ is hardly more than an appendage or appendix to our busy, worldly lives. We are no longer distinguished as separate, consecrated, pilgrims, sojourners, or holy unto the Lord; instead, we have eyes full of the world, hearts in love with the world, ears attentive to the world, lips filled with worldly speech, hands filled with worldly things, feet comfortable with worldly paths, and bodies no longer ready to depart and be with Jesus since that would mean giving up the world.",
+            "download": "http:\/\/sermonindex.net\/SID22278-download",
+            "preacher_name": "James La Belle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "12"
+                }
+            ]
+        }
+    ]
+}

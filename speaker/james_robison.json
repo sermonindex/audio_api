@@ -1,0 +1,35 @@
+{
+    "name": "James Robison",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Church in Bondage",
+            "url": "http:\/\/sermonindex.net\/SID25910",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bondage",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID25910-download",
+            "preacher_name": "James Robison",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Development of a Reprobate",
+            "url": "http:\/\/sermonindex.net\/SID21000",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Reprobate",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21000-download",
+            "preacher_name": "James Robison",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

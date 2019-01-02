@@ -1,0 +1,35 @@
+{
+    "name": "Face to Face",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "3 - Purify Me",
+            "url": "http:\/\/sermonindex.net\/SID14793",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14793-download",
+            "preacher_name": "Face to Face",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "7 - Touch Of Grace",
+            "url": "http:\/\/sermonindex.net\/SID14792",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14792-download",
+            "preacher_name": "Face to Face",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

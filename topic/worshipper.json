@@ -1,0 +1,29 @@
+{
+    "name": "Worshipper",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Making Of A Worshipper",
+            "url": "http:\/\/sermonindex.net\/SID2635",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Exodus 14:8-22,Hebrews 11:21",
+            "topic": "Worshipper",
+            "description": "Worshippers aren't made in good times, or during victories. They are made in dark and stormy trials. Jacob had lived a tumultous life, with one trial after another, yet when he was old and dying, he leaned on his staff and worshipped, saying his bad times had been few, as he reflected on the faithfulness of God. God had brought him through so many things, and he will be faithful to us, too",
+            "download": "http:\/\/sermonindex.net\/SID2635-download",
+            "preacher_name": "David Wilkerson",
+            "preacher_image": "\/images\/david_wilkerson.gif",
+            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "11"
+                },
+                {
+                    "book": "Exodus",
+                    "chapter": "14"
+                }
+            ]
+        }
+    ]
+}

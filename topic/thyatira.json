@@ -1,0 +1,39 @@
+{
+    "name": "Thyatira",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(Revelation Thoughts from the Book) 3. The Letters to Pergamos and Thyatira",
+            "url": "http:\/\/sermonindex.net\/SID18660",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Thyatira",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18660-download",
+            "preacher_name": "Roy Hession",
+            "preacher_image": "\/images\/roy_hession.gif",
+            "preacher_description": "Roy Hession (1908 - 1992)\r\nListen to freely downloadable audio sermons by the speaker Rolfe Barnard in mp3 format. Roy Hession was a famous post-war evangelist. He wrote many famous Christian classics including \"The Calvary Road.\" Which is currently have currently sold over 1 million copies world-wide. Although a British evangelist, Dr. Hession has spent considerable time ministering in the States under the sponsorship of Worldwide Evangelization Crusade (Ft. Washington, Pa.). This missionary organization was founded in 1914 by C.T Studd, and was directed for many years by his son-in-law, Norman Grubb.\r\n\r\nIn 1947 Hession met leaders of the East African Church which was then experiencing a sweeping revival, and recognized his deep personal need. It was like starting the Christian life over as he came humbly to the Cross. The principles which the Lord taught him were first published in 1950 as The Calvary Road and are now available in over 70 languages! Hession's other titles include We Would See Jesus and Be Filled Now.",
+            "_scripture": []
+        },
+        {
+            "title": "(Revelation) The Church At Thyatira",
+            "url": "http:\/\/sermonindex.net\/SID6949",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Revelation 2:18-29",
+            "topic": "Thyatira",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID6949-download",
+            "preacher_name": "Willie Mullan",
+            "preacher_image": "",
+            "preacher_description": "Willie Mullan (1911 - 1980)\r\nListen to freely downloadable audio sermons by the speaker Willie Mullan in mp3 format. Was a Northern Irish Evangelist. He was born in Newtownards, County Down, Ireland in 1911. In his book Tramp after God, he tells of living for more than three years as a tramp abusing alcohol and involved in crime. Willie Mullan had a religious conversion and from that time forward he decided he would strive to serve God.\r\n\r\n In 1953 Willie Mullan was called to Lurgan Baptist church, and in August of that year he commenced the work in Lurgan. One of his great accomplishments during this time was the Tuesday night Bible class. Every Tuesday night hundreds attended to hear the exposition of the Word. In 1957 William Hewitt and a team of helpers commenced the tape recordings of the Bible class. At least 1500 of these recordings remain until this day.",
+            "_scripture": [
+                {
+                    "book": "Revelation",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

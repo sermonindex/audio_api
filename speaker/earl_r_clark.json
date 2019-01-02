@@ -1,0 +1,83 @@
+{
+    "name": "Earl R. Clark",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "I Press Toward The Mark",
+            "url": "http:\/\/sermonindex.net\/SID9879",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Philippians 3",
+            "topic": "Calling",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9879-download",
+            "preacher_name": "Earl R. Clark",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Philippians",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "The Beatitudes",
+            "url": "http:\/\/sermonindex.net\/SID9880",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 5",
+            "topic": "Beatitudes",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9880-download",
+            "preacher_name": "Earl R. Clark",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "5"
+                }
+            ]
+        },
+        {
+            "title": "The Foolish Virgins",
+            "url": "http:\/\/sermonindex.net\/SID9881",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 25",
+            "topic": "Foolish Virgins",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9881-download",
+            "preacher_name": "Earl R. Clark",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "25"
+                }
+            ]
+        },
+        {
+            "title": "When I Consider The Heavens",
+            "url": "http:\/\/sermonindex.net\/SID9882",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalms 8",
+            "topic": "Man",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9882-download",
+            "preacher_name": "Earl R. Clark",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "8"
+                }
+            ]
+        }
+    ]
+}

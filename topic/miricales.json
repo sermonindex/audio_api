@@ -1,0 +1,25 @@
+{
+    "name": "Miricales",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "5 Miracles In John 3:16",
+            "url": "http:\/\/sermonindex.net\/SID23771",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "John 3:16",
+            "topic": "Miricales",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23771-download",
+            "preacher_name": "Walter Wilson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "John",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Harold E. Schmul",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Bitterness",
+            "url": "http:\/\/sermonindex.net\/SID16588",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bitterness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16588-download",
+            "preacher_name": "Harold E. Schmul",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Maintaining Spiritual Fullness",
+            "url": "http:\/\/sermonindex.net\/SID16589",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Spiritual Fullness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16589-download",
+            "preacher_name": "Harold E. Schmul",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

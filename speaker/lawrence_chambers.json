@@ -1,0 +1,139 @@
+{
+    "name": "Lawrence Chambers",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Genesis 2:2",
+            "url": "http:\/\/sermonindex.net\/SID9800",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 2:2",
+            "topic": "Genesis",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9800-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "God's Plan For The Ages 01 God's Plan",
+            "url": "http:\/\/sermonindex.net\/SID9796",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9796-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "God's Plan For The Ages 02 God's Plan",
+            "url": "http:\/\/sermonindex.net\/SID9797",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9797-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "God's Plan For The Ages 03 God's Plan",
+            "url": "http:\/\/sermonindex.net\/SID9798",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9798-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "God's Plan For The Ages 04 God's Plan",
+            "url": "http:\/\/sermonindex.net\/SID9799",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9799-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Tabernacle Background",
+            "url": "http:\/\/sermonindex.net\/SID9801",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Exodus 1:1",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9801-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Exodus",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "The Flood",
+            "url": "http:\/\/sermonindex.net\/SID9802",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 6:1",
+            "topic": "Flood",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9802-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "6"
+                }
+            ]
+        },
+        {
+            "title": "Weddings",
+            "url": "http:\/\/sermonindex.net\/SID9803",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 1:26-27",
+            "topic": "Wedding",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9803-download",
+            "preacher_name": "Lawrence Chambers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

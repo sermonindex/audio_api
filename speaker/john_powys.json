@@ -1,0 +1,35 @@
+{
+    "name": "John Powys",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Christ interceding for us",
+            "url": "http:\/\/sermonindex.net\/SID3999",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3999-download",
+            "preacher_name": "John Powys",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "True repentance - Pentecost Sunday",
+            "url": "http:\/\/sermonindex.net\/SID3276",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3276-download",
+            "preacher_name": "John Powys",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

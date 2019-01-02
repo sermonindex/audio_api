@@ -1,0 +1,26 @@
+{
+    "name": "Theron Young",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Psalm 96",
+            "url": "http:\/\/sermonindex.net\/SID21977",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 96",
+            "topic": "Psalms",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21977-download",
+            "preacher_name": "Theron Young",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "96"
+                }
+            ]
+        }
+    ]
+}

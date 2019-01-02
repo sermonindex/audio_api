@@ -1,0 +1,26 @@
+{
+    "name": "Leviticus 2",
+    "book": "Leviticus",
+    "chapter": 2,
+    "audio_sermons": [
+        {
+            "title": "Grain Offering - Leviticus 2",
+            "url": "http:\/\/sermonindex.net\/SID12030",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Leviticus 2",
+            "topic": "Offering",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12030-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Leviticus",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

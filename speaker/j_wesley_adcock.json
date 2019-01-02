@@ -1,0 +1,35 @@
+{
+    "name": "J. Wesley Adcock",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Eternity",
+            "url": "http:\/\/sermonindex.net\/SID23703",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Eternity",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23703-download",
+            "preacher_name": "J. Wesley Adcock",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Revival",
+            "url": "http:\/\/sermonindex.net\/SID23704",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23704-download",
+            "preacher_name": "J. Wesley Adcock",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

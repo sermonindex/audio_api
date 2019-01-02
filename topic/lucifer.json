@@ -1,0 +1,29 @@
+{
+    "name": "Lucifer",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Fall of Lucifer",
+            "url": "http:\/\/sermonindex.net\/SID23954",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 14, Ezekiel 28",
+            "topic": "Lucifer",
+            "description": "Jesus saw Satan \u201cfall from heaven like lightening,\u201d but how could this perfect being, full of the love and goodness and truth of God take that first disastrous step down the path of sin? How could this magnificent leader in Heaven\u2019s courts break fellowship with his closest allies such as Michael and Gabriel? It began, as all such evil careers begin, with a wayward thought that gained traction. A fascinating glimpse into the life in Heaven before Lucifer\u2019s fall from grace.",
+            "download": "http:\/\/sermonindex.net\/SID23954-download",
+            "preacher_name": "Steve Gallagher",
+            "preacher_image": "",
+            "preacher_description": "Steve Gallagher ( - )\r\nListen to freely downloadable audio sermons by the speaker Steve Gallagher in mp3 format. Steve Gallagher holds an Associates of Arts degree from Sacramento City College and a Master\u2019s Degree in Pastoral Ministry from Master\u2019s International School of Divinity. He is also a certified Biblical Counselor through the International Association of Biblical Counselors (IABC) in Denver, CO. He is the founder of Pure Life Ministries.\r\nHe has also authored 14 books, including the best-selling At the Altar of Sexual Idolatry, Intoxicated with Babylon, Standing Firm Through the Great Apostasy, and his latest work, The Time of Our Lives in Light of Eternity. The new mission God has called Steve Gallagher to became the Eternal Weight of Glory website which exposes the great apostasy, calls people to repentance and leads Christians into an eternal perspective.",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "14"
+                },
+                {
+                    "book": "Ezekiel",
+                    "chapter": "28"
+                }
+            ]
+        }
+    ]
+}

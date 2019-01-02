@@ -1,0 +1,53 @@
+{
+    "name": "Zechariah 9",
+    "book": "Zechariah",
+    "chapter": 9,
+    "audio_sermons": [
+        {
+            "title": "Studies In Zechariah 08 Zechariah 9:",
+            "url": "http:\/\/sermonindex.net\/SID9719",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Zechariah 9",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9719-download",
+            "preacher_name": "John W. Bramhall",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Zechariah",
+                    "chapter": "9"
+                }
+            ]
+        },
+        {
+            "title": "The Triumphal Entry: The King Comes for His Kingdom\t",
+            "url": "http:\/\/sermonindex.net\/SID27685",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 11:1-11, Zechariah 9:9, Psalm 118:25-26",
+            "topic": "Triumphal Entry",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27685-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "11"
+                },
+                {
+                    "book": "Zechariah",
+                    "chapter": "9"
+                },
+                {
+                    "book": "Psalm",
+                    "chapter": "118"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Ray Andrews",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "What His Presence Is Not: the Church Today - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID19802",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "God's Presence",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19802-download",
+            "preacher_name": "Ray Andrews",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "What His Presence Is Not: the Church Today - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID19803",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "God's Presence",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19803-download",
+            "preacher_name": "Ray Andrews",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

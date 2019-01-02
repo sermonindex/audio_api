@@ -1,0 +1,26 @@
+{
+    "name": "Brian Green",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "When Wales Caught The Fire Of The Holy Ghost - The 1904 Welsh Revival",
+            "url": "http:\/\/sermonindex.net\/SID14470",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 85:4-7",
+            "topic": "",
+            "description": "A Wonderfully Moving and Living Account of how God moved in such a marvellous way during the 1904 Revival in Wales. The Spirit of God came down upon the entire nation for many years as God renewed all people to Himself. Over half the nation was converted to God within 1 year.",
+            "download": "http:\/\/sermonindex.net\/SID14470-download",
+            "preacher_name": "Brian Green",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "85"
+                }
+            ]
+        }
+    ]
+}

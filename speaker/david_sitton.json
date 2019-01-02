@@ -1,0 +1,53 @@
+{
+    "name": "David Sitton",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Outpouring in Papua New Guinea (Part 1)",
+            "url": "http:\/\/sermonindex.net\/SID14829",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Malachi 1:11, Romans 15:20",
+            "topic": "Revival",
+            "description": "This is the account of a Missionary that went to Papua New Guinea and saw a 'People Movement' where hundreds of tribes people were converted to Christ (and not by the standards of today's easy-believism). A very powerful account of God's grace reaching an unreached people.",
+            "download": "http:\/\/sermonindex.net\/SID14829-download",
+            "preacher_name": "David Sitton",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "15"
+                },
+                {
+                    "book": "Malachi",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "Power Encounter in Papua New Guinea (Part 2)",
+            "url": "http:\/\/sermonindex.net\/SID14830",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 86:8-10, 1 Kings 18:20-40",
+            "topic": "Revival",
+            "description": "The account of a Missionary to Papua New Guinea involving a 'Power Encounter' like the one described in 1 Kings 18 with Elijah and the false prophets of Baal.",
+            "download": "http:\/\/sermonindex.net\/SID14830-download",
+            "preacher_name": "David Sitton",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Kings",
+                    "chapter": "18"
+                },
+                {
+                    "book": "Psalm",
+                    "chapter": "86"
+                }
+            ]
+        }
+    ]
+}

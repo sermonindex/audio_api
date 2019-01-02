@@ -1,0 +1,64 @@
+{
+    "name": "Jim Elliff",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(The Aggressive Holy Spirit) The Mystery & Method of Kingdom Growth",
+            "url": "http:\/\/sermonindex.net\/SID13066",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 4:26-29",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13066-download",
+            "preacher_name": "Jim Elliff",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "4"
+                }
+            ]
+        },
+        {
+            "title": "(The Aggressive Holy Spirit) What do you do with Immorality?",
+            "url": "http:\/\/sermonindex.net\/SID13064",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Corinthians 5:1-12",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13064-download",
+            "preacher_name": "Jim Elliff",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Corinthians",
+                    "chapter": "5"
+                }
+            ]
+        },
+        {
+            "title": "(The Aggressive Holy Spirit) Word & Spirit: How God Implants Truth",
+            "url": "http:\/\/sermonindex.net\/SID13065",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 13:10-17",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13065-download",
+            "preacher_name": "Jim Elliff",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "13"
+                }
+            ]
+        }
+    ]
+}

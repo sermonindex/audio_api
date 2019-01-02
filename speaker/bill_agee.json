@@ -1,0 +1,21 @@
+{
+    "name": "Bill Agee",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Valley Times",
+            "url": "http:\/\/sermonindex.net\/SID19789",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Valley Times",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19789-download",
+            "preacher_name": "Bill Agee",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

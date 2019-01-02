@@ -1,0 +1,35 @@
+{
+    "name": "Manuel Brambila",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "CC Nice- Vraie Repentance (French)",
+            "url": "http:\/\/sermonindex.net\/SID24252",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "French",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24252-download",
+            "preacher_name": "Manuel Brambila",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Fire for God | What Did Jesus Do",
+            "url": "http:\/\/sermonindex.net\/SID24251",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Repentance",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24251-download",
+            "preacher_name": "Manuel Brambila",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

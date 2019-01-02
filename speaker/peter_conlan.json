@@ -1,0 +1,49 @@
+{
+    "name": "Peter Conlan",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "God's commitment to you",
+            "url": "http:\/\/sermonindex.net\/SID23631",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Commitment",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23631-download",
+            "preacher_name": "Peter Conlan",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Proverbs",
+            "url": "http:\/\/sermonindex.net\/SID20827",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20827-download",
+            "preacher_name": "Peter Conlan",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "What on earth is God doing",
+            "url": "http:\/\/sermonindex.net\/SID18205",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18205-download",
+            "preacher_name": "Peter Conlan",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

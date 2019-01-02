@@ -1,0 +1,25 @@
+{
+    "name": "Benediction",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(Ephesians) The Benediction",
+            "url": "http:\/\/sermonindex.net\/SID18966",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ephesians 6:19-24",
+            "topic": "Benediction",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18966-download",
+            "preacher_name": "Jeff Noblit",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Ephesians",
+                    "chapter": "6"
+                }
+            ]
+        }
+    ]
+}

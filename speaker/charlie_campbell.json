@@ -1,0 +1,35 @@
+{
+    "name": "Charlie Campbell",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Evidence For The Existence Of God",
+            "url": "http:\/\/sermonindex.net\/SID19847",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Atheism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19847-download",
+            "preacher_name": "Charlie Campbell",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Da Vinci Code Examined",
+            "url": "http:\/\/sermonindex.net\/SID13704",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Apologetics",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13704-download",
+            "preacher_name": "Charlie Campbell",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

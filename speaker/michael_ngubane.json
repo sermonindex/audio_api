@@ -1,0 +1,49 @@
+{
+    "name": "Michael Ngubane",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Bones can live",
+            "url": "http:\/\/sermonindex.net\/SID3282",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3282-download",
+            "preacher_name": "Michael Ngubane",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Chosen, called and faithful?",
+            "url": "http:\/\/sermonindex.net\/SID3268",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3268-download",
+            "preacher_name": "Michael Ngubane",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "How to bring forth much fruit",
+            "url": "http:\/\/sermonindex.net\/SID7614",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7614-download",
+            "preacher_name": "Michael Ngubane",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

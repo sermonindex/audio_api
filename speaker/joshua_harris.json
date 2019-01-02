@@ -1,0 +1,35 @@
+{
+    "name": "Joshua Harris",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Dating: God's Way",
+            "url": "http:\/\/sermonindex.net\/SID2519",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID2519-download",
+            "preacher_name": "Joshua Harris",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The People Confess Their Sin",
+            "url": "http:\/\/sermonindex.net\/SID22297",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Confessing Sin",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22297-download",
+            "preacher_name": "Joshua Harris",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

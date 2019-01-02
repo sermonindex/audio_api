@@ -1,0 +1,39 @@
+{
+    "name": "Struggle",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Beginning to Sink",
+            "url": "http:\/\/sermonindex.net\/SID12253",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 14",
+            "topic": "Struggle",
+            "description": "Mr Redpath confirms the difference between a joyous christian experience(in Christ), and the life of the unhappy Christian(still holding to self). But through it all, Jesus waits for us to say,\"Lord save me!\" Mr Redpath also speaks of his own struggles with God giving us great insight into the mercies, patience, of love of God. Are you a Galatians 2:20 saint, or a crossless christian?",
+            "download": "http:\/\/sermonindex.net\/SID12253-download",
+            "preacher_name": "Alan Redpath",
+            "preacher_image": "\/images\/alan_redpath.gif",
+            "preacher_description": "Alan Redpath (1907 - 1989)\r\nListen to freely downloadable audio sermons by the speaker Alan Redpath in mp3 format. Redpath was a well-known preacher from England who pastored the famous Moody church in chicago for 7 years. He ministered at Keswick conventions and also deeper life meetings on the subject of revival, prayer, full-surrender. He spent the later years of his life ministering Capernwray bible school movement founded by Major Ian Thomas.\r\n\r\nDr. Redpath authored six books; the first one, Victorious Christian Living, was published in 1955. Others were Victorious Prayer (1956), Victorious Christian Service (1958), The Royal Route to Heaven (1960), Blessings Out of Buffettings (1965), The Making of a Man of God (1962), and Law and Liberty and Captivity to Conquest (1978).",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "14"
+                }
+            ]
+        },
+        {
+            "title": "The Struggle Of Two Cities",
+            "url": "http:\/\/sermonindex.net\/SID15939",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Struggle",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15939-download",
+            "preacher_name": "Lance Lambert",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Britain",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Call to Britain",
+            "url": "http:\/\/sermonindex.net\/SID23979",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Britain",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23979-download",
+            "preacher_name": "Billy Strachen",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

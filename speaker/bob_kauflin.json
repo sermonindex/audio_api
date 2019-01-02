@@ -1,0 +1,40 @@
+{
+    "name": "Bob Kauflin",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Living Before the King of Glory",
+            "url": "http:\/\/sermonindex.net\/SID22605",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 24:1-10",
+            "topic": "Sovereignty",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22605-download",
+            "preacher_name": "Bob Kauflin",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "24"
+                }
+            ]
+        },
+        {
+            "title": "Spiritual Gifts - Pitfalls to Avoid and Paths to Pursue",
+            "url": "http:\/\/sermonindex.net\/SID22301",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Spiritual Gifts",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22301-download",
+            "preacher_name": "Bob Kauflin",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "name": "Helen Roseveare",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "1 Stir Me",
+            "url": "http:\/\/sermonindex.net\/SID17730",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17730-download",
+            "preacher_name": "Helen Roseveare",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "2 Stir Me to Go",
+            "url": "http:\/\/sermonindex.net\/SID17731",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17731-download",
+            "preacher_name": "Helen Roseveare",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "3 Stir Me to Give",
+            "url": "http:\/\/sermonindex.net\/SID17732",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17732-download",
+            "preacher_name": "Helen Roseveare",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "4 Stir Me to Pray",
+            "url": "http:\/\/sermonindex.net\/SID17733",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17733-download",
+            "preacher_name": "Helen Roseveare",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "A Privilege from The Almighty",
+            "url": "http:\/\/sermonindex.net\/SID23682",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Testimony",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23682-download",
+            "preacher_name": "Helen Roseveare",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Cost of Declaring His glory",
+            "url": "http:\/\/sermonindex.net\/SID8952",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 11:1, Isaiah 49:2",
+            "topic": "",
+            "description": "Helen Roseveare spoke this message in 1975, sharing candidly of personal tests and trials she underwent while serving as a medical missionary in the Congo (now Zaire), including pride, marital longings, prolonged illnesses, and beatings, rape and imprisonment by rebel forces.  The cost of declaring the glory of the Lord Jesus costs all our heart, soul and body.  \"The branch,\" Roseveare says, \"had to lose its leaves and flowers to become an arrow;\" such is the privilege of sharing in the sufferings of the Lord Jesus.",
+            "download": "http:\/\/sermonindex.net\/SID8952-download",
+            "preacher_name": "Helen Roseveare",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "11"
+                },
+                {
+                    "book": "Isaiah",
+                    "chapter": "49"
+                }
+            ]
+        }
+    ]
+}

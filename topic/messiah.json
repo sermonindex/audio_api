@@ -1,0 +1,100 @@
+{
+    "name": "Messiah",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(Matthew) Jesus Is the Messiah",
+            "url": "http:\/\/sermonindex.net\/SID7250",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 1",
+            "topic": "Messiah",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7250-download",
+            "preacher_name": "Pat Kenney",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "Bruised For Our Iniquities",
+            "url": "http:\/\/sermonindex.net\/SID7680",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 52:13-14",
+            "topic": "Messiah",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7680-download",
+            "preacher_name": "William MacDonald",
+            "preacher_image": "\/images\/william_macdonald.gif",
+            "preacher_description": "William MacDonald (1917 - 2007)\r\nListen to freely downloadable audio sermons by the speaker William MacDonald in mp3 format. Was President of Emmaus Bible College, teacher, Plymouth Brethren theologian and a prolific author of over 84 published books. MacDonald refused to accept royalties for his books but established a fund for translating his work Believers Bible Commentary into foreign languages.\r\n\r\n   Bill will be not only be remembered for the thousands upon thousands of lives he touched through his books, teaching and many personal letters, but for his Christ-like character and gentleness, yet powerful life lived by faith in Christ. One of his most impact-ful books is the small booklet called: \"True Discipleship\" it is recommended reading for every serious disciple of Christ.",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "52"
+                }
+            ]
+        },
+        {
+            "title": "One Messiah, Two Comings",
+            "url": "http:\/\/sermonindex.net\/SID12041",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Messiah",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12041-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Psalm 22",
+            "url": "http:\/\/sermonindex.net\/SID1465",
+            "size": "5673984",
+            "format": "mp3",
+            "scripture": "Psalm 22",
+            "topic": "Messiah",
+            "description": "An exposition of the \u2018testimony of Jesus\u2019 in this messianic psalm.  His sufferings and the glories that followed.  Christ\u2019s dereliction and the triumphant confidence that the Father had \u2018heard\u2019.",
+            "download": "http:\/\/sermonindex.net\/SID1465-download",
+            "preacher_name": "Ron Bailey",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "22"
+                }
+            ]
+        },
+        {
+            "title": "The Forbidden Chapter Isa 52-53",
+            "url": "http:\/\/sermonindex.net\/SID12049",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Isaiah 52, Isaiah 53",
+            "topic": "Messiah",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12049-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "52"
+                },
+                {
+                    "book": "Isaiah",
+                    "chapter": "53"
+                }
+            ]
+        }
+    ]
+}

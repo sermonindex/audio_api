@@ -1,0 +1,25 @@
+{
+    "name": "Fighting",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Consider Before You Fight",
+            "url": "http:\/\/sermonindex.net\/SID13288",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 14:31-32",
+            "topic": "Fighting",
+            "description": "EVERY sensible man endeavors to adapt his purposes to his strength. He does not begin to build a house which he will not be able to finish, nor commence a war which he cannot hope to fight through. The religion of Christ is the most reasonable one in the world, and Jesus Christ never desires to have any disciples who shall blindly follow him without counting the cost. We always esteem it to be a happy thing when we can get men to sit down and consider. The most of you are so full of other thoughts, so occupied with the world, ever running hither and thither about your ordinary business, that we cannot get you to think, or calmly sit down, and soberly look at things as in the light of eternity, and weigh them deliberately as you ought. And yet it is only reasonable that the Master should ask of you to do for him with regard to your own spiritual matters, what you will admit that every sensible man does in his business continually. You are poor traders if you never have any stock-takings: you are likely to be ere long in the bankruptcy court if there is no periodical examination...",
+            "download": "http:\/\/sermonindex.net\/SID13288-download",
+            "preacher_name": "C. H. Spurgeon",
+            "preacher_image": "\/images\/c_h_spurgeon.gif",
+            "preacher_description": "C.H. Spurgeon (1834 - 1892)\r\nListen to freely downloadable audio sermons by the speaker C.H. Spurgeon in mp3 format. Spurgeon quickly became known as one of the most influential preachers of his time. Well known for his biblical powerful expositions of scripture and oratory ability. In modern evangelical circles he is stated to be the \"Prince of Preachers.\" He pastored the Metropolitan Tabernacle in downtown London, England. \r\n\r\nHis church was part of a particular baptist church movement and they defended and preached Christ and Him crucified and the purity of the Gospel message. Spurgeon never gave altar calls but always extended the invitation to come to Christ. He was a faithful minister in his time that glorified God and brought many to the living Christ.",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "14"
+                }
+            ]
+        }
+    ]
+}

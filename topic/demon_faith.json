@@ -1,0 +1,20 @@
+{
+    "name": "Demon Faith",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Demon Faith",
+            "url": "http:\/\/sermonindex.net\/SID0196",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Demon Faith",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID0196-download",
+            "preacher_name": "Harold Vaughan",
+            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

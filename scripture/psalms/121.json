@@ -1,0 +1,30 @@
+{
+    "name": "Psalms 121",
+    "book": "Psalms",
+    "chapter": 121,
+    "audio_sermons": [
+        {
+            "title": "Preserved for a Purpose",
+            "url": "http:\/\/sermonindex.net\/SID3601",
+            "size": "19134464",
+            "format": "mp3",
+            "scripture": "Psalms 16:1, Psalms 121:1-8",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3601-download",
+            "preacher_name": "David Wilkerson",
+            "preacher_image": "\/images\/david_wilkerson.gif",
+            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "16"
+                },
+                {
+                    "book": "Psalms",
+                    "chapter": "121"
+                }
+            ]
+        }
+    ]
+}

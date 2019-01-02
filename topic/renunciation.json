@@ -1,0 +1,25 @@
+{
+    "name": "Renunciation",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Renunciation Chapter",
+            "url": "http:\/\/sermonindex.net\/SID9786",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Philippians 3:13",
+            "topic": "Renunciation",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9786-download",
+            "preacher_name": "Bob Bruton",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Philippians",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

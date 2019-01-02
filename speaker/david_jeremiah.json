@@ -1,0 +1,26 @@
+{
+    "name": "David Jeremiah",
+    "image": "",
+    "description": "David Jeremiah ( - )\r\nListen to freely downloadable audio sermons by the speaker David Jeremiah in mp3 format.  Dr. Jeremiah heeded God\u00e2\u20ac\u2122s call, and in 1981 he and his family moved to California where he became the senior pastor of Scott Memorial Baptist Church, now Shadow Mountain Community Church. Shadow Mountain Community Church is one of the largest churches in San Diego County. It is also the home of Southern California Seminary and Christian Unified Schools. As Dr. Jeremiah began his ministry at Shadow Mountain, he felt God\u00e2\u20ac\u2122s calling to continue the broadcast ministry he started in Fort Wayne. In 1982, Turning Point Ministries became a reality.\r\nToday, Turning Point's 30-minute radio program is heard on more than 2500 stations worldwide. In recognition of Dr. Jeremiah\u00e2\u20ac\u2122s commitment to teaching the Word of God, he received the Broadcaster of the Year Award in 1999 from the National Religious Broadcasters (NRB), in August 2002, received the Award of Merit from the Western Chapter of National Religious Broadcasters for Excellence in Broadcasting and Faithfulness in Service, and in 2006 Turning Point received the Best Radio Teaching Program Award. Dr. Jeremiah has served on the Board of Directors for the NRB since 1996.",
+    "audio_sermons": [
+        {
+            "title": "Suffering And Glory",
+            "url": "http:\/\/sermonindex.net\/SID2525",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 8:17-18",
+            "topic": "Suffering",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID2525-download",
+            "preacher_name": "David Jeremiah",
+            "preacher_image": "",
+            "preacher_description": "David Jeremiah ( - )\r\nListen to freely downloadable audio sermons by the speaker David Jeremiah in mp3 format.  Dr. Jeremiah heeded God\u00e2\u20ac\u2122s call, and in 1981 he and his family moved to California where he became the senior pastor of Scott Memorial Baptist Church, now Shadow Mountain Community Church. Shadow Mountain Community Church is one of the largest churches in San Diego County. It is also the home of Southern California Seminary and Christian Unified Schools. As Dr. Jeremiah began his ministry at Shadow Mountain, he felt God\u00e2\u20ac\u2122s calling to continue the broadcast ministry he started in Fort Wayne. In 1982, Turning Point Ministries became a reality.\r\nToday, Turning Point's 30-minute radio program is heard on more than 2500 stations worldwide. In recognition of Dr. Jeremiah\u00e2\u20ac\u2122s commitment to teaching the Word of God, he received the Broadcaster of the Year Award in 1999 from the National Religious Broadcasters (NRB), in August 2002, received the Award of Merit from the Western Chapter of National Religious Broadcasters for Excellence in Broadcasting and Faithfulness in Service, and in 2006 Turning Point received the Best Radio Teaching Program Award. Dr. Jeremiah has served on the Board of Directors for the NRB since 1996.",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "8"
+                }
+            ]
+        }
+    ]
+}

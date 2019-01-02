@@ -1,0 +1,25 @@
+{
+    "name": "Broadway",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Church People on Broadway",
+            "url": "http:\/\/sermonindex.net\/SID17283",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 7:13-27",
+            "topic": "Broadway",
+            "description": "Steve Gallagher delivers a very solemn message on unconverted believers in the modern church. Jesus concluded His fabulous Sermon on the Mount with four parables-each contrasting the fate of genuine saints with that of false Christians. In this powerful message, Steve vividly paints a picture of the horror psuedo-believers will experience at Judgement when they hear the terrifying words, \"Depart from Me...\"",
+            "download": "http:\/\/sermonindex.net\/SID17283-download",
+            "preacher_name": "Steve Gallagher",
+            "preacher_image": "",
+            "preacher_description": "Steve Gallagher ( - )\r\nListen to freely downloadable audio sermons by the speaker Steve Gallagher in mp3 format. Steve Gallagher holds an Associates of Arts degree from Sacramento City College and a Master\u2019s Degree in Pastoral Ministry from Master\u2019s International School of Divinity. He is also a certified Biblical Counselor through the International Association of Biblical Counselors (IABC) in Denver, CO. He is the founder of Pure Life Ministries.\r\nHe has also authored 14 books, including the best-selling At the Altar of Sexual Idolatry, Intoxicated with Babylon, Standing Firm Through the Great Apostasy, and his latest work, The Time of Our Lives in Light of Eternity. The new mission God has called Steve Gallagher to became the Eternal Weight of Glory website which exposes the great apostasy, calls people to repentance and leads Christians into an eternal perspective.",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "7"
+                }
+            ]
+        }
+    ]
+}

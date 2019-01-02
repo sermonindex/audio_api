@@ -1,0 +1,30 @@
+{
+    "name": "Nigel Paul",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Theology Of Missions",
+            "url": "http:\/\/sermonindex.net\/SID16905",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 29, Revelation 4",
+            "topic": "Missions",
+            "description": "Nigel Paul gives a impassioned plea for the glory of God in missions and the call of God out to everyone to live for Him fully. The call for missions and discipleship is still here today! He goes through many stories and scriptures to challenge our hearts to give all our energy and ambitions to the great purpose of Christ.",
+            "download": "http:\/\/sermonindex.net\/SID16905-download",
+            "preacher_name": "Nigel Paul",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Revelation",
+                    "chapter": "4"
+                },
+                {
+                    "book": "Psalm",
+                    "chapter": "29"
+                }
+            ]
+        }
+    ]
+}

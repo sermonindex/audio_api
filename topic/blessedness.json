@@ -1,0 +1,25 @@
+{
+    "name": "Blessedness",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Psalm 1",
+            "url": "http:\/\/sermonindex.net\/SID8028",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 1",
+            "topic": "Blessedness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID8028-download",
+            "preacher_name": "Carl Armerding",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

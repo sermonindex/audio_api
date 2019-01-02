@@ -1,0 +1,153 @@
+{
+    "name": "Dean Hochstetler",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 1",
+            "url": "http:\/\/sermonindex.net\/SID15280",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Job 38:4, John 4:24, Galatians 3:1",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15280-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Job",
+                    "chapter": "38"
+                },
+                {
+                    "book": "John",
+                    "chapter": "4"
+                },
+                {
+                    "book": "Galatians",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 2",
+            "url": "http:\/\/sermonindex.net\/SID15281",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Corinthians 10:14",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15281-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Corinthians",
+                    "chapter": "10"
+                }
+            ]
+        },
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 3",
+            "url": "http:\/\/sermonindex.net\/SID15282",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 1:4, Colossians 2: 8-15",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15282-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "1"
+                },
+                {
+                    "book": "Colossians",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 4",
+            "url": "http:\/\/sermonindex.net\/SID15283",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Deuteronomy 5: 8-10, Lamentations 5-7",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15283-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Deuteronomy",
+                    "chapter": "5"
+                },
+                {
+                    "book": "Lamentations",
+                    "chapter": "5"
+                }
+            ]
+        },
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 5",
+            "url": "http:\/\/sermonindex.net\/SID15284",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Exodus 34: 6-7, Numbers 14:18, Deuteronomy 5:7",
+            "topic": "Demons",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15284-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Deuteronomy",
+                    "chapter": "5"
+                },
+                {
+                    "book": "Numbers",
+                    "chapter": "14"
+                },
+                {
+                    "book": "Exodus",
+                    "chapter": "34"
+                }
+            ]
+        },
+        {
+            "title": "(The Role Of Demons In Today's Society) Part 6",
+            "url": "http:\/\/sermonindex.net\/SID15285",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Kings 18:21-39, 1 John 3:8, John 8:32-36",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15285-download",
+            "preacher_name": "Dean Hochstetler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Kings",
+                    "chapter": "18"
+                },
+                {
+                    "book": "1 John",
+                    "chapter": "3"
+                },
+                {
+                    "book": "John",
+                    "chapter": "8"
+                }
+            ]
+        }
+    ]
+}

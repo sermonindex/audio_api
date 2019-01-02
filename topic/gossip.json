@@ -1,0 +1,25 @@
+{
+    "name": "Gossip",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Satan Found A Whisperer",
+            "url": "http:\/\/sermonindex.net\/SID5369",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Galatians 5:15",
+            "topic": "Gossip",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID5369-download",
+            "preacher_name": "Keith Daniel",
+            "preacher_image": "\/images\/keith_daniel.gif",
+            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "_scripture": [
+                {
+                    "book": "Galatians",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

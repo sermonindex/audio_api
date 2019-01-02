@@ -1,0 +1,35 @@
+{
+    "name": "Herald Weitsz",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Prayer That Changes Things",
+            "url": "http:\/\/sermonindex.net\/SID22189",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Prayer",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22189-download",
+            "preacher_name": "Herald Weitsz",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Power Of Prayer And Fasting",
+            "url": "http:\/\/sermonindex.net\/SID22188",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Fasting",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22188-download",
+            "preacher_name": "Herald Weitsz",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

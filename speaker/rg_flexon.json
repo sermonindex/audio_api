@@ -1,0 +1,35 @@
+{
+    "name": "R.G. Flexon",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Awake Thou that Sleepest",
+            "url": "http:\/\/sermonindex.net\/SID16599",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16599-download",
+            "preacher_name": "R.G. Flexon",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Challenge",
+            "url": "http:\/\/sermonindex.net\/SID16606",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16606-download",
+            "preacher_name": "R.G. Flexon",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

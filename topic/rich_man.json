@@ -1,0 +1,25 @@
+{
+    "name": "Rich Man",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Listen, You Rich Man",
+            "url": "http:\/\/sermonindex.net\/SID22229",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "James 5:1",
+            "topic": "Rich Man",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22229-download",
+            "preacher_name": "Alistair Begg",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "James",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Gary Henderson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Spiritual Battle and Love of God",
+            "url": "http:\/\/sermonindex.net\/SID28064",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Corinthians 10:4",
+            "topic": "Spiritual Battle",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID28064-download",
+            "preacher_name": "Gary Henderson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Corinthians",
+                    "chapter": "10"
+                }
+            ]
+        }
+    ]
+}

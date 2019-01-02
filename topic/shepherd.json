@@ -1,0 +1,77 @@
+{
+    "name": "Shepherd",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Shepherd For The Multitude",
+            "url": "http:\/\/sermonindex.net\/SID27536",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 6:30-44",
+            "topic": "Shepherd",
+            "description": "The feeding of the 5000 shows that Jesus is the caring shepherd, the feeding shepherd, and the sufficient shepherd.",
+            "download": "http:\/\/sermonindex.net\/SID27536-download",
+            "preacher_name": "Roger Ellsworth",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "6"
+                }
+            ]
+        },
+        {
+            "title": "Guarding The Sheep",
+            "url": "http:\/\/sermonindex.net\/SID15397",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ephesians 20:28-31",
+            "topic": "Shepherd",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15397-download",
+            "preacher_name": "David Wilkerson",
+            "preacher_image": "\/images\/david_wilkerson.gif",
+            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "_scripture": [
+                {
+                    "book": "Ephesians",
+                    "chapter": "20"
+                }
+            ]
+        },
+        {
+            "title": "The Good Shepherd",
+            "url": "http:\/\/sermonindex.net\/SID1441",
+            "size": "4564480",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Shepherd",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID1441-download",
+            "preacher_name": "Norman Meeten",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Shepherd Song",
+            "url": "http:\/\/sermonindex.net\/SID17485",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 2:1-20",
+            "topic": "Shepherd",
+            "description": "September 28, 2008 - There is a great revelation of God coming to this generation. This revelation will not be given to the self indulgent and the self seeking. It will be given to the humble person who desires to live their life for the betterment of others. God will come in the midst of darkness and reveal Himself to the shepherds who are simply looking after their flock. Suddenly the heavens will be opened and by the grace of God we will begin to reach out to those who are hungry and hurting. Suddenly our ears will be opened to the worship of Heaven and we will sing a song of trust and confidence in God. A song that says, \"Glory to God in the highest, and on earth peace and good will towards men.\" Our song is a living expression of trust in God.",
+            "download": "http:\/\/sermonindex.net\/SID17485-download",
+            "preacher_name": "Carter Conlon",
+            "preacher_image": "\/images\/carter_conlon.gif",
+            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

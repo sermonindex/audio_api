@@ -1,0 +1,35 @@
+{
+    "name": "Llewellyn Van Der Merwe",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Are You Born Again?",
+            "url": "http:\/\/sermonindex.net\/SID20475",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Born Again",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20475-download",
+            "preacher_name": "Llewellyn Van Der Merwe",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Why not Missions",
+            "url": "http:\/\/sermonindex.net\/SID20474",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Missions",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20474-download",
+            "preacher_name": "Llewellyn Van Der Merwe",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Christian Ministry",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Building For God",
+            "url": "http:\/\/sermonindex.net\/SID23775",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Ministry",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23775-download",
+            "preacher_name": "Walter Wilson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

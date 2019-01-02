@@ -1,0 +1,49 @@
+{
+    "name": "J.B. Buffington",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "An Invitation to Closeness",
+            "url": "http:\/\/sermonindex.net\/SID26281",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Intimacy",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26281-download",
+            "preacher_name": "J.B. Buffington",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Antichrist",
+            "url": "http:\/\/sermonindex.net\/SID26280",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Antichrist",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26280-download",
+            "preacher_name": "J.B. Buffington",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Believers Mission",
+            "url": "http:\/\/sermonindex.net\/SID26279",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Mission",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26279-download",
+            "preacher_name": "J.B. Buffington",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

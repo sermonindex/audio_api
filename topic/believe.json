@@ -1,0 +1,43 @@
+{
+    "name": "Believe",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Now Do You Believe God?",
+            "url": "http:\/\/sermonindex.net\/SID13627",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 1:1, Revelation 6:12-17",
+            "topic": "Believe",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13627-download",
+            "preacher_name": "Ralph Sexton",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Revelation",
+                    "chapter": "6"
+                },
+                {
+                    "book": "Genesis",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "Only Believe",
+            "url": "http:\/\/sermonindex.net\/SID28350",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Believe",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID28350-download",
+            "preacher_name": "Jim Cymbala",
+            "preacher_image": "\/images\/jim_cymbala.gif",
+            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "_scripture": []
+        }
+    ]
+}

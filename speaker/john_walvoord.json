@@ -1,0 +1,49 @@
+{
+    "name": "John Walvoord",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Preach the Word",
+            "url": "http:\/\/sermonindex.net\/SID13686",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13686-download",
+            "preacher_name": "John Walvoord",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Prophecy - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID13687",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13687-download",
+            "preacher_name": "John Walvoord",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Prophecy - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID13688",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13688-download",
+            "preacher_name": "John Walvoord",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Ern Baxter",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Church And Its Mission - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID19629",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Missions",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19629-download",
+            "preacher_name": "Ern Baxter",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Church And Its Mission - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID19630",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Missions",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19630-download",
+            "preacher_name": "Ern Baxter",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

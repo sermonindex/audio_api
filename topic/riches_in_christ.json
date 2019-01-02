@@ -1,0 +1,34 @@
+{
+    "name": "Riches In Christ",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "God's Riches In Glory",
+            "url": "http:\/\/sermonindex.net\/SID12463",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Riches In Christ",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12463-download",
+            "preacher_name": "Charles E. Fuller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Unsearchable Riches Of Christ",
+            "url": "http:\/\/sermonindex.net\/SID19251",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Riches In Christ",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19251-download",
+            "preacher_name": "Alan Martin",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

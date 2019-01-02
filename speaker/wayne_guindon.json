@@ -1,0 +1,54 @@
+{
+    "name": "Wayne Guindon",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Guilt",
+            "url": "http:\/\/sermonindex.net\/SID22094",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Guilt",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22094-download",
+            "preacher_name": "Wayne Guindon",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Lord's Supper",
+            "url": "http:\/\/sermonindex.net\/SID22092",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Corinthians 11:1-34",
+            "topic": "Lords Supper",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22092-download",
+            "preacher_name": "Wayne Guindon",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Corinthians",
+                    "chapter": "11"
+                }
+            ]
+        },
+        {
+            "title": "What We Really Need",
+            "url": "http:\/\/sermonindex.net\/SID22093",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Evangelism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22093-download",
+            "preacher_name": "Wayne Guindon",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

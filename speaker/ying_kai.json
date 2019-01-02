@@ -1,0 +1,26 @@
+{
+    "name": "Ying Kai",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Power of Multiplication",
+            "url": "http:\/\/sermonindex.net\/SID27826",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy 2:2",
+            "topic": "Multiplication",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27826-download",
+            "preacher_name": "Ying Kai",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Timothy",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

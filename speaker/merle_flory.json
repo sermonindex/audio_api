@@ -1,0 +1,49 @@
+{
+    "name": "Merle Flory",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Deliverance From The Lions",
+            "url": "http:\/\/sermonindex.net\/SID23894",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Deliverance",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23894-download",
+            "preacher_name": "Merle Flory",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Holy",
+            "url": "http:\/\/sermonindex.net\/SID19602",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Holiness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19602-download",
+            "preacher_name": "Merle Flory",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Raising Missionaries For God",
+            "url": "http:\/\/sermonindex.net\/SID19603",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Missions",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19603-download",
+            "preacher_name": "Merle Flory",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

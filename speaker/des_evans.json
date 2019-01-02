@@ -1,0 +1,26 @@
+{
+    "name": "Des Evans",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Triumph of Godliness",
+            "url": "http:\/\/sermonindex.net\/SID26007",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 6:1",
+            "topic": "Godliness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26007-download",
+            "preacher_name": "Des Evans",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "John Wesley",
+    "image": "",
+    "description": "John Wesley (1703 - 1791)\r\nListen to freely downloadable audio sermons by the speaker John Wesley in mp3 format. Was an Anglican cleric and Christian theologian. Wesley is largely credited, along with his brother Charles Wesley, as founding the Methodist movement which began when he took to open-air preaching in a similar manner to George Whitefield. In contrast to Whitefield's Calvinism, Wesley embraced the Arminian doctrines that were dominant in the 18th-century Church of England. Methodism in both forms became a highly successful evangelical movement in Britain, which encouraged people to experience Jesus Christ personally.\r\n\r\nWesley helped to organise and form societies of Christians throughout Great Britain, North America and Ireland as small groups that developed intensive, personal accountability, discipleship and religious instruction among members. His great contribution was to appoint itinerant, unordained preachers who travelled widely to evangelise and care for people in the societies. Under Wesley's direction, Methodists became leaders in many social issues of the day, including the prison reform and abolitionism movements.",
+    "audio_sermons": [
+        {
+            "title": "Salvation by Faith (reading)",
+            "url": "http:\/\/sermonindex.net\/SID3449",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ephesians 2:8-10",
+            "topic": "Audio Books",
+            "description": "We often speak of salvation by faith, but what does that really mean? In this convicting sermon on Ephesians 2:8, Mr. Wesley brings new light to a familiar topic.",
+            "download": "http:\/\/sermonindex.net\/SID3449-download",
+            "preacher_name": "John Wesley",
+            "preacher_image": "",
+            "preacher_description": "John Wesley (1703 - 1791)\r\nListen to freely downloadable audio sermons by the speaker John Wesley in mp3 format. Was an Anglican cleric and Christian theologian. Wesley is largely credited, along with his brother Charles Wesley, as founding the Methodist movement which began when he took to open-air preaching in a similar manner to George Whitefield. In contrast to Whitefield's Calvinism, Wesley embraced the Arminian doctrines that were dominant in the 18th-century Church of England. Methodism in both forms became a highly successful evangelical movement in Britain, which encouraged people to experience Jesus Christ personally.\r\n\r\nWesley helped to organise and form societies of Christians throughout Great Britain, North America and Ireland as small groups that developed intensive, personal accountability, discipleship and religious instruction among members. His great contribution was to appoint itinerant, unordained preachers who travelled widely to evangelise and care for people in the societies. Under Wesley's direction, Methodists became leaders in many social issues of the day, including the prison reform and abolitionism movements.",
+            "_scripture": [
+                {
+                    "book": "Ephesians",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "Self Denial (reading)",
+            "url": "http:\/\/sermonindex.net\/SID3447",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "Mr. Wesley examines our Lord's command for each of us to \"deny himself, and take up his cross daily, and follow me.\" This is a great sermon that sets out to expand our understanding of what it means to be a disciple of Christ. WARNING: If you're content to simply sit back and be a lukewarm Christian, this sermon will make you very uncomfortable!",
+            "download": "http:\/\/sermonindex.net\/SID3447-download",
+            "preacher_name": "John Wesley",
+            "preacher_image": "",
+            "preacher_description": "John Wesley (1703 - 1791)\r\nListen to freely downloadable audio sermons by the speaker John Wesley in mp3 format. Was an Anglican cleric and Christian theologian. Wesley is largely credited, along with his brother Charles Wesley, as founding the Methodist movement which began when he took to open-air preaching in a similar manner to George Whitefield. In contrast to Whitefield's Calvinism, Wesley embraced the Arminian doctrines that were dominant in the 18th-century Church of England. Methodism in both forms became a highly successful evangelical movement in Britain, which encouraged people to experience Jesus Christ personally.\r\n\r\nWesley helped to organise and form societies of Christians throughout Great Britain, North America and Ireland as small groups that developed intensive, personal accountability, discipleship and religious instruction among members. His great contribution was to appoint itinerant, unordained preachers who travelled widely to evangelise and care for people in the societies. Under Wesley's direction, Methodists became leaders in many social issues of the day, including the prison reform and abolitionism movements.",
+            "_scripture": []
+        },
+        {
+            "title": "The Almost Christian (reading)",
+            "url": "http:\/\/sermonindex.net\/SID3448",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 26:28",
+            "topic": "Audio Books",
+            "description": "What does it mean to truly be a Christian? In a day when so many claim to be Christians, yet live contrary lifestyles, this sermon is as timely as ever. Acts 26:28",
+            "download": "http:\/\/sermonindex.net\/SID3448-download",
+            "preacher_name": "John Wesley",
+            "preacher_image": "",
+            "preacher_description": "John Wesley (1703 - 1791)\r\nListen to freely downloadable audio sermons by the speaker John Wesley in mp3 format. Was an Anglican cleric and Christian theologian. Wesley is largely credited, along with his brother Charles Wesley, as founding the Methodist movement which began when he took to open-air preaching in a similar manner to George Whitefield. In contrast to Whitefield's Calvinism, Wesley embraced the Arminian doctrines that were dominant in the 18th-century Church of England. Methodism in both forms became a highly successful evangelical movement in Britain, which encouraged people to experience Jesus Christ personally.\r\n\r\nWesley helped to organise and form societies of Christians throughout Great Britain, North America and Ireland as small groups that developed intensive, personal accountability, discipleship and religious instruction among members. His great contribution was to appoint itinerant, unordained preachers who travelled widely to evangelise and care for people in the societies. Under Wesley's direction, Methodists became leaders in many social issues of the day, including the prison reform and abolitionism movements.",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "26"
+                }
+            ]
+        }
+    ]
+}

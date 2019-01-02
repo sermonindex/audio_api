@@ -1,0 +1,25 @@
+{
+    "name": "Will",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Your Keys Please\u00e2\u20ac\u201dThe Power of the Human Will",
+            "url": "http:\/\/sermonindex.net\/SID28567",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Corinthians 10:13",
+            "topic": "Will",
+            "description": "Joe Root challenges us with this powerful message given at a large youth gathering. The almighty sovereign God has given us the gift of our own will, but God is a God of relationship. He wants us, out of our own will and choice, to hand over the keys of our will to Him! He's waiting! What will you do with the keys of your will?",
+            "download": "http:\/\/sermonindex.net\/SID28567-download",
+            "preacher_name": "Joe Root",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Corinthians",
+                    "chapter": "10"
+                }
+            ]
+        }
+    ]
+}

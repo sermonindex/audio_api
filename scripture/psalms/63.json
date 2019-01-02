@@ -1,0 +1,53 @@
+{
+    "name": "Psalms 63",
+    "book": "Psalms",
+    "chapter": 63,
+    "audio_sermons": [
+        {
+            "title": "Breaking Strongholds-When the Past is Your Teacher",
+            "url": "http:\/\/sermonindex.net\/SID3192",
+            "size": "9043968",
+            "format": "mp3",
+            "scripture": "1 Samuel 7-8,1 Samuel 12-13,Psalm 63:1-4",
+            "topic": "",
+            "description": "This is a message about the strongholds of fear and unbelief and the disastrous consequences it had on Israel, and Saul.\u00a0 Even though the Lord gave them victories, they were not loyal, they rejected his rulership in favor of man's.\u00a0 God warned them of the consequences. They wanted to have a man to fight their battles, someone they could see, like the world around them had, to go before them, rather than the undefeatable, Almighty God fighting for them. They didn't want to forsake their own ideals and let God be Lord of their life. Saul was representative of this rebellion and illustrates the danger of this kind of stronghold.",
+            "download": "http:\/\/sermonindex.net\/SID3192-download",
+            "preacher_name": "Teresa Conlon",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Samuel",
+                    "chapter": "7"
+                },
+                {
+                    "book": "1 Samuel",
+                    "chapter": "12"
+                },
+                {
+                    "book": "Psalms",
+                    "chapter": "63"
+                }
+            ]
+        },
+        {
+            "title": "Psalm 63",
+            "url": "http:\/\/sermonindex.net\/SID9689",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 63",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9689-download",
+            "preacher_name": "James K. Boswell",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "63"
+                }
+            ]
+        }
+    ]
+}

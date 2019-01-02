@@ -1,0 +1,54 @@
+{
+    "name": "Bruce Berliner",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Don't Crucify The Word Of God",
+            "url": "http:\/\/sermonindex.net\/SID19664",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Word Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19664-download",
+            "preacher_name": "Bruce Berliner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Perilous Times",
+            "url": "http:\/\/sermonindex.net\/SID19663",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy 3:1-3",
+            "topic": "End Times",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19663-download",
+            "preacher_name": "Bruce Berliner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Timothy",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "Valley Of Dry Bones",
+            "url": "http:\/\/sermonindex.net\/SID19665",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19665-download",
+            "preacher_name": "Bruce Berliner",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

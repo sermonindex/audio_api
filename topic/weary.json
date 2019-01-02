@@ -1,0 +1,25 @@
+{
+    "name": "Weary",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "And We Know-Rm.8:28 A Soft Pillow For A Tired Heart",
+            "url": "http:\/\/sermonindex.net\/SID5428",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 8:28",
+            "topic": "Weary",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID5428-download",
+            "preacher_name": "Skip Heitzig",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "8"
+                }
+            ]
+        }
+    ]
+}

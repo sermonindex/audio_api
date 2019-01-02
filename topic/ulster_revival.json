@@ -1,0 +1,25 @@
+{
+    "name": "Ulster Revival",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "When do we need revival?",
+            "url": "http:\/\/sermonindex.net\/SID19266",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 85",
+            "topic": "Ulster Revival",
+            "description": "When do we need revival? 1. When God's presence is withdrawn 2. When presumption is widespread 3. When contentedness prevails 4. When holiness is ignored 5. When prayer is anaemic 6. When soulwinning is neglected",
+            "download": "http:\/\/sermonindex.net\/SID19266-download",
+            "preacher_name": "Alan Bartley",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "85"
+                }
+            ]
+        }
+    ]
+}

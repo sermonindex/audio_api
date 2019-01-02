@@ -1,0 +1,26 @@
+{
+    "name": "David Norman Jones",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Acts 3 v 15",
+            "url": "http:\/\/sermonindex.net\/SID22639",
+            "size": "0",
+            "format": "mp3n",
+            "scripture": "Acts 3:15",
+            "topic": "Christian Life",
+            "description": "il",
+            "download": "http:\/\/sermonindex.net\/SID22639-download",
+            "preacher_name": "David Norman Jones",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

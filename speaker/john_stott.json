@@ -1,0 +1,124 @@
+{
+    "name": "John Stott",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Great Commission",
+            "url": "http:\/\/sermonindex.net\/SID11784",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 28:18-20, Luke 24:44-49",
+            "topic": "Great Commission",
+            "description": "According to Stott, Luke's commission makes clear that the primary task of the Church is to be gospel heralds, not social reformers nor faith healers. There are five aspects: 1. forgiveness of sin (crucified Savior, the gift of grace alone). 2. upon the name of Christ. 3. on condition of repentance (risen Lord, the obedience of faith alone). 4. to all the nations. 5. in the power of the Holy Spirit (ever fresh, convicting, converting).",
+            "download": "http:\/\/sermonindex.net\/SID11784-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "24"
+                },
+                {
+                    "book": "Matthew",
+                    "chapter": "28"
+                }
+            ]
+        },
+        {
+            "title": "Great Commission - Part 1",
+            "url": "http:\/\/sermonindex.net\/SID11785",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 28:18-20",
+            "topic": "Great Commission",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID11785-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "28"
+                }
+            ]
+        },
+        {
+            "title": "Great Commission - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID11786",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 28:18-20",
+            "topic": "Great Commission",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID11786-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "28"
+                }
+            ]
+        },
+        {
+            "title": "II Timothy - Part 1 - Continue in the Gospel",
+            "url": "http:\/\/sermonindex.net\/SID11787",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy",
+            "topic": "Gospel",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID11787-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "II Timothy - Part 2 - Proclaim the Gospel",
+            "url": "http:\/\/sermonindex.net\/SID11788",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy",
+            "topic": "Proclaim",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID11788-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "II Timothy - Part 3 - Guard the Gospel",
+            "url": "http:\/\/sermonindex.net\/SID11789",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy",
+            "topic": "Gospel",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID11789-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "II Timothy - Part 4 - Suffer for the Gospel",
+            "url": "http:\/\/sermonindex.net\/SID11790",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Timothy",
+            "topic": "Suffering",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID11790-download",
+            "preacher_name": "John Stott",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ministering",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Ministering to the Lord",
+            "url": "http:\/\/sermonindex.net\/SID28355",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 13",
+            "topic": "Ministering",
+            "description": "Brother Paul Washer here describes something that is drastically wanting in the modern movement that calls itself Evangelicalism. There is a great need to see God-focused worship, and not man-centered humanism in the Church. We have lost our right focus on things eternal and become a Church that caters to the needs of the people. This message also is a cry for individual believers to develop a private walk with the Lord in sincerity of worship, God for God Himself.",
+            "download": "http:\/\/sermonindex.net\/SID28355-download",
+            "preacher_name": "Paul Washer",
+            "preacher_image": "\/images\/paul_washer.gif",
+            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "13"
+                }
+            ]
+        }
+    ]
+}

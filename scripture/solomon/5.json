@@ -1,0 +1,26 @@
+{
+    "name": "Solomon 5",
+    "book": "Solomon",
+    "chapter": 5,
+    "audio_sermons": [
+        {
+            "title": "Day Of Pentecost 01 Song Of Solomon 5:",
+            "url": "http:\/\/sermonindex.net\/SID10069",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Song_of_Solomon 5",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10069-download",
+            "preacher_name": "J.M. Davies",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Solomon",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

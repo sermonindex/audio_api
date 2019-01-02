@@ -1,0 +1,40 @@
+{
+    "name": "Mike Bickle",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Beauty of the Bridegroom King",
+            "url": "http:\/\/sermonindex.net\/SID22582",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Bridegroom King",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22582-download",
+            "preacher_name": "Mike Bickle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The End-Time Crisis: God\u00e2\u20ac\u2122s Response to the Rage against Jesus",
+            "url": "http:\/\/sermonindex.net\/SID26063",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 2",
+            "topic": "End Times",
+            "description": "In this stirring message, Mike explains from Psalm 2 what the world will look like before the return of Christ, with the leaders and governments of the earth resisting the Lord and trying to throw off His \"chains.\"",
+            "download": "http:\/\/sermonindex.net\/SID26063-download",
+            "preacher_name": "Mike Bickle",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalm",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

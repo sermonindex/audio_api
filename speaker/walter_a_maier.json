@@ -1,0 +1,49 @@
+{
+    "name": "Walter A. Maier",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Jesus Christ is our God",
+            "url": "http:\/\/sermonindex.net\/SID3078",
+            "size": "3645952",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3078-download",
+            "preacher_name": "Walter A. Maier",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Resurrection Reality",
+            "url": "http:\/\/sermonindex.net\/SID3085",
+            "size": "3972096",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3085-download",
+            "preacher_name": "Walter A. Maier",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Tell it to Jesus",
+            "url": "http:\/\/sermonindex.net\/SID3077",
+            "size": "3706368",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID3077-download",
+            "preacher_name": "Walter A. Maier",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

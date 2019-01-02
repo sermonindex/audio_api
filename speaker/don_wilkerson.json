@@ -1,0 +1,30 @@
+{
+    "name": "Don Wilkerson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Breaking the Bondage of an Ungodly Heritage",
+            "url": "http:\/\/sermonindex.net\/SID15480",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Jeremiah 31:29-30, Ezekiel 18:1-3",
+            "topic": "Bondage",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15480-download",
+            "preacher_name": "Don Wilkerson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Ezekiel",
+                    "chapter": "18"
+                },
+                {
+                    "book": "Jeremiah",
+                    "chapter": "31"
+                }
+            ]
+        }
+    ]
+}

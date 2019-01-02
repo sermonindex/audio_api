@@ -1,0 +1,30 @@
+{
+    "name": "Ezekiel 23",
+    "book": "Ezekiel",
+    "chapter": 23,
+    "audio_sermons": [
+        {
+            "title": "61. What is forbidden in the fourth commandment?",
+            "url": "http:\/\/sermonindex.net\/SID22415",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ezekiel 22:26, Ezekiel 23:38",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22415-download",
+            "preacher_name": "Westminster Shorter Catechism",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Ezekiel",
+                    "chapter": "22"
+                },
+                {
+                    "book": "Ezekiel",
+                    "chapter": "23"
+                }
+            ]
+        }
+    ]
+}

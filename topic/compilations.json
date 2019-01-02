@@ -1,0 +1,48 @@
+{
+    "name": "Compilations",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Revival Sermon (compilation)",
+            "url": "http:\/\/sermonindex.net\/SID23860",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Compilations",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23860-download",
+            "preacher_name": "Compilations",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Jesus Christ is Your Only Hope by Bob Jennings",
+            "url": "http:\/\/sermonindex.net\/SID23291",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Compilations",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23291-download",
+            "preacher_name": "Compilations",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "ravi-pride",
+            "url": "http:\/\/sermonindex.net\/SID22724",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Compilations",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22724-download",
+            "preacher_name": "Compilations",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

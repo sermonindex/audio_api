@@ -1,0 +1,35 @@
+{
+    "name": "Jackie Hughes",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Judgment-Seat of Christ",
+            "url": "http:\/\/sermonindex.net\/SID14144",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14144-download",
+            "preacher_name": "Jackie Hughes",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "There's Mercy with the Lord",
+            "url": "http:\/\/sermonindex.net\/SID14145",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID14145-download",
+            "preacher_name": "Jackie Hughes",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

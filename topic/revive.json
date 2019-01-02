@@ -1,0 +1,20 @@
+{
+    "name": "Revive",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "High Time to Awake",
+            "url": "http:\/\/sermonindex.net\/SID13466",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revive",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13466-download",
+            "preacher_name": "Miles DeBenedictis",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

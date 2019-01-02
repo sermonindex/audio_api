@@ -1,0 +1,49 @@
+{
+    "name": "Randy Amos",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Life's Two Roads",
+            "url": "http:\/\/sermonindex.net\/SID7920",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Choices",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7920-download",
+            "preacher_name": "Randy Amos",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Living In Anticipation",
+            "url": "http:\/\/sermonindex.net\/SID7921",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Anticipation",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7921-download",
+            "preacher_name": "Randy Amos",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "What Is God Doing Today?",
+            "url": "http:\/\/sermonindex.net\/SID7922",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7922-download",
+            "preacher_name": "Randy Amos",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

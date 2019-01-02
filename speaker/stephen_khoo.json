@@ -1,0 +1,26 @@
+{
+    "name": "Stephen Khoo",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Living Faith",
+            "url": "http:\/\/sermonindex.net\/SID12105",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 1 ",
+            "topic": "Faith",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12105-download",
+            "preacher_name": "Stephen Khoo",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Bud Robinson",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Hospital Experience",
+            "url": "http:\/\/sermonindex.net\/SID23697",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23697-download",
+            "preacher_name": "Bud Robinson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Two Touches",
+            "url": "http:\/\/sermonindex.net\/SID16592",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID16592-download",
+            "preacher_name": "Bud Robinson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

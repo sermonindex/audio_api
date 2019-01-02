@@ -1,0 +1,25 @@
+{
+    "name": "Dying",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "You Must Die",
+            "url": "http:\/\/sermonindex.net\/SID27981",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Corinthians 3:2-3",
+            "topic": "Dying",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27981-download",
+            "preacher_name": "Robert Ketcham",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Corinthians",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

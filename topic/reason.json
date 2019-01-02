@@ -1,0 +1,25 @@
+{
+    "name": "Reason",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Voice of Reason",
+            "url": "http:\/\/sermonindex.net\/SID0242",
+            "size": "4677632",
+            "format": "mp3",
+            "scripture": "Isaiah 1:16-20",
+            "topic": "Reason",
+            "description": "Reason, says A. W. Tozer, is the wise recognition of things as they really are. Though Christians are accused of letting their imaginations run away with them, we actually deal in reality because of our insistence in stripping everything down to the hard core. We want to know all the facts about God, ourselves and our relationship with the Creator. What about sin? What about judgment? What about Heaven and hell? Dr. Tozer says that no other philosophy on earth deals with all the facts of life, death and God \u2013 only Christianity. It is the believer\u2019s voice of reason.",
+            "download": "http:\/\/sermonindex.net\/SID0242-download",
+            "preacher_name": "A.W. Tozer",
+            "preacher_image": "\/images\/aw_tozer.gif",
+            "preacher_description": "A.W. Tozer (1897 - 1963)\r\nListen to freely downloadable audio sermons by the speaker A.W. Tozer in mp3 format. A \"20th-century prophet\" many called him during his lifetime. For 31 years A.W.Tozer was pastor of Southside Alliance Church in Chicago. He was involved in the missionary alliance movement for most of his pulpit life. A.W. Tozer lived in the presence of God he saw clearly and he spoke as a prophet to the church. He sought for God's honor with the zeal of Elijah and mourned with Jeremiah at the apostasy of God's people. \r\n\r\nLeonard Ravenhill was a close friend of pastor and writer A. W. Tozer and spoke of him as one of the most influential voices in the Church in America. A.W. Tozer's materials are a mainstay in Evangelical churches in our day and he is one of the most quoted authors. He was a prophet in his day and his writings are even more influential in our day. One of his books: The Pursuit of God, has had over 1 million copies sold world-wide.",
+            "_scripture": [
+                {
+                    "book": "Isaiah",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

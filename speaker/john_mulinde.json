@@ -1,0 +1,35 @@
+{
+    "name": "John Mulinde",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Repentance Prophetic Word",
+            "url": "http:\/\/sermonindex.net\/SID22221",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Repentance",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22221-download",
+            "preacher_name": "John Mulinde",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Travail Of A Nation",
+            "url": "http:\/\/sermonindex.net\/SID22185",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Travail",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22185-download",
+            "preacher_name": "John Mulinde",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

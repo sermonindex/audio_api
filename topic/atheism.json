@@ -1,0 +1,34 @@
+{
+    "name": "Atheism",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Evidence For The Existence Of God",
+            "url": "http:\/\/sermonindex.net\/SID19847",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Atheism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19847-download",
+            "preacher_name": "Charlie Campbell",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "If Jesus Wasn't God",
+            "url": "http:\/\/sermonindex.net\/SID19846",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Atheism",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19846-download",
+            "preacher_name": "John Ankerberg",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

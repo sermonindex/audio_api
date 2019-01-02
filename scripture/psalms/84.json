@@ -1,0 +1,64 @@
+{
+    "name": "Psalms 84",
+    "book": "Psalms",
+    "chapter": 84,
+    "audio_sermons": [
+        {
+            "title": "Psalm 84-01",
+            "url": "http:\/\/sermonindex.net\/SID9686",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 84",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9686-download",
+            "preacher_name": "James K. Boswell",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "84"
+                }
+            ]
+        },
+        {
+            "title": "Psalm 84-02",
+            "url": "http:\/\/sermonindex.net\/SID9687",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 84",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9687-download",
+            "preacher_name": "James K. Boswell",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "84"
+                }
+            ]
+        },
+        {
+            "title": "Special Meetings 04 Psalm 84:",
+            "url": "http:\/\/sermonindex.net\/SID9749",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 84",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9749-download",
+            "preacher_name": "John W. Bramhall",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "84"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Guilty Conscience",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "(Genesis) 58 - The Persistent Power of a Guilty Conscience",
+            "url": "http:\/\/sermonindex.net\/SID13101",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Genesis 42:1-38",
+            "topic": "Guilty Conscience",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID13101-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Genesis",
+                    "chapter": "42"
+                }
+            ]
+        },
+        {
+            "title": "Blood On Your Hands",
+            "url": "http:\/\/sermonindex.net\/SID9043",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ezekiel 3:18-21",
+            "topic": "Guilty Conscience",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9043-download",
+            "preacher_name": "Chuck Smith",
+            "preacher_image": "\/images\/chuck_smith.gif",
+            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "_scripture": [
+                {
+                    "book": "Ezekiel",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "Plagued by a Guilty Conscience",
+            "url": "http:\/\/sermonindex.net\/SID12990",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 2:2-12",
+            "topic": "Guilty Conscience",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12990-download",
+            "preacher_name": "Chuck Smith",
+            "preacher_image": "\/images\/chuck_smith.gif",
+            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "2"
+                }
+            ]
+        }
+    ]
+}

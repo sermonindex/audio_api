@@ -1,0 +1,78 @@
+{
+    "name": "Kenneth Wuest",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Fellowship With Christ",
+            "url": "http:\/\/sermonindex.net\/SID7435",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 John 1",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7435-download",
+            "preacher_name": "Kenneth Wuest",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 John",
+                    "chapter": "1"
+                }
+            ]
+        },
+        {
+            "title": "Healing And Tongues",
+            "url": "http:\/\/sermonindex.net\/SID7436",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 3",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7436-download",
+            "preacher_name": "Kenneth Wuest",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "The Spirit Filled Life Annointing Baptism & Fullness",
+            "url": "http:\/\/sermonindex.net\/SID7434",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7434-download",
+            "preacher_name": "Kenneth Wuest",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Victory Over Indwelling",
+            "url": "http:\/\/sermonindex.net\/SID7437",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 6",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7437-download",
+            "preacher_name": "Kenneth Wuest",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "name": "James A. Stewart",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Bath Basin Bosom",
+            "url": "http:\/\/sermonindex.net\/SID17346",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17346-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Dynamic Christianity",
+            "url": "http:\/\/sermonindex.net\/SID17345",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christianity",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17345-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Good for nothing Christians",
+            "url": "http:\/\/sermonindex.net\/SID22199",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22199-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Interview with James A. Stewart",
+            "url": "http:\/\/sermonindex.net\/SID22200",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Interview",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22200-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Ireland Etc. & Revival",
+            "url": "http:\/\/sermonindex.net\/SID22203",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Ireland Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22203-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Living Under Open Heaven",
+            "url": "http:\/\/sermonindex.net\/SID22202",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Open Heaven",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22202-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Partnership of Pentecost",
+            "url": "http:\/\/sermonindex.net\/SID22205",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Pentecost",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22205-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Preludes to Revival",
+            "url": "http:\/\/sermonindex.net\/SID22206",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 3:1",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22206-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "Rivers of Living Water",
+            "url": "http:\/\/sermonindex.net\/SID17340",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Living Water",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17340-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Sign Christians",
+            "url": "http:\/\/sermonindex.net\/SID22208",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christians",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22208-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Subject of Revival",
+            "url": "http:\/\/sermonindex.net\/SID22195",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Chronicles 7:1-16",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22195-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Chronicles",
+                    "chapter": "7"
+                }
+            ]
+        },
+        {
+            "title": "Symptoms of Revival",
+            "url": "http:\/\/sermonindex.net\/SID22207",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22207-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Body is the Cathedral of the Holy Spirit",
+            "url": "http:\/\/sermonindex.net\/SID22210",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Body",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22210-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Evangel",
+            "url": "http:\/\/sermonindex.net\/SID18547",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Good News",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18547-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Great Refusal",
+            "url": "http:\/\/sermonindex.net\/SID22196",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 10:17",
+            "topic": "Jesus Christ",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22196-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "10"
+                }
+            ]
+        },
+        {
+            "title": "The Ministry of the Holy Spirit",
+            "url": "http:\/\/sermonindex.net\/SID17521",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Holy Spirit",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17521-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Soviet Psalm",
+            "url": "http:\/\/sermonindex.net\/SID22198",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalms 2",
+            "topic": "Psalms",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22198-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "The THIS of Rev.",
+            "url": "http:\/\/sermonindex.net\/SID22197",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22197-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Trumpet Solo",
+            "url": "http:\/\/sermonindex.net\/SID24211",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Judges 6",
+            "topic": "Christian Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24211-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Judges",
+                    "chapter": "6"
+                }
+            ]
+        },
+        {
+            "title": "The Vessels that God uses",
+            "url": "http:\/\/sermonindex.net\/SID17341",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Used Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17341-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The conversion of Saul",
+            "url": "http:\/\/sermonindex.net\/SID22209",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 9",
+            "topic": "Conversion Of Saul",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22209-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "9"
+                }
+            ]
+        },
+        {
+            "title": "Walking with God",
+            "url": "http:\/\/sermonindex.net\/SID22201",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Amos 3:3",
+            "topic": "Walking With God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22201-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Amos",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "What is Revival",
+            "url": "http:\/\/sermonindex.net\/SID17342",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17342-download",
+            "preacher_name": "James A. Stewart",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

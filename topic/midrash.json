@@ -1,0 +1,62 @@
+{
+    "name": "Midrash",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Midrash",
+            "url": "http:\/\/sermonindex.net\/SID12037",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Midrash",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12037-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Midrash - First Born and Second Born",
+            "url": "http:\/\/sermonindex.net\/SID12034",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Midrash",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12034-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Midrash - Messiah, son of Joseph-David",
+            "url": "http:\/\/sermonindex.net\/SID12035",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Midrash",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12035-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Midrash - Rabbi Jesus of Nazareth",
+            "url": "http:\/\/sermonindex.net\/SID12036",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Midrash",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12036-download",
+            "preacher_name": "Jacob Prasch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

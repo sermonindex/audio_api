@@ -1,0 +1,30 @@
+{
+    "name": "Leviticus 5",
+    "book": "Leviticus",
+    "chapter": 5,
+    "audio_sermons": [
+        {
+            "title": "If Revival Doesn't Come",
+            "url": "http:\/\/sermonindex.net\/SID19906",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Leviticus 5:19-22, Habakkuk 3:16-19",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19906-download",
+            "preacher_name": "Ronald Glass",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Leviticus",
+                    "chapter": "5"
+                },
+                {
+                    "book": "Habakkuk",
+                    "chapter": "3"
+                }
+            ]
+        }
+    ]
+}

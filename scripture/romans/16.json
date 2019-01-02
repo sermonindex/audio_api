@@ -1,0 +1,57 @@
+{
+    "name": "Romans 16",
+    "book": "Romans",
+    "chapter": 16,
+    "audio_sermons": [
+        {
+            "title": "01 Acknowledgements",
+            "url": "http:\/\/sermonindex.net\/SID25346",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 16, 2 Corinthians 11:28, Ephesians 5:27",
+            "topic": "Audio Books",
+            "description": "Every New Testament Epistle is full of acknowledgments1 of believers who were in different cities and those who were laboring hard in the Lord. The names of those who have had a part in this volume are too numerous to mention. To all those who labored in editing, revising, suggesting and offering your counsel we are indebted. Above every human help we recognize the Lord\u00e2\u20ac\u2122s hand in this volume from the start to finish. The messages in this book were birthed out of a genuine burden2 of the Lord and we pray this burden has been conveyed with as little interference from the human vessels3 as possible.",
+            "download": "http:\/\/sermonindex.net\/SID25346-download",
+            "preacher_name": "Principles For The Gathering of Believers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "16"
+                },
+                {
+                    "book": "2 Corinthians",
+                    "chapter": "11"
+                },
+                {
+                    "book": "Ephesians",
+                    "chapter": "5"
+                }
+            ]
+        },
+        {
+            "title": "Studies In Romans-10",
+            "url": "http:\/\/sermonindex.net\/SID12456",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Romans 15:14-33, Romans 16:1-27",
+            "topic": "Studies",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID12456-download",
+            "preacher_name": "William MacDonald",
+            "preacher_image": "\/images\/william_macdonald.gif",
+            "preacher_description": "William MacDonald (1917 - 2007)\r\nListen to freely downloadable audio sermons by the speaker William MacDonald in mp3 format. Was President of Emmaus Bible College, teacher, Plymouth Brethren theologian and a prolific author of over 84 published books. MacDonald refused to accept royalties for his books but established a fund for translating his work Believers Bible Commentary into foreign languages.\r\n\r\n   Bill will be not only be remembered for the thousands upon thousands of lives he touched through his books, teaching and many personal letters, but for his Christ-like character and gentleness, yet powerful life lived by faith in Christ. One of his most impact-ful books is the small booklet called: \"True Discipleship\" it is recommended reading for every serious disciple of Christ.",
+            "_scripture": [
+                {
+                    "book": "Romans",
+                    "chapter": "15"
+                },
+                {
+                    "book": "Romans",
+                    "chapter": "16"
+                }
+            ]
+        }
+    ]
+}

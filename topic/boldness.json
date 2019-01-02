@@ -1,0 +1,39 @@
+{
+    "name": "Boldness",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Boldness",
+            "url": "http:\/\/sermonindex.net\/SID18372",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Boldness",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID18372-download",
+            "preacher_name": "Bill McLeod",
+            "preacher_image": "\/images\/bill_mcleod.gif",
+            "preacher_description": "Bill McLeod (1919 - 2012)\r\nListen to freely downloadable audio sermons by the speaker Bill McLeod in mp3 format. Bill Mcleod was the pastor of Ebenezer Baptist Church for many years where ultimately God sent revival to that affecting much of Canada. He had a passion to know God and His word. Paul Washer said he was one of the most godly men he met in Canada.\r\n\r\nBill Mcleod had been praying and had his congregation praying for revival for years. On, October 17, 1971, God in His sovereignty came in revival. Without human means or explanation, the revival spread from church to church, community to community, city to city, and not long after from province to province. This has become known as the 1971 Canadian Revival movement.",
+            "_scripture": []
+        },
+        {
+            "title": "Unholy Boldness",
+            "url": "http:\/\/sermonindex.net\/SID11917",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Revelation 1:1-3",
+            "topic": "Boldness",
+            "description": "September 25, 2005 - Those who defy the authority of God in the unveiling of Christ \u2013 their judgment is a sudden opening of that which comes from the mouth of the earth into their heart. In defying the appearing of Christ their hearts are now opened to the spirit of the world and the spirit of the world opens its mouth and swallows them and they disappear from the congregation and they lose their zeal for God.",
+            "download": "http:\/\/sermonindex.net\/SID11917-download",
+            "preacher_name": "Carter Conlon",
+            "preacher_image": "\/images\/carter_conlon.gif",
+            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "_scripture": [
+                {
+                    "book": "Revelation",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "2 Chronicles 2",
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "audio_sermons": [
+        {
+            "title": "Freedom of God",
+            "url": "http:\/\/sermonindex.net\/SID17417",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "2 Chronicles 2:6, Revelation 4:11",
+            "topic": "Freedom",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17417-download",
+            "preacher_name": "Glenn Meldrum",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "2 Chronicles",
+                    "chapter": "2"
+                },
+                {
+                    "book": "Revelation",
+                    "chapter": "4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Foolish Virgins",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Foolish Virgins And the Soon Coming Of Christ by Edgar Reich",
+            "url": "http:\/\/sermonindex.net\/SID25083",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Foolish Virgins",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID25083-download",
+            "preacher_name": "SermonIndex.net Simulcast 2013",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Foolish Virgins",
+            "url": "http:\/\/sermonindex.net\/SID9881",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Matthew 25",
+            "topic": "Foolish Virgins",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID9881-download",
+            "preacher_name": "Earl R. Clark",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "25"
+                }
+            ]
+        }
+    ]
+}

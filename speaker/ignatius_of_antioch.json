@@ -1,0 +1,110 @@
+{
+    "name": "Ignatius of Antioch",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "2 - Magnesians ",
+            "url": "http:\/\/sermonindex.net\/SID26843",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26843-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "3 - Trallians",
+            "url": "http:\/\/sermonindex.net\/SID26844",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26844-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "4 - Romans ",
+            "url": "http:\/\/sermonindex.net\/SID26845",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26845-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "5 - Philadelphians",
+            "url": "http:\/\/sermonindex.net\/SID26846",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26846-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "6 - Smyrnaeans",
+            "url": "http:\/\/sermonindex.net\/SID26847",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26847-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "7 - Polycarp ",
+            "url": "http:\/\/sermonindex.net\/SID26848",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID26848-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Epistle to the Ephesians",
+            "url": "http:\/\/sermonindex.net\/SID26842",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 Corinthians 1:10",
+            "topic": "Audio Books",
+            "description": "Ignatius, who is also called Theophorus, to the Church which is at Ephesus, in Asia, deservedly most happy, being blessed in the greatness and fullness of God the Father, and predestinated before the ages of time, that it should be always for an enduring and unchangeable glory, being united and elected through the true passion by the will of the Father, and Jesus Christ, our God: Abundant happiness through Jesus Christ, and His undefiled grace.",
+            "download": "http:\/\/sermonindex.net\/SID26842-download",
+            "preacher_name": "Ignatius of Antioch",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "1 Corinthians",
+                    "chapter": "1"
+                }
+            ]
+        }
+    ]
+}

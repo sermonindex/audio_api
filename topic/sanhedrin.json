@@ -1,0 +1,25 @@
+{
+    "name": "Sanhedrin",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Before the Sanhedrin",
+            "url": "http:\/\/sermonindex.net\/SID27692",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 14:53-65",
+            "topic": "Sanhedrin",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27692-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "14"
+                }
+            ]
+        }
+    ]
+}

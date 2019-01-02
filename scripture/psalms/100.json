@@ -1,0 +1,49 @@
+{
+    "name": "Psalms 100",
+    "book": "Psalms",
+    "chapter": 100,
+    "audio_sermons": [
+        {
+            "title": "(The Royal Psalms) Part 3",
+            "url": "http:\/\/sermonindex.net\/SID15010",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 99, Psalm 100",
+            "topic": "",
+            "description": "\"The climax of the Christian experience of knowing Christ as King,\" says Ed, \"has to do with a revelation of God Himself.\"  The royal psalms progress from the song of rest to the song of victory to this song of service.  The King has stepped down from His throne to shepherd His sheep, a great principle that serving the Lord with gladness comes from letting Him serve you.",
+            "download": "http:\/\/sermonindex.net\/SID15010-download",
+            "preacher_name": "Ed Miller",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "99"
+                },
+                {
+                    "book": "Psalms",
+                    "chapter": "100"
+                }
+            ]
+        },
+        {
+            "title": "Be Thankful Unto Him",
+            "url": "http:\/\/sermonindex.net\/SID10177",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 100",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID10177-download",
+            "preacher_name": "Welcome Detweiler",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "100"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Jabez",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "JABEZ A lonely man",
+            "url": "http:\/\/sermonindex.net\/SID23990",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Jabez",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23990-download",
+            "preacher_name": "John Phillips",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "The Prayer of Jabez",
+            "url": "http:\/\/sermonindex.net\/SID24247",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Jabez",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID24247-download",
+            "preacher_name": "Mary Peckham",
+            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

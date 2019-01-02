@@ -1,0 +1,25 @@
+{
+    "name": "Eternal Punishment",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "The Horror of Eternal Punishment",
+            "url": "http:\/\/sermonindex.net\/SID27697",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Mark 14:32-42",
+            "topic": "Eternal Punishment",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27697-download",
+            "preacher_name": "S. Lewis Johnson",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Mark",
+                    "chapter": "14"
+                }
+            ]
+        }
+    ]
+}

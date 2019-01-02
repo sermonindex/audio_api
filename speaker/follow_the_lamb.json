@@ -1,0 +1,49 @@
+{
+    "name": "Follow The Lamb",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Gethsemane",
+            "url": "http:\/\/sermonindex.net\/SID22295",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22295-download",
+            "preacher_name": "Follow The Lamb",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "In Your Hands",
+            "url": "http:\/\/sermonindex.net\/SID23279",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23279-download",
+            "preacher_name": "Follow The Lamb",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Rock Of Ages",
+            "url": "http:\/\/sermonindex.net\/SID23080",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Godly Music",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23080-download",
+            "preacher_name": "Follow The Lamb",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}

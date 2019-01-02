@@ -1,0 +1,34 @@
+{
+    "name": "Luke 26",
+    "book": "Luke",
+    "chapter": 26,
+    "audio_sermons": [
+        {
+            "title": "Christ the Man #1",
+            "url": "http:\/\/sermonindex.net\/SID17017",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Luke 26:38, Genesis 3:15, Isaiah 7:9",
+            "topic": "Christ",
+            "description": "Christ\u2019s death\u2014incredible;  Christ\u2019s resurrection\u2014impossible! We are reminded here that God looks at the heart. An overall view of the lives and times of Mary and Joseph and prophecy being fulfilled.  Summing all up with God wants 100%, ALL of us.",
+            "download": "http:\/\/sermonindex.net\/SID17017-download",
+            "preacher_name": "Major Ian Thomas",
+            "preacher_image": "\/images\/major_ian_thomas.gif",
+            "preacher_description": "Major Ian Thomas (1914 \u2013 2007)\r\nListen to freely downloadable audio sermons by the speaker Major Ian Thomas in mp3 format. Evangelical writer, theological teacher and founder of the Torchbearers bible schools. These schools are now world-wide in many countries and provide a teaching base on the person of Christ in the believer and basic Biblical exposition of Bible books.\r\n\r\nAmong the many books that he wrote, the most influential have been: \"The Saving Life Of Christ\" , \"The mystery of godliness\" and \"If I perish, I Perish.\" His burden in ministry was to express and show the indwelling life of Christ in believers and the rest and power that life will have in us as we trust and have faith.",
+            "_scripture": [
+                {
+                    "book": "Luke",
+                    "chapter": "26"
+                },
+                {
+                    "book": "Genesis",
+                    "chapter": "3"
+                },
+                {
+                    "book": "Isaiah",
+                    "chapter": "7"
+                }
+            ]
+        }
+    ]
+}

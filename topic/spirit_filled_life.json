@@ -1,0 +1,53 @@
+{
+    "name": "Spirit Filled Life",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "A Spirit Led Evangelistic Life",
+            "url": "http:\/\/sermonindex.net\/SID0704",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Spirit Filled Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID0704-download",
+            "preacher_name": "Danny Bond",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Joshua crossing Jordan",
+            "url": "http:\/\/sermonindex.net\/SID15892",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Spirit Filled Life",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID15892-download",
+            "preacher_name": "Gareth Evans",
+            "preacher_image": "",
+            "preacher_description": "Gareth Evans ( - )\r\nListen to freely downloadable audio sermons by the speaker Gareth Evans in mp3 format. Gareth Evans is an itinerant pastor\/teacher with a burden to minister to the hurting church his ministry website is Gareth Evans Ministries.  Formerly a Physics teacher in the UK and Canada, he became a pastor with the Christian & Missionary Alliance in Canada in 1979. In 1991, he was invited to serve as pastor on board the M\/V Anastasis, a medical, missionary ship operated by Youth With A Mission (YWAM). Since leaving that ministry four years later, Gareth has traveled to many countries, encouraging pastors and missionaries.\r\nHe is married to Anne and they have three married daughters, nine grandchildren and three great grandchildren. Gareth and Anne live in Victoria, in beautiful British Columbia, Canada. Some of his main burdens is to mentor young men to see them walk in the anointing of God and soar on wings as eagles. He has also prayed for revival and moderated many SermonIndex revival conferences across the world.",
+            "_scripture": []
+        },
+        {
+            "title": "The Spirit Filled Life",
+            "url": "http:\/\/sermonindex.net\/SID6708",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ephesians 5:18",
+            "topic": "Spirit Filled Life",
+            "description": "'The question is not,' Oswald J. Smith contends, 'Do I have the Holy Spirit?' but, 'Am I filled with the Holy Spirit?'  Smith shows how this commandment to be filled with the Spirit is essential to have power over sin and power for service.  HOW may I be filled?  Five conditions are laid out to consider: confession, renunciation, surrender, obedience and faith.  Mr. Smith closes with his own personal testimony of how God broke him in ministry and humbled him sorely so that he could be used in the power of the Spirit and not in the energy of the flesh.",
+            "download": "http:\/\/sermonindex.net\/SID6708-download",
+            "preacher_name": "Oswald J. Smith",
+            "preacher_image": "\/images\/oswald_j_smith.gif",
+            "preacher_description": "Oswald J. Smith (1889 - 1986)\r\nListen to freely downloadable audio sermons by the speaker Oswald J. Smith in mp3 format. Was a Canadian pastor, author, and missions advocate. He founded The People's Church in Toronto in 1928. Over the course of eighty years he preached more than 12,000 sermons in 80 countries, wrote thirty-five books (with translations into 128 languages), as well as 1,200 poems, of which 100 have been set to music, including \"Deeper and Deeper\" (first line \"Into the heart of Jesus\").\r\nThe great burden of Oswald J. Smith's Christian life was to see the lost come to the Lord. He was well known for the motto: \"We talk of the Second Coming; half the world has never heard of the first.\" and \"No one has the right to hear the gospel twice, while there remains someone who has not heard it once.\"",
+            "_scripture": [
+                {
+                    "book": "Ephesians",
+                    "chapter": "5"
+                }
+            ]
+        }
+    ]
+}

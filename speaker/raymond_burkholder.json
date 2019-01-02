@@ -1,0 +1,35 @@
+{
+    "name": "Raymond Burkholder",
+    "image": "",
+    "description": "",
+    "audio_sermons": [
+        {
+            "title": "Abide Like Jesus",
+            "url": "http:\/\/sermonindex.net\/SID17331",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17331-download",
+            "preacher_name": "Raymond Burkholder",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Dabbling in Witchcraft",
+            "url": "http:\/\/sermonindex.net\/SID17332",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID17332-download",
+            "preacher_name": "Raymond Burkholder",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        }
+    ]
+}
