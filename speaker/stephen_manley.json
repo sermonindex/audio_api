@@ -17,10 +17,6 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Matt",
-                    "chapter": "27"
-                },
-                {
                     "book": "Matthew",
                     "chapter": "27"
                 }

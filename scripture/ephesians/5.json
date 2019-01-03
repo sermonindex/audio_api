@@ -452,7 +452,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 },
                 {
@@ -502,7 +502,7 @@
                     "chapter": "5"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "82"
                 }
             ]
@@ -631,6 +631,29 @@
             "preacher_image": "\/images\/c_h_spurgeon.gif",
             "preacher_description": "C.H. Spurgeon (1834 - 1892)\r\nListen to freely downloadable audio sermons by the speaker C.H. Spurgeon in mp3 format. Spurgeon quickly became known as one of the most influential preachers of his time. Well known for his biblical powerful expositions of scripture and oratory ability. In modern evangelical circles he is stated to be the \"Prince of Preachers.\" He pastored the Metropolitan Tabernacle in downtown London, England. \r\n\r\nHis church was part of a particular baptist church movement and they defended and preached Christ and Him crucified and the purity of the Gospel message. Spurgeon never gave altar calls but always extended the invitation to come to Christ. He was a faithful minister in his time that glorified God and brought many to the living Christ.",
             "_scripture": [
+                {
+                    "book": "Ephesians",
+                    "chapter": "5"
+                }
+            ]
+        },
+        {
+            "title": "Desert Survival Series Pt 16- Moses The Servant of God",
+            "url": "http:\/\/sermonindex.net\/SID20027",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Exodus 4:24-26, Ephesisans 5:17-33",
+            "topic": "Desert Survival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID20027-download",
+            "preacher_name": "Don Courville",
+            "preacher_image": "",
+            "preacher_description": "Don Courville ( - )\r\nListen to freely downloadable audio sermons by the speaker Don Courville in mp3 format. Brother Don has been involved in the work of revival for many years. He was involved in the Nebraska revival in the 1980's and had a radio program that aired in the mid-western United States. He has been involved in church plants and works of the Lord where great unity of faith was expressed.\r\nCurrently he is pastoring the Maranatha Baptist Church in Missouri and running a annual Family Camp where Keith Daniel is the keynote speaker. He also arranges Keith Daniels annual tour of the USA. Brother Don has been a moderator for many SermonIndex Revival Conferences across the world and has a great heart for genuine revival in our day.",
+            "_scripture": [
+                {
+                    "book": "Exodus",
+                    "chapter": "4"
+                },
                 {
                     "book": "Ephesians",
                     "chapter": "5"

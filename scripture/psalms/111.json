@@ -4,6 +4,33 @@
     "chapter": 111,
     "audio_sermons": [
         {
+            "title": "78 Gospel Fellowships Hymnal (Intro)",
+            "url": "http:\/\/sermonindex.net\/SID25423",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Psalm 111:1-2, 1 Peter 1:17, 1 Peter 2:11",
+            "topic": "Audio Books",
+            "description": "For many believers there has been a lack of good resources to help them worship the Lord in private devotion or in public gatherings of the Lord\u00e2\u20ac\u2122s people. Many hymns and choruses that could be sung by memory and without instruments have been laid aside for more contemporary songs that have much musical accompaniment. The argument is not over styles of music or what is permissible in a worship setting but rather that a very powerful weapon of the Church has been lost. This occurs when we do not have many hymns and choruses that we can sing without instruments with a whole heart towards the Lord. Thus the burden here is to simply supply a resource of many old hymns, choruses and spiritual songs for reading, meditation and singing privately and corporately.",
+            "download": "http:\/\/sermonindex.net\/SID25423-download",
+            "preacher_name": "Principles For The Gathering of Believers",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Psalms",
+                    "chapter": "111"
+                },
+                {
+                    "book": "1 Peter",
+                    "chapter": "1"
+                },
+                {
+                    "book": "1 Peter",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
             "title": "The Wonderful Works of God",
             "url": "http:\/\/sermonindex.net\/SID2827",
             "size": "6768640",

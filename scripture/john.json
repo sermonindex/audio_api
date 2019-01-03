@@ -3413,7 +3413,7 @@
                     "chapter": "17"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "133"
                 }
             ]
@@ -4051,7 +4051,7 @@
                     "chapter": "4"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "45"
                 }
             ]
@@ -4466,7 +4466,7 @@
                     "chapter": "4"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "90"
                 }
             ]
@@ -5036,7 +5036,7 @@
             "preacher_description": "Hans R. Waldvogel (1893 - 1969)\r\nListen to freely downloadable audio sermons by the speaker Hans R. Waldvogel in mp3 format. A powerful preacher who ministered as a pentecostal minister. He did not believe in sectarian groups but rather saw the Church as a whole who have the person of Christ in them.  Brother Waldvogel gleamed from many different men of God including A.B. Simpson.\r\n\r\nHis preaching was centred around the very person of Jesus Christ and the work of the Holy Spirit. He spoke much of the rest of the Lord in Christian work and experience and the Spirit-filled life.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "131"
                 },
                 {
@@ -5181,7 +5181,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "41"
                 },
                 {
@@ -7460,6 +7460,29 @@
             ]
         },
         {
+            "title": "God's Purpose for Us",
+            "url": "http:\/\/sermonindex.net\/SID17543",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ephesians 2-4; John 2:23, Matthew 16:13",
+            "topic": "Purpose",
+            "description": "Here we are shown once again through Scripture that God gave the very life of Christ and wants to full us through out our being with His divine presence.  It takes all the saints to build up the body of Christ.  He finishes with the question, \u201cAre you committed to God\u2019s will your way or the Father\u2019s?\u201d Very thought provoking.",
+            "download": "http:\/\/sermonindex.net\/SID17543-download",
+            "preacher_name": "Major Ian Thomas",
+            "preacher_image": "\/images\/major_ian_thomas.gif",
+            "preacher_description": "Major Ian Thomas (1914 \u2013 2007)\r\nListen to freely downloadable audio sermons by the speaker Major Ian Thomas in mp3 format. Evangelical writer, theological teacher and founder of the Torchbearers bible schools. These schools are now world-wide in many countries and provide a teaching base on the person of Christ in the believer and basic Biblical exposition of Bible books.\r\n\r\nAmong the many books that he wrote, the most influential have been: \"The Saving Life Of Christ\" , \"The mystery of godliness\" and \"If I perish, I Perish.\" His burden in ministry was to express and show the indwelling life of Christ in believers and the rest and power that life will have in us as we trust and have faith.",
+            "_scripture": [
+                {
+                    "book": "Matthew",
+                    "chapter": "16"
+                },
+                {
+                    "book": "John",
+                    "chapter": "2"
+                }
+            ]
+        },
+        {
             "title": "God's Pursuit Of Man",
             "url": "http:\/\/sermonindex.net\/SID19753",
             "size": "0",
@@ -7783,7 +7806,7 @@
             "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "29"
                 },
                 {
@@ -8343,14 +8366,14 @@
         },
         {
             "title": "John 11",
-            "url": "http:\/\/sermonindex.net\/SID13461",
+            "url": "http:\/\/sermonindex.net\/SID26952",
             "size": "0",
             "format": "mp3",
             "scripture": "John 11",
-            "topic": "",
+            "topic": "John",
             "description": "",
-            "download": "http:\/\/sermonindex.net\/SID13461-download",
-            "preacher_name": "Paul Ravenhill",
+            "download": "http:\/\/sermonindex.net\/SID26952-download",
+            "preacher_name": "Damian Kyle",
             "preacher_image": "",
             "preacher_description": "",
             "_scripture": [
@@ -8362,14 +8385,14 @@
         },
         {
             "title": "John 11",
-            "url": "http:\/\/sermonindex.net\/SID26952",
+            "url": "http:\/\/sermonindex.net\/SID13461",
             "size": "0",
             "format": "mp3",
             "scripture": "John 11",
-            "topic": "John",
+            "topic": "",
             "description": "",
-            "download": "http:\/\/sermonindex.net\/SID26952-download",
-            "preacher_name": "Damian Kyle",
+            "download": "http:\/\/sermonindex.net\/SID13461-download",
+            "preacher_name": "Paul Ravenhill",
             "preacher_image": "",
             "preacher_description": "",
             "_scripture": [
@@ -8552,25 +8575,6 @@
         },
         {
             "title": "John 3",
-            "url": "http:\/\/sermonindex.net\/SID7893",
-            "size": "0",
-            "format": "mp3",
-            "scripture": "John 3",
-            "topic": "",
-            "description": "",
-            "download": "http:\/\/sermonindex.net\/SID7893-download",
-            "preacher_name": "Robert F. Adcock",
-            "preacher_image": "",
-            "preacher_description": "",
-            "_scripture": [
-                {
-                    "book": "John",
-                    "chapter": "3"
-                }
-            ]
-        },
-        {
-            "title": "John 3",
             "url": "http:\/\/sermonindex.net\/SID20888",
             "size": "0",
             "format": "mp3",
@@ -8581,6 +8585,25 @@
             "preacher_name": "Dennis Kinlaw",
             "preacher_image": "",
             "preacher_description": "Dennis Kinlaw ( - )\r\nListen to freely downloadable audio sermons by the speaker Dennis Kinlaw in mp3 format.  Dennis Franklin Kinlaw was born June 26, 1922, in Lumberton, North Carolina. He attended Asbury College, graduating in 1943, and Asbury Theological Seminary, graduating in 1946. He pursued further studies at Princeton Theological Seminary and University of Edinburgh, Scotland. He received an M.A. and Ph.D. from Brandeis University. On December 31, 1943, Kinlaw married a college classmate, Elsie Blake (Class of 1943). He was ordained in the North Carolina Conference of the United Methodist Church in 1951. (He later transferred to the Kentucky Conference.) In 1959 he served as a visiting professor at Seoul Theological College in South Korea. In 1963 he returned to Asbury Theological Seminary, this time as a professor of Old Testament history, theology, and languages.\r\nIn 1983 Kinlaw founded the Francis Asbury Society, an organization based in Wilmore, Kentucky, whose purpose is to promote the message of Scriptural holiness through evangelism, discipleship, missions outreach, and publications. Kinlaw also served as chairman of the board of the mission organization OMS International. He is an accomplished pastor, professor, administrator, evangelist, teacher, and author.",
+            "_scripture": [
+                {
+                    "book": "John",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
+            "title": "John 3",
+            "url": "http:\/\/sermonindex.net\/SID7893",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "John 3",
+            "topic": "",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID7893-download",
+            "preacher_name": "Robert F. Adcock",
+            "preacher_image": "",
+            "preacher_description": "",
             "_scripture": [
                 {
                     "book": "John",
@@ -9376,10 +9399,6 @@
             "preacher_description": "Major Ian Thomas (1914 \u2013 2007)\r\nListen to freely downloadable audio sermons by the speaker Major Ian Thomas in mp3 format. Evangelical writer, theological teacher and founder of the Torchbearers bible schools. These schools are now world-wide in many countries and provide a teaching base on the person of Christ in the believer and basic Biblical exposition of Bible books.\r\n\r\nAmong the many books that he wrote, the most influential have been: \"The Saving Life Of Christ\" , \"The mystery of godliness\" and \"If I perish, I Perish.\" His burden in ministry was to express and show the indwelling life of Christ in believers and the rest and power that life will have in us as we trust and have faith.",
             "_scripture": [
                 {
-                    "book": "1Kings",
-                    "chapter": "17"
-                },
-                {
                     "book": "Hebrews",
                     "chapter": "9"
                 },
@@ -9865,7 +9884,7 @@
             "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "60"
                 },
                 {
@@ -10139,13 +10158,13 @@
         },
         {
             "title": "PEACE INSTEAD OF FEAR",
-            "url": "http:\/\/sermonindex.net\/SID21474",
+            "url": "http:\/\/sermonindex.net\/SID25479",
             "size": "0",
             "format": "mp3",
             "scripture": "John 14:27",
             "topic": "Radio Show",
-            "description": "God lives and works today!   But it is a fact that today, more people than ever before are insecure and afraid!  The answer to all fear - an answer which has already been tested and proven in the lives of many - can be found in this meditation.",
-            "download": "http:\/\/sermonindex.net\/SID21474-download",
+            "description": "God lives and works today! But it is a fact that today, more people than ever before are insecure and afraid! The answer to all fear - an answer which has already been tested and proven in lives of many - can be found in today's program by Basilea Schlink which shows how we can have PEACE INSTEAD OF FEAR.",
+            "download": "http:\/\/sermonindex.net\/SID25479-download",
             "preacher_name": "Basilea Schlink",
             "preacher_image": "\/images\/basilea_schlink.gif",
             "preacher_description": "Basilea Schlink (1904 \u2013 2001)\r\nListen to freely downloadable audio sermons by the speaker Basilea Schlink in mp3 format. She was used of the Lord to help found the Evangelical Sisterhood of Mary. The Lord has used her writings powerfully to help encourage the greater body of Christ of future sufferings for the Lord and how to endure them. Also one of the burdens of her ministry was to share in the sufferings of the Lord and share the sorrow that Jesus has for a lost world and a backslidden church.\r\n\r\n\"In heaven we will say, \u2018Do you remember the time we celebrated a festival of heaven on earth with Mother Basilea?'\" - Corrie ten Boom. \"To visit one of the Kanaan sanctuaries that they have assembled around the world is to visit a taste of the kingdom on earth.\" - Greg Gordon",
@@ -10158,13 +10177,13 @@
         },
         {
             "title": "PEACE INSTEAD OF FEAR",
-            "url": "http:\/\/sermonindex.net\/SID25479",
+            "url": "http:\/\/sermonindex.net\/SID21474",
             "size": "0",
             "format": "mp3",
             "scripture": "John 14:27",
             "topic": "Radio Show",
-            "description": "God lives and works today! But it is a fact that today, more people than ever before are insecure and afraid! The answer to all fear - an answer which has already been tested and proven in lives of many - can be found in today's program by Basilea Schlink which shows how we can have PEACE INSTEAD OF FEAR.",
-            "download": "http:\/\/sermonindex.net\/SID25479-download",
+            "description": "God lives and works today!   But it is a fact that today, more people than ever before are insecure and afraid!  The answer to all fear - an answer which has already been tested and proven in the lives of many - can be found in this meditation.",
+            "download": "http:\/\/sermonindex.net\/SID21474-download",
             "preacher_name": "Basilea Schlink",
             "preacher_image": "\/images\/basilea_schlink.gif",
             "preacher_description": "Basilea Schlink (1904 \u2013 2001)\r\nListen to freely downloadable audio sermons by the speaker Basilea Schlink in mp3 format. She was used of the Lord to help found the Evangelical Sisterhood of Mary. The Lord has used her writings powerfully to help encourage the greater body of Christ of future sufferings for the Lord and how to endure them. Also one of the burdens of her ministry was to share in the sufferings of the Lord and share the sorrow that Jesus has for a lost world and a backslidden church.\r\n\r\n\"In heaven we will say, \u2018Do you remember the time we celebrated a festival of heaven on earth with Mother Basilea?'\" - Corrie ten Boom. \"To visit one of the Kanaan sanctuaries that they have assembled around the world is to visit a taste of the kingdom on earth.\" - Greg Gordon",
@@ -10231,7 +10250,7 @@
                     "chapter": "3"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "51"
                 }
             ]
@@ -13811,7 +13830,7 @@
                     "chapter": "5"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "80"
                 },
                 {
@@ -14429,7 +14448,7 @@
             "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 },
                 {

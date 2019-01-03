@@ -97,7 +97,7 @@
             "preacher_description": "Aaron Dunlop ( - )\r\nListen to freely downloadable audio sermons by the speaker Aaron Dunlop in mp3 format. Mr. Dunlop who is originally from Northern Ireland, graduated from the Geneva Reformed Seminary, SC. and is currently pioneering a Free Presbyterian Church in Victoria, British Columbia.\r\nReformed in Doctrine, believing in the divine authority and verbal inspiration of the Bible, and the great fundamental doctrines of grace it contains. The Scriptures alone are the supreme authority in matters of faith and practice. Separatist in Practice, believing and practicing the doctrine of Biblical separatism. In accordance with this, the Free Presbyterian Church has no association with the modern Ecumenical or Charismatic movements, nor will it fellowship with any church which has departed from the fundamental doctrines of the Word of God.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "2"
                 },
                 {
@@ -107,6 +107,25 @@
                 {
                     "book": "Job",
                     "chapter": "31"
+                }
+            ]
+        },
+        {
+            "title": "Listen to God's whisper",
+            "url": "http:\/\/sermonindex.net\/SID27964",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 King 19:9-13",
+            "topic": "Voice Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27964-download",
+            "preacher_name": "Erlo Stegen",
+            "preacher_image": "\/images\/erlo_stegen.gif",
+            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "_scripture": [
+                {
+                    "book": "1 Kings",
+                    "chapter": "19"
                 }
             ]
         },

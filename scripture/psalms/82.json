@@ -1,0 +1,30 @@
+{
+    "name": "Psalms 82",
+    "book": "Psalms",
+    "chapter": 82,
+    "audio_sermons": [
+        {
+            "title": "68. What is required in the sixth commandment?",
+            "url": "http:\/\/sermonindex.net\/SID22422",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Ephesians 5:29, Psalm 82:3-4",
+            "topic": "Audio Books",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID22422-download",
+            "preacher_name": "Westminster Shorter Catechism",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": [
+                {
+                    "book": "Ephesians",
+                    "chapter": "5"
+                },
+                {
+                    "book": "Psalms",
+                    "chapter": "82"
+                }
+            ]
+        }
+    ]
+}

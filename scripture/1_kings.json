@@ -800,7 +800,7 @@
             "preacher_description": "Aaron Dunlop ( - )\r\nListen to freely downloadable audio sermons by the speaker Aaron Dunlop in mp3 format. Mr. Dunlop who is originally from Northern Ireland, graduated from the Geneva Reformed Seminary, SC. and is currently pioneering a Free Presbyterian Church in Victoria, British Columbia.\r\nReformed in Doctrine, believing in the divine authority and verbal inspiration of the Bible, and the great fundamental doctrines of grace it contains. The Scriptures alone are the supreme authority in matters of faith and practice. Separatist in Practice, believing and practicing the doctrine of Biblical separatism. In accordance with this, the Free Presbyterian Church has no association with the modern Ecumenical or Charismatic movements, nor will it fellowship with any church which has departed from the fundamental doctrines of the Word of God.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "2"
                 },
                 {
@@ -841,6 +841,29 @@
             ]
         },
         {
+            "title": "Life of Elijah - Part 2",
+            "url": "http:\/\/sermonindex.net\/SID17545",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1Kings 17, Hebrews 9:14, John 3:34",
+            "topic": "Elijah",
+            "description": "This Elijah series is an excellent study on the life of Elijah. We see the blessings from his obedience and the results of his disobedience.  A perfect example for each of us to apply to our daily lives.",
+            "download": "http:\/\/sermonindex.net\/SID17545-download",
+            "preacher_name": "Major Ian Thomas",
+            "preacher_image": "\/images\/major_ian_thomas.gif",
+            "preacher_description": "Major Ian Thomas (1914 \u2013 2007)\r\nListen to freely downloadable audio sermons by the speaker Major Ian Thomas in mp3 format. Evangelical writer, theological teacher and founder of the Torchbearers bible schools. These schools are now world-wide in many countries and provide a teaching base on the person of Christ in the believer and basic Biblical exposition of Bible books.\r\n\r\nAmong the many books that he wrote, the most influential have been: \"The Saving Life Of Christ\" , \"The mystery of godliness\" and \"If I perish, I Perish.\" His burden in ministry was to express and show the indwelling life of Christ in believers and the rest and power that life will have in us as we trust and have faith.",
+            "_scripture": [
+                {
+                    "book": "Hebrews",
+                    "chapter": "9"
+                },
+                {
+                    "book": "John",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
             "title": "Life of Elijah - Part 3",
             "url": "http:\/\/sermonindex.net\/SID17546",
             "size": "0",
@@ -856,6 +879,25 @@
                 {
                     "book": "1 Kings",
                     "chapter": "18"
+                }
+            ]
+        },
+        {
+            "title": "Listen to God's whisper",
+            "url": "http:\/\/sermonindex.net\/SID27964",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "1 King 19:9-13",
+            "topic": "Voice Of God",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID27964-download",
+            "preacher_name": "Erlo Stegen",
+            "preacher_image": "\/images\/erlo_stegen.gif",
+            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "_scripture": [
+                {
+                    "book": "1 Kings",
+                    "chapter": "19"
                 }
             ]
         },
@@ -999,7 +1041,7 @@
                     "chapter": "18"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "86"
                 }
             ]
@@ -1205,25 +1247,6 @@
         },
         {
             "title": "The Fire of God",
-            "url": "http:\/\/sermonindex.net\/SID2436",
-            "size": "19795968",
-            "format": "mp3",
-            "scripture": "1 Kings 18",
-            "topic": "Fire of God",
-            "description": "A powerful cry of God to sound the trumpet call of repentance in the light of His soon coming judgment. Drawn from Elijah\u2019s invoking fire from heaven.",
-            "download": "http:\/\/sermonindex.net\/SID2436-download",
-            "preacher_name": "Art Katz",
-            "preacher_image": "\/images\/art_katz.gif",
-            "preacher_description": "Art Katz (1929 \u00e2\u20ac\u201c 2007)\r\nListen to freely downloadable audio sermons by the speaker Art Katz in mp3 format. He was radically converted by reading the New Testament. God used him to have a powerful prophetic insight into the end-times and the coming suffering of the jewish people before the great accepting of Jesus as Messiah. His eschatological insight is a very needful truth to be realized in the body of Christ. \r\n\r\nArt was a prophetic voice insofar as he called his listeners to purposes in God that would affect both time and eternity, purposes that had to do with the glory of God in the Church.   Frequently, his messages called the Church to an awareness of the Last Days [End-times] in such a way that made that time seem imminent and at the door.",
-            "_scripture": [
-                {
-                    "book": "1 Kings",
-                    "chapter": "18"
-                }
-            ]
-        },
-        {
-            "title": "The Fire of God",
             "url": "http:\/\/sermonindex.net\/SID0363",
             "size": "8724480",
             "format": "mp3",
@@ -1243,6 +1266,25 @@
                     "book": "2 Chronicles",
                     "chapter": "7"
                 },
+                {
+                    "book": "1 Kings",
+                    "chapter": "18"
+                }
+            ]
+        },
+        {
+            "title": "The Fire of God",
+            "url": "http:\/\/sermonindex.net\/SID2436",
+            "size": "19795968",
+            "format": "mp3",
+            "scripture": "1 Kings 18",
+            "topic": "Fire of God",
+            "description": "A powerful cry of God to sound the trumpet call of repentance in the light of His soon coming judgment. Drawn from Elijah\u2019s invoking fire from heaven.",
+            "download": "http:\/\/sermonindex.net\/SID2436-download",
+            "preacher_name": "Art Katz",
+            "preacher_image": "\/images\/art_katz.gif",
+            "preacher_description": "Art Katz (1929 \u00e2\u20ac\u201c 2007)\r\nListen to freely downloadable audio sermons by the speaker Art Katz in mp3 format. He was radically converted by reading the New Testament. God used him to have a powerful prophetic insight into the end-times and the coming suffering of the jewish people before the great accepting of Jesus as Messiah. His eschatological insight is a very needful truth to be realized in the body of Christ. \r\n\r\nArt was a prophetic voice insofar as he called his listeners to purposes in God that would affect both time and eternity, purposes that had to do with the glory of God in the Church.   Frequently, his messages called the Church to an awareness of the Last Days [End-times] in such a way that made that time seem imminent and at the door.",
+            "_scripture": [
                 {
                     "book": "1 Kings",
                     "chapter": "18"

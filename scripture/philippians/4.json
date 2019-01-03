@@ -93,13 +93,13 @@
         },
         {
             "title": "EARNEST PRAYER",
-            "url": "http:\/\/sermonindex.net\/SID21411",
+            "url": "http:\/\/sermonindex.net\/SID25467",
             "size": "0",
             "format": "mp3",
             "scripture": "Philippians 4:6",
             "topic": "Radio Show",
-            "description": "God answers prayer - that is, earnest, believing prayer.  But what should we do?  How can we learn to pray so that our prayers will be a sure weapon against the forces of evil? This meditation talks about this power of prayer.",
-            "download": "http:\/\/sermonindex.net\/SID21411-download",
+            "description": "God is a God who answers prayer - that is, earnest, believing prayer. How can we learn to pray so that our prayers will be a sure weapon against the forces of evil? This meditation, by Basilea Schlink talks about this power of prayer. Choir: The prayer of those whom God holds dear, Will bring the might of God to bear, Burst open iron portals. To pray with faith gives strength to all. And changes pain and duty's call To flowers in love's garden.",
+            "download": "http:\/\/sermonindex.net\/SID25467-download",
             "preacher_name": "Basilea Schlink",
             "preacher_image": "\/images\/basilea_schlink.gif",
             "preacher_description": "Basilea Schlink (1904 \u2013 2001)\r\nListen to freely downloadable audio sermons by the speaker Basilea Schlink in mp3 format. She was used of the Lord to help found the Evangelical Sisterhood of Mary. The Lord has used her writings powerfully to help encourage the greater body of Christ of future sufferings for the Lord and how to endure them. Also one of the burdens of her ministry was to share in the sufferings of the Lord and share the sorrow that Jesus has for a lost world and a backslidden church.\r\n\r\n\"In heaven we will say, \u2018Do you remember the time we celebrated a festival of heaven on earth with Mother Basilea?'\" - Corrie ten Boom. \"To visit one of the Kanaan sanctuaries that they have assembled around the world is to visit a taste of the kingdom on earth.\" - Greg Gordon",
@@ -112,13 +112,13 @@
         },
         {
             "title": "EARNEST PRAYER",
-            "url": "http:\/\/sermonindex.net\/SID25467",
+            "url": "http:\/\/sermonindex.net\/SID21411",
             "size": "0",
             "format": "mp3",
             "scripture": "Philippians 4:6",
             "topic": "Radio Show",
-            "description": "God is a God who answers prayer - that is, earnest, believing prayer. How can we learn to pray so that our prayers will be a sure weapon against the forces of evil? This meditation, by Basilea Schlink talks about this power of prayer. Choir: The prayer of those whom God holds dear, Will bring the might of God to bear, Burst open iron portals. To pray with faith gives strength to all. And changes pain and duty's call To flowers in love's garden.",
-            "download": "http:\/\/sermonindex.net\/SID25467-download",
+            "description": "God answers prayer - that is, earnest, believing prayer.  But what should we do?  How can we learn to pray so that our prayers will be a sure weapon against the forces of evil? This meditation talks about this power of prayer.",
+            "download": "http:\/\/sermonindex.net\/SID21411-download",
             "preacher_name": "Basilea Schlink",
             "preacher_image": "\/images\/basilea_schlink.gif",
             "preacher_description": "Basilea Schlink (1904 \u2013 2001)\r\nListen to freely downloadable audio sermons by the speaker Basilea Schlink in mp3 format. She was used of the Lord to help found the Evangelical Sisterhood of Mary. The Lord has used her writings powerfully to help encourage the greater body of Christ of future sufferings for the Lord and how to endure them. Also one of the burdens of her ministry was to share in the sufferings of the Lord and share the sorrow that Jesus has for a lost world and a backslidden church.\r\n\r\n\"In heaven we will say, \u2018Do you remember the time we celebrated a festival of heaven on earth with Mother Basilea?'\" - Corrie ten Boom. \"To visit one of the Kanaan sanctuaries that they have assembled around the world is to visit a taste of the kingdom on earth.\" - Greg Gordon",
@@ -462,6 +462,25 @@
             "preacher_name": "Jim Cymbala",
             "preacher_image": "\/images\/jim_cymbala.gif",
             "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "_scripture": [
+                {
+                    "book": "Philippians",
+                    "chapter": "4"
+                }
+            ]
+        },
+        {
+            "title": "Why Pray",
+            "url": "http:\/\/sermonindex.net\/SID19991",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Phillipians 4:4-9",
+            "topic": "Prayer",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19991-download",
+            "preacher_name": "John Musser",
+            "preacher_image": "",
+            "preacher_description": "",
             "_scripture": [
                 {
                     "book": "Philippians",

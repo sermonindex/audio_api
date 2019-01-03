@@ -82,7 +82,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Matt",
+                    "book": "Matthew",
                     "chapter": "6"
                 },
                 {
@@ -109,7 +109,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Matt",
+                    "book": "Matthew",
                     "chapter": "6"
                 },
                 {
@@ -889,7 +889,7 @@
                     "chapter": "12"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "27"
                 }
             ]

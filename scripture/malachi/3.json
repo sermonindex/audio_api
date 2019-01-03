@@ -4,6 +4,25 @@
     "chapter": 3,
     "audio_sermons": [
         {
+            "title": "Are you Afraid of Revival?",
+            "url": "http:\/\/sermonindex.net\/SID14237",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Malachi 3:2, Mark 3:20",
+            "topic": "Revival",
+            "description": "Michael Brown delivers a message and teaching that examines the heart, illuminating the secret motivations that inhibit the Spirit\u2019s reviving work and free reign in our lives. He assesses manifestations and the nature of the Spirit\u2019s work to transform lives with great wisdom, emphasizing repentance and regeneration even while encouraging abandon to the work of the Spirit and a passionate response to God.",
+            "download": "http:\/\/sermonindex.net\/SID14237-download",
+            "preacher_name": "Michael L. Brown",
+            "preacher_image": "",
+            "preacher_description": "Michael L. Brown ( - )\r\nListen to freely downloadable audio sermons by the speaker Michael L. Brown in mp3 format.  Michael L. Brown is the founder and president of FIRE School of Ministry in Concord, North Carolina, director of the Coalition of Conscience, and host of the daily, nationally, syndicated talk radio show, The Line of Fire, as well as the host of the Jewish-outreach, documentary TV series, Think It Thru, which airs internationally on the INI network. He became a believer in Jesus 1971 as a sixteen year-old, heroin-shooting, LSD-using Jewish rock drummer. Since then, he has preached throughout America and around the world, bringing a message of repentance, revival, reformation, and cultural revolution.\r\nDr. Brown is a national and international speaker on themes of spiritual renewal and cultural reformation, and he has debated Jewish rabbis, agnostic professors, and gay activists on radio, TV, and college campuses. He is widely considered to be the world's foremost Messianic Jewish apologist. He and his wife Nancy, who is also a Jewish believer in Jesus, have been married since 1976. They have two daughters and four grandchildren.",
+            "_scripture": [
+                {
+                    "book": "Malachi",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
             "title": "God's Standard of Values",
             "url": "http:\/\/sermonindex.net\/SID1050",
             "size": "0",
@@ -71,7 +90,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "85"
                 },
                 {
@@ -221,7 +240,7 @@
                     "chapter": "3"
                 },
                 {
-                    "book": "Solomon",
+                    "book": "Song of Solomon",
                     "chapter": "1"
                 }
             ]

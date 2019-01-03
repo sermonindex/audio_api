@@ -448,6 +448,25 @@
             ]
         },
         {
+            "title": "Are you Afraid of Revival?",
+            "url": "http:\/\/sermonindex.net\/SID14237",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Malachi 3:2, Mark 3:20",
+            "topic": "Revival",
+            "description": "Michael Brown delivers a message and teaching that examines the heart, illuminating the secret motivations that inhibit the Spirit\u2019s reviving work and free reign in our lives. He assesses manifestations and the nature of the Spirit\u2019s work to transform lives with great wisdom, emphasizing repentance and regeneration even while encouraging abandon to the work of the Spirit and a passionate response to God.",
+            "download": "http:\/\/sermonindex.net\/SID14237-download",
+            "preacher_name": "Michael L. Brown",
+            "preacher_image": "",
+            "preacher_description": "Michael L. Brown ( - )\r\nListen to freely downloadable audio sermons by the speaker Michael L. Brown in mp3 format.  Michael L. Brown is the founder and president of FIRE School of Ministry in Concord, North Carolina, director of the Coalition of Conscience, and host of the daily, nationally, syndicated talk radio show, The Line of Fire, as well as the host of the Jewish-outreach, documentary TV series, Think It Thru, which airs internationally on the INI network. He became a believer in Jesus 1971 as a sixteen year-old, heroin-shooting, LSD-using Jewish rock drummer. Since then, he has preached throughout America and around the world, bringing a message of repentance, revival, reformation, and cultural revolution.\r\nDr. Brown is a national and international speaker on themes of spiritual renewal and cultural reformation, and he has debated Jewish rabbis, agnostic professors, and gay activists on radio, TV, and college campuses. He is widely considered to be the world's foremost Messianic Jewish apologist. He and his wife Nancy, who is also a Jewish believer in Jesus, have been married since 1976. They have two daughters and four grandchildren.",
+            "_scripture": [
+                {
+                    "book": "Malachi",
+                    "chapter": "3"
+                }
+            ]
+        },
+        {
             "title": "Basics of Revival",
             "url": "http:\/\/sermonindex.net\/SID24674",
             "size": "0",
@@ -1273,7 +1292,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "85"
                 },
                 {
@@ -1408,7 +1427,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 }
             ]
@@ -1685,7 +1704,7 @@
                     "chapter": "18"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "86"
                 }
             ]
@@ -1864,16 +1883,44 @@
         },
         {
             "title": "Revival",
-            "url": "http:\/\/sermonindex.net\/SID23309",
+            "url": "http:\/\/sermonindex.net\/SID25277",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Revival",
             "description": "",
-            "download": "http:\/\/sermonindex.net\/SID23309-download",
-            "preacher_name": "Bill Stafford",
+            "download": "http:\/\/sermonindex.net\/SID25277-download",
+            "preacher_name": "Johan vd Westhuysen",
             "preacher_image": "",
             "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Revival",
+            "url": "http:\/\/sermonindex.net\/SID23704",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID23704-download",
+            "preacher_name": "J. Wesley Adcock",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "Revival",
+            "url": "http:\/\/sermonindex.net\/SID19384",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID19384-download",
+            "preacher_name": "Gareth Evans",
+            "preacher_image": "",
+            "preacher_description": "Gareth Evans ( - )\r\nListen to freely downloadable audio sermons by the speaker Gareth Evans in mp3 format. Gareth Evans is an itinerant pastor\/teacher with a burden to minister to the hurting church his ministry website is Gareth Evans Ministries.  Formerly a Physics teacher in the UK and Canada, he became a pastor with the Christian & Missionary Alliance in Canada in 1979. In 1991, he was invited to serve as pastor on board the M\/V Anastasis, a medical, missionary ship operated by Youth With A Mission (YWAM). Since leaving that ministry four years later, Gareth has traveled to many countries, encouraging pastors and missionaries.\r\nHe is married to Anne and they have three married daughters, nine grandchildren and three great grandchildren. Gareth and Anne live in Victoria, in beautiful British Columbia, Canada. Some of his main burdens is to mentor young men to see them walk in the anointing of God and soar on wings as eagles. He has also prayed for revival and moderated many SermonIndex revival conferences across the world.",
             "_scripture": []
         },
         {
@@ -1908,7 +1955,7 @@
                     "chapter": "7"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "85"
                 }
             ]
@@ -1929,58 +1976,16 @@
         },
         {
             "title": "Revival",
-            "url": "http:\/\/sermonindex.net\/SID25277",
+            "url": "http:\/\/sermonindex.net\/SID23309",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Revival",
             "description": "",
-            "download": "http:\/\/sermonindex.net\/SID25277-download",
-            "preacher_name": "Johan vd Westhuysen",
+            "download": "http:\/\/sermonindex.net\/SID23309-download",
+            "preacher_name": "Bill Stafford",
             "preacher_image": "",
             "preacher_description": "",
-            "_scripture": []
-        },
-        {
-            "title": "Revival",
-            "url": "http:\/\/sermonindex.net\/SID19384",
-            "size": "0",
-            "format": "mp3",
-            "scripture": "",
-            "topic": "Revival",
-            "description": "",
-            "download": "http:\/\/sermonindex.net\/SID19384-download",
-            "preacher_name": "Gareth Evans",
-            "preacher_image": "",
-            "preacher_description": "Gareth Evans ( - )\r\nListen to freely downloadable audio sermons by the speaker Gareth Evans in mp3 format. Gareth Evans is an itinerant pastor\/teacher with a burden to minister to the hurting church his ministry website is Gareth Evans Ministries.  Formerly a Physics teacher in the UK and Canada, he became a pastor with the Christian & Missionary Alliance in Canada in 1979. In 1991, he was invited to serve as pastor on board the M\/V Anastasis, a medical, missionary ship operated by Youth With A Mission (YWAM). Since leaving that ministry four years later, Gareth has traveled to many countries, encouraging pastors and missionaries.\r\nHe is married to Anne and they have three married daughters, nine grandchildren and three great grandchildren. Gareth and Anne live in Victoria, in beautiful British Columbia, Canada. Some of his main burdens is to mentor young men to see them walk in the anointing of God and soar on wings as eagles. He has also prayed for revival and moderated many SermonIndex revival conferences across the world.",
-            "_scripture": []
-        },
-        {
-            "title": "Revival",
-            "url": "http:\/\/sermonindex.net\/SID23704",
-            "size": "0",
-            "format": "mp3",
-            "scripture": "",
-            "topic": "Revival",
-            "description": "",
-            "download": "http:\/\/sermonindex.net\/SID23704-download",
-            "preacher_name": "J. Wesley Adcock",
-            "preacher_image": "",
-            "preacher_description": "",
-            "_scripture": []
-        },
-        {
-            "title": "Revival ",
-            "url": "http:\/\/sermonindex.net\/SID21728",
-            "size": "0",
-            "format": "mp3",
-            "scripture": "",
-            "topic": "Revival",
-            "description": "",
-            "download": "http:\/\/sermonindex.net\/SID21728-download",
-            "preacher_name": "Stephen Olford",
-            "preacher_image": "",
-            "preacher_description": "Stephen Olford (1918 - 2004)\r\nListen to freely downloadable audio sermons by the speaker Stephen Olford in mp3 format. Was a 20th-century Christian leader. Dr. Billy Graham called him \"the man who most influenced my ministry.\" He was a personal confidant of Graham. Olford was also a role model and friend to prominent pastors such as Charles Stanley and Adrian Rogers. He was a pioneer in Christian television programming with his show, Encounter, in New York. His Sunday morning sermons were also broadcast around the world on radio.[1] He was the Founder and Chairman of the Board of Olford Ministries International in Memphis, Tennessee which became The Stephen Olford Center at Union University. His authorized biography, Only One Life, was written by John Philipps.\r\nIn 1953, Dr. Stephen F. Olford's years of pastoral ministry began by serving the Duke Street Baptist Church in Richmond, Surrey England (1953\u20131959) and then the Calvary Baptist Church in New York City (1959\u20131973).[1] Olford systematized his method of expository preaching and formed a curriculum used to train preachers at the Olford Institute for Biblical Preaching in Memphis, Tennessee. Pastors and scholars migrated to the institute for inspiration and instruction that often resulted in upgraded pulpit ministries.",
             "_scripture": []
         },
         {
@@ -1995,6 +2000,20 @@
             "preacher_name": "Manley Beasley",
             "preacher_image": "\/images\/manley_beasley.gif",
             "preacher_description": "Manley Beasley (1932 - 1990)\r\nListen to freely downloadable audio sermons by the speaker Manley Beasley in mp3 format. Brother Beasley was a powerful preacher of the Word of God who ministered mostly in southern Baptist churches in America. The Lord gave him a gift of faith to trust the Lord in impossible circumstances for God's glory. Even though Manley Beasley was not very old as we measure a life's span, he left behind a legacy of faith that was rarely seen in his generation. We pray that he will be honored and the Lord glorified by this attempt to share this legacy with all who would live a life of faith that is truly pleasing to God.\r\nThere came a time when Manley believed the Lord gave him a choice of complete healing or daily healing. Manley chose daily healing because for him it was an act of faith that each day the Lord had to heal him to the point that he could get out of bed. During those years there were more confinements in the hospital, as well as trips to Europe and revivals all over the United States. He led Bible Conferences, revivals, and shared his personal testimony with others dealing with illness.",
+            "_scripture": []
+        },
+        {
+            "title": "Revival ",
+            "url": "http:\/\/sermonindex.net\/SID21728",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "",
+            "download": "http:\/\/sermonindex.net\/SID21728-download",
+            "preacher_name": "Stephen Olford",
+            "preacher_image": "",
+            "preacher_description": "Stephen Olford (1918 - 2004)\r\nListen to freely downloadable audio sermons by the speaker Stephen Olford in mp3 format. Was a 20th-century Christian leader. Dr. Billy Graham called him \"the man who most influenced my ministry.\" He was a personal confidant of Graham. Olford was also a role model and friend to prominent pastors such as Charles Stanley and Adrian Rogers. He was a pioneer in Christian television programming with his show, Encounter, in New York. His Sunday morning sermons were also broadcast around the world on radio.[1] He was the Founder and Chairman of the Board of Olford Ministries International in Memphis, Tennessee which became The Stephen Olford Center at Union University. His authorized biography, Only One Life, was written by John Philipps.\r\nIn 1953, Dr. Stephen F. Olford's years of pastoral ministry began by serving the Duke Street Baptist Church in Richmond, Surrey England (1953\u20131959) and then the Calvary Baptist Church in New York City (1959\u20131973).[1] Olford systematized his method of expository preaching and formed a curriculum used to train preachers at the Olford Institute for Biblical Preaching in Memphis, Tennessee. Pastors and scholars migrated to the institute for inspiration and instruction that often resulted in upgraded pulpit ministries.",
             "_scripture": []
         },
         {
@@ -2490,7 +2509,7 @@
                     "chapter": "2"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "85"
                 }
             ]
@@ -2683,7 +2702,7 @@
             "preacher_description": "Leonard Ravenhill (1907 \u00c2\u2013 1994)\r\nListen to freely downloadable audio sermons by the speaker Leonard Ravenhill in mp3 format. A revivalist and man of God who sought God's will above all else. He was a man of prayer who practiced what he preached. He wrote the book: 'Why Revival Tarries' which has become a classic on revival. His prophetic edge and burden made him to be respected by some and disliked by others. Yet he stayed true to God's call on his life prayed and pleading for true heaven sent revival. \r\n\r\n\"Those who know of Leonard Ravenhill recognize in him the religious specialist, the man sent from God to battle the priests of Baal on their own mountain top, to shame the careless priest at the altar, to face the false prophet, and to warn the people who are being led astray by him. \" - Tozer | \"Leonard Ravenhill was one of the few men I have ever known who was a true prophet.\" - David Wilkerson",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 }
             ]
@@ -2759,7 +2778,7 @@
             "preacher_description": "E.A. Johnston ( - )\r\nListen to freely downloadable audio sermons by the speaker E.A. Johnston in mp3 format. E. A. Johnston lives in Memphis, Tennessee and is a fellow of the Stephen Olford Institute for Biblical Preaching. He is currently involved in Bible teaching and disciple making, as well as authoring books. Some of his titles include: Realities of Revival (series), Church in Revival (series), Call to Revival (series), Return to Me, No Turning Back, The Master\u2019s Plan, Walking with God, etc.\r\n\"If the Church will not defend His holy Name then the Almighty must. God will either pour out His blessings in revival to defend His holy Name, or He will pour out His wrath upon mankind to avenge His holy Name. It will either be a defending or avenging to show forth His glory and remind mankind He alone is the Sovereign ruler of all.\"",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "110"
                 }
             ]
@@ -2932,7 +2951,7 @@
             "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "85"
                 }
             ]
@@ -3119,7 +3138,7 @@
                     "chapter": "19"
                 },
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "139"
                 }
             ]
@@ -3856,7 +3875,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "85"
                 }
             ]
@@ -4040,6 +4059,20 @@
         },
         {
             "title": "What Is Revival?",
+            "url": "http:\/\/sermonindex.net\/SID24685",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "",
+            "topic": "Revival",
+            "description": "True revival is not an emotional experience that affects many people but has short-lived results. An effective revival requires being sensitive to the Spirit and will of God. There may be great travail accompanying revival. Revival takes place in individuals and in communities. It is a purposeful undertaking, like stirring hot coals and adding fuel to revive the flames.",
+            "download": "http:\/\/sermonindex.net\/SID24685-download",
+            "preacher_name": "Mose Stoltzfus",
+            "preacher_image": "",
+            "preacher_description": "",
+            "_scripture": []
+        },
+        {
+            "title": "What Is Revival?",
             "url": "http:\/\/sermonindex.net\/SID18488",
             "size": "0",
             "format": "mp3",
@@ -4056,20 +4089,6 @@
                     "chapter": "57"
                 }
             ]
-        },
-        {
-            "title": "What Is Revival?",
-            "url": "http:\/\/sermonindex.net\/SID24685",
-            "size": "0",
-            "format": "mp3",
-            "scripture": "",
-            "topic": "Revival",
-            "description": "True revival is not an emotional experience that affects many people but has short-lived results. An effective revival requires being sensitive to the Spirit and will of God. There may be great travail accompanying revival. Revival takes place in individuals and in communities. It is a purposeful undertaking, like stirring hot coals and adding fuel to revive the flames.",
-            "download": "http:\/\/sermonindex.net\/SID24685-download",
-            "preacher_name": "Mose Stoltzfus",
-            "preacher_image": "",
-            "preacher_description": "",
-            "_scripture": []
         },
         {
             "title": "What Is The Secret Of Your Strength - Part 1 (alternative) ",
@@ -4244,7 +4263,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 }
             ]
@@ -4282,7 +4301,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 }
             ]
@@ -4301,7 +4320,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 }
             ]
@@ -4320,7 +4339,7 @@
             "preacher_description": "",
             "_scripture": [
                 {
-                    "book": "Psalm",
+                    "book": "Psalms",
                     "chapter": "119"
                 }
             ]
@@ -4388,25 +4407,6 @@
         },
         {
             "title": "Why Revival Tarries",
-            "url": "http:\/\/sermonindex.net\/SID19607",
-            "size": "0",
-            "format": "mp3",
-            "scripture": "Acts 1",
-            "topic": "Revival",
-            "description": "George Verwer shares his burden for revival and spiritual awakening in modern day evangelism. There is such a need to realize we are deceived even the best of us. We need to seek reality and surrender fully in radical discipleship to the Lord Jesus Christ.",
-            "download": "http:\/\/sermonindex.net\/SID19607-download",
-            "preacher_name": "George Verwer",
-            "preacher_image": "\/images\/george_verwer.gif",
-            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
-            "_scripture": [
-                {
-                    "book": "Acts",
-                    "chapter": "1"
-                }
-            ]
-        },
-        {
-            "title": "Why Revival Tarries",
             "url": "http:\/\/sermonindex.net\/SID20805",
             "size": "0",
             "format": "mp3",
@@ -4421,6 +4421,25 @@
                 {
                     "book": "Joel",
                     "chapter": "2"
+                }
+            ]
+        },
+        {
+            "title": "Why Revival Tarries",
+            "url": "http:\/\/sermonindex.net\/SID19607",
+            "size": "0",
+            "format": "mp3",
+            "scripture": "Acts 1",
+            "topic": "Revival",
+            "description": "George Verwer shares his burden for revival and spiritual awakening in modern day evangelism. There is such a need to realize we are deceived even the best of us. We need to seek reality and surrender fully in radical discipleship to the Lord Jesus Christ.",
+            "download": "http:\/\/sermonindex.net\/SID19607-download",
+            "preacher_name": "George Verwer",
+            "preacher_image": "\/images\/george_verwer.gif",
+            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "_scripture": [
+                {
+                    "book": "Acts",
+                    "chapter": "1"
                 }
             ]
         },
