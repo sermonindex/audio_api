@@ -2,7 +2,7 @@
     "name": "John 9",
     "book": "John",
     "chapter": 9,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John - Part 37): The Simple Faith of the Blind Man",
             "url": "http:\/\/sermonindex.net\/SID2124",

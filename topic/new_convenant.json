@@ -1,7 +1,7 @@
 {
     "name": "New Convenant",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Terms Of The New Convenant",
             "url": "http:\/\/sermonindex.net\/SID4079",

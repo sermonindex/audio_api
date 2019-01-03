@@ -2,7 +2,7 @@
     "name": "Psalms, Hymns and Songs",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ancient Words",
             "url": "http:\/\/sermonindex.net\/SID13158",

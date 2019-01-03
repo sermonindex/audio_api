@@ -1,7 +1,7 @@
 {
     "name": "Evangelists",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Evangelists",
             "url": "http:\/\/sermonindex.net\/SID25215",

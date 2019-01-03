@@ -1,7 +1,7 @@
 {
     "name": "Missionary",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Are You a Missionary or a Mission Field?",
             "url": "http:\/\/sermonindex.net\/SID26456",

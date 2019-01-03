@@ -1,7 +1,7 @@
 {
     "name": "Gaius",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "To The Beloved Gaius",
             "url": "http:\/\/sermonindex.net\/SID9788",

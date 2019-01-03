@@ -1,7 +1,7 @@
 {
     "name": "Seasons",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Season and a Time",
             "url": "http:\/\/sermonindex.net\/SID27538",

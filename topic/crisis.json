@@ -1,7 +1,7 @@
 {
     "name": "Crisis",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Crisis",
             "url": "http:\/\/sermonindex.net\/SID21082",

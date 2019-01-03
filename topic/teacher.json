@@ -1,7 +1,7 @@
 {
     "name": "Teacher",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Peter The Teacher",
             "url": "http:\/\/sermonindex.net\/SID7305",

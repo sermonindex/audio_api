@@ -1,7 +1,7 @@
 {
     "name": "Confession",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(First Baptist Church) #3 - Forgiveness and Confession",
             "url": "http:\/\/sermonindex.net\/SID12233",

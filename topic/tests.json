@@ -1,7 +1,7 @@
 {
     "name": "Tests",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Satisfied To Do Little When We Should Be Doing Much",
             "url": "http:\/\/sermonindex.net\/SID27529",

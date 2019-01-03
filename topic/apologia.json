@@ -1,7 +1,7 @@
 {
     "name": "Apologia",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Jude - Defending the Faith",
             "url": "http:\/\/sermonindex.net\/SID26746",

@@ -1,7 +1,7 @@
 {
     "name": "Angels",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Angels",
             "url": "http:\/\/sermonindex.net\/SID20289",

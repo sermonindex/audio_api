@@ -1,7 +1,7 @@
 {
     "name": "Wisdom's Way",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Walking Along Wisdom's Way",
             "url": "http:\/\/sermonindex.net\/SID4737",

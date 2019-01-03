@@ -1,7 +1,7 @@
 {
     "name": "Dark Days",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Getting Through Dark Days",
             "url": "http:\/\/sermonindex.net\/SID17644",

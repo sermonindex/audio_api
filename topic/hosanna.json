@@ -1,7 +1,7 @@
 {
     "name": "Hosanna",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Hosanna!",
             "url": "http:\/\/sermonindex.net\/SID9061",

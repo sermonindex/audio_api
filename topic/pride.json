@@ -1,7 +1,7 @@
 {
     "name": "Pride",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Attitudes On Pride  ",
             "url": "http:\/\/sermonindex.net\/SID21996",
@@ -217,7 +217,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID14191-download",
             "preacher_name": "Harold Vaughan",
-            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         }

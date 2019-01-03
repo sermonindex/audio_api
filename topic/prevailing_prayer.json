@@ -1,7 +1,7 @@
 {
     "name": "Prevailing Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(South West Baptist Church 2008) Praying It Through",
             "url": "http:\/\/sermonindex.net\/SID18132",

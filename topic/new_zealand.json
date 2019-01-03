@@ -1,7 +1,7 @@
 {
     "name": "New Zealand",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Message 1 of 5 - New Zealand",
             "url": "http:\/\/sermonindex.net\/SID22061",

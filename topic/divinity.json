@@ -1,7 +1,7 @@
 {
     "name": "Divinity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Divinity of our Lord Jesus Christ",
             "url": "http:\/\/sermonindex.net\/SID22114",

@@ -1,7 +1,7 @@
 {
     "name": "True Vine",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christ, The True Vine",
             "url": "http:\/\/sermonindex.net\/SID24228",

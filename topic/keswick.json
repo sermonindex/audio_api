@@ -1,7 +1,7 @@
 {
     "name": "Keswick",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christ 01 ~ Keswick Conference 1970",
             "url": "http:\/\/sermonindex.net\/SID24476",

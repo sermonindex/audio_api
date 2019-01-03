@@ -1,7 +1,7 @@
 {
     "name": "Lion's Den",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Daniel) Daniel in the Lion's Den",
             "url": "http:\/\/sermonindex.net\/SID13846",

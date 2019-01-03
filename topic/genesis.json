@@ -1,7 +1,7 @@
 {
     "name": "Genesis",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Genesis) - Part 1",
             "url": "http:\/\/sermonindex.net\/SID13381",

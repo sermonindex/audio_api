@@ -1,7 +1,7 @@
 {
     "name": "Fame",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "From Footlights to Fame",
             "url": "http:\/\/sermonindex.net\/SID23833",

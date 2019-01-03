@@ -1,7 +1,7 @@
 {
     "name": "Flattery",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Flattery",
             "url": "http:\/\/sermonindex.net\/SID25734",

@@ -1,7 +1,7 @@
 {
     "name": "Pastors",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Pastor's Library",
             "url": "http:\/\/sermonindex.net\/SID24560",

@@ -1,7 +1,7 @@
 {
     "name": "Culture",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Answers for Our Days",
             "url": "http:\/\/sermonindex.net\/SID26201",

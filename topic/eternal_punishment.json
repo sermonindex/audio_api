@@ -1,7 +1,7 @@
 {
     "name": "Eternal Punishment",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Horror of Eternal Punishment",
             "url": "http:\/\/sermonindex.net\/SID27697",

@@ -1,7 +1,7 @@
 {
     "name": "Cambridge",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Evening Celebration Cambridge 3.1.93",
             "url": "http:\/\/sermonindex.net\/SID21613",

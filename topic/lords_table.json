@@ -1,7 +1,7 @@
 {
     "name": "Lord's Table",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Lord's Table",
             "url": "http:\/\/sermonindex.net\/SID1218",

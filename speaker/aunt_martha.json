@@ -2,7 +2,7 @@
     "name": "Aunt Martha",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Bible Readings For Children",
             "url": "http:\/\/sermonindex.net\/SID14848",

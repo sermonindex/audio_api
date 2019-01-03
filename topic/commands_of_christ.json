@@ -1,7 +1,7 @@
 {
     "name": "Commands Of Christ",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Remember the words I have spoken",
             "url": "http:\/\/sermonindex.net\/SID15984",

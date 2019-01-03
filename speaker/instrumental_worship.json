@@ -2,7 +2,7 @@
     "name": "Instrumental Worship",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "All I need",
             "url": "http:\/\/sermonindex.net\/SID9238",

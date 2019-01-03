@@ -1,7 +1,7 @@
 {
     "name": "Nativity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Who is he in yonder Stall?",
             "url": "http:\/\/sermonindex.net\/SID15390",

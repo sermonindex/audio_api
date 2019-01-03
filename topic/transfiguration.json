@@ -1,7 +1,7 @@
 {
     "name": "Transfiguration",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Transfigured Road",
             "url": "http:\/\/sermonindex.net\/SID1194",

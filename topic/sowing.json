@@ -1,7 +1,7 @@
 {
     "name": "Sowing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "We Will Reap What We Sow",
             "url": "http:\/\/sermonindex.net\/SID24875",

@@ -1,7 +1,7 @@
 {
     "name": "New Year",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Better New Year",
             "url": "http:\/\/sermonindex.net\/SID28277",

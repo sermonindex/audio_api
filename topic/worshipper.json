@@ -1,7 +1,7 @@
 {
     "name": "Worshipper",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Making Of A Worshipper",
             "url": "http:\/\/sermonindex.net\/SID2635",

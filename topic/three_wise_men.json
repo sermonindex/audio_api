@@ -1,7 +1,7 @@
 {
     "name": "Three Wise Men",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "SPAN-01 The Three Wise Men",
             "url": "http:\/\/sermonindex.net\/SID14260",

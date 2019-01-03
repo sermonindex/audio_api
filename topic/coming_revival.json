@@ -1,7 +1,7 @@
 {
     "name": "Coming Revival",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Revival Now",
             "url": "http:\/\/sermonindex.net\/SID20193",

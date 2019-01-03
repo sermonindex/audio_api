@@ -2,7 +2,7 @@
     "name": "Ezra 1",
     "book": "Ezra",
     "chapter": 1,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Synagogue & Temple",
             "url": "http:\/\/sermonindex.net\/SID0731",

@@ -1,7 +1,7 @@
 {
     "name": "Classics Podcast",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "At the Price of God's Own Blood by John Piper",
             "url": "http:\/\/sermonindex.net\/SID22586",

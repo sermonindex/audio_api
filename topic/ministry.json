@@ -1,7 +1,7 @@
 {
     "name": "Ministry",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Costa Rica) The Ministry of Refreshing Others",
             "url": "http:\/\/sermonindex.net\/SID14603",

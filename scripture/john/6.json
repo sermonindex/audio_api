@@ -2,7 +2,7 @@
     "name": "John 6",
     "book": "John",
     "chapter": 6,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Following The Footsteps Of Christ) Feeding The Five Thousand",
             "url": "http:\/\/sermonindex.net\/SID8381",

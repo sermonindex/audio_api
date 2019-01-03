@@ -1,7 +1,7 @@
 {
     "name": "Instruction",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Building instructions",
             "url": "http:\/\/sermonindex.net\/SID3979",

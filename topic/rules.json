@@ -1,7 +1,7 @@
 {
     "name": "Rules",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Follow These Rules",
             "url": "http:\/\/sermonindex.net\/SID25542",

@@ -2,7 +2,7 @@
     "name": "Canaan Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "134",
             "url": "http:\/\/sermonindex.net\/SID16149",

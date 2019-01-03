@@ -1,7 +1,7 @@
 {
     "name": "Super Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Coming Super Church",
             "url": "http:\/\/sermonindex.net\/SID20588",

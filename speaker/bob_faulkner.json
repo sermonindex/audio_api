@@ -2,7 +2,7 @@
     "name": "Bob Faulkner",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A westerner reflects on persecution",
             "url": "http:\/\/sermonindex.net\/SID26027",

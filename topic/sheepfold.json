@@ -1,7 +1,7 @@
 {
     "name": "Sheepfold",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Facts about the Sheepfold",
             "url": "http:\/\/sermonindex.net\/SID6864",

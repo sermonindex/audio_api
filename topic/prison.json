@@ -1,7 +1,7 @@
 {
     "name": "Prison",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "In Chains, yet free",
             "url": "http:\/\/sermonindex.net\/SID9062",

@@ -1,7 +1,7 @@
 {
     "name": "Shout",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "K-051 Anatomy of a Shout",
             "url": "http:\/\/sermonindex.net\/SID12308",

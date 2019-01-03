@@ -1,7 +1,7 @@
 {
     "name": "Support",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Raising Support",
             "url": "http:\/\/sermonindex.net\/SID19934",

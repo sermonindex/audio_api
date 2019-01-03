@@ -1,7 +1,7 @@
 {
     "name": "Sins",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sceva's Seven Sins",
             "url": "http:\/\/sermonindex.net\/SID25550",

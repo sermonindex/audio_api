@@ -1,7 +1,7 @@
 {
     "name": "Devil",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Letter from the Devil",
             "url": "http:\/\/sermonindex.net\/SID16332",

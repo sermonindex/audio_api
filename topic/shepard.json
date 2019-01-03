@@ -1,7 +1,7 @@
 {
     "name": "Shepard",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Spain) Guarding the Sheep",
             "url": "http:\/\/sermonindex.net\/SID15635",

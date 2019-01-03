@@ -1,7 +1,7 @@
 {
     "name": "Detachment",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Process of Detachment",
             "url": "http:\/\/sermonindex.net\/SID20945",

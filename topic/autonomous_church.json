@@ -1,7 +1,7 @@
 {
     "name": "Autonomous Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Autonomous Church",
             "url": "http:\/\/sermonindex.net\/SID25218",

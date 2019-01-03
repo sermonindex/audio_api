@@ -2,7 +2,7 @@
     "name": "Follow The Lamb",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Gethsemane",
             "url": "http:\/\/sermonindex.net\/SID22295",

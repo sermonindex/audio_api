@@ -1,7 +1,7 @@
 {
     "name": "Mysteries",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Unsearchable things",
             "url": "http:\/\/sermonindex.net\/SID21558",

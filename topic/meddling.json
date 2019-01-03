@@ -1,7 +1,7 @@
 {
     "name": "Meddling",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Danger Of Meddling",
             "url": "http:\/\/sermonindex.net\/SID8785",

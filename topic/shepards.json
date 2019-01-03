@@ -1,7 +1,7 @@
 {
     "name": "Shepards",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Dangerous Shepards",
             "url": "http:\/\/sermonindex.net\/SID2466",

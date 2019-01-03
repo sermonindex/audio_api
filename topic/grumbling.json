@@ -1,7 +1,7 @@
 {
     "name": "Grumbling",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Today's Supply",
             "url": "http:\/\/sermonindex.net\/SID27505",

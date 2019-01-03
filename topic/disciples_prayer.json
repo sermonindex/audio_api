@@ -1,7 +1,7 @@
 {
     "name": "Disciples' Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Disciples' Prayer",
             "url": "http:\/\/sermonindex.net\/SID7341",

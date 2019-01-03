@@ -1,7 +1,7 @@
 {
     "name": "Samson",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Men God Made) Samson",
             "url": "http:\/\/sermonindex.net\/SID16306",

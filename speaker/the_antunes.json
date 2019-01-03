@@ -2,7 +2,7 @@
     "name": "The Antunes",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Hear Oh Lord",
             "url": "http:\/\/sermonindex.net\/SID20011",

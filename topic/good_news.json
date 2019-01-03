@@ -1,7 +1,7 @@
 {
     "name": "Good News",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Evangel",
             "url": "http:\/\/sermonindex.net\/SID18547",

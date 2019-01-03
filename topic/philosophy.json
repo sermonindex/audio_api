@@ -1,7 +1,7 @@
 {
     "name": "Philosophy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Confronting the Philosophers",
             "url": "http:\/\/sermonindex.net\/SID26704",

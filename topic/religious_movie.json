@@ -1,7 +1,7 @@
 {
     "name": "Religious Movie",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Menace of the Religious Movie (reading)",
             "url": "http:\/\/sermonindex.net\/SID13785",

@@ -2,7 +2,7 @@
     "name": "D. L. Moody",
     "image": "\/images\/d_l_moody.gif",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Reading from the Beatitudes",
             "url": "http:\/\/sermonindex.net\/SID0268",

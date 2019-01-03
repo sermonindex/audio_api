@@ -1,7 +1,7 @@
 {
     "name": "Sermon Preparation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Sermon Preparation) Lecture 01",
             "url": "http:\/\/sermonindex.net\/SID14970",

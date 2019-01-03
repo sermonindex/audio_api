@@ -1,7 +1,7 @@
 {
     "name": "Youth Ministry",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Youth Ministry",
             "url": "http:\/\/sermonindex.net\/SID22575",

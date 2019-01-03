@@ -1,7 +1,7 @@
 {
     "name": "Benediction",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Ephesians) The Benediction",
             "url": "http:\/\/sermonindex.net\/SID18966",

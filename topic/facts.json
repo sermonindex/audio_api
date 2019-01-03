@@ -1,7 +1,7 @@
 {
     "name": "Facts",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Facts From The Past",
             "url": "http:\/\/sermonindex.net\/SID7306",

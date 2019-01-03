@@ -1,7 +1,7 @@
 {
     "name": "Asaph",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Psalm of Asaph",
             "url": "http:\/\/sermonindex.net\/SID25625",

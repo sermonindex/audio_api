@@ -1,8 +1,8 @@
 {
     "name": "Mary Peckham",
-    "image": "\/images\/mary_peckham.gif",
+    "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Virtuous Woman",
             "url": "http:\/\/sermonindex.net\/SID24243",
@@ -13,7 +13,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID24243-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -27,7 +27,7 @@
             "description": "Mary Peckham vividly recounts her wayward teenage years and how God's visitation in her native Island of Lewis radically changed her.  She recounts the buzz and excitement of the revival among the people and how \"there was such an atmosphere of God\".  \"The sense of time was gone,\" she recollected and testified how cottage prayer meetings became holy ground--\"every step of the stairs became a pew.\"  She shares some eyewitness accounts of Duncan Campbell and stirs the heart to long for more of God.",
             "download": "http:\/\/sermonindex.net\/SID0497-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": [
                 {
@@ -46,7 +46,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID24248-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -60,7 +60,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2921-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -74,7 +74,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID24244-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -88,7 +88,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID24245-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -102,7 +102,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID24246-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -116,7 +116,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID24247-download",
             "preacher_name": "Mary Peckham",
-            "preacher_image": "\/images\/mary_peckham.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         }

@@ -1,7 +1,7 @@
 {
     "name": "New Beginning",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Gospel of A New Beginning",
             "url": "http:\/\/sermonindex.net\/SID22100",

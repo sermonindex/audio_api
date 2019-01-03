@@ -1,7 +1,7 @@
 {
     "name": "Operation World",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Op World 1 Sun 1982",
             "url": "http:\/\/sermonindex.net\/SID21532",

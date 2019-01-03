@@ -1,7 +1,7 @@
 {
     "name": "Prejudice",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Perils of Prejudice",
             "url": "http:\/\/sermonindex.net\/SID24306",

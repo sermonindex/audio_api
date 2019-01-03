@@ -1,7 +1,7 @@
 {
     "name": "Shepherds",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Gods revelation to the shepherds",
             "url": "http:\/\/sermonindex.net\/SID21308",

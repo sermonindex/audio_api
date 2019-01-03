@@ -1,7 +1,7 @@
 {
     "name": "False Profession",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Sheep and the Goats",
             "url": "http:\/\/sermonindex.net\/SID16690",

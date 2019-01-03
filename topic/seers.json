@@ -1,7 +1,7 @@
 {
     "name": "Seers",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Seers",
             "url": "http:\/\/sermonindex.net\/SID22664",

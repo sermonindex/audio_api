@@ -1,7 +1,7 @@
 {
     "name": "Agrippa",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Paul speaks before Agrippa",
             "url": "http:\/\/sermonindex.net\/SID23562",

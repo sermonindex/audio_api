@@ -2,7 +2,7 @@
     "name": "Puritan Readings",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A House Without Light read by Todd Gaddy",
             "url": "http:\/\/sermonindex.net\/SID16762",

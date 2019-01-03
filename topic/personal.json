@@ -1,7 +1,7 @@
 {
     "name": "Personal",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Speaking Personally",
             "url": "http:\/\/sermonindex.net\/SID23638",

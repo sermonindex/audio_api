@@ -1,7 +1,7 @@
 {
     "name": "Street Preaching",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Reprobate Mind",
             "url": "http:\/\/sermonindex.net\/SID12808",

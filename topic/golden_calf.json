@@ -1,7 +1,7 @@
 {
     "name": "Golden Calf",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Golden Calf",
             "url": "http:\/\/sermonindex.net\/SID20757",

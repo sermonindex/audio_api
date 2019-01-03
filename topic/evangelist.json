@@ -1,7 +1,7 @@
 {
     "name": "Evangelist",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Evangelist",
             "url": "http:\/\/sermonindex.net\/SID12195",

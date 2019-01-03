@@ -2,7 +2,7 @@
     "name": "John Calvin",
     "image": "",
     "description": "John Calvin (1509 - 1584)\r\nListen to freely downloadable audio sermons by the speaker John Calvin in mp3 format.  Was an influential French theologian and pastor during the Protestant Reformation. He was a principal figure in the development of the system of Christian theology later called Calvinism. Originally trained as a humanist lawyer, he broke from the Roman Catholic Church around 1530. After religious tensions provoked a violent uprising against Protestants in France, Calvin fled to Basel, Switzerland, where he published the first edition of his seminal work The Institutes of the Christian Religion in 1536.\r\nCalvin's writing and preachings provided the seeds for the branch of theology that bears his name. The Reformed, Congregational, and Presbyterian churches, which look to Calvin as the chief expositor of their beliefs, have spread throughout the world.",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Election and Reprobation #10 Concerning Jacob and Esau",
             "url": "http:\/\/sermonindex.net\/SID3058",

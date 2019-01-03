@@ -1,7 +1,7 @@
 {
     "name": "Communication",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Building Communication Skills",
             "url": "http:\/\/sermonindex.net\/SID7690",

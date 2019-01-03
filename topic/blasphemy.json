@@ -1,7 +1,7 @@
 {
     "name": "Blasphemy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Common Blasphemy",
             "url": "http:\/\/sermonindex.net\/SID12656",

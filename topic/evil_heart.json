@@ -1,7 +1,7 @@
 {
     "name": "Evil Heart",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Cure For An Evil Heart",
             "url": "http:\/\/sermonindex.net\/SID8094",

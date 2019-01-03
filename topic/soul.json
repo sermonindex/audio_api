@@ -1,7 +1,7 @@
 {
     "name": "Soul",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Are You Well",
             "url": "http:\/\/sermonindex.net\/SID3959",

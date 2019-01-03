@@ -1,7 +1,7 @@
 {
     "name": "Non Resistance",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Sword",
             "url": "http:\/\/sermonindex.net\/SID19360",

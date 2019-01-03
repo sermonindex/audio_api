@@ -1,7 +1,7 @@
 {
     "name": "God's Word",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Eat this Scroll ",
             "url": "http:\/\/sermonindex.net\/SID21311",

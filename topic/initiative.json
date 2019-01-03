@@ -1,7 +1,7 @@
 {
     "name": "Initiative",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Initiative",
             "url": "http:\/\/sermonindex.net\/SID19964",

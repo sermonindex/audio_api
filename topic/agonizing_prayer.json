@@ -1,7 +1,7 @@
 {
     "name": "Agonizing Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Call To Agonizing Prayer",
             "url": "http:\/\/sermonindex.net\/SID19731",

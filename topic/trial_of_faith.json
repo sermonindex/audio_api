@@ -1,7 +1,7 @@
 {
     "name": "Trial Of Faith",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Trial Of Your Faith",
             "url": "http:\/\/sermonindex.net\/SID7288",

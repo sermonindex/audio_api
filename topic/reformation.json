@@ -1,7 +1,7 @@
 {
     "name": "Reformation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Reformation Within Protestantism): Actual Church Life",
             "url": "http:\/\/sermonindex.net\/SID2148",

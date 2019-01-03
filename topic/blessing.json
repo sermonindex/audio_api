@@ -1,7 +1,7 @@
 {
     "name": "Blessing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Abundance Of Blessing",
             "url": "http:\/\/sermonindex.net\/SID18340",

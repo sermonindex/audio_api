@@ -1,7 +1,7 @@
 {
     "name": "Abundant Life",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Abundant Life",
             "url": "http:\/\/sermonindex.net\/SID12260",

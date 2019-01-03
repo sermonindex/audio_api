@@ -1,7 +1,7 @@
 {
     "name": "Broadway",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Church People on Broadway",
             "url": "http:\/\/sermonindex.net\/SID17283",

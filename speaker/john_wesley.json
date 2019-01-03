@@ -2,7 +2,7 @@
     "name": "John Wesley",
     "image": "",
     "description": "John Wesley (1703 - 1791)\r\nListen to freely downloadable audio sermons by the speaker John Wesley in mp3 format. Was an Anglican cleric and Christian theologian. Wesley is largely credited, along with his brother Charles Wesley, as founding the Methodist movement which began when he took to open-air preaching in a similar manner to George Whitefield. In contrast to Whitefield's Calvinism, Wesley embraced the Arminian doctrines that were dominant in the 18th-century Church of England. Methodism in both forms became a highly successful evangelical movement in Britain, which encouraged people to experience Jesus Christ personally.\r\n\r\nWesley helped to organise and form societies of Christians throughout Great Britain, North America and Ireland as small groups that developed intensive, personal accountability, discipleship and religious instruction among members. His great contribution was to appoint itinerant, unordained preachers who travelled widely to evangelise and care for people in the societies. Under Wesley's direction, Methodists became leaders in many social issues of the day, including the prison reform and abolitionism movements.",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Salvation by Faith (reading)",
             "url": "http:\/\/sermonindex.net\/SID3449",

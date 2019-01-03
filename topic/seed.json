@@ -1,7 +1,7 @@
 {
     "name": "Seed",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The True And False Seed",
             "url": "http:\/\/sermonindex.net\/SID17247",

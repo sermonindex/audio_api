@@ -1,7 +1,7 @@
 {
     "name": "Anglican",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Becoming A Member Of St. Aidan's",
             "url": "http:\/\/sermonindex.net\/SID28638",

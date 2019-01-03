@@ -2,7 +2,7 @@
     "name": "John 2",
     "book": "John",
     "chapter": 2,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Following The Footsteps Of Christ) Capernaum",
             "url": "http:\/\/sermonindex.net\/SID8372",

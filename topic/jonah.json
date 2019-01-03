@@ -1,7 +1,7 @@
 {
     "name": "Jonah",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Jonah 1",
             "url": "http:\/\/sermonindex.net\/SID23715",

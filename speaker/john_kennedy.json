@@ -2,7 +2,7 @@
     "name": "John Kennedy",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Concerning Prayer",
             "url": "http:\/\/sermonindex.net\/SID1189",

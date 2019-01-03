@@ -1,7 +1,7 @@
 {
     "name": "Freedom",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "An axe that sets us free (The Truth will set you free)",
             "url": "http:\/\/sermonindex.net\/SID7273",
@@ -466,7 +466,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID26652-download",
             "preacher_name": "John Vissers",
-            "preacher_image": "\/images\/john_vissers.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },

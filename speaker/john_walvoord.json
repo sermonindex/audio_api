@@ -2,7 +2,7 @@
     "name": "John Walvoord",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Preach the Word",
             "url": "http:\/\/sermonindex.net\/SID13686",

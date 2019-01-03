@@ -1,7 +1,7 @@
 {
     "name": "Lost World",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Caring For The Lost ",
             "url": "http:\/\/sermonindex.net\/SID21019",

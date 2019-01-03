@@ -2,7 +2,7 @@
     "name": "Ingrid Lindberg",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Art of Prayer",
             "url": "http:\/\/sermonindex.net\/SID12350",

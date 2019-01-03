@@ -1,7 +1,7 @@
 {
     "name": "Foothold",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Giving Place to the Devil",
             "url": "http:\/\/sermonindex.net\/SID25964",

@@ -1,7 +1,7 @@
 {
     "name": "Story",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Story within a Story",
             "url": "http:\/\/sermonindex.net\/SID20916",

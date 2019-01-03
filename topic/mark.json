@@ -1,7 +1,7 @@
 {
     "name": "Mark",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Gospel according to Mark I",
             "url": "http:\/\/sermonindex.net\/SID0795",

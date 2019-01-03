@@ -1,7 +1,7 @@
 {
     "name": "Torture",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Tortured For Christ",
             "url": "http:\/\/sermonindex.net\/SID25978",

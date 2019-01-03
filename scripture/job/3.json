@@ -2,7 +2,7 @@
     "name": "Job 3",
     "book": "Job",
     "chapter": 3,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Through The Bible - Job - Part 2",
             "url": "http:\/\/sermonindex.net\/SID2251",

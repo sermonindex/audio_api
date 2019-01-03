@@ -1,7 +1,7 @@
 {
     "name": "Gospel",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Genesis #5) First Foregleams of Gospel Light",
             "url": "http:\/\/sermonindex.net\/SID4835",

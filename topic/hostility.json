@@ -1,7 +1,7 @@
 {
     "name": "Hostility",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Overcoming Hostility",
             "url": "http:\/\/sermonindex.net\/SID24301",

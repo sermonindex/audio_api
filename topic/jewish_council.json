@@ -1,7 +1,7 @@
 {
     "name": "Jewish Council",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Jewish Council",
             "url": "http:\/\/sermonindex.net\/SID6868",

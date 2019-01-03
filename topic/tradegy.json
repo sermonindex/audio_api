@@ -1,7 +1,7 @@
 {
     "name": "Tradegy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "911 Tradegy",
             "url": "http:\/\/sermonindex.net\/SID0749",

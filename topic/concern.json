@@ -1,7 +1,7 @@
 {
     "name": "Concern",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(1 Thessalonians) Paul's Concern For The Converts",
             "url": "http:\/\/sermonindex.net\/SID7139",
@@ -31,7 +31,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID26686-download",
             "preacher_name": "John Vissers",
-            "preacher_image": "\/images\/john_vissers.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         }

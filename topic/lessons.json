@@ -1,7 +1,7 @@
 {
     "name": "Lessons",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Lessons For Us To Learn Day To Day",
             "url": "http:\/\/sermonindex.net\/SID7312",

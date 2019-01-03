@@ -1,7 +1,7 @@
 {
     "name": "Funeral",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Funeral Service",
             "url": "http:\/\/sermonindex.net\/SID26887",

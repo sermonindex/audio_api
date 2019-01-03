@@ -1,7 +1,7 @@
 {
     "name": "Evangelical Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Sweden) God's Controversy with the Evangelical Church of Sweden",
             "url": "http:\/\/sermonindex.net\/SID15638",

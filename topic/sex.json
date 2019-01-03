@@ -1,7 +1,7 @@
 {
     "name": "Sex",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sex and the Single Person",
             "url": "http:\/\/sermonindex.net\/SID22466",

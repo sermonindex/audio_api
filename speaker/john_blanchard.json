@@ -2,7 +2,7 @@
     "name": "John Blanchard",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "To the Church in Sardis",
             "url": "http:\/\/sermonindex.net\/SID22648",

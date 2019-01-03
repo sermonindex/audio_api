@@ -1,7 +1,7 @@
 {
     "name": "Lord's Work",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Laboring With the Lord",
             "url": "http:\/\/sermonindex.net\/SID25887",

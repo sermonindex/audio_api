@@ -1,7 +1,7 @@
 {
     "name": "Convention",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Luther Rice Seminary",
             "url": "http:\/\/sermonindex.net\/SID16895",

@@ -1,7 +1,7 @@
 {
     "name": "Scripture",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Check your weight - on the scales of Scripture",
             "url": "http:\/\/sermonindex.net\/SID27968",

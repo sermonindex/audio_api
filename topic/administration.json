@@ -1,7 +1,7 @@
 {
     "name": "Administration",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Spiritual Service: Trained to Administer the Church",
             "url": "http:\/\/sermonindex.net\/SID3891",

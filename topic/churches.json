@@ -1,7 +1,7 @@
 {
     "name": "Churches",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Need of our Churches",
             "url": "http:\/\/sermonindex.net\/SID26888",

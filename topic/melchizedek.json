@@ -1,7 +1,7 @@
 {
     "name": "Melchizedek",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Melchizedek",
             "url": "http:\/\/sermonindex.net\/SID8038",

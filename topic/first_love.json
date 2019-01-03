@@ -1,7 +1,7 @@
 {
     "name": "First Love",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Do You Remember When?",
             "url": "http:\/\/sermonindex.net\/SID25160",

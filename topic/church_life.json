@@ -1,7 +1,7 @@
 {
     "name": "Church Life",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "How Do You Live Church Life",
             "url": "http:\/\/sermonindex.net\/SID1004",

@@ -1,7 +1,7 @@
 {
     "name": "True Revival",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Marks of True Revival",
             "url": "http:\/\/sermonindex.net\/SID3814",

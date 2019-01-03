@@ -1,7 +1,7 @@
 {
     "name": "Mormonism",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Mormonism - Its Beginnings",
             "url": "http:\/\/sermonindex.net\/SID16127",

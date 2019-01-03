@@ -1,7 +1,7 @@
 {
     "name": "Need For Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "3-minute call to prayer",
             "url": "http:\/\/sermonindex.net\/SID12008",

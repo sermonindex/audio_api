@@ -1,7 +1,7 @@
 {
     "name": "Murmuring",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Murmuring Against One Another",
             "url": "http:\/\/sermonindex.net\/SID15302",

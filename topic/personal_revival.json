@@ -1,7 +1,7 @@
 {
     "name": "Personal Revival",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Biblical Recipe For Personal Revival",
             "url": "http:\/\/sermonindex.net\/SID18368",

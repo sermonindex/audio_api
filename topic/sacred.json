@@ -1,7 +1,7 @@
 {
     "name": "Sacred",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Sacred Place",
             "url": "http:\/\/sermonindex.net\/SID28289",

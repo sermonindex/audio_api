@@ -1,7 +1,7 @@
 {
     "name": "Sermon on the Mount",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sermon On The Mount - Part 1",
             "url": "http:\/\/sermonindex.net\/SID7668",

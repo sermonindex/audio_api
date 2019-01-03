@@ -1,7 +1,7 @@
 {
     "name": "Exodus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Exodus) Exodus 27:9-21",
             "url": "http:\/\/sermonindex.net\/SID11600",

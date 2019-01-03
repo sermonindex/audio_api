@@ -1,7 +1,7 @@
 {
     "name": "Active Faith",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Signs Of Active Faith",
             "url": "http:\/\/sermonindex.net\/SID2853",

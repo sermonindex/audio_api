@@ -1,7 +1,7 @@
 {
     "name": "Tracts",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Power of the Printed Page",
             "url": "http:\/\/sermonindex.net\/SID26506",

@@ -1,7 +1,7 @@
 {
     "name": "Gospel Of Jesus Christ",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Gospel Of Jesus Christ",
             "url": "http:\/\/sermonindex.net\/SID12480",

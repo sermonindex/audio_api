@@ -1,7 +1,7 @@
 {
     "name": "Thanksgiving",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Psalm Of Thanksgiving",
             "url": "http:\/\/sermonindex.net\/SID9231",

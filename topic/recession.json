@@ -1,7 +1,7 @@
 {
     "name": "Recession",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Word In A Recession",
             "url": "http:\/\/sermonindex.net\/SID18630",

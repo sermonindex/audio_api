@@ -1,7 +1,7 @@
 {
     "name": "Eucharist",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Eucharistic Feast",
             "url": "http:\/\/sermonindex.net\/SID28750",

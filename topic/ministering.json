@@ -1,7 +1,7 @@
 {
     "name": "Ministering",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ministering to the Lord",
             "url": "http:\/\/sermonindex.net\/SID28355",

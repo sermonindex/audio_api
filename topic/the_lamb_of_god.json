@@ -1,7 +1,7 @@
 {
     "name": "The Lamb of God",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Lamb of God",
             "url": "http:\/\/sermonindex.net\/SID17401",

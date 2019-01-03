@@ -1,7 +1,7 @@
 {
     "name": "Clothing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Biblical Apparel",
             "url": "http:\/\/sermonindex.net\/SID13437",

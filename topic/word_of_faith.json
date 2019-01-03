@@ -1,7 +1,7 @@
 {
     "name": "Word Of Faith",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "K-506 The Word of Faith",
             "url": "http:\/\/sermonindex.net\/SID23116",

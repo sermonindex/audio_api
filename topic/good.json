@@ -1,7 +1,7 @@
 {
     "name": "Good",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Temptation To Do Good",
             "url": "http:\/\/sermonindex.net\/SID17353",

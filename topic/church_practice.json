@@ -1,7 +1,7 @@
 {
     "name": "Church Practice",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "7 Principles Of N.T.Church - Part 1",
             "url": "http:\/\/sermonindex.net\/SID7664",

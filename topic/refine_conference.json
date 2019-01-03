@@ -1,7 +1,7 @@
 {
     "name": "Refine Conference",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "2011 03 13 - Evening - Richard Owen Roberts",
             "url": "http:\/\/sermonindex.net\/SID22923",

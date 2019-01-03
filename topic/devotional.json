@@ -1,7 +1,7 @@
 {
     "name": "Devotional",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Devotional",
             "url": "http:\/\/sermonindex.net\/SID18394",

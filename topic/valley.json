@@ -1,7 +1,7 @@
 {
     "name": "Valley",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Valley Experiences",
             "url": "http:\/\/sermonindex.net\/SID2524",

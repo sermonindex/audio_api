@@ -1,7 +1,7 @@
 {
     "name": "Reconciliation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Following The Footsteps Of Christ) Reconcilation",
             "url": "http:\/\/sermonindex.net\/SID8397",
@@ -158,7 +158,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID14187-download",
             "preacher_name": "Harold Vaughan",
-            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },

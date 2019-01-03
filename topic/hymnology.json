@@ -1,7 +1,7 @@
 {
     "name": "Hymnology",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Amazing Love Profile Of The Hymn",
             "url": "http:\/\/sermonindex.net\/SID12425",

@@ -1,7 +1,7 @@
 {
     "name": "Spiritual Hunger",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Dynamics of Holy Hunger",
             "url": "http:\/\/sermonindex.net\/SID27642",

@@ -1,7 +1,7 @@
 {
     "name": "Divine Justice",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Divine Justice",
             "url": "http:\/\/sermonindex.net\/SID9207",

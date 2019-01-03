@@ -1,7 +1,7 @@
 {
     "name": "Another Jesus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Another Jesus",
             "url": "http:\/\/sermonindex.net\/SID1756",

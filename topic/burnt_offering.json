@@ -1,7 +1,7 @@
 {
     "name": "Burnt Offering",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Burnt Offering",
             "url": "http:\/\/sermonindex.net\/SID5422",

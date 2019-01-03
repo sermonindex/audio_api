@@ -1,7 +1,7 @@
 {
     "name": "Defence",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God's Hatchet",
             "url": "http:\/\/sermonindex.net\/SID15398",

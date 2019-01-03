@@ -1,7 +1,7 @@
 {
     "name": "Voice Of God",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Guiding Voice In The Storm",
             "url": "http:\/\/sermonindex.net\/SID24639",

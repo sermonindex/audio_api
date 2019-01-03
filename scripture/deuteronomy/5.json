@@ -2,7 +2,7 @@
     "name": "Deuteronomy 5",
     "book": "Deuteronomy",
     "chapter": 5,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(The Role Of Demons In Today's Society) Part 4",
             "url": "http:\/\/sermonindex.net\/SID15283",
@@ -82,7 +82,7 @@
             "description": "Harold Vaughn preaches about the amazing presence of God.  How the Israelites saw the glory of God, heard His voice, and witnessed numerous miracles that only God could do\u2026 and yet after all of these things they feared circumstances more than they feared God.",
             "download": "http:\/\/sermonindex.net\/SID0200-download",
             "preacher_name": "Harold Vaughan",
-            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": [
                 {

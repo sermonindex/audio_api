@@ -1,7 +1,7 @@
 {
     "name": "Experience",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Communication with God",
             "url": "http:\/\/sermonindex.net\/SID0371",

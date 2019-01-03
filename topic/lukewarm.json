@@ -1,7 +1,7 @@
 {
     "name": "Lukewarm",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "I Wish that You were Cold or Hot",
             "url": "http:\/\/sermonindex.net\/SID16120",

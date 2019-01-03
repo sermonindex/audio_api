@@ -1,7 +1,7 @@
 {
     "name": "Redeemer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Kinsman Redeemer",
             "url": "http:\/\/sermonindex.net\/SID25566",

@@ -1,7 +1,7 @@
 {
     "name": "Dominion",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Taking Dominion",
             "url": "http:\/\/sermonindex.net\/SID19381",

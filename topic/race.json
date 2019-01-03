@@ -1,7 +1,7 @@
 {
     "name": "Race",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Run to Win",
             "url": "http:\/\/sermonindex.net\/SID26668",

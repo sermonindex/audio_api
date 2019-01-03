@@ -2,7 +2,7 @@
     "name": "John Parker",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Emptiness",
             "url": "http:\/\/sermonindex.net\/SID23709",

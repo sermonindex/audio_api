@@ -1,7 +1,7 @@
 {
     "name": "Tent of Shem",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Tent of Shem",
             "url": "http:\/\/sermonindex.net\/SID3154",

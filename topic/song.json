@@ -1,7 +1,7 @@
 {
     "name": "Song",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "From a Cry to a Song",
             "url": "http:\/\/sermonindex.net\/SID26059",

@@ -1,7 +1,7 @@
 {
     "name": "Science",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Dimension Theory\/Time Theory",
             "url": "http:\/\/sermonindex.net\/SID0544",

@@ -1,7 +1,7 @@
 {
     "name": "Music",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Practical Applications to Music",
             "url": "http:\/\/sermonindex.net\/SID13438",

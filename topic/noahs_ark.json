@@ -1,7 +1,7 @@
 {
     "name": "Noah's Ark",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Dove of Noah's Ark",
             "url": "http:\/\/sermonindex.net\/SID5026",

@@ -1,7 +1,7 @@
 {
     "name": "Delusion",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Delusional",
             "url": "http:\/\/sermonindex.net\/SID18551",

@@ -1,7 +1,7 @@
 {
     "name": "Blind Beggar",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Rich Young Ruler and the Blind Beggar",
             "url": "http:\/\/sermonindex.net\/SID3150",

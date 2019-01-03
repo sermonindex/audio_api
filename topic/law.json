@@ -1,7 +1,7 @@
 {
     "name": "Law",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christ Explains the Law",
             "url": "http:\/\/sermonindex.net\/SID2880",

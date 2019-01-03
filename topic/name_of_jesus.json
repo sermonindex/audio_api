@@ -1,7 +1,7 @@
 {
     "name": "Name Of Jesus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "His Name is called Jesus",
             "url": "http:\/\/sermonindex.net\/SID20307",

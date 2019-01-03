@@ -1,7 +1,7 @@
 {
     "name": "Servanthood",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Bondslave Mentality",
             "url": "http:\/\/sermonindex.net\/SID16837",

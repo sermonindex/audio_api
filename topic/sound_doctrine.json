@@ -1,7 +1,7 @@
 {
     "name": "Sound Doctrine",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sound Doctrine vs \"Spiritualizing\"",
             "url": "http:\/\/sermonindex.net\/SID3123",

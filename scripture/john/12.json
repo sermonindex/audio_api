@@ -2,7 +2,7 @@
     "name": "John 12",
     "book": "John",
     "chapter": 12,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John - Part 43): Jesus at Supper with Mary, Martha, and Lazarus",
             "url": "http:\/\/sermonindex.net\/SID2130",

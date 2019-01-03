@@ -1,7 +1,7 @@
 {
     "name": "Word Of The Lord",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Word from the Lord",
             "url": "http:\/\/sermonindex.net\/SID24116",

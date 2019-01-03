@@ -1,7 +1,7 @@
 {
     "name": "Religion",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Working Faith - Pure and Genuine Religion",
             "url": "http:\/\/sermonindex.net\/SID26585",

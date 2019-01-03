@@ -1,7 +1,7 @@
 {
     "name": "Fatalism",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Environment or Genetics",
             "url": "http:\/\/sermonindex.net\/SID0541",

@@ -1,7 +1,7 @@
 {
     "name": "Santification",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Santification",
             "url": "http:\/\/sermonindex.net\/SID7333",

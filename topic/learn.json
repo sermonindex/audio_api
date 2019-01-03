@@ -1,7 +1,7 @@
 {
     "name": "Learn",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Come, Take, Learn",
             "url": "http:\/\/sermonindex.net\/SID18389",

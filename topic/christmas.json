@@ -1,7 +1,7 @@
 {
     "name": "Christmas",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "52 - Christmas A Church Practice?",
             "url": "http:\/\/sermonindex.net\/SID24761",
@@ -151,7 +151,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID26698-download",
             "preacher_name": "John Vissers",
-            "preacher_image": "\/images\/john_vissers.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },

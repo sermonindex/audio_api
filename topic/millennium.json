@@ -1,7 +1,7 @@
 {
     "name": "Millennium",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Wonders of the Millennium",
             "url": "http:\/\/sermonindex.net\/SID6722",

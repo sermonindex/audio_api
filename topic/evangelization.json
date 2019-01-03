@@ -1,7 +1,7 @@
 {
     "name": "Evangelization",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Evangelizing Sin City",
             "url": "http:\/\/sermonindex.net\/SID26705",

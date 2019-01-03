@@ -2,7 +2,7 @@
     "name": "Luke 1",
     "book": "Luke",
     "chapter": 1,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Luke) 02 - Zacharias",
             "url": "http:\/\/sermonindex.net\/SID15102",

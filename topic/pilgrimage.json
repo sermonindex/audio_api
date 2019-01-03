@@ -1,7 +1,7 @@
 {
     "name": "Pilgrimage",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Hearts Set on Pilgrimage",
             "url": "http:\/\/sermonindex.net\/SID26446",

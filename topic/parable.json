@@ -1,7 +1,7 @@
 {
     "name": "Parable",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Mount Vernon) The Parable of the Sower",
             "url": "http:\/\/sermonindex.net\/SID8289",

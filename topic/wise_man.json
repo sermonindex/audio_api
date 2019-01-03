@@ -1,7 +1,7 @@
 {
     "name": "Wise Man",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Wise Man Is Strong",
             "url": "http:\/\/sermonindex.net\/SID25509",

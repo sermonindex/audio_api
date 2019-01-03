@@ -1,7 +1,7 @@
 {
     "name": "Bible",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Battle for the Bible",
             "url": "http:\/\/sermonindex.net\/SID18202",

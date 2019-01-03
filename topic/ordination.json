@@ -1,7 +1,7 @@
 {
     "name": "Ordination",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ordination Service Homily",
             "url": "http:\/\/sermonindex.net\/SID28772",

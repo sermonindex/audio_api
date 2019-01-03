@@ -1,7 +1,7 @@
 {
     "name": "Church History",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Church History - Session 2 (Persecution From Rome)",
             "url": "http:\/\/sermonindex.net\/SID1360",

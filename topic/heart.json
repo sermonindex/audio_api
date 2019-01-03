@@ -1,7 +1,7 @@
 {
     "name": "Heart",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(First Baptist Church) #5 - Searching the Heart",
             "url": "http:\/\/sermonindex.net\/SID12235",

@@ -1,7 +1,7 @@
 {
     "name": "Goliath",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "David and Goliath",
             "url": "http:\/\/sermonindex.net\/SID20612",

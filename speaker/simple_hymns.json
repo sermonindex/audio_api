@@ -2,7 +2,7 @@
     "name": "Simple Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Assorted Hymns 1",
             "url": "http:\/\/sermonindex.net\/SID15584",

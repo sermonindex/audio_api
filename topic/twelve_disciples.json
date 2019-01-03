@@ -1,7 +1,7 @@
 {
     "name": "Twelve Disciples",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Training Of The Twelve",
             "url": "http:\/\/sermonindex.net\/SID7677",

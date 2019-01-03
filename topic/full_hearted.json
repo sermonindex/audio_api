@@ -1,7 +1,7 @@
 {
     "name": "Full Hearted",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "No Half Measures",
             "url": "http:\/\/sermonindex.net\/SID4639",

@@ -1,7 +1,7 @@
 {
     "name": "James 2",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Can such faith save",
             "url": "http:\/\/sermonindex.net\/SID23621",

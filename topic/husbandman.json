@@ -1,7 +1,7 @@
 {
     "name": "Husbandman",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Husbandman",
             "url": "http:\/\/sermonindex.net\/SID25564",

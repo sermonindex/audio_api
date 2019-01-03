@@ -1,7 +1,7 @@
 {
     "name": "Moravian Revival",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Moravian Revival",
             "url": "http:\/\/sermonindex.net\/SID20591",

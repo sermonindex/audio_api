@@ -1,7 +1,7 @@
 {
     "name": "Bible College Lecture",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Capernway Pt. 2",
             "url": "http:\/\/sermonindex.net\/SID12239",

@@ -1,7 +1,7 @@
 {
     "name": "Christian Living",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Mighty Minority",
             "url": "http:\/\/sermonindex.net\/SID15548",

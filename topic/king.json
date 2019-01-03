@@ -1,7 +1,7 @@
 {
     "name": "King",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Daniel) The Kings Experience",
             "url": "http:\/\/sermonindex.net\/SID13844",

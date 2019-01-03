@@ -1,7 +1,7 @@
 {
     "name": "Child Training",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Children",
             "url": "http:\/\/sermonindex.net\/SID27516",

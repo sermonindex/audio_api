@@ -1,7 +1,7 @@
 {
     "name": "Prophetic Message",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Prophetic Message",
             "url": "http:\/\/sermonindex.net\/SID3592",

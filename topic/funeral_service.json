@@ -1,7 +1,7 @@
 {
     "name": "Funeral Service",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Funeral Service For T. Austin Sparks",
             "url": "http:\/\/sermonindex.net\/SID0112",

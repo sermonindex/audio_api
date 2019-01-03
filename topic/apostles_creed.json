@@ -1,7 +1,7 @@
 {
     "name": "Apostles Creed",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Apostles Creed - I Believe",
             "url": "http:\/\/sermonindex.net\/SID28745",

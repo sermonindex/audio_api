@@ -1,7 +1,7 @@
 {
     "name": "Feast",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Feast at the Table",
             "url": "http:\/\/sermonindex.net\/SID15737",

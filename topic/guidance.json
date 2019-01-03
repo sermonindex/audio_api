@@ -1,7 +1,7 @@
 {
     "name": "Guidance",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Prayer for Guidance",
             "url": "http:\/\/sermonindex.net\/SID25623",

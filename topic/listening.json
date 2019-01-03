@@ -1,7 +1,7 @@
 {
     "name": "Listening",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Lessons in Listening 2",
             "url": "http:\/\/sermonindex.net\/SID21596",

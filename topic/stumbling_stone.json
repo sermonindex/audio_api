@@ -1,7 +1,7 @@
 {
     "name": "Stumbling Stone",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "One Strange Stone",
             "url": "http:\/\/sermonindex.net\/SID2618",

@@ -1,7 +1,7 @@
 {
     "name": "Apostolic Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "SPAN-03 Definition of an Apostolic Church",
             "url": "http:\/\/sermonindex.net\/SID14262",

@@ -1,7 +1,7 @@
 {
     "name": "Omniscience",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God sees",
             "url": "http:\/\/sermonindex.net\/SID3248",

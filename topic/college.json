@@ -1,7 +1,7 @@
 {
     "name": "College",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Redcliffe College 8th Sept 99",
             "url": "http:\/\/sermonindex.net\/SID21507",

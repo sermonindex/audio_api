@@ -1,7 +1,7 @@
 {
     "name": "Biology",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Logos in Biology",
             "url": "http:\/\/sermonindex.net\/SID0551",

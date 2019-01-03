@@ -1,7 +1,7 @@
 {
     "name": "Hymn",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "My Jesus, I Love Thee (Brookyln Tabernacle Service)",
             "url": "http:\/\/sermonindex.net\/SID2391",

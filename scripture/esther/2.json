@@ -2,7 +2,7 @@
     "name": "Esther 2",
     "book": "Esther",
     "chapter": 2,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "At the Kings Gate",
             "url": "http:\/\/sermonindex.net\/SID3191",

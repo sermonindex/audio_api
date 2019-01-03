@@ -1,7 +1,7 @@
 {
     "name": "Preaching Truth",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Consequences of Preaching The Truth",
             "url": "http:\/\/sermonindex.net\/SID25142",

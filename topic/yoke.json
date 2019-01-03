@@ -1,7 +1,7 @@
 {
     "name": "Yoke",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Breaking the Yoke",
             "url": "http:\/\/sermonindex.net\/SID15861",

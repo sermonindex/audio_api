@@ -1,7 +1,7 @@
 {
     "name": "Benevolence",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Bridge of Hope Discussion, Part One",
             "url": "http:\/\/sermonindex.net\/SID15529",

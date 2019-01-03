@@ -1,7 +1,7 @@
 {
     "name": "Kindness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Kindness",
             "url": "http:\/\/sermonindex.net\/SID26038",

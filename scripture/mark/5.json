@@ -2,7 +2,7 @@
     "name": "Mark 5",
     "book": "Mark",
     "chapter": 5,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Casting Out Unclean Spirits",
             "url": "http:\/\/sermonindex.net\/SID3595",

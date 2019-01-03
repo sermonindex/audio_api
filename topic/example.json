@@ -1,7 +1,7 @@
 {
     "name": "Example",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Practical Example Of The Master",
             "url": "http:\/\/sermonindex.net\/SID6858",

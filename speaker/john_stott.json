@@ -2,7 +2,7 @@
     "name": "John Stott",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Great Commission",
             "url": "http:\/\/sermonindex.net\/SID11784",

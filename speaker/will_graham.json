@@ -2,7 +2,7 @@
     "name": "Will Graham",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "John The Baptist",
             "url": "http:\/\/sermonindex.net\/SID19085",

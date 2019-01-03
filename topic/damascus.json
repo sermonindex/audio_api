@@ -1,7 +1,7 @@
 {
     "name": "Damascus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "De-masked on the Road to Damascus",
             "url": "http:\/\/sermonindex.net\/SID25185",

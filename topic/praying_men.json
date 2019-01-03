@@ -1,7 +1,7 @@
 {
     "name": "Praying Men",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Praying Men and Women",
             "url": "http:\/\/sermonindex.net\/SID20767",

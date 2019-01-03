@@ -1,7 +1,7 @@
 {
     "name": "Counsel",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Father's Counsel",
             "url": "http:\/\/sermonindex.net\/SID13510",

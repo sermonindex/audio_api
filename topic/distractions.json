@@ -1,7 +1,7 @@
 {
     "name": "Distractions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "What Distracts Us",
             "url": "http:\/\/sermonindex.net\/SID25663",

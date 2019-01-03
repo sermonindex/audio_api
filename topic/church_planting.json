@@ -1,7 +1,7 @@
 {
     "name": "Church Planting",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Planting Churches in an Unchurched World",
             "url": "http:\/\/sermonindex.net\/SID28813",

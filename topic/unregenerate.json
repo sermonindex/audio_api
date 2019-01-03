@@ -1,7 +1,7 @@
 {
     "name": "Unregenerate",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Harvest is Past",
             "url": "http:\/\/sermonindex.net\/SID17388",

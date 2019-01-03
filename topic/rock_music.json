@@ -1,7 +1,7 @@
 {
     "name": "Rock Music",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Rock Music",
             "url": "http:\/\/sermonindex.net\/SID18876",

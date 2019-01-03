@@ -1,7 +1,7 @@
 {
     "name": "Expelled",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Expelled From A Royal Feast",
             "url": "http:\/\/sermonindex.net\/SID4754",

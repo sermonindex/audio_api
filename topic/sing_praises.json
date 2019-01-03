@@ -1,7 +1,7 @@
 {
     "name": "Sing Praises",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sing Praises with Understanding",
             "url": "http:\/\/sermonindex.net\/SID11924",

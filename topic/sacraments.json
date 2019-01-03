@@ -1,7 +1,7 @@
 {
     "name": "Sacraments",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Proclaiming the Gospel Through the Sacraments",
             "url": "http:\/\/sermonindex.net\/SID28875",

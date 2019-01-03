@@ -1,7 +1,7 @@
 {
     "name": "John Wesley",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "John Wesley & Christian Zeal",
             "url": "http:\/\/sermonindex.net\/SID7116",

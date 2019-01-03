@@ -1,7 +1,7 @@
 {
     "name": "Samuel",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Background on First Samuel",
             "url": "http:\/\/sermonindex.net\/SID25645",

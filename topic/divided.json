@@ -1,7 +1,7 @@
 {
     "name": "Divided",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Divided Heart",
             "url": "http:\/\/sermonindex.net\/SID1702",

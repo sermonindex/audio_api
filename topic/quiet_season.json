@@ -1,7 +1,7 @@
 {
     "name": "Quiet Season",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "An Open Invitation to the Quiet Season",
             "url": "http:\/\/sermonindex.net\/SID23103",

@@ -1,7 +1,7 @@
 {
     "name": "Excellence",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Pursuing Excellence",
             "url": "http:\/\/sermonindex.net\/SID1655",

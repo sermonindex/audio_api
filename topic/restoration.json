@@ -1,7 +1,7 @@
 {
     "name": "Restoration",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Building Broken Walls",
             "url": "http:\/\/sermonindex.net\/SID26100",

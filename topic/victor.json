@@ -1,7 +1,7 @@
 {
     "name": "Victor",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Victor's Life and Power",
             "url": "http:\/\/sermonindex.net\/SID25579",

@@ -2,7 +2,7 @@
     "name": "John 5",
     "book": "John",
     "chapter": 5,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(God Can Solve Every Problem - 3) Lame Man Healed",
             "url": "http:\/\/sermonindex.net\/SID7224",

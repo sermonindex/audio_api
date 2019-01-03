@@ -1,7 +1,7 @@
 {
     "name": "Prayer Model",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Model For Praying: How Should Prayer End",
             "url": "http:\/\/sermonindex.net\/SID4676",

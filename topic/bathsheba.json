@@ -1,7 +1,7 @@
 {
     "name": "Bathsheba",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "David and Bathsheba",
             "url": "http:\/\/sermonindex.net\/SID26115",

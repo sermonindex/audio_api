@@ -1,7 +1,7 @@
 {
     "name": "Resources",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christian Resources",
             "url": "http:\/\/sermonindex.net\/SID4196",

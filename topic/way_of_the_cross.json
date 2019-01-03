@@ -1,7 +1,7 @@
 {
     "name": "Way Of The Cross",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Way of the Cross",
             "url": "http:\/\/sermonindex.net\/SID3875",

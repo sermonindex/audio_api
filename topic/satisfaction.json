@@ -1,7 +1,7 @@
 {
     "name": "Satisfaction",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Study in Satisfaction",
             "url": "http:\/\/sermonindex.net\/SID27694",

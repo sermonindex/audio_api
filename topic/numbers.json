@@ -1,7 +1,7 @@
 {
     "name": "Numbers",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Numbers",
             "url": "http:\/\/sermonindex.net\/SID2240",

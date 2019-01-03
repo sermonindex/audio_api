@@ -2,7 +2,7 @@
     "name": "Hymns",
     "image": "\/images\/hymns.gif",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "All Hail The Power",
             "url": "http:\/\/sermonindex.net\/SID7450",

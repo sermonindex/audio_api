@@ -2,7 +2,7 @@
     "name": "Church Of God",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "'Til You Hear the Summons",
             "url": "http:\/\/sermonindex.net\/SID23243",

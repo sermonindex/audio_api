@@ -2,7 +2,7 @@
     "name": "Guitar Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "I Sought the Lord",
             "url": "http:\/\/sermonindex.net\/SID16613",

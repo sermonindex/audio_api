@@ -2,7 +2,7 @@
     "name": "Charity Gospel Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Charge to Keep I have",
             "url": "http:\/\/sermonindex.net\/SID10835",

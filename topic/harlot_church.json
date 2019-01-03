@@ -1,7 +1,7 @@
 {
     "name": "Harlot Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christ and His Harlot Church",
             "url": "http:\/\/sermonindex.net\/SID1900",

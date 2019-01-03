@@ -1,7 +1,7 @@
 {
     "name": "Peacemaker",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Blessed are the Peacemaker",
             "url": "http:\/\/sermonindex.net\/SID23581",

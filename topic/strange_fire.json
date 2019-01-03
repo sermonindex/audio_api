@@ -1,7 +1,7 @@
 {
     "name": "Strange Fire",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(K-CHAR-03) Strange Fire",
             "url": "http:\/\/sermonindex.net\/SID14620",

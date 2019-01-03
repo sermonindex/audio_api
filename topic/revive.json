@@ -1,7 +1,7 @@
 {
     "name": "Revive",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "High Time to Awake",
             "url": "http:\/\/sermonindex.net\/SID13466",

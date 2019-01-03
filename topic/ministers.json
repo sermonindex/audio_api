@@ -1,7 +1,7 @@
 {
     "name": "Ministers",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Criteria For A Christian Minister",
             "url": "http:\/\/sermonindex.net\/SID7335",

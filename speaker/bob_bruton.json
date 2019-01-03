@@ -2,7 +2,7 @@
     "name": "Bob Bruton",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "1 Peter 1; Minneapolis Conference",
             "url": "http:\/\/sermonindex.net\/SID9781",

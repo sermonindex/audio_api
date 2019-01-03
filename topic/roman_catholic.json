@@ -1,7 +1,7 @@
 {
     "name": "Roman Catholic",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Roman Catholic's View of Man's Primitive Condition",
             "url": "http:\/\/sermonindex.net\/SID1256",

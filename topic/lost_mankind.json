@@ -1,7 +1,7 @@
 {
     "name": "Lost Mankind",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Cry of the Unreached",
             "url": "http:\/\/sermonindex.net\/SID15549",

@@ -1,7 +1,7 @@
 {
     "name": "Harlot",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Crafty Harlot",
             "url": "http:\/\/sermonindex.net\/SID25803",

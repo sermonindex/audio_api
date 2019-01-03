@@ -1,7 +1,7 @@
 {
     "name": "Luke",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Luke) 01a - Introduction Cont.",
             "url": "http:\/\/sermonindex.net\/SID15100",

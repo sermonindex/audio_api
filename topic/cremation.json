@@ -1,7 +1,7 @@
 {
     "name": "Cremation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Why We Do Not Cremate",
             "url": "http:\/\/sermonindex.net\/SID21707",

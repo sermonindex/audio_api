@@ -1,7 +1,7 @@
 {
     "name": "Meekness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Blessed are the Meek",
             "url": "http:\/\/sermonindex.net\/SID18533",

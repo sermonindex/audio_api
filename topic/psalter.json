@@ -1,7 +1,7 @@
 {
     "name": "Psalter",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Apostolic Preaching & Prayer from the Psalter, Psalm 2",
             "url": "http:\/\/sermonindex.net\/SID28619",

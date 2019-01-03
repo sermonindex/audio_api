@@ -1,7 +1,7 @@
 {
     "name": "Cultural",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Cultural Compasses",
             "url": "http:\/\/sermonindex.net\/SID22069",

@@ -1,7 +1,7 @@
 {
     "name": "Bablyon",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God's Man in Babylon",
             "url": "http:\/\/sermonindex.net\/SID23931",

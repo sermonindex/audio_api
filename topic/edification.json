@@ -1,7 +1,7 @@
 {
     "name": "Edification",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Building Up My Brother's House",
             "url": "http:\/\/sermonindex.net\/SID1391",

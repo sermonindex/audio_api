@@ -1,7 +1,7 @@
 {
     "name": "Solemn",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Five Solemn Facts",
             "url": "http:\/\/sermonindex.net\/SID6724",

@@ -1,7 +1,7 @@
 {
     "name": "Questions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Eight Questions",
             "url": "http:\/\/sermonindex.net\/SID12486",

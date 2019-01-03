@@ -1,7 +1,7 @@
 {
     "name": "Pharisaism",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Confessions of a Pharisee",
             "url": "http:\/\/sermonindex.net\/SID14657",

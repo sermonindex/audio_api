@@ -1,7 +1,7 @@
 {
     "name": "Finances",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Faith And Finances",
             "url": "http:\/\/sermonindex.net\/SID23294",

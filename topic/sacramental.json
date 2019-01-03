@@ -1,7 +1,7 @@
 {
     "name": "Sacramental",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sacramental Life",
             "url": "http:\/\/sermonindex.net\/SID28163",

@@ -1,7 +1,7 @@
 {
     "name": "Mediator",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christ the Medium",
             "url": "http:\/\/sermonindex.net\/SID16232",

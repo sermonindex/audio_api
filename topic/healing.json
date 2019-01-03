@@ -1,7 +1,7 @@
 {
     "name": "Healing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Sheep Market",
             "url": "http:\/\/sermonindex.net\/SID6854",

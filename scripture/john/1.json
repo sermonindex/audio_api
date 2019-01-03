@@ -2,7 +2,7 @@
     "name": "John 1",
     "book": "John",
     "chapter": 1,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(1 Peter - Part 7): The Appearing of Jesus Christ",
             "url": "http:\/\/sermonindex.net\/SID2060",

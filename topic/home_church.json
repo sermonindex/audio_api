@@ -1,7 +1,7 @@
 {
     "name": "Home Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The House Group Movement in UK",
             "url": "http:\/\/sermonindex.net\/SID23645",

@@ -1,7 +1,7 @@
 {
     "name": "Preach Christ",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Live and preach Christ",
             "url": "http:\/\/sermonindex.net\/SID3277",

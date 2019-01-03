@@ -1,7 +1,7 @@
 {
     "name": "Paul",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Paul - A Man of Passion",
             "url": "http:\/\/sermonindex.net\/SID20623",

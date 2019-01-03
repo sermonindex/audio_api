@@ -1,7 +1,7 @@
 {
     "name": "Martha",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Martha and Mary",
             "url": "http:\/\/sermonindex.net\/SID13284",

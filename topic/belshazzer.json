@@ -1,7 +1,7 @@
 {
     "name": "Belshazzer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Daniel) The Writing on the Wall",
             "url": "http:\/\/sermonindex.net\/SID10745",

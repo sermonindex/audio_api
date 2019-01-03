@@ -1,7 +1,7 @@
 {
     "name": "Another Gospel",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Australia) Another Gospel",
             "url": "http:\/\/sermonindex.net\/SID14611",

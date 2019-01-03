@@ -1,7 +1,7 @@
 {
     "name": "Man",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Man as You Are",
             "url": "http:\/\/sermonindex.net\/SID17549",

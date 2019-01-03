@@ -1,7 +1,7 @@
 {
     "name": "Beginning",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "\"In the Beginning God created...\"",
             "url": "http:\/\/sermonindex.net\/SID3126",

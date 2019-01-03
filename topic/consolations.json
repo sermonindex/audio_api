@@ -1,7 +1,7 @@
 {
     "name": "Consolations",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Romans) Christian Consolations",
             "url": "http:\/\/sermonindex.net\/SID6907",

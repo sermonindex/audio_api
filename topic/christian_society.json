@@ -1,7 +1,7 @@
 {
     "name": "Christian Society",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "K-507 The Christian in Society",
             "url": "http:\/\/sermonindex.net\/SID23118",

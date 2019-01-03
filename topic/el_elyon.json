@@ -1,7 +1,7 @@
 {
     "name": "El Elyon",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Transcendence of El Elyon",
             "url": "http:\/\/sermonindex.net\/SID20212",

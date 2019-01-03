@@ -1,7 +1,7 @@
 {
     "name": "Audio Reading",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Fountain of Life Opened Up 14 of 29",
             "url": "http:\/\/sermonindex.net\/SID11966",

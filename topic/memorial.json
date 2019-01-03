@@ -1,7 +1,7 @@
 {
     "name": "Memorial",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Fifty Years Of The People's Church",
             "url": "http:\/\/sermonindex.net\/",

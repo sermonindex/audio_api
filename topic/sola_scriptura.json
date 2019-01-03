@@ -1,7 +1,7 @@
 {
     "name": "Sola Scriptura",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sola Scriptura 1",
             "url": "http:\/\/sermonindex.net\/SID25204",

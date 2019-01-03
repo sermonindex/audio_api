@@ -1,7 +1,7 @@
 {
     "name": "Requirement",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "What Doth The Lord Require Of Thee?",
             "url": "http:\/\/sermonindex.net\/SID18895",

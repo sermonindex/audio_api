@@ -1,7 +1,7 @@
 {
     "name": "Open-Air Preaching",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Dealing with The Problem of Evil",
             "url": "http:\/\/sermonindex.net\/SID22601",

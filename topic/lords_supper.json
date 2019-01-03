@@ -1,7 +1,7 @@
 {
     "name": "Lords Supper",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Tasting the Lord's Supper",
             "url": "http:\/\/sermonindex.net\/SID4484",

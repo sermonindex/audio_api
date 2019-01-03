@@ -2,7 +2,7 @@
     "name": "3 John 1",
     "book": "3 John",
     "chapter": 1,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Are You Well",
             "url": "http:\/\/sermonindex.net\/SID3959",

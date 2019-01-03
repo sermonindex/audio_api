@@ -1,7 +1,7 @@
 {
     "name": "Barren",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "There is a Song in Every Barren Womb",
             "url": "http:\/\/sermonindex.net\/SID11732",

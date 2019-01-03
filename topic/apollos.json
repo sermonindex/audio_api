@@ -1,7 +1,7 @@
 {
     "name": "Apollos",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Apollos",
             "url": "http:\/\/sermonindex.net\/SID8040",

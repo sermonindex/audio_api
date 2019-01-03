@@ -1,7 +1,7 @@
 {
     "name": "Tradition",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "1 Corinthians 11",
             "url": "http:\/\/sermonindex.net\/SID28751",

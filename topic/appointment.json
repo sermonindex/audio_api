@@ -1,7 +1,7 @@
 {
     "name": "Appointment",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Appointment Of Christ",
             "url": "http:\/\/sermonindex.net\/SID6852",

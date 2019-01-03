@@ -1,7 +1,7 @@
 {
     "name": "Bible College",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Bible College of Wales, 1979",
             "url": "http:\/\/sermonindex.net\/SID19484",

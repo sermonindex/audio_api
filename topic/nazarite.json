@@ -1,7 +1,7 @@
 {
     "name": "Nazarite",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Nazarite",
             "url": "http:\/\/sermonindex.net\/SID8508",

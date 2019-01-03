@@ -1,7 +1,7 @@
 {
     "name": "Open Heaven",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Living Under Open Heaven",
             "url": "http:\/\/sermonindex.net\/SID22202",

@@ -1,7 +1,7 @@
 {
     "name": "Spiritual Attack",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Standing Firm under Attack",
             "url": "http:\/\/sermonindex.net\/SID5438",

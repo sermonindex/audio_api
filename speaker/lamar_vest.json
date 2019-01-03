@@ -2,7 +2,7 @@
     "name": "Lamar Vest",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "From Coronation to Desertion",
             "url": "http:\/\/sermonindex.net\/SID24818",

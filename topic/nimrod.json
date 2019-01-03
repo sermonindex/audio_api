@@ -1,7 +1,7 @@
 {
     "name": "Nimrod",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Genesis) - Part 12",
             "url": "http:\/\/sermonindex.net\/SID13391",

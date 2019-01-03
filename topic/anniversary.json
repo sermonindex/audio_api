@@ -1,7 +1,7 @@
 {
     "name": "Anniversary",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "25th Anniversary Plea - Part II",
             "url": "http:\/\/sermonindex.net\/SID16074",

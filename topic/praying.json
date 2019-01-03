@@ -1,7 +1,7 @@
 {
     "name": "Praying",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Model for Praying - Part 1",
             "url": "http:\/\/sermonindex.net\/SID26563",

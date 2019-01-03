@@ -1,7 +1,7 @@
 {
     "name": "Name Of The Lord",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "For His Name's Sake",
             "url": "http:\/\/sermonindex.net\/SID6943",

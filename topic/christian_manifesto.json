@@ -1,7 +1,7 @@
 {
     "name": "Christian Manifesto",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Christian's Manifesto",
             "url": "http:\/\/sermonindex.net\/SID21141",

@@ -2,7 +2,7 @@
     "name": "John 3",
     "book": "John",
     "chapter": 3,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Following The Footsteps Of Christ) With Nicodemus At Night",
             "url": "http:\/\/sermonindex.net\/SID8374",

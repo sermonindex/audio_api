@@ -1,7 +1,7 @@
 {
     "name": "Epiphanies",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Epiphanies",
             "url": "http:\/\/sermonindex.net\/SID21833",

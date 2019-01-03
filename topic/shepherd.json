@@ -1,7 +1,7 @@
 {
     "name": "Shepherd",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Shepherd For The Multitude",
             "url": "http:\/\/sermonindex.net\/SID27536",

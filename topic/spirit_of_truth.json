@@ -1,7 +1,7 @@
 {
     "name": "Spirit of Truth",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Call to the Church (Lazarus, Come Forth)",
             "url": "http:\/\/sermonindex.net\/SID3168",

@@ -1,7 +1,7 @@
 {
     "name": "Minister",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Learning To Be A Minister",
             "url": "http:\/\/sermonindex.net\/SID20556",

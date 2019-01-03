@@ -1,7 +1,7 @@
 {
     "name": "New York City",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Message for New York City",
             "url": "http:\/\/sermonindex.net\/SID24897",

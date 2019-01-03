@@ -1,8 +1,8 @@
 {
     "name": "Stephen Fenton",
-    "image": "\/images\/stephen_fenton.gif",
+    "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Deeper 2003 - \"Let It Go\") Letting go of Control - Sep 28, 2003 pm",
             "url": "http:\/\/sermonindex.net\/SID2634",
@@ -13,7 +13,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2634-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -27,7 +27,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2633-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -41,7 +41,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2630-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -55,7 +55,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2631-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -69,7 +69,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2632-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -83,7 +83,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2641-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -97,7 +97,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2640-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -111,7 +111,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2639-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -125,7 +125,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2638-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -139,7 +139,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2637-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -153,7 +153,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID2636-download",
             "preacher_name": "Stephen Fenton",
-            "preacher_image": "\/images\/stephen_fenton.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         }

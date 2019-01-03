@@ -1,7 +1,7 @@
 {
     "name": "Fresh Oil",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Two Olive Trees",
             "url": "http:\/\/sermonindex.net\/SID21710",

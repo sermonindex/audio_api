@@ -1,7 +1,7 @@
 {
     "name": "Passover",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Celebration of the Passover",
             "url": "http:\/\/sermonindex.net\/SID25648",

@@ -1,7 +1,7 @@
 {
     "name": "Medicine",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Meditate Don't Medicate",
             "url": "http:\/\/sermonindex.net\/SID19217",

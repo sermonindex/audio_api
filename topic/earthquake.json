@@ -1,7 +1,7 @@
 {
     "name": "Earthquake",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "An Earthquake in Jerusalem",
             "url": "http:\/\/sermonindex.net\/SID13512",

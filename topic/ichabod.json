@@ -1,7 +1,7 @@
 {
     "name": "Ichabod",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ichabod: The Glory Departed",
             "url": "http:\/\/sermonindex.net\/SID26099",

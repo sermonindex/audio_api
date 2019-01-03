@@ -1,7 +1,7 @@
 {
     "name": "Proverbs",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Series of Proverbs Part 1",
             "url": "http:\/\/sermonindex.net\/SID25628",

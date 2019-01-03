@@ -1,7 +1,7 @@
 {
     "name": "Ananias",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Are you a Baranabas or Ananias",
             "url": "http:\/\/sermonindex.net\/SID0698",

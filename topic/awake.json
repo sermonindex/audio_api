@@ -1,7 +1,7 @@
 {
     "name": "Awake",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Awake and Shake",
             "url": "http:\/\/sermonindex.net\/SID15494",

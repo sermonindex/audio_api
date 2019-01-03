@@ -1,7 +1,7 @@
 {
     "name": "Memorial Service",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Leonard Ravenhill's Memorial Service",
             "url": "http:\/\/sermonindex.net\/SID1798",

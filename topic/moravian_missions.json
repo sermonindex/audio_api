@@ -1,7 +1,7 @@
 {
     "name": "Moravian Missions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Radical Example of Moravian Missions",
             "url": "http:\/\/sermonindex.net\/SID16734",

@@ -1,7 +1,7 @@
 {
     "name": "Passion Of Christ",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Easter Passion",
             "url": "http:\/\/sermonindex.net\/SID1411",

@@ -1,7 +1,7 @@
 {
     "name": "Study",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Effective Study",
             "url": "http:\/\/sermonindex.net\/SID7735",

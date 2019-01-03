@@ -2,7 +2,7 @@
     "name": "John 15",
     "book": "John",
     "chapter": 15,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Blood Covenant) 1 - Blood Covenant",
             "url": "http:\/\/sermonindex.net\/SID12162",

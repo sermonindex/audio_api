@@ -1,7 +1,7 @@
 {
     "name": "Mourning",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Mourning",
             "url": "http:\/\/sermonindex.net\/SID25192",

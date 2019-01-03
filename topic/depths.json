@@ -1,7 +1,7 @@
 {
     "name": "Depths",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Out of the Depths",
             "url": "http:\/\/sermonindex.net\/SID20883",

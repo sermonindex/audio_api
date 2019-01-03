@@ -2,7 +2,7 @@
     "name": "Billy Sunday",
     "image": "\/images\/billy_sunday.gif",
     "description": "Billy Sunday (1862 - 1935)\r\nListen to freely downloadable audio sermons by the speaker Billy Sunday in mp3 format.  Was an American athlete who, after being a popular outfielder in baseball's National League during the 1880s, became the most celebrated and influential American evangelist during the first two decades of the 20th century.\r\nBilly Sunday was a conservative evangelical who accepted fundamentalist doctrines. He affirmed and preached the inerrancy of the Bible, the virgin birth of Christ, the doctrine of substitutionary atonement, the bodily resurrection of Christ, a literal devil and hell, and the imminent return of Jesus Christ. At the turn of the 20th century, most Protestant church members, regardless of denomination, gave assent to these doctrines. Sunday refused to hold meetings in cities where he was not welcomed by the vast majority of the Protestant churches and their clergy.",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Anti-booze efforts",
             "url": "http:\/\/sermonindex.net\/SID4499",

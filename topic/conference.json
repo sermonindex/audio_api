@@ -1,7 +1,7 @@
 {
     "name": "Conference",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "01 Golden Age Conference",
             "url": "http:\/\/sermonindex.net\/SID9387",

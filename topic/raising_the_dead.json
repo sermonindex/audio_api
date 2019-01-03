@@ -1,7 +1,7 @@
 {
     "name": "Raising The Dead",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Raising The Dead",
             "url": "http:\/\/sermonindex.net\/SID1356",

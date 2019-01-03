@@ -1,7 +1,7 @@
 {
     "name": "Church Unity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Are You Destroying The Church",
             "url": "http:\/\/sermonindex.net\/SID28876",

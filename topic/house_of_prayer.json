@@ -1,7 +1,7 @@
 {
     "name": "House Of Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(February 1987) 08 - The House Of Prayer",
             "url": "http:\/\/sermonindex.net\/SID6137",

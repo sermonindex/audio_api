@@ -1,7 +1,7 @@
 {
     "name": "Omnipresent",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Omnipresent One ",
             "url": "http:\/\/sermonindex.net\/SID12769",

@@ -1,7 +1,7 @@
 {
     "name": "Catechesis",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Embodied Liturgy - Practices as Catechesis",
             "url": "http:\/\/sermonindex.net\/SID28629",

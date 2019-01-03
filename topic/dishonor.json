@@ -1,7 +1,7 @@
 {
     "name": "Dishonor",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Wreckers of Churches",
             "url": "http:\/\/sermonindex.net\/SID3818",

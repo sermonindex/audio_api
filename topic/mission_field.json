@@ -1,7 +1,7 @@
 {
     "name": "Mission Field",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Hong Kong, Manila And Singapore",
             "url": "http:\/\/sermonindex.net\/SID19953",

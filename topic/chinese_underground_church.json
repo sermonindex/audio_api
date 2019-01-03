@@ -1,7 +1,7 @@
 {
     "name": "Chinese Underground Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Persecution and the Underground Church in China",
             "url": "http:\/\/sermonindex.net\/SID24861",

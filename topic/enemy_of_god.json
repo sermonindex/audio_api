@@ -1,7 +1,7 @@
 {
     "name": "Enemy Of God",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God, as an enemy",
             "url": "http:\/\/sermonindex.net\/SID3986",

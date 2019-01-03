@@ -2,7 +2,7 @@
     "name": "Bob Doom",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "America's Greatest Baptist Revival",
             "url": "http:\/\/sermonindex.net\/SID14827",

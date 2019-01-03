@@ -1,7 +1,7 @@
 {
     "name": "Daily Problems",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Making Sense of Life",
             "url": "http:\/\/sermonindex.net\/SID24822",

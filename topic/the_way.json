@@ -1,7 +1,7 @@
 {
     "name": "The Way",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Believers Way",
             "url": "http:\/\/sermonindex.net\/SID5783",

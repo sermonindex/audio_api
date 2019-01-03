@@ -1,7 +1,7 @@
 {
     "name": "Lost Souls",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Heart for the Lost",
             "url": "http:\/\/sermonindex.net\/SID23962",

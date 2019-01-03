@@ -1,7 +1,7 @@
 {
     "name": "Tyranny",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Tyranny of the Soul",
             "url": "http:\/\/sermonindex.net\/SID3874",

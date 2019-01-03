@@ -1,7 +1,7 @@
 {
     "name": "Godly Speech",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Prudence: the Discipline of Godly Speech",
             "url": "http:\/\/sermonindex.net\/SID3140",

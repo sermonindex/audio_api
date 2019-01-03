@@ -2,7 +2,7 @@
     "name": "John 10",
     "book": "John",
     "chapter": 10,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Following The Footsteps Of Christ) The Good Shepherd",
             "url": "http:\/\/sermonindex.net\/SID8386",

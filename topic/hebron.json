@@ -1,7 +1,7 @@
 {
     "name": "Hebron",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Abner's Return to Hebron",
             "url": "http:\/\/sermonindex.net\/SID25637",

@@ -1,7 +1,7 @@
 {
     "name": "Divine Healing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Divine Healing",
             "url": "http:\/\/sermonindex.net\/SID23025",

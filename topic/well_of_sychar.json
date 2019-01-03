@@ -1,7 +1,7 @@
 {
     "name": "Well Of Sychar",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Well of Sychar",
             "url": "http:\/\/sermonindex.net\/SID1443",

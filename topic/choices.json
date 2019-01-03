@@ -1,7 +1,7 @@
 {
     "name": "Choices",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Life's Two Roads",
             "url": "http:\/\/sermonindex.net\/SID7920",

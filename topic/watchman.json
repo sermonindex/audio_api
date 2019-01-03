@@ -1,7 +1,7 @@
 {
     "name": "Watchman",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Blind Watchman",
             "url": "http:\/\/sermonindex.net\/SID24373",

@@ -1,7 +1,7 @@
 {
     "name": "Gospels",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Four Gospels ",
             "url": "http:\/\/sermonindex.net\/SID12758",

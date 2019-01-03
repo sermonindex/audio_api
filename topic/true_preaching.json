@@ -1,7 +1,7 @@
 {
     "name": "True Preaching",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Origin of True Preaching",
             "url": "http:\/\/sermonindex.net\/SID3102",

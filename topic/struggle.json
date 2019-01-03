@@ -1,7 +1,7 @@
 {
     "name": "Struggle",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Beginning to Sink",
             "url": "http:\/\/sermonindex.net\/SID12253",

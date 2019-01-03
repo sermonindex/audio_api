@@ -1,7 +1,7 @@
 {
     "name": "Trouble",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Bull, Lions & Dogs",
             "url": "http:\/\/sermonindex.net\/SID24083",

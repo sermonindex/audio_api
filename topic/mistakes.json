@@ -1,7 +1,7 @@
 {
     "name": "Mistakes",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Learning the Hard Way",
             "url": "http:\/\/sermonindex.net\/SID19794",

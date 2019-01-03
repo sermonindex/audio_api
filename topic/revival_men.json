@@ -1,7 +1,7 @@
 {
     "name": "Revival Men",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Revival Men: Leonard Ravenhill",
             "url": "http:\/\/sermonindex.net\/SID24696",

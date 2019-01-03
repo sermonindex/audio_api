@@ -1,7 +1,7 @@
 {
     "name": "Observation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Some Observations",
             "url": "http:\/\/sermonindex.net\/SID27481",

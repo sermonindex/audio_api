@@ -2,7 +2,7 @@
     "name": "John McClay",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "What think ye of Christ?",
             "url": "http:\/\/sermonindex.net\/SID2887",

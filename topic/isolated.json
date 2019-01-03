@@ -1,7 +1,7 @@
 {
     "name": "Isolated",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God is with You",
             "url": "http:\/\/sermonindex.net\/SID26248",

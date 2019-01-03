@@ -1,7 +1,7 @@
 {
     "name": "Elders",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Elders 1",
             "url": "http:\/\/sermonindex.net\/SID25212",

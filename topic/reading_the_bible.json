@@ -1,7 +1,7 @@
 {
     "name": "Reading The Bible",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Reading the bible slowly",
             "url": "http:\/\/sermonindex.net\/SID9063",

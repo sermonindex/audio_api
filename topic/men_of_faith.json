@@ -1,7 +1,7 @@
 {
     "name": "Men Of Faith",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Good Report",
             "url": "http:\/\/sermonindex.net\/SID13999",

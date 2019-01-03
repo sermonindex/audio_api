@@ -1,7 +1,7 @@
 {
     "name": "New Man",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Walk Of The New Man 01",
             "url": "http:\/\/sermonindex.net\/SID9690",

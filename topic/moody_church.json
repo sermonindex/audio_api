@@ -1,7 +1,7 @@
 {
     "name": "Moody Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Founders Week at Moody Church 1986",
             "url": "http:\/\/sermonindex.net\/SID21087",

@@ -1,7 +1,7 @@
 {
     "name": "Judgement Hall",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) Jesus In The Judgement Hall",
             "url": "http:\/\/sermonindex.net\/SID6885",

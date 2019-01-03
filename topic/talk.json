@@ -1,7 +1,7 @@
 {
     "name": "Talk",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Informal Talk",
             "url": "http:\/\/sermonindex.net\/SID26030",

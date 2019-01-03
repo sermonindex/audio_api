@@ -1,7 +1,7 @@
 {
     "name": "Christian Home",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Old-Fashioned Christian Home",
             "url": "http:\/\/sermonindex.net\/SID13439",

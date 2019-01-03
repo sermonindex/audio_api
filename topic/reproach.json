@@ -1,7 +1,7 @@
 {
     "name": "Reproach",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Reproach Among The Heathen",
             "url": "http:\/\/sermonindex.net\/SID2491",

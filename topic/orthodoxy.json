@@ -1,7 +1,7 @@
 {
     "name": "Orthodoxy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Living Orthodoxy",
             "url": "http:\/\/sermonindex.net\/SID28412",

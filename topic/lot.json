@@ -1,7 +1,7 @@
 {
     "name": "Lot",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Decision Indecision - Lot",
             "url": "http:\/\/sermonindex.net\/SID20493",

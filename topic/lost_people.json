@@ -1,7 +1,7 @@
 {
     "name": "Lost People",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Seeking The Lost",
             "url": "http:\/\/sermonindex.net\/SID20070",

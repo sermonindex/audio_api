@@ -1,7 +1,7 @@
 {
     "name": "Tears",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A World Without Tears",
             "url": "http:\/\/sermonindex.net\/SID24285",

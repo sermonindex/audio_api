@@ -1,7 +1,7 @@
 {
     "name": "The Law",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Keep The Law",
             "url": "http:\/\/sermonindex.net\/SID25070",

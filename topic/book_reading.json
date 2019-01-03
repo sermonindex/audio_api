@@ -1,7 +1,7 @@
 {
     "name": "Book Reading",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Fresh Faith book reading clip by Jim Cymbala",
             "url": "http:\/\/sermonindex.net\/SID1154",

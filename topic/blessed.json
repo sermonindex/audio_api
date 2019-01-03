@@ -1,7 +1,7 @@
 {
     "name": "Blessed",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Blessing The Blesser",
             "url": "http:\/\/sermonindex.net\/SID4760",

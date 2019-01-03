@@ -1,7 +1,7 @@
 {
     "name": "Vessels",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Broken Vessels",
             "url": "http:\/\/sermonindex.net\/SID23323",

@@ -2,7 +2,7 @@
     "name": "James 7",
     "book": "James",
     "chapter": 7,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Test of Confusion - Part 2",
             "url": "http:\/\/sermonindex.net\/SID4400",

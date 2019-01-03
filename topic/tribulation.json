@@ -1,7 +1,7 @@
 {
     "name": "Tribulation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Fireproof",
             "url": "http:\/\/sermonindex.net\/SID9122",

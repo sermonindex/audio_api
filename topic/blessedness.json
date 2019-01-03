@@ -1,7 +1,7 @@
 {
     "name": "Blessedness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Psalm 1",
             "url": "http:\/\/sermonindex.net\/SID8028",

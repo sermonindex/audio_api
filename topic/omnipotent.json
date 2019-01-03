@@ -1,7 +1,7 @@
 {
     "name": "Omnipotent",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Omnipotent Lord",
             "url": "http:\/\/sermonindex.net\/SID12768",

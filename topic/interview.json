@@ -1,7 +1,7 @@
 {
     "name": "Interview",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Man Of God",
             "url": "http:\/\/sermonindex.net\/SID1375",

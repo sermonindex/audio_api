@@ -1,7 +1,7 @@
 {
     "name": "Bible School",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Youth Bible School 2007) A Chosen Generation",
             "url": "http:\/\/sermonindex.net\/SID16422",

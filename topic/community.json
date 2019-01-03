@@ -1,7 +1,7 @@
 {
     "name": "Community",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Anabaptist Missions",
             "url": "http:\/\/sermonindex.net\/SID28435",

@@ -1,7 +1,7 @@
 {
     "name": "Feasts",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Celebrate The Feast",
             "url": "http:\/\/sermonindex.net\/SID24113",

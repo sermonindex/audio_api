@@ -1,7 +1,7 @@
 {
     "name": "Ninevah",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Conversion Of Ninevah",
             "url": "http:\/\/sermonindex.net\/SID12481",

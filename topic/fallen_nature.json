@@ -1,7 +1,7 @@
 {
     "name": "Fallen Nature",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Shall the Dust Praise Thee?",
             "url": "http:\/\/sermonindex.net\/SID17748",

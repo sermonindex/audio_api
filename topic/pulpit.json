@@ -1,7 +1,7 @@
 {
     "name": "Pulpit",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Pastor's Conference #5 - The Pulpit: It's Power & Pitfalls",
             "url": "http:\/\/sermonindex.net\/SID17025",

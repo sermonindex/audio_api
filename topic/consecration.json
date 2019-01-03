@@ -1,7 +1,7 @@
 {
     "name": "Consecration",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Consecrated Body",
             "url": "http:\/\/sermonindex.net\/SID0487",

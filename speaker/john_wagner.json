@@ -2,7 +2,7 @@
     "name": "John Wagner",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God's Hell",
             "url": "http:\/\/sermonindex.net\/SID15001",

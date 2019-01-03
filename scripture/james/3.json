@@ -2,7 +2,7 @@
     "name": "James 3",
     "book": "James",
     "chapter": 3,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Through The Bible) James 3-5",
             "url": "http:\/\/sermonindex.net\/SID6629",

@@ -1,7 +1,7 @@
 {
     "name": "Valley Times",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Seven Bible Valleys",
             "url": "http:\/\/sermonindex.net\/SID18882",

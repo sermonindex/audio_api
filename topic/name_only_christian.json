@@ -1,7 +1,7 @@
 {
     "name": "Name Only Christian",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christian In Name Only",
             "url": "http:\/\/sermonindex.net\/SID3174",

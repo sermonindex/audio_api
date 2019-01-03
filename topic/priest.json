@@ -1,7 +1,7 @@
 {
     "name": "Priest",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "FREN-06 Pr\u00c3\u00aatre etProph\u00c3\u00a8te (Priest and Prophet)",
             "url": "http:\/\/sermonindex.net\/SID23473",

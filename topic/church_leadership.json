@@ -1,7 +1,7 @@
 {
     "name": "Church Leadership",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Church Leader And The Cross",
             "url": "http:\/\/sermonindex.net\/SID19757",

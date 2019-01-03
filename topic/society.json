@@ -1,7 +1,7 @@
 {
     "name": "Society",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Minister In a Decaying Society",
             "url": "http:\/\/sermonindex.net\/SID19786",

@@ -2,7 +2,7 @@
     "name": "Welcome Detweiler",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "2 Timothy 3:12",
             "url": "http:\/\/sermonindex.net\/SID10156",

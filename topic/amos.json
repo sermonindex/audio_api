@@ -1,7 +1,7 @@
 {
     "name": "Amos",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Amos",
             "url": "http:\/\/sermonindex.net\/SID20189",

@@ -1,7 +1,7 @@
 {
     "name": "Sickness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Sickness Of The Saint",
             "url": "http:\/\/sermonindex.net\/SID6866",

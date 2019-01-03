@@ -1,7 +1,7 @@
 {
     "name": "Mar's Hill",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "SPAN-14 Paul On Mar's Hill",
             "url": "http:\/\/sermonindex.net\/SID14273",

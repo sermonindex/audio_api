@@ -1,7 +1,7 @@
 {
     "name": "Epistle",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Epistle to the Torontonians - Part 1",
             "url": "http:\/\/sermonindex.net\/SID5787",

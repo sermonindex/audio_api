@@ -1,7 +1,7 @@
 {
     "name": "Gospel Accounts",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Wedding in Cana",
             "url": "http:\/\/sermonindex.net\/SID20887",

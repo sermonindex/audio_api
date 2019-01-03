@@ -1,7 +1,7 @@
 {
     "name": "Terror",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Day of Terror",
             "url": "http:\/\/sermonindex.net\/SID13639",

@@ -1,7 +1,7 @@
 {
     "name": "World Vision",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sharing with World Vision",
             "url": "http:\/\/sermonindex.net\/SID21436",

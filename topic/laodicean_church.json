@@ -1,7 +1,7 @@
 {
     "name": "Laodicean Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Gold Tried in the Fire",
             "url": "http:\/\/sermonindex.net\/SID1397",

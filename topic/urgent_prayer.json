@@ -1,7 +1,7 @@
 {
     "name": "Urgent Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "An Urgent Prayer For America",
             "url": "http:\/\/sermonindex.net\/SID21932",

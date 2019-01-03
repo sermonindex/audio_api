@@ -1,7 +1,7 @@
 {
     "name": "Ravenhill Quote",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Quote - Christianity Rejected",
             "url": "http:\/\/sermonindex.net\/SID20998",

@@ -2,7 +2,7 @@
     "name": "Indianapolis Church",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Prophetic People",
             "url": "http:\/\/sermonindex.net\/SID7043",

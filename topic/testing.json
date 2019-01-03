@@ -1,7 +1,7 @@
 {
     "name": "Testing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Genesis #14 Ch. 16-18 Test of Abraham",
             "url": "http:\/\/sermonindex.net\/SID12141",

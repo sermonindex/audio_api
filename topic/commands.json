@@ -1,7 +1,7 @@
 {
     "name": "Commands",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Command Me partial",
             "url": "http:\/\/sermonindex.net\/SID16335",

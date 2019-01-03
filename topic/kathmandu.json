@@ -1,7 +1,7 @@
 {
     "name": "Kathmandu",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Plea for ICT Kathmandu 1985",
             "url": "http:\/\/sermonindex.net\/SID21633",

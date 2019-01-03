@@ -1,7 +1,7 @@
 {
     "name": "Wilderness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Day's Journey Into the Wilderness",
             "url": "http:\/\/sermonindex.net\/SID4316",

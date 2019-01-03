@@ -1,7 +1,7 @@
 {
     "name": "Service for God",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Nehemiah - Service for God",
             "url": "http:\/\/sermonindex.net\/SID19130",

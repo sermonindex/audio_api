@@ -1,7 +1,7 @@
 {
     "name": "Sharing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Share the News",
             "url": "http:\/\/sermonindex.net\/SID0333",

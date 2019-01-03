@@ -1,7 +1,7 @@
 {
     "name": "Midrash",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Midrash",
             "url": "http:\/\/sermonindex.net\/SID12037",

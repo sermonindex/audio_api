@@ -1,7 +1,7 @@
 {
     "name": "Reckoning",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Knowing and Reckoning",
             "url": "http:\/\/sermonindex.net\/SID23523",

@@ -2,7 +2,7 @@
     "name": "Randy Jones",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Camp Half-Way",
             "url": "http:\/\/sermonindex.net\/SID20874",

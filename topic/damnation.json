@@ -1,7 +1,7 @@
 {
     "name": "Damnation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Lest Thou Be Consumed",
             "url": "http:\/\/sermonindex.net\/SID13073",

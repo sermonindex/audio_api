@@ -1,7 +1,7 @@
 {
     "name": "Sober Minded",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Awake - be alert",
             "url": "http:\/\/sermonindex.net\/SID20300",

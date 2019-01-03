@@ -1,7 +1,7 @@
 {
     "name": "Specific Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "26 - A Specific Prayer",
             "url": "http:\/\/sermonindex.net\/SID24735",

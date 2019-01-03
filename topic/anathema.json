@@ -1,7 +1,7 @@
 {
     "name": "Anathema",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Anathema Maranatha",
             "url": "http:\/\/sermonindex.net\/SID20069",

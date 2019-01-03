@@ -1,7 +1,7 @@
 {
     "name": "Sanhedrin",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Before the Sanhedrin",
             "url": "http:\/\/sermonindex.net\/SID27692",

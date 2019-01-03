@@ -1,7 +1,7 @@
 {
     "name": "Murder",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Mark - Murder at a Royal Party",
             "url": "http:\/\/sermonindex.net\/SID26535",

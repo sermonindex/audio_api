@@ -1,7 +1,7 @@
 {
     "name": "Morning Devotions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Morning Watch - Part 1",
             "url": "http:\/\/sermonindex.net\/SID0126",

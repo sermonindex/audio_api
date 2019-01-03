@@ -1,7 +1,7 @@
 {
     "name": "Reaping",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sowing and Reaping",
             "url": "http:\/\/sermonindex.net\/SID9134",

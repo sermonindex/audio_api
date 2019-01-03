@@ -1,7 +1,7 @@
 {
     "name": "Philadelphia",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Revelation) The Church At Philadelphia",
             "url": "http:\/\/sermonindex.net\/SID6951",

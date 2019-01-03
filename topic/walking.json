@@ -1,7 +1,7 @@
 {
     "name": "Walking",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Walking in Ephesians",
             "url": "http:\/\/sermonindex.net\/SID25252",

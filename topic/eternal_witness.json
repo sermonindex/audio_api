@@ -1,7 +1,7 @@
 {
     "name": "Eternal Witness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Eternal Witness",
             "url": "http:\/\/sermonindex.net\/SID20903",

@@ -1,7 +1,7 @@
 {
     "name": "Praise",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christian Praise",
             "url": "http:\/\/sermonindex.net\/SID4561",

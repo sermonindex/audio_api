@@ -1,7 +1,7 @@
 {
     "name": "Potter",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "K-038 The Potter",
             "url": "http:\/\/sermonindex.net\/SID12300",

@@ -1,7 +1,7 @@
 {
     "name": "Remembering",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Don't Forget To Remember",
             "url": "http:\/\/sermonindex.net\/SID20579",

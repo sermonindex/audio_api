@@ -1,7 +1,7 @@
 {
     "name": "Local Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Automony Of The Local Church",
             "url": "http:\/\/sermonindex.net\/SID27930",

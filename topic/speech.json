@@ -1,7 +1,7 @@
 {
     "name": "Speech",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Gracious Speech",
             "url": "http:\/\/sermonindex.net\/SID13440",

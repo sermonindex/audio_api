@@ -1,7 +1,7 @@
 {
     "name": "Prayers Of Confession",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Three Prayers",
             "url": "http:\/\/sermonindex.net\/SID20609",

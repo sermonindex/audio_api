@@ -1,7 +1,7 @@
 {
     "name": "House Churches",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Three-self Church Of America",
             "url": "http:\/\/sermonindex.net\/SID28042",

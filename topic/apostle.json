@@ -1,7 +1,7 @@
 {
     "name": "Apostle",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "NOR-01 A True Apostle",
             "url": "http:\/\/sermonindex.net\/SID14252",

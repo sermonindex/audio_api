@@ -1,7 +1,7 @@
 {
     "name": "Ascendancy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Spiritual Ascendancy",
             "url": "http:\/\/sermonindex.net\/SID0098",

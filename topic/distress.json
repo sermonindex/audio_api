@@ -1,7 +1,7 @@
 {
     "name": "Distress",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "David's Prayer of Distress",
             "url": "http:\/\/sermonindex.net\/SID25705",

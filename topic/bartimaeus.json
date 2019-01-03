@@ -1,7 +1,7 @@
 {
     "name": "Bartimaeus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Luke) 45 - Bartimaeus",
             "url": "http:\/\/sermonindex.net\/SID15145",

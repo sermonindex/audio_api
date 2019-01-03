@@ -1,7 +1,7 @@
 {
     "name": "Fasting",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Daniel Fast",
             "url": "http:\/\/sermonindex.net\/SID21828",

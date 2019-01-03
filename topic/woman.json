@@ -1,7 +1,7 @@
 {
     "name": "Woman",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Hidden Woman",
             "url": "http:\/\/sermonindex.net\/SID13411",

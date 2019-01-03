@@ -1,7 +1,7 @@
 {
     "name": "Word",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Final Word ",
             "url": "http:\/\/sermonindex.net\/SID22113",

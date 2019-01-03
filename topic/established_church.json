@@ -1,7 +1,7 @@
 {
     "name": "Established Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "When Revival Bypasses The Established Church",
             "url": "http:\/\/sermonindex.net\/SID25505",

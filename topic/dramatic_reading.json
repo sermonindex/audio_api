@@ -1,7 +1,7 @@
 {
     "name": "Dramatic Reading",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Pacific Garden Mission (Dramatic Reading)",
             "url": "http:\/\/sermonindex.net\/SID25153",

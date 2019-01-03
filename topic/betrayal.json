@@ -1,7 +1,7 @@
 {
     "name": "Betrayal",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Anatomy Of Betrayal",
             "url": "http:\/\/sermonindex.net\/SID27154",

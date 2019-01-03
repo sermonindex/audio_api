@@ -1,7 +1,7 @@
 {
     "name": "American Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "American Church Buffet\t",
             "url": "http:\/\/sermonindex.net\/SID25030",

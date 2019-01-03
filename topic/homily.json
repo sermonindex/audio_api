@@ -1,7 +1,7 @@
 {
     "name": "Homily",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Homily (Maundy Thursday)",
             "url": "http:\/\/sermonindex.net\/SID28766",

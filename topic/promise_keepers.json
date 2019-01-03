@@ -1,7 +1,7 @@
 {
     "name": "Promise Keepers",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Promise Keepers Whats it about",
             "url": "http:\/\/sermonindex.net\/SID21608",

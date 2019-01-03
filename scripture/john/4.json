@@ -2,7 +2,7 @@
     "name": "John 4",
     "book": "John",
     "chapter": 4,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Following The Footsteps Of Christ) At Sychar's Well",
             "url": "http:\/\/sermonindex.net\/SID8375",

@@ -2,7 +2,7 @@
     "name": "Acapella Anabaptist Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Charge To Keep I Have",
             "url": "http:\/\/sermonindex.net\/SID25297",

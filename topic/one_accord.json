@@ -1,7 +1,7 @@
 {
     "name": "One Accord",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "All With One Accord",
             "url": "http:\/\/sermonindex.net\/SID5700",

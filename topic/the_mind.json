@@ -1,7 +1,7 @@
 {
     "name": "The Mind",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Battle to Think Right",
             "url": "http:\/\/sermonindex.net\/SID23448",

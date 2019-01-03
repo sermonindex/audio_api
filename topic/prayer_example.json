@@ -1,7 +1,7 @@
 {
     "name": "Prayer Example",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(South West Baptist Church 2008) Classic Prayer Books",
             "url": "http:\/\/sermonindex.net\/SID18135",

@@ -1,7 +1,7 @@
 {
     "name": "Evolution",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Digestive System",
             "url": "http:\/\/sermonindex.net\/SID0553",

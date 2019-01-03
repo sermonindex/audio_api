@@ -1,7 +1,7 @@
 {
     "name": "Preachers",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Falling Stars - A Message for Preachers",
             "url": "http:\/\/sermonindex.net\/SID27970",

@@ -2,7 +2,7 @@
     "name": "David Smith",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Living on Purpose",
             "url": "http:\/\/sermonindex.net\/SID3829",

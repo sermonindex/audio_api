@@ -1,7 +1,7 @@
 {
     "name": "Holy Sprit",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Names of the Holy Sprit",
             "url": "http:\/\/sermonindex.net\/SID26106",

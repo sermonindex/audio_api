@@ -1,7 +1,7 @@
 {
     "name": "Biblical Faith",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Faith",
             "url": "http:\/\/sermonindex.net\/SID3326",

@@ -1,7 +1,7 @@
 {
     "name": "Profanity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Plague of Profanity",
             "url": "http:\/\/sermonindex.net\/SID17044",

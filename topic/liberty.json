@@ -1,7 +1,7 @@
 {
     "name": "Liberty",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Liberty For All!",
             "url": "http:\/\/sermonindex.net\/SID24161",

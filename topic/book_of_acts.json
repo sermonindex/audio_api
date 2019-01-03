@@ -1,7 +1,7 @@
 {
     "name": "Book of Acts",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Acts Chapter 29",
             "url": "http:\/\/sermonindex.net\/SID15428",

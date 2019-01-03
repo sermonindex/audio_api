@@ -1,7 +1,7 @@
 {
     "name": "Lazarus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Killing Lazarus",
             "url": "http:\/\/sermonindex.net\/SID11928",

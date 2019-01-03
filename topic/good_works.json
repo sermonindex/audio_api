@@ -1,7 +1,7 @@
 {
     "name": "Good Works",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Doing Good To Others",
             "url": "http:\/\/sermonindex.net\/SID14832",

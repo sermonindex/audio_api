@@ -1,7 +1,7 @@
 {
     "name": "Sarah",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Daughters of Sarah",
             "url": "http:\/\/sermonindex.net\/SID5036",

@@ -1,7 +1,7 @@
 {
     "name": "Heavenly Calling",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Heavenly Calling - Part 1",
             "url": "http:\/\/sermonindex.net\/SID1128",

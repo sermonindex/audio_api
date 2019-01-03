@@ -1,7 +1,7 @@
 {
     "name": "Flood",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Flood",
             "url": "http:\/\/sermonindex.net\/SID9802",

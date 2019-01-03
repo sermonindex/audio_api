@@ -1,7 +1,7 @@
 {
     "name": "Ornan",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Threshing Floor of Ornan",
             "url": "http:\/\/sermonindex.net\/SID1087",

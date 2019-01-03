@@ -2,7 +2,7 @@
     "name": "John Bunyan",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Few Sighs from Hell (reading)",
             "url": "http:\/\/sermonindex.net\/SID3446",

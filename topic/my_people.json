@@ -1,7 +1,7 @@
 {
     "name": "My People",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "ARAB-02 Egypt - My People",
             "url": "http:\/\/sermonindex.net\/SID14124",

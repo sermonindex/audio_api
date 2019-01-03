@@ -1,7 +1,7 @@
 {
     "name": "Breaking Bread",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Breaking Bread",
             "url": "http:\/\/sermonindex.net\/SID25515",

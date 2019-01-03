@@ -2,7 +2,7 @@
     "name": "Peter Hoover",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Pdf Book) The Russians' Secret",
             "url": "http:\/\/sermonindex.net\/SID27518.pdf",

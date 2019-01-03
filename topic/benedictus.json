@@ -1,7 +1,7 @@
 {
     "name": "Benedictus",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "What Child Is This? The Benedictus",
             "url": "http:\/\/sermonindex.net\/SID4744",

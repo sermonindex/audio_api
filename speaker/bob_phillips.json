@@ -2,7 +2,7 @@
     "name": "Bob Phillips",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "An Acceptable Sacrifice",
             "url": "http:\/\/sermonindex.net\/SID1236",

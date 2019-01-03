@@ -1,7 +1,7 @@
 {
     "name": "Critical Spirit",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Promise That You Will Never Fall",
             "url": "http:\/\/sermonindex.net\/SID25117",

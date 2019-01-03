@@ -1,7 +1,7 @@
 {
     "name": "Building",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Come let us build",
             "url": "http:\/\/sermonindex.net\/SID14340",

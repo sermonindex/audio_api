@@ -1,7 +1,7 @@
 {
     "name": "Poor",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Good News To The Poor",
             "url": "http:\/\/sermonindex.net\/SID22723",

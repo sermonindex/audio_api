@@ -1,7 +1,7 @@
 {
     "name": "Special Message",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Special Message (1st service)",
             "url": "http:\/\/sermonindex.net\/SID2592",

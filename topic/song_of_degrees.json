@@ -1,7 +1,7 @@
 {
     "name": "Song of Degrees",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Song of Degrees",
             "url": "http:\/\/sermonindex.net\/SID5007",

@@ -1,7 +1,7 @@
 {
     "name": "Revival History",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "18th Century: Revolution and Revival",
             "url": "http:\/\/sermonindex.net\/SID2626",

@@ -1,7 +1,7 @@
 {
     "name": "Eternity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Agelessness",
             "url": "http:\/\/sermonindex.net\/SID26962",

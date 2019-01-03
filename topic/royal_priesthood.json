@@ -1,7 +1,7 @@
 {
     "name": "Royal Priesthood",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Royal Priesthood 1",
             "url": "http:\/\/sermonindex.net\/SID25208",

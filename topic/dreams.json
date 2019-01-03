@@ -1,7 +1,7 @@
 {
     "name": "Dreams",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Wake Up Call To The Church",
             "url": "http:\/\/sermonindex.net\/SID22021",

@@ -1,7 +1,7 @@
 {
     "name": "Stephen",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Witness of Stephen",
             "url": "http:\/\/sermonindex.net\/SID1872",

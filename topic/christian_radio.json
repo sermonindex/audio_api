@@ -1,7 +1,7 @@
 {
     "name": "Christian Radio",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Dangers of The Christian Radio",
             "url": "http:\/\/sermonindex.net\/SID16733",

@@ -1,7 +1,7 @@
 {
     "name": "Broad Way",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Crowd The Broad Road",
             "url": "http:\/\/sermonindex.net\/SID23569",

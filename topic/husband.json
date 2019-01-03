@@ -1,7 +1,7 @@
 {
     "name": "Husband",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Husbanding",
             "url": "http:\/\/sermonindex.net\/SID15263",

@@ -1,7 +1,7 @@
 {
     "name": "Christian Ministry",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Building For God",
             "url": "http:\/\/sermonindex.net\/SID23775",

@@ -1,7 +1,7 @@
 {
     "name": "Theologian",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Heart is the Best Theologian",
             "url": "http:\/\/sermonindex.net\/SID5789",

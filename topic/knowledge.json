@@ -1,7 +1,7 @@
 {
     "name": "Knowledge",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Deeper Knowledge",
             "url": "http:\/\/sermonindex.net\/SID27105",

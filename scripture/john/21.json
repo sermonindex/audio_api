@@ -2,7 +2,7 @@
     "name": "John 21",
     "book": "John",
     "chapter": 21,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) 23 - Epilogue_The Future",
             "url": "http:\/\/sermonindex.net\/SID15728",

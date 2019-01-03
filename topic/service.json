@@ -1,7 +1,7 @@
 {
     "name": "Service",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Reasonable Service",
             "url": "http:\/\/sermonindex.net\/SID17512",

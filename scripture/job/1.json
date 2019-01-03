@@ -2,7 +2,7 @@
     "name": "Job 1",
     "book": "Job",
     "chapter": 1,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Through The Bible) Job 1-4",
             "url": "http:\/\/sermonindex.net\/SID6403",

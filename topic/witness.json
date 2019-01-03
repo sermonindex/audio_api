@@ -1,7 +1,7 @@
 {
     "name": "Witness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Representing Christ",
             "url": "http:\/\/sermonindex.net\/SID18458",

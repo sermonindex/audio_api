@@ -1,7 +1,7 @@
 {
     "name": "Japanese",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "JAP-01 The Earth is the Lord's",
             "url": "http:\/\/sermonindex.net\/SID14217",

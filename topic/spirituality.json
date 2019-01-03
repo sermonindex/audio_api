@@ -1,7 +1,7 @@
 {
     "name": "Spirituality",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Coming Alive Spiritually",
             "url": "http:\/\/sermonindex.net\/SID2492",

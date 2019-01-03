@@ -1,7 +1,7 @@
 {
     "name": "Mental Health",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Death Of Life In The Mind",
             "url": "http:\/\/sermonindex.net\/SID8078",

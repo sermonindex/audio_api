@@ -1,7 +1,7 @@
 {
     "name": "Elect Lady",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "To The Elect Lady",
             "url": "http:\/\/sermonindex.net\/SID9789",

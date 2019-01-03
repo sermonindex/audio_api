@@ -1,7 +1,7 @@
 {
     "name": "Clergymen",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Apostate Clergymen",
             "url": "http:\/\/sermonindex.net\/SID22574",

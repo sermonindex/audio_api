@@ -1,7 +1,7 @@
 {
     "name": "Church In China",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Anointed Body of Christ in China",
             "url": "http:\/\/sermonindex.net\/SID12708",

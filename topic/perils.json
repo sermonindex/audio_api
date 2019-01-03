@@ -1,7 +1,7 @@
 {
     "name": "Perils",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Perils of Paul",
             "url": "http:\/\/sermonindex.net\/SID20641",

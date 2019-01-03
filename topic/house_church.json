@@ -1,7 +1,7 @@
 {
     "name": "House Church",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "House Church Sunday Meeting - Part 1",
             "url": "http:\/\/sermonindex.net\/SID24576",

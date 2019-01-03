@@ -1,7 +1,7 @@
 {
     "name": "Pastor",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Biblical Pastor Part 1 (Tharptown Baptist Church)",
             "url": "http:\/\/sermonindex.net\/SID17751",

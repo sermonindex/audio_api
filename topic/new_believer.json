@@ -1,7 +1,7 @@
 {
     "name": "New Believer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "What happens when we become Christians",
             "url": "http:\/\/sermonindex.net\/SID1049",

@@ -1,7 +1,7 @@
 {
     "name": "Pentecost",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Personal Pentecost",
             "url": "http:\/\/sermonindex.net\/SID18441",

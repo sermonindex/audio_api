@@ -1,7 +1,7 @@
 {
     "name": "Ash Wednesday",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ash Wednesday",
             "url": "http:\/\/sermonindex.net\/SID28845",

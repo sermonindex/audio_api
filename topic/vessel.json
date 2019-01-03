@@ -1,7 +1,7 @@
 {
     "name": "Vessel",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Prepared Instrument",
             "url": "http:\/\/sermonindex.net\/SID8017",

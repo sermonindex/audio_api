@@ -1,7 +1,7 @@
 {
     "name": "Commission",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sent from God",
             "url": "http:\/\/sermonindex.net\/SID21678",

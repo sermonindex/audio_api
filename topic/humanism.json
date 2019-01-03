@@ -1,7 +1,7 @@
 {
     "name": "Humanism",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Amos 9",
             "url": "http:\/\/sermonindex.net\/SID3157",

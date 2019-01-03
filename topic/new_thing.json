@@ -1,7 +1,7 @@
 {
     "name": "New Thing",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God is doing a new thing",
             "url": "http:\/\/sermonindex.net\/SID21495",

@@ -1,7 +1,7 @@
 {
     "name": "Renewal",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Booth on the Roof",
             "url": "http:\/\/sermonindex.net\/SID15997",

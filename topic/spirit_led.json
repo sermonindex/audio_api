@@ -1,7 +1,7 @@
 {
     "name": "Spirit Led",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Follow The Leader",
             "url": "http:\/\/sermonindex.net\/SID26378",

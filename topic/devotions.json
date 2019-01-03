@@ -1,7 +1,7 @@
 {
     "name": "Devotions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "ICT Devotions 22 March 1996",
             "url": "http:\/\/sermonindex.net\/SID21587",

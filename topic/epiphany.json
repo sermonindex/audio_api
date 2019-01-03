@@ -1,7 +1,7 @@
 {
     "name": "Epiphany",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Epiphany - The Feast of the Baptism of Jesus",
             "url": "http:\/\/sermonindex.net\/SID28832",

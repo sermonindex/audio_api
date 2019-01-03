@@ -1,7 +1,7 @@
 {
     "name": "Enemy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Power Over All the Power of the Enemy",
             "url": "http:\/\/sermonindex.net\/SID20568",

@@ -1,7 +1,7 @@
 {
     "name": "Baruch",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Baruch builds more earnestly",
             "url": "http:\/\/sermonindex.net\/SID15883",

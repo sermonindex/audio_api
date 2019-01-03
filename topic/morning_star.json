@@ -1,7 +1,7 @@
 {
     "name": "Morning Star",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Morning Star",
             "url": "http:\/\/sermonindex.net\/SID4488",

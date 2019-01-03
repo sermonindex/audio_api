@@ -1,7 +1,7 @@
 {
     "name": "Breaking Of Bread",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Breaking Of Bread",
             "url": "http:\/\/sermonindex.net\/SID15968",

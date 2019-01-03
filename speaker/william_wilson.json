@@ -2,7 +2,7 @@
     "name": "William Wilson",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Matthew 6",
             "url": "http:\/\/sermonindex.net\/SID21986",

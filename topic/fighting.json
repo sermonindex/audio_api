@@ -1,7 +1,7 @@
 {
     "name": "Fighting",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Consider Before You Fight",
             "url": "http:\/\/sermonindex.net\/SID13288",

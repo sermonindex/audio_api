@@ -1,7 +1,7 @@
 {
     "name": "Radio Show",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A BATTLE OF FAITH",
             "url": "http:\/\/sermonindex.net\/SID22856",

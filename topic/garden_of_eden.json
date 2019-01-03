@@ -1,7 +1,7 @@
 {
     "name": "Garden Of Eden",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Genesis #6) This Side of Eden",
             "url": "http:\/\/sermonindex.net\/SID4836",

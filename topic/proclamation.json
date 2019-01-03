@@ -1,7 +1,7 @@
 {
     "name": "Proclamation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) The Powerful Proclamation Of John",
             "url": "http:\/\/sermonindex.net\/SID6849",

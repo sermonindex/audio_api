@@ -1,7 +1,7 @@
 {
     "name": "Dying",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "You Must Die",
             "url": "http:\/\/sermonindex.net\/SID27981",

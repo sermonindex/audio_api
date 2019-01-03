@@ -1,7 +1,7 @@
 {
     "name": "Palm Sunday",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Palm Sunday",
             "url": "http:\/\/sermonindex.net\/SID3634",

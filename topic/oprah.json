@@ -1,7 +1,7 @@
 {
     "name": "Oprah",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Is It Wrong to Be Like Oprah?",
             "url": "http:\/\/sermonindex.net\/SID24133",

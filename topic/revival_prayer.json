@@ -1,7 +1,7 @@
 {
     "name": "Revival Prayer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Praying For Revival",
             "url": "http:\/\/sermonindex.net\/SID25054",

@@ -1,7 +1,7 @@
 {
     "name": "Thoughts",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Our Thoughts",
             "url": "http:\/\/sermonindex.net\/SID22782",

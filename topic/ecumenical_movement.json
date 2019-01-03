@@ -1,7 +1,7 @@
 {
     "name": "Ecumenical Movement",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ecumenical Movement",
             "url": "http:\/\/sermonindex.net\/SID0229",

@@ -1,7 +1,7 @@
 {
     "name": "Worthy",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Conversation Worthy of Christ",
             "url": "http:\/\/sermonindex.net\/SID3400",

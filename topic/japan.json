@@ -1,7 +1,7 @@
 {
     "name": "Japan",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The failure of the Church in Japan",
             "url": "http:\/\/sermonindex.net\/SID10900",

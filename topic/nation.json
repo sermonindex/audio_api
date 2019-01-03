@@ -1,7 +1,7 @@
 {
     "name": "Nation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Can A Nation Rise Again?",
             "url": "http:\/\/sermonindex.net\/SID13691",

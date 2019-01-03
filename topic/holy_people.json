@@ -1,7 +1,7 @@
 {
     "name": "Holy People",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God's Holy People",
             "url": "http:\/\/sermonindex.net\/SID12701",

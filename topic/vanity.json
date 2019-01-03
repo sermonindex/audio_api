@@ -1,7 +1,7 @@
 {
     "name": "Vanity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Vanity, Vanity",
             "url": "http:\/\/sermonindex.net\/SID17043",

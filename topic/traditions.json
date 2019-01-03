@@ -1,7 +1,7 @@
 {
     "name": "Traditions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Empty Rituals",
             "url": "http:\/\/sermonindex.net\/SID11022",

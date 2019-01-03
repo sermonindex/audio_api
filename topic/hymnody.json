@@ -1,7 +1,7 @@
 {
     "name": "Hymnody",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Evangelical Hymnody And American Christianity",
             "url": "http:\/\/sermonindex.net\/SID22337",

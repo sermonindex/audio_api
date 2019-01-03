@@ -1,7 +1,7 @@
 {
     "name": "World",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Conditions Of The World Today",
             "url": "http:\/\/sermonindex.net\/SID12464",

@@ -2,7 +2,7 @@
     "name": "Puritan Audio Devotionals",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "001 The Golden Key, The Golden Thread",
             "url": "http:\/\/sermonindex.net\/SID17825",

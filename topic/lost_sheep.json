@@ -1,7 +1,7 @@
 {
     "name": "Lost Sheep",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Luke 15",
             "url": "http:\/\/sermonindex.net\/SID7897",

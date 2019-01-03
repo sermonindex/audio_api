@@ -1,7 +1,7 @@
 {
     "name": "Paul The Apostle",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(1 Thessalonians) Past Acts Of Paul At Thessalonica",
             "url": "http:\/\/sermonindex.net\/SID7138",

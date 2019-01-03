@@ -1,7 +1,7 @@
 {
     "name": "Christian Leadership",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Attitudes of a Christian Leader",
             "url": "http:\/\/sermonindex.net\/SID24240",

@@ -1,7 +1,7 @@
 {
     "name": "John",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(John) 01 - The Past",
             "url": "http:\/\/sermonindex.net\/SID15710",

@@ -1,7 +1,7 @@
 {
     "name": "Release",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Release",
             "url": "http:\/\/sermonindex.net\/SID15900",

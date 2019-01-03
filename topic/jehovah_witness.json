@@ -1,7 +1,7 @@
 {
     "name": "Jehovah Witness",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Evangelism of The Jehovah's Witness",
             "url": "http:\/\/sermonindex.net\/SID18229",

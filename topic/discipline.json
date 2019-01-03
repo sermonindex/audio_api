@@ -1,7 +1,7 @@
 {
     "name": "Discipline",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Disciplined Body",
             "url": "http:\/\/sermonindex.net\/SID19784",

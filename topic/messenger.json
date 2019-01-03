@@ -1,7 +1,7 @@
 {
     "name": "Messenger",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "When the Messenger and Message Become One",
             "url": "http:\/\/sermonindex.net\/SID20917",

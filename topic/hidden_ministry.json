@@ -1,7 +1,7 @@
 {
     "name": "Hidden Ministry",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Man Under the Stage",
             "url": "http:\/\/sermonindex.net\/SID22105",

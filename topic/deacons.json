@@ -1,7 +1,7 @@
 {
     "name": "Deacons",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Deacons",
             "url": "http:\/\/sermonindex.net\/SID25217",

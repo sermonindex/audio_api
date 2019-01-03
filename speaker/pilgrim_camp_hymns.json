@@ -2,7 +2,7 @@
     "name": "Pilgrim Camp Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Charge to Keep I Have",
             "url": "http:\/\/sermonindex.net\/SID26971",

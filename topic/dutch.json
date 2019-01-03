@@ -1,7 +1,7 @@
 {
     "name": "Dutch",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Interviewen (Dutch)",
             "url": "http:\/\/sermonindex.net\/SID27515",

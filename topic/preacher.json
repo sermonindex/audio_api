@@ -1,7 +1,7 @@
 {
     "name": "Preacher",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Some Things Every Preacher Needs to Know",
             "url": "http:\/\/sermonindex.net\/SID28339",

@@ -1,7 +1,7 @@
 {
     "name": "Mission",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Mark - Mobilizing for Mission",
             "url": "http:\/\/sermonindex.net\/SID26534",

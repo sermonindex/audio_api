@@ -1,7 +1,7 @@
 {
     "name": "Patmos",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Patmos Christians",
             "url": "http:\/\/sermonindex.net\/SID20508",

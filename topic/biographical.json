@@ -1,7 +1,7 @@
 {
     "name": "Biographical",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Charles and John Wesley",
             "url": "http:\/\/sermonindex.net\/SID7118",

@@ -1,7 +1,7 @@
 {
     "name": "Personal Testimony",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Liar and a Coward",
             "url": "http:\/\/sermonindex.net\/SID24208",

@@ -1,7 +1,7 @@
 {
     "name": "Meditation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "My Meditation Shall Be Sweet",
             "url": "http:\/\/sermonindex.net\/SID23785",

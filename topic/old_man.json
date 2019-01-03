@@ -1,7 +1,7 @@
 {
     "name": "Old Man",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Is That Old Man Dead",
             "url": "http:\/\/sermonindex.net\/SID20561",

@@ -2,7 +2,7 @@
     "name": "Psalm Project",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Psalm 1",
             "url": "http:\/\/sermonindex.net\/SID20434",

@@ -1,7 +1,7 @@
 {
     "name": "Paradise",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Way to Paradise",
             "url": "http:\/\/sermonindex.net\/SID0245",

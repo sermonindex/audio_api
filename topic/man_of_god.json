@@ -1,7 +1,7 @@
 {
     "name": "Man Of God",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Making of a Man of God",
             "url": "http:\/\/sermonindex.net\/SID8505",

@@ -1,7 +1,7 @@
 {
     "name": "Solomon",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "David's Advice to Solomon",
             "url": "http:\/\/sermonindex.net\/SID25691",

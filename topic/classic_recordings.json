@@ -1,7 +1,7 @@
 {
     "name": "Classic Recordings",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Don't Forget",
             "url": "http:\/\/sermonindex.net\/SID3656",

@@ -2,7 +2,7 @@
     "name": "Radio Hymns",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Dwelling in His Holy Presence",
             "url": "http:\/\/sermonindex.net\/SID22769",

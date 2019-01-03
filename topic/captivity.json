@@ -1,7 +1,7 @@
 {
     "name": "Captivity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Promise of A Captive Nation",
             "url": "http:\/\/sermonindex.net\/SID25116",

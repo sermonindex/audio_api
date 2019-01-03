@@ -1,7 +1,7 @@
 {
     "name": "Gossip",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Satan Found A Whisperer",
             "url": "http:\/\/sermonindex.net\/SID5369",

@@ -2,7 +2,7 @@
     "name": "John 8",
     "book": "John",
     "chapter": 8,
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Bible Analysis Of Man) Man's Conscience",
             "url": "http:\/\/sermonindex.net\/SID7512",

@@ -1,7 +1,7 @@
 {
     "name": "Churches of Revelation",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Seven Churches of Revelation",
             "url": "http:\/\/sermonindex.net\/SID4490",

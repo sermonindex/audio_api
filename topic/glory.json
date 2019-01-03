@@ -1,7 +1,7 @@
 {
     "name": "Glory",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Bring Back the Glory",
             "url": "http:\/\/sermonindex.net\/SID26205",

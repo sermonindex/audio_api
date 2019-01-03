@@ -1,7 +1,7 @@
 {
     "name": "Trinity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Holy Trinity, the Eternal Family",
             "url": "http:\/\/sermonindex.net\/SID28645",

@@ -1,7 +1,7 @@
 {
     "name": "Alliance",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God's Truth About Alliances",
             "url": "http:\/\/sermonindex.net\/SID9347",

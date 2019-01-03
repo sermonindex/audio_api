@@ -2,7 +2,7 @@
     "name": "John E. Brown",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Cross",
             "url": "http:\/\/sermonindex.net\/SID3590",

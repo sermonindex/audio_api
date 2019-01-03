@@ -1,7 +1,7 @@
 {
     "name": "Encounter",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "An Encounter with God",
             "url": "http:\/\/sermonindex.net\/SID27775",

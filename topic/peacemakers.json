@@ -1,7 +1,7 @@
 {
     "name": "Peacemakers",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Peacemakers",
             "url": "http:\/\/sermonindex.net\/SID21606",

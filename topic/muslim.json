@@ -1,7 +1,7 @@
 {
     "name": "Muslim",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Decade of Muslim emphasis",
             "url": "http:\/\/sermonindex.net\/SID21130",

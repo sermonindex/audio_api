@@ -1,7 +1,7 @@
 {
     "name": "Survivalship",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Survivalship",
             "url": "http:\/\/sermonindex.net\/SID21441",

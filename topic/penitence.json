@@ -1,7 +1,7 @@
 {
     "name": "Penitence",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Prospect To Penitents",
             "url": "http:\/\/sermonindex.net\/SID4610",

@@ -1,7 +1,7 @@
 {
     "name": "Scripture Praying",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Praying The Scriptures - Volume 1",
             "url": "http:\/\/sermonindex.net\/SID25903",

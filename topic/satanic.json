@@ -1,7 +1,7 @@
 {
     "name": "Satanic",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "All that is in the World",
             "url": "http:\/\/sermonindex.net\/SID7241",

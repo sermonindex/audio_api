@@ -1,7 +1,7 @@
 {
     "name": "Spirit-Led",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Walking with the Wind",
             "url": "http:\/\/sermonindex.net\/SID3341",

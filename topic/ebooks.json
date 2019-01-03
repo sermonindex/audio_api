@@ -1,7 +1,7 @@
 {
     "name": "Ebooks",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Pdf Book) Against the Wind",
             "url": "http:\/\/sermonindex.net\/SID25615.pdf",

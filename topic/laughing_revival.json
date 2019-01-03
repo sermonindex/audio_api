@@ -1,7 +1,7 @@
 {
     "name": "Laughing Revival",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Gospel of Slaughter",
             "url": "http:\/\/sermonindex.net\/SID1754",

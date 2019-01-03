@@ -1,7 +1,7 @@
 {
     "name": "Storms",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Voices In The Coming Storm",
             "url": "http:\/\/sermonindex.net\/SID3782",

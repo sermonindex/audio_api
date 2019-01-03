@@ -1,7 +1,7 @@
 {
     "name": "Slumber",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Spirit of Slumber",
             "url": "http:\/\/sermonindex.net\/SID4317",

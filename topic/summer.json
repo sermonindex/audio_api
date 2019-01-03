@@ -1,7 +1,7 @@
 {
     "name": "Summer",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "How To Make This The Best Summer",
             "url": "http:\/\/sermonindex.net\/SID25687",

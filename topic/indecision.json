@@ -1,7 +1,7 @@
 {
     "name": "Indecision",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Never, Always, Sometimes, Not Now!",
             "url": "http:\/\/sermonindex.net\/SID2622",

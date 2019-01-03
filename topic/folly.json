@@ -1,7 +1,7 @@
 {
     "name": "Folly",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Little Folly",
             "url": "http:\/\/sermonindex.net\/SID25618",

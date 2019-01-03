@@ -1,7 +1,7 @@
 {
     "name": "Beggarly",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Beggarly",
             "url": "http:\/\/sermonindex.net\/SID26110",

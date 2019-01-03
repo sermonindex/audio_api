@@ -1,7 +1,7 @@
 {
     "name": "Red Sea",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Crossing The Red Sea",
             "url": "http:\/\/sermonindex.net\/SID25652",

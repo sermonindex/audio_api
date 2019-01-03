@@ -1,7 +1,7 @@
 {
     "name": "Sardis",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Revelation) The Church At Sardis",
             "url": "http:\/\/sermonindex.net\/SID6950",

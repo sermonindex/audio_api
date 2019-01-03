@@ -1,7 +1,7 @@
 {
     "name": "Sower",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Parable Of The Sower",
             "url": "http:\/\/sermonindex.net\/SID12475",

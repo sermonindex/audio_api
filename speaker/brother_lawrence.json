@@ -2,7 +2,7 @@
     "name": "Brother Lawrence",
     "image": "",
     "description": "Brother Lawrence (1614 - 1691)\r\nListen to freely downloadable audio sermons by the speaker Brother Lawrence in mp3 format. Served as a lay brother in a Carmelite monastery in Paris. Christians commonly remember him for the intimacy he expressed concerning his relationship to God as recorded in a book compiled after his death, the classic Christian text, The Practice of the Presence of God.\r\n\r\nDespite his lowly position in life and the priory, his character attracted many to him. He had a reputation for experiencing profound peace and visitors came to seek spiritual guidance from him. The wisdom he passed on to them, in conversations and in letters, would later become the basis for the book, The Practice of the Presence of God. Father Joseph de Beaufort, later vicar general to the Archbishop of Paris, compiled this work after Brother Lawrence died. It became popular among Catholics and Protestants alike, with John Wesley and A. W. Tozer recommending it to others.",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Practicing the Presence of God - Part 1",
             "url": "http:\/\/sermonindex.net\/SID25744",

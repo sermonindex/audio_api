@@ -1,7 +1,7 @@
 {
     "name": "Prayer Meeting",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Prayer Meeting in Hell",
             "url": "http:\/\/sermonindex.net\/SID11532",

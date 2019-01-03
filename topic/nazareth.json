@@ -1,7 +1,7 @@
 {
     "name": "Nazareth",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Jesus Of Nazareth",
             "url": "http:\/\/sermonindex.net\/SID19029",

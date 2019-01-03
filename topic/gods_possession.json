@@ -1,7 +1,7 @@
 {
     "name": "Gods Possession",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Ye Are Not Your Own",
             "url": "http:\/\/sermonindex.net\/SID19641",

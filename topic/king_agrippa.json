@@ -1,7 +1,7 @@
 {
     "name": "King Agrippa",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Almost Persuaded",
             "url": "http:\/\/sermonindex.net\/SID2770",

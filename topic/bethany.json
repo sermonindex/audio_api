@@ -1,7 +1,7 @@
 {
     "name": "Bethany",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Walk To Bethany",
             "url": "http:\/\/sermonindex.net\/SID23773",

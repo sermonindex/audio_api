@@ -1,7 +1,7 @@
 {
     "name": "Holy Fire",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Rekindling Holy Fire",
             "url": "http:\/\/sermonindex.net\/SID13635",

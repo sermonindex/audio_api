@@ -1,7 +1,7 @@
 {
     "name": "Signs And Wonders",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Signs And Wonders",
             "url": "http:\/\/sermonindex.net\/SID23540",

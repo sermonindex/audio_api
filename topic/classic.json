@@ -1,7 +1,7 @@
 {
     "name": "Classic",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "William Booth Recording (audio restored)",
             "url": "http:\/\/sermonindex.net\/SID28364",

@@ -1,7 +1,7 @@
 {
     "name": "Communion Service",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Sat. Healing and Communion Service (2002 C&MA Council)",
             "url": "http:\/\/sermonindex.net\/SID1163",

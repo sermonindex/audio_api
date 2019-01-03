@@ -1,7 +1,7 @@
 {
     "name": "Christianity",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Romans) Christianity In Shoe Leather",
             "url": "http:\/\/sermonindex.net\/SID6963",

@@ -1,7 +1,7 @@
 {
     "name": "Revival",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(First Baptist Church) #1 - What Revival Is",
             "url": "http:\/\/sermonindex.net\/SID12231",
@@ -2933,7 +2933,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID0198-download",
             "preacher_name": "Harold Vaughan",
-            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },
@@ -3102,7 +3102,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID0202-download",
             "preacher_name": "Harold Vaughan",
-            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },

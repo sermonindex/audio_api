@@ -1,7 +1,7 @@
 {
     "name": "Speaking",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Elihu and His Claim to be Speaking For God",
             "url": "http:\/\/sermonindex.net\/SID25717",

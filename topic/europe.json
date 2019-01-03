@@ -1,7 +1,7 @@
 {
     "name": "Europe",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Challenge of Europe",
             "url": "http:\/\/sermonindex.net\/SID21621",

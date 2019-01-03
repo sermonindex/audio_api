@@ -2,7 +2,7 @@
     "name": "Christian Hymnary",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "At Every Motion Of Our Breath",
             "url": "http:\/\/sermonindex.net\/SID23329",

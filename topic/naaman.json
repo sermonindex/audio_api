@@ -1,7 +1,7 @@
 {
     "name": "Naaman",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Naaman the Leper",
             "url": "http:\/\/sermonindex.net\/SID16364",

@@ -1,7 +1,7 @@
 {
     "name": "Urbana",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "19 Reasons Why I Am Going To Urbana",
             "url": "http:\/\/sermonindex.net\/SID15451",

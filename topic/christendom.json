@@ -1,7 +1,7 @@
 {
     "name": "Christendom",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Christendom",
             "url": "http:\/\/sermonindex.net\/SID5705",

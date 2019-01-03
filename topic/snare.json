@@ -1,7 +1,7 @@
 {
     "name": "Snare",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Snare of the Folwer",
             "url": "http:\/\/sermonindex.net\/SID5396",

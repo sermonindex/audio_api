@@ -1,7 +1,7 @@
 {
     "name": "Idol",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "A Dead Idol or a Living God",
             "url": "http:\/\/sermonindex.net\/SID28691",

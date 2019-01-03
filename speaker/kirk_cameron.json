@@ -2,7 +2,7 @@
     "name": "Kirk Cameron",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Hell's Best Kept Secret (at Texas A&M)",
             "url": "http:\/\/sermonindex.net\/SID5753",

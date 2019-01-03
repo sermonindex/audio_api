@@ -1,7 +1,7 @@
 {
     "name": "Disease",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Disease",
             "url": "http:\/\/sermonindex.net\/SID12477",

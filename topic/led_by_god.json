@@ -1,7 +1,7 @@
 {
     "name": "Led By God",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Psalm 32:9",
             "url": "http:\/\/sermonindex.net\/SID7819",

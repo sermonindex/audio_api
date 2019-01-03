@@ -2,7 +2,7 @@
     "name": "Pastor Romaine",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "In The Last Days",
             "url": "http:\/\/sermonindex.net\/SID2500",

@@ -1,7 +1,7 @@
 {
     "name": "Elder",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Qualifications of an Elder",
             "url": "http:\/\/sermonindex.net\/SID15243",

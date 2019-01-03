@@ -2,7 +2,7 @@
     "name": "Mennonite Singing",
     "image": "",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "How Can I Keep from Singing",
             "url": "http:\/\/sermonindex.net\/SID28463",

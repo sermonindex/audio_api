@@ -1,7 +1,7 @@
 {
     "name": "Church Asleep",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "The Church That Fell Asleep (Part 5)",
             "url": "http:\/\/sermonindex.net\/SID24095",

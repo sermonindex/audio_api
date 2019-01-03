@@ -1,7 +1,7 @@
 {
     "name": "Easter",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "5 words for Easter",
             "url": "http:\/\/sermonindex.net\/SID21589",

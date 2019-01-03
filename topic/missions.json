@@ -1,7 +1,7 @@
 {
     "name": "Missions",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(Clearcreek Chapel) Everything is Missions",
             "url": "http:\/\/sermonindex.net\/SID17001",

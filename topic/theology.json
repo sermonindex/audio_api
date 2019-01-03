@@ -1,7 +1,7 @@
 {
     "name": "Theology",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Intellectual Climate and New Theology",
             "url": "http:\/\/sermonindex.net\/SID17567",

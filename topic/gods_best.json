@@ -1,7 +1,7 @@
 {
     "name": "God's Best",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "God's Best Is Himself",
             "url": "http:\/\/sermonindex.net\/SID1429",

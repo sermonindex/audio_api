@@ -1,7 +1,7 @@
 {
     "name": "Obedience",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "(1 John #10) Ring of Reality",
             "url": "http:\/\/sermonindex.net\/SID4811",
@@ -538,7 +538,7 @@
             "description": "",
             "download": "http:\/\/sermonindex.net\/SID0201-download",
             "preacher_name": "Harold Vaughan",
-            "preacher_image": "\/images\/harold_vaughan.gif",
+            "preacher_image": "",
             "preacher_description": "",
             "_scripture": []
         },

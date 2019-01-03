@@ -1,7 +1,7 @@
 {
     "name": "Overview",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Book of Acts - Short Overview",
             "url": "http:\/\/sermonindex.net\/SID2377",

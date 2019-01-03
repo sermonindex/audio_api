@@ -1,7 +1,7 @@
 {
     "name": "Priesthood",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Aaron & His Sons: The Holy Priesthood",
             "url": "http:\/\/sermonindex.net\/SID2305",

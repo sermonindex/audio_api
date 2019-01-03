@@ -1,7 +1,7 @@
 {
     "name": "Romans",
     "description": "",
-    "audio_sermons": [
+    "sermons": [
         {
             "title": "Epistle to the Romans",
             "url": "http:\/\/sermonindex.net\/SID5711",
