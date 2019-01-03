@@ -14,7 +14,7 @@ Get an index of any of the areas with the `_sermonindex.json` file in that petic
 // github
 https://raw.githubusercontent.com/sermonindex/audio_api/master/speaker/_sermonindex.json
 // sermonindex
-http://api.sermonindex.net/audio/speaker/_sermonindex.json
+https://sermonindex.info/audio/speaker/_sermonindex.json
 // your own clone
 http://www.yourowndomain.com/audio/speaker/_sermonindex.json
 ```
@@ -24,7 +24,7 @@ http://www.yourowndomain.com/audio/speaker/_sermonindex.json
 // github
 https://raw.githubusercontent.com/sermonindex/audio_api/master/scripture/_sermonindex.json
 // sermonindex
-http://api.sermonindex.net/audio/scripture/_sermonindex.json
+https://sermonindex.info/audio/scripture/_sermonindex.json
 // your own clone
 http://www.yourowndomain.com/audio/scripture/_sermonindex.json
 ```
@@ -34,7 +34,7 @@ http://www.yourowndomain.com/audio/scripture/_sermonindex.json
 // github
 https://raw.githubusercontent.com/sermonindex/audio_api/master/scripture/john/_sermonindex.json
 // sermonindex
-http://api.sermonindex.net/audio/scripture/john/_sermonindex.json
+https://sermonindex.info/audio/scripture/john/_sermonindex.json
 // your own clone
 http://www.yourowndomain.com/audio/scripture/john/_sermonindex.json
 ```
@@ -44,7 +44,7 @@ http://www.yourowndomain.com/audio/scripture/john/_sermonindex.json
 // github
 https://raw.githubusercontent.com/sermonindex/audio_api/master/topic/_sermonindex.json
 // sermonindex
-http://api.sermonindex.net/audio/topic/_sermonindex.json
+https://sermonindex.info/audio/topic/_sermonindex.json
 // your own clone
 http://www.yourowndomain.com/audio/topic/_sermonindex.json
 ```
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/sermonindex/audio_api/master/speaker/leonard_r
 
 > sermonindex
 ```
-http://api.sermonindex.net/audio/speaker/leonard_ravenhill.json
+https://sermonindex.info/audio/speaker/leonard_ravenhill.json
 ```
 
 > your own domain (clone)
