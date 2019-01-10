@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Jabez",
-            "url": "https:\/\/sermonindex.info\/SID16584",
+            "url": "http:\/\/api.sermonindex.net\/SID16584",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Blessing",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16584-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16584-download",
             "preacher_name": "Douglas Crossman",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Love Casts Out All Fear",
-            "url": "https:\/\/sermonindex.info\/SID19790",
+            "url": "http:\/\/api.sermonindex.net\/SID19790",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Fear",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19790-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19790-download",
             "preacher_name": "Joe Aldrich",
             "preacher_image": "",
             "preacher_description": "",

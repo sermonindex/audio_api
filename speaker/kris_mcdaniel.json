@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "John 3:1-17",
-            "url": "https:\/\/sermonindex.info\/SID24253",
+            "url": "http:\/\/api.sermonindex.net\/SID24253",
             "size": "0",
             "format": "mp3",
             "scripture": "John 3:1-17",
             "topic": "New Birth",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24253-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24253-download",
             "preacher_name": "Kris McDaniel",
             "preacher_image": "",
             "preacher_description": "",

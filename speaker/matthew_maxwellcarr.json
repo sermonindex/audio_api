@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Purification For Sins",
-            "url": "https:\/\/sermonindex.info\/SID22120",
+            "url": "http:\/\/api.sermonindex.net\/SID22120",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Purification",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22120-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22120-download",
             "preacher_name": "Matthew Maxwell-Carr",
             "preacher_image": "",
             "preacher_description": "",

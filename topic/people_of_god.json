@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "What Can The Righteous Do",
-            "url": "https:\/\/sermonindex.info\/SID24656",
+            "url": "http:\/\/api.sermonindex.net\/SID24656",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "People Of God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24656-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24656-download",
             "preacher_name": "Glenn Meldrum",
             "preacher_image": "",
             "preacher_description": "",

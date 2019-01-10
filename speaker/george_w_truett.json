@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "True Success",
-            "url": "https:\/\/sermonindex.info\/SID3585",
+            "url": "http:\/\/api.sermonindex.net\/SID3585",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Success",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3585-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3585-download",
             "preacher_name": "George W. Truett",
             "preacher_image": "",
             "preacher_description": "",

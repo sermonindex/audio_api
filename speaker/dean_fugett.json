@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Pure Homes are Required",
-            "url": "https:\/\/sermonindex.info\/SID23806",
+            "url": "http:\/\/api.sermonindex.net\/SID23806",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Godly Home",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23806-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23806-download",
             "preacher_name": "Dean Fugett",
             "preacher_image": "",
             "preacher_description": "",

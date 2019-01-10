@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Lord Jesus, Heir Of All Things",
-            "url": "https:\/\/sermonindex.info\/SID0994",
+            "url": "http:\/\/api.sermonindex.net\/SID0994",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Lord Jesus",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID0994-download",
+            "download": "http:\/\/api.sermonindex.net\/SID0994-download",
             "preacher_name": "Lance Lambert",
             "preacher_image": "",
             "preacher_description": "",

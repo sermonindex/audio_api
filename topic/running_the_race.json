@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Setting the Pace",
-            "url": "https:\/\/sermonindex.info\/SID21542",
+            "url": "http:\/\/api.sermonindex.net\/SID21542",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Running The Race",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21542-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21542-download",
             "preacher_name": "Peter Maiden",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Our Hope for Revival",
-            "url": "https:\/\/sermonindex.info\/SID2969",
+            "url": "http:\/\/api.sermonindex.net\/SID2969",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID2969-download",
+            "download": "http:\/\/api.sermonindex.net\/SID2969-download",
             "preacher_name": "Erroll Hulse",
             "preacher_image": "",
             "preacher_description": "",

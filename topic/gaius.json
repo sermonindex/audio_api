@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "To The Beloved Gaius",
-            "url": "https:\/\/sermonindex.info\/SID9788",
+            "url": "http:\/\/api.sermonindex.net\/SID9788",
             "size": "0",
             "format": "mp3",
             "scripture": "3 John",
             "topic": "Gaius",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID9788-download",
+            "download": "http:\/\/api.sermonindex.net\/SID9788-download",
             "preacher_name": "Bob Bruton",
             "preacher_image": "",
             "preacher_description": "",

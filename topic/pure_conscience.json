@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Power of a Pure Conscience",
-            "url": "https:\/\/sermonindex.info\/SID20198",
+            "url": "http:\/\/api.sermonindex.net\/SID20198",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Pure Conscience",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20198-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20198-download",
             "preacher_name": "Tom Allen",
             "preacher_image": "",
             "preacher_description": "",

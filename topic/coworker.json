@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Faithfulness of a Co-worker",
-            "url": "https:\/\/sermonindex.info\/SID23759",
+            "url": "http:\/\/api.sermonindex.net\/SID23759",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Co-Worker",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23759-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23759-download",
             "preacher_name": "Theodore Andoseh",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Brokenness",
-            "url": "https:\/\/sermonindex.info\/SID19800",
+            "url": "http:\/\/api.sermonindex.net\/SID19800",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Brokenness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19800-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19800-download",
             "preacher_name": "Alan Andrews",
             "preacher_image": "",
             "preacher_description": "",

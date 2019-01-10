@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Hearts Set on Pilgrimage",
-            "url": "https:\/\/sermonindex.info\/SID26446",
+            "url": "http:\/\/api.sermonindex.net\/SID26446",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Pilgrimage",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26446-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26446-download",
             "preacher_name": "Elisabeth Elliot",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Hudson Taylor: Songs on His Pilgrimage",
-            "url": "https:\/\/sermonindex.info\/SID23467",
+            "url": "http:\/\/api.sermonindex.net\/SID23467",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Biography",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23467-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23467-download",
             "preacher_name": "Jason Janz",
             "preacher_image": "",
             "preacher_description": "",

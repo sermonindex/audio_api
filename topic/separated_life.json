@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "How to Live a Separated Life: Be Diligent",
-            "url": "https:\/\/sermonindex.info\/SID3885",
+            "url": "http:\/\/api.sermonindex.net\/SID3885",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Separated Life",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3885-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3885-download",
             "preacher_name": "Hoseah Wu",
             "preacher_image": "",
             "preacher_description": "",

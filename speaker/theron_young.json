@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Psalm 96",
-            "url": "https:\/\/sermonindex.info\/SID21977",
+            "url": "http:\/\/api.sermonindex.net\/SID21977",
             "size": "0",
             "format": "mp3",
             "scripture": "Psalm 96",
             "topic": "Psalms",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21977-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21977-download",
             "preacher_name": "Theron Young",
             "preacher_image": "",
             "preacher_description": "",

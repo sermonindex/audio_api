@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "A Severe Mercy",
-            "url": "https:\/\/sermonindex.info\/SID22340",
+            "url": "http:\/\/api.sermonindex.net\/SID22340",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Mercy",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22340-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22340-download",
             "preacher_name": "Bruce Waltke",
             "preacher_image": "",
             "preacher_description": "",

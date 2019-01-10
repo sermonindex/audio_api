@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Outspoken!",
-            "url": "https:\/\/sermonindex.info\/SID19740",
+            "url": "http:\/\/api.sermonindex.net\/SID19740",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Controversial",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19740-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19740-download",
             "preacher_name": "Andrew Strom",
             "preacher_image": "",
             "preacher_description": "",

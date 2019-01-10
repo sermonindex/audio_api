@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "God's Chosen People Have Forgotten Him",
-            "url": "https:\/\/sermonindex.info\/SID16321",
+            "url": "http:\/\/api.sermonindex.net\/SID16321",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Forgetting God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16321-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16321-download",
             "preacher_name": "Bob Jones III",
             "preacher_image": "",
             "preacher_description": "",

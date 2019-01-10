@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "We Do Not Lose Heart",
-            "url": "https:\/\/sermonindex.info\/SID24336",
+            "url": "http:\/\/api.sermonindex.net\/SID24336",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Encouragement",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24336-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24336-download",
             "preacher_name": "Daniel Henderson",
             "preacher_image": "",
             "preacher_description": "",

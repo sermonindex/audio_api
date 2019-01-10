@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "This is That",
-            "url": "https:\/\/sermonindex.info\/SID16602",
+            "url": "http:\/\/api.sermonindex.net\/SID16602",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Christian Life",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16602-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16602-download",
             "preacher_name": "L.B. Hicks",
             "preacher_image": "",
             "preacher_description": "",

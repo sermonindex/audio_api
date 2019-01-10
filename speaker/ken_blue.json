@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "What Revival Has Done For Me",
-            "url": "https:\/\/sermonindex.info\/SID19829",
+            "url": "http:\/\/api.sermonindex.net\/SID19829",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Personal Revival",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19829-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19829-download",
             "preacher_name": "Ken Blue",
             "preacher_image": "",
             "preacher_description": "",

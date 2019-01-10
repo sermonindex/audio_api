@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Are You Living a Spirit Controlled Life?",
-            "url": "https:\/\/sermonindex.info\/SID19798",
+            "url": "http:\/\/api.sermonindex.net\/SID19798",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Spirit Controlled",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19798-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19798-download",
             "preacher_name": "Bob Anderson",
             "preacher_image": "",
             "preacher_description": "",

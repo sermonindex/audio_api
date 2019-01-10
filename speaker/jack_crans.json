@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Two Tests of Revival ",
-            "url": "https:\/\/sermonindex.info\/SID19911",
+            "url": "http:\/\/api.sermonindex.net\/SID19911",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Revival",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19911-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19911-download",
             "preacher_name": "Jack Crans",
             "preacher_image": "",
             "preacher_description": "",

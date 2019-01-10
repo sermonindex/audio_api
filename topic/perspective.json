@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Lord in perspective",
-            "url": "https:\/\/sermonindex.info\/SID23641",
+            "url": "http:\/\/api.sermonindex.net\/SID23641",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Perspective",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23641-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23641-download",
             "preacher_name": "Stuart Briscoe",
             "preacher_image": "\/images\/stuart_briscoe.gif",
             "preacher_description": "",

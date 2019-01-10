@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Definition and Nature of Original Sin",
-            "url": "https:\/\/sermonindex.info\/SID22343",
+            "url": "http:\/\/api.sermonindex.net\/SID22343",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Original Sin",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22343-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22343-download",
             "preacher_name": "John Murray",
             "preacher_image": "",
             "preacher_description": "",

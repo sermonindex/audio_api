@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "John Wesley: A Man of One Book",
-            "url": "https:\/\/sermonindex.info\/SID7119",
+            "url": "http:\/\/api.sermonindex.net\/SID7119",
             "size": "0",
             "format": "mp3",
             "scripture": "1 Samuel 21:9",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID7119-download",
+            "download": "http:\/\/api.sermonindex.net\/SID7119-download",
             "preacher_name": "Edward Panosian",
             "preacher_image": "",
             "preacher_description": "",

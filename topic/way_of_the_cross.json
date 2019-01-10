@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Way of the Cross",
-            "url": "https:\/\/sermonindex.info\/SID3875",
+            "url": "http:\/\/api.sermonindex.net\/SID3875",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Way Of The Cross",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3875-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3875-download",
             "preacher_name": "Devern Fromke",
             "preacher_image": "",
             "preacher_description": "",

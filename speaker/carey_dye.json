@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Know Them By Their Fruit",
-            "url": "https:\/\/sermonindex.info\/SID17287",
+            "url": "http:\/\/api.sermonindex.net\/SID17287",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Discernment",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID17287-download",
+            "download": "http:\/\/api.sermonindex.net\/SID17287-download",
             "preacher_name": "Carey Dye",
             "preacher_image": "",
             "preacher_description": "",

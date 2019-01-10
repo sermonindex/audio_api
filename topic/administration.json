@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Spiritual Service: Trained to Administer the Church",
-            "url": "https:\/\/sermonindex.info\/SID3891",
+            "url": "http:\/\/api.sermonindex.net\/SID3891",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Administration",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3891-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3891-download",
             "preacher_name": "Hoseah Wu",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Woe to the Shepherds",
-            "url": "https:\/\/sermonindex.info\/SID23801",
+            "url": "http:\/\/api.sermonindex.net\/SID23801",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Shepherds",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23801-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23801-download",
             "preacher_name": "Dave Dugan",
             "preacher_image": "",
             "preacher_description": "",

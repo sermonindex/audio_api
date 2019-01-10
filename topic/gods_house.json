@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Neglect of God's House",
-            "url": "https:\/\/sermonindex.info\/SID3896",
+            "url": "http:\/\/api.sermonindex.net\/SID3896",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "God's House",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3896-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3896-download",
             "preacher_name": "Hoseah Wu",
             "preacher_image": "",
             "preacher_description": "",

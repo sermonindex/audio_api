@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Cross",
-            "url": "https:\/\/sermonindex.info\/SID3590",
+            "url": "http:\/\/api.sermonindex.net\/SID3590",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3590-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3590-download",
             "preacher_name": "John E. Brown",
             "preacher_image": "",
             "preacher_description": "",

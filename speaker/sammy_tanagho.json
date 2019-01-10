@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Witnessing To Muslims",
-            "url": "https:\/\/sermonindex.info\/SID19873",
+            "url": "http:\/\/api.sermonindex.net\/SID19873",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Muslims",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19873-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19873-download",
             "preacher_name": "Sammy Tanagho",
             "preacher_image": "",
             "preacher_description": "",

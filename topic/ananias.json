@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Are you a Baranabas or Ananias",
-            "url": "https:\/\/sermonindex.info\/SID0698",
+            "url": "http:\/\/api.sermonindex.net\/SID0698",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Ananias",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID0698-download",
+            "download": "http:\/\/api.sermonindex.net\/SID0698-download",
             "preacher_name": "Danny Bond",
             "preacher_image": "",
             "preacher_description": "",

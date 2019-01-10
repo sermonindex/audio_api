@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "His Workmanship",
-            "url": "https:\/\/sermonindex.info\/SID12461",
+            "url": "http:\/\/api.sermonindex.net\/SID12461",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Workmanship",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID12461-download",
+            "download": "http:\/\/api.sermonindex.net\/SID12461-download",
             "preacher_name": "Charles E. Fuller",
             "preacher_image": "",
             "preacher_description": "",

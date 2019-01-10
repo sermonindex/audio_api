@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Introductory Comments For Conference",
-            "url": "https:\/\/sermonindex.info\/SID0991",
+            "url": "http:\/\/api.sermonindex.net\/SID0991",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID0991-download",
+            "download": "http:\/\/api.sermonindex.net\/SID0991-download",
             "preacher_name": "Kenny Pittman",
             "preacher_image": "",
             "preacher_description": "",

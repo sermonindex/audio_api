@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Tangled Web of Christian Tolerance",
-            "url": "https:\/\/sermonindex.info\/SID17972",
+            "url": "http:\/\/api.sermonindex.net\/SID17972",
             "size": "0",
             "format": "mp3",
             "scripture": "1 Thessalonians 2:2",
             "topic": "Tolerance",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID17972-download",
+            "download": "http:\/\/api.sermonindex.net\/SID17972-download",
             "preacher_name": "Josh McDowell",
             "preacher_image": "",
             "preacher_description": "",

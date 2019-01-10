@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Adam and Eve's Impact on Marriage",
-            "url": "https:\/\/sermonindex.info\/SID22269",
+            "url": "http:\/\/api.sermonindex.net\/SID22269",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Marriage",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22269-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22269-download",
             "preacher_name": "Raymond C. Ortlund Jr.",
             "preacher_image": "",
             "preacher_description": "",

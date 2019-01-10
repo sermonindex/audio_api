@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Blotted Out",
-            "url": "https:\/\/sermonindex.info\/SID3588",
+            "url": "http:\/\/api.sermonindex.net\/SID3588",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3588-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3588-download",
             "preacher_name": "Mel Trotter",
             "preacher_image": "",
             "preacher_description": "",

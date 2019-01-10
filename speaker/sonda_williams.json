@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Shechem is not Your Home",
-            "url": "https:\/\/sermonindex.info\/SID26010",
+            "url": "http:\/\/api.sermonindex.net\/SID26010",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Shechem",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26010-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26010-download",
             "preacher_name": "Sonda Williams",
             "preacher_image": "",
             "preacher_description": "",

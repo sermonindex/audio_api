@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Cut Off Goliath's Head",
-            "url": "https:\/\/sermonindex.info\/SID20864",
+            "url": "http:\/\/api.sermonindex.net\/SID20864",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Besetting Sins",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20864-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20864-download",
             "preacher_name": "Bob Jennings",
             "preacher_image": "",
             "preacher_description": "",

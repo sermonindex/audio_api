@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "To Reach Jehovahs Witnesses",
-            "url": "https:\/\/sermonindex.info\/SID23591",
+            "url": "http:\/\/api.sermonindex.net\/SID23591",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Jehovahs Witnesses",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23591-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23591-download",
             "preacher_name": "David Bowker",
             "preacher_image": "",
             "preacher_description": "",

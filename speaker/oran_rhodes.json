@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Wherein Have We Despised Thy Name?",
-            "url": "https:\/\/sermonindex.info\/SID23807",
+            "url": "http:\/\/api.sermonindex.net\/SID23807",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Holiness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23807-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23807-download",
             "preacher_name": "Oran Rhodes",
             "preacher_image": "",
             "preacher_description": "",

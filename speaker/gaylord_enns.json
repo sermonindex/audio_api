@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Missional Unity",
-            "url": "https:\/\/sermonindex.info\/SID22248",
+            "url": "http:\/\/api.sermonindex.net\/SID22248",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Unity",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22248-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22248-download",
             "preacher_name": "Gaylord Enns",
             "preacher_image": "",
             "preacher_description": "",

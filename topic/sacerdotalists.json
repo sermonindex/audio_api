@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Historical Review - Sacerdotalists, Evangelicals",
-            "url": "https:\/\/sermonindex.info\/SID1278",
+            "url": "http:\/\/api.sermonindex.net\/SID1278",
             "size": "6140416",
             "format": "mp3",
             "scripture": "",
             "topic": "Sacerdotalists",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID1278-download",
+            "download": "http:\/\/api.sermonindex.net\/SID1278-download",
             "preacher_name": "John Murray",
             "preacher_image": "\/images\/john_murray.gif",
             "preacher_description": "",

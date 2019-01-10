@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "What Christ Says About The Rapture",
-            "url": "https:\/\/sermonindex.info\/SID23092",
+            "url": "http:\/\/api.sermonindex.net\/SID23092",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Rapture",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23092-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23092-download",
             "preacher_name": "W.J. Mencarow",
             "preacher_image": "",
             "preacher_description": "",

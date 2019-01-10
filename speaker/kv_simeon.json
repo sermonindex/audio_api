@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Evangelism: Mandate Of Every Church",
-            "url": "https:\/\/sermonindex.info\/SID22060",
+            "url": "http:\/\/api.sermonindex.net\/SID22060",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Evangelism",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22060-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22060-download",
             "preacher_name": "K.V. Simeon",
             "preacher_image": "",
             "preacher_description": "",

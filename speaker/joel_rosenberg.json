@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Are We Living In The Last Days",
-            "url": "https:\/\/sermonindex.info\/SID19870",
+            "url": "http:\/\/api.sermonindex.net\/SID19870",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Last Days",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19870-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19870-download",
             "preacher_name": "Joel Rosenberg",
             "preacher_image": "",
             "preacher_description": "",

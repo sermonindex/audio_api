@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "I Keep a Quiet Heart",
-            "url": "https:\/\/sermonindex.info\/SID26447",
+            "url": "http:\/\/api.sermonindex.net\/SID26447",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Quietness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26447-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26447-download",
             "preacher_name": "Elisabeth Elliot",
             "preacher_image": "",
             "preacher_description": "",

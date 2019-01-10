@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "A Study Of Greek Words",
-            "url": "https:\/\/sermonindex.info\/SID7948",
+            "url": "http:\/\/api.sermonindex.net\/SID7948",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Greek Words",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID7948-download",
+            "download": "http:\/\/api.sermonindex.net\/SID7948-download",
             "preacher_name": "Charles Anderson",
             "preacher_image": "",
             "preacher_description": "",

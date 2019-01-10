@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Meditate Don't Medicate",
-            "url": "https:\/\/sermonindex.info\/SID19217",
+            "url": "http:\/\/api.sermonindex.net\/SID19217",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Medicine",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19217-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19217-download",
             "preacher_name": "Ken Graves",
             "preacher_image": "",
             "preacher_description": "",

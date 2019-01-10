@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Herod",
-            "url": "https:\/\/sermonindex.info\/SID10345",
+            "url": "http:\/\/api.sermonindex.net\/SID10345",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Herod",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID10345-download",
+            "download": "http:\/\/api.sermonindex.net\/SID10345-download",
             "preacher_name": "Edwin Fesche",
             "preacher_image": "",
             "preacher_description": "",

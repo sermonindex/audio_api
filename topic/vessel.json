@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Prepared Instrument",
-            "url": "https:\/\/sermonindex.info\/SID8017",
+            "url": "http:\/\/api.sermonindex.net\/SID8017",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Vessel",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID8017-download",
+            "download": "http:\/\/api.sermonindex.net\/SID8017-download",
             "preacher_name": "Carl Armerding",
             "preacher_image": "",
             "preacher_description": "",

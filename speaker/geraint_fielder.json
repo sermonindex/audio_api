@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Contented and the Discontented Man",
-            "url": "https:\/\/sermonindex.info\/SID22649",
+            "url": "http:\/\/api.sermonindex.net\/SID22649",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Discontent",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22649-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22649-download",
             "preacher_name": "Geraint Fielder",
             "preacher_image": "",
             "preacher_description": "",

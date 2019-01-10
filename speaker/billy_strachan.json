@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "One of the Best Prayers Ever - Keswick Convention",
-            "url": "https:\/\/sermonindex.info\/SID20356",
+            "url": "http:\/\/api.sermonindex.net\/SID20356",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Prayer Meeting",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20356-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20356-download",
             "preacher_name": "Billy Strachan",
             "preacher_image": "",
             "preacher_description": "",

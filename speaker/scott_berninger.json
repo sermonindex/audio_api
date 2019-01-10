@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Danger Of A False Center ",
-            "url": "https:\/\/sermonindex.info\/SID21282",
+            "url": "http:\/\/api.sermonindex.net\/SID21282",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Danger",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21282-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21282-download",
             "preacher_name": "Scott Berninger",
             "preacher_image": "",
             "preacher_description": "",

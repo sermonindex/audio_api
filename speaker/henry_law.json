@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Divine Cordials",
-            "url": "https:\/\/sermonindex.info\/SID16036",
+            "url": "http:\/\/api.sermonindex.net\/SID16036",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Audio Books",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16036-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16036-download",
             "preacher_name": "Henry Law",
             "preacher_image": "",
             "preacher_description": "",

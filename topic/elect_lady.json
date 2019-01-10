@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "To The Elect Lady",
-            "url": "https:\/\/sermonindex.info\/SID9789",
+            "url": "http:\/\/api.sermonindex.net\/SID9789",
             "size": "0",
             "format": "mp3",
             "scripture": "2 John",
             "topic": "Elect Lady",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID9789-download",
+            "download": "http:\/\/api.sermonindex.net\/SID9789-download",
             "preacher_name": "Bob Bruton",
             "preacher_image": "",
             "preacher_description": "",

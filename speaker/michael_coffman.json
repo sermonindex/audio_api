@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Birth Of The New World Order",
-            "url": "https:\/\/sermonindex.info\/SID19852",
+            "url": "http:\/\/api.sermonindex.net\/SID19852",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "New World Order",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19852-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19852-download",
             "preacher_name": "Michael Coffman",
             "preacher_image": "",
             "preacher_description": "",

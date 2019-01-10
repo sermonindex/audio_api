@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Only Known Audio Recording of Brengle 1920",
-            "url": "https:\/\/sermonindex.info\/SID20558",
+            "url": "http:\/\/api.sermonindex.net\/SID20558",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Vintage Recording",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20558-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20558-download",
             "preacher_name": "Samuel Logan Brengle",
             "preacher_image": "",
             "preacher_description": "",

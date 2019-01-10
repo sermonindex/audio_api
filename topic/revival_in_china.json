@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "A Bride Being Prepared - The Revival In China by Dennis Balcombe",
-            "url": "https:\/\/sermonindex.info\/SID25080",
+            "url": "http:\/\/api.sermonindex.net\/SID25080",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Revival In China",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID25080-download",
+            "download": "http:\/\/api.sermonindex.net\/SID25080-download",
             "preacher_name": "SermonIndex.net Simulcast 2013",
             "preacher_image": "",
             "preacher_description": "",

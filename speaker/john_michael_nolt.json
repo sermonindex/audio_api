@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "What Does It Mean To Be Born Again?",
-            "url": "https:\/\/sermonindex.info\/SID3851",
+            "url": "http:\/\/api.sermonindex.net\/SID3851",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "A very simple and straightforward explanation from John 3 on what it means to be born again as well as false ideas surrounding the new birth. This is a good message to give to the unsaved.",
-            "download": "https:\/\/sermonindex.info\/SID3851-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3851-download",
             "preacher_name": "John Michael Nolt",
             "preacher_image": "",
             "preacher_description": "",

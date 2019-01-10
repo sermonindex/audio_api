@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Questions on Inability",
-            "url": "https:\/\/sermonindex.info\/SID1274",
+            "url": "http:\/\/api.sermonindex.net\/SID1274",
             "size": "6174208",
             "format": "mp3",
             "scripture": "",
             "topic": "Inability",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID1274-download",
+            "download": "http:\/\/api.sermonindex.net\/SID1274-download",
             "preacher_name": "John Murray",
             "preacher_image": "\/images\/john_murray.gif",
             "preacher_description": "",

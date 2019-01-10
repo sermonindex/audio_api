@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "What Happens to Christians Who Live Like the Devil?",
-            "url": "https:\/\/sermonindex.info\/SID17980",
+            "url": "http:\/\/api.sermonindex.net\/SID17980",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID17980-download",
+            "download": "http:\/\/api.sermonindex.net\/SID17980-download",
             "preacher_name": "Terry Cadwell",
             "preacher_image": "",
             "preacher_description": "",

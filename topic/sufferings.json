@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Stability Through Sufferings",
-            "url": "https:\/\/sermonindex.info\/SID25055",
+            "url": "http:\/\/api.sermonindex.net\/SID25055",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Sufferings",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID25055-download",
+            "download": "http:\/\/api.sermonindex.net\/SID25055-download",
             "preacher_name": "Alan Martin",
             "preacher_image": "",
             "preacher_description": "",

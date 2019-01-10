@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Are You a Priest?",
-            "url": "https:\/\/sermonindex.info\/SID24196",
+            "url": "http:\/\/api.sermonindex.net\/SID24196",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Priesthood",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24196-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24196-download",
             "preacher_name": "Samuel Whitefield",
             "preacher_image": "",
             "preacher_description": "",

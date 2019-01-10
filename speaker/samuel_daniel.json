@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Honoring Your Prayer",
-            "url": "https:\/\/sermonindex.info\/SID10833",
+            "url": "http:\/\/api.sermonindex.net\/SID10833",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID10833-download",
+            "download": "http:\/\/api.sermonindex.net\/SID10833-download",
             "preacher_name": "Samuel Daniel",
             "preacher_image": "",
             "preacher_description": "",

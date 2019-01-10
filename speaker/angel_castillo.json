@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Purified Through Trials",
-            "url": "https:\/\/sermonindex.info\/SID18619",
+            "url": "http:\/\/api.sermonindex.net\/SID18619",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Trials",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID18619-download",
+            "download": "http:\/\/api.sermonindex.net\/SID18619-download",
             "preacher_name": "Angel Castillo",
             "preacher_image": "",
             "preacher_description": "",

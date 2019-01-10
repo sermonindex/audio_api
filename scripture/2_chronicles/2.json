@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Freedom of God",
-            "url": "https:\/\/sermonindex.info\/SID17417",
+            "url": "http:\/\/api.sermonindex.net\/SID17417",
             "size": "0",
             "format": "mp3",
             "scripture": "2 Chronicles 2:6, Revelation 4:11",
             "topic": "Freedom",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID17417-download",
+            "download": "http:\/\/api.sermonindex.net\/SID17417-download",
             "preacher_name": "Glenn Meldrum",
             "preacher_image": "",
             "preacher_description": "",

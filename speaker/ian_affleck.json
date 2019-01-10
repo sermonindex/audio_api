@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Coming Of The Day Of The Lord",
-            "url": "https:\/\/sermonindex.info\/SID21974",
+            "url": "http:\/\/api.sermonindex.net\/SID21974",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Second Coming",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21974-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21974-download",
             "preacher_name": "Ian Affleck",
             "preacher_image": "",
             "preacher_description": "",

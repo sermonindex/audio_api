@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "On The Antichrist",
-            "url": "https:\/\/sermonindex.info\/SID23798",
+            "url": "http:\/\/api.sermonindex.net\/SID23798",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Antichrist",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23798-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23798-download",
             "preacher_name": "Joseph Balsan",
             "preacher_image": "",
             "preacher_description": "",

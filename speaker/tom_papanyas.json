@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Testimony",
-            "url": "https:\/\/sermonindex.info\/SID23617",
+            "url": "http:\/\/api.sermonindex.net\/SID23617",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Testimony",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23617-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23617-download",
             "preacher_name": "Tom Papanyas",
             "preacher_image": "",
             "preacher_description": "",

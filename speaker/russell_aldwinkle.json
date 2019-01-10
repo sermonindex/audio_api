@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Nature and Purpose of Our Freedom",
-            "url": "https:\/\/sermonindex.info\/SID19791",
+            "url": "http:\/\/api.sermonindex.net\/SID19791",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Freedom",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19791-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19791-download",
             "preacher_name": "Russell Aldwinkle",
             "preacher_image": "",
             "preacher_description": "",

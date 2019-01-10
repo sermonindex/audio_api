@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Christ Is All In All",
-            "url": "https:\/\/sermonindex.info\/SID19919",
+            "url": "http:\/\/api.sermonindex.net\/SID19919",
             "size": "0",
             "format": "mp3",
             "scripture": "Colossians 3:11",
             "topic": "Christ",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19919-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19919-download",
             "preacher_name": "Curtis Hutson",
             "preacher_image": "",
             "preacher_description": "",

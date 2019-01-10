@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "How to Raise Masculine Sons",
-            "url": "https:\/\/sermonindex.info\/SID22266",
+            "url": "http:\/\/api.sermonindex.net\/SID22266",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Raising Children",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22266-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22266-download",
             "preacher_name": "Stu Weber",
             "preacher_image": "",
             "preacher_description": "",

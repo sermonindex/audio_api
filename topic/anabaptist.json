@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "A Call To Gelasenheit",
-            "url": "https:\/\/sermonindex.info\/SID28433",
+            "url": "http:\/\/api.sermonindex.net\/SID28433",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Anabaptist",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID28433-download",
+            "download": "http:\/\/api.sermonindex.net\/SID28433-download",
             "preacher_name": "Henry Lehman",
             "preacher_image": "",
             "preacher_description": "",

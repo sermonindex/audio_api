@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Principles Of Faith and Obedience ",
-            "url": "https:\/\/sermonindex.info\/SID21980",
+            "url": "http:\/\/api.sermonindex.net\/SID21980",
             "size": "0",
             "format": "mp3",
             "scripture": "Hebrews 11:8",
             "topic": "Obedience",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21980-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21980-download",
             "preacher_name": "C. Stacey Woods",
             "preacher_image": "",
             "preacher_description": "",

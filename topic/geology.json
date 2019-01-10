@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Flood and Modern Geology",
-            "url": "https:\/\/sermonindex.info\/SID23590",
+            "url": "http:\/\/api.sermonindex.net\/SID23590",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Geology",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23590-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23590-download",
             "preacher_name": "John Whitcomb",
             "preacher_image": "",
             "preacher_description": "",

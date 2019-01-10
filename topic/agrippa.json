@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Paul speaks before Agrippa",
-            "url": "https:\/\/sermonindex.info\/SID23562",
+            "url": "http:\/\/api.sermonindex.net\/SID23562",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Agrippa",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23562-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23562-download",
             "preacher_name": "Robin McKeown",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "False Prophets are in Our Midst",
-            "url": "https:\/\/sermonindex.info\/SID18233",
+            "url": "http:\/\/api.sermonindex.net\/SID18233",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "False Teachers",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID18233-download",
+            "download": "http:\/\/api.sermonindex.net\/SID18233-download",
             "preacher_name": "Aaron Ernst",
             "preacher_image": "",
             "preacher_description": "",

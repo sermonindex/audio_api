@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "98. What is prayer?",
-            "url": "https:\/\/sermonindex.info\/SID22452",
+            "url": "http:\/\/api.sermonindex.net\/SID22452",
             "size": "0",
             "format": "mp3",
             "scripture": "Psalm 62:8, 1 John 5:14",
             "topic": "Audio Books",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22452-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22452-download",
             "preacher_name": "Westminster Shorter Catechism",
             "preacher_image": "",
             "preacher_description": "",

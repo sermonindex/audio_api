@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Pharisee And The Tax Collector",
-            "url": "https:\/\/sermonindex.info\/SID19811",
+            "url": "http:\/\/api.sermonindex.net\/SID19811",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Pharisee",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19811-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19811-download",
             "preacher_name": "Ken Bailey",
             "preacher_image": "",
             "preacher_description": "",

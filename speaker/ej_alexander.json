@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "New Look At Consecration",
-            "url": "https:\/\/sermonindex.info\/SID19792",
+            "url": "http:\/\/api.sermonindex.net\/SID19792",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Consecration",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19792-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19792-download",
             "preacher_name": "E.J. Alexander",
             "preacher_image": "",
             "preacher_description": "",

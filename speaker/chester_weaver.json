@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Journey Toward Brokenness; Gelassenheit",
-            "url": "https:\/\/sermonindex.info\/SID25934",
+            "url": "http:\/\/api.sermonindex.net\/SID25934",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Brokenness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID25934-download",
+            "download": "http:\/\/api.sermonindex.net\/SID25934-download",
             "preacher_name": "Chester Weaver",
             "preacher_image": "",
             "preacher_description": "",

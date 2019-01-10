@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Separated unto the Gospel",
-            "url": "https:\/\/sermonindex.info\/SID17122",
+            "url": "http:\/\/api.sermonindex.net\/SID17122",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Gospel",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID17122-download",
+            "download": "http:\/\/api.sermonindex.net\/SID17122-download",
             "preacher_name": "Detlef Stegen",
             "preacher_image": "",
             "preacher_description": "",

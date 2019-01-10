@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Dark Night Of The Soul",
-            "url": "https:\/\/sermonindex.info\/SID22002",
+            "url": "http:\/\/api.sermonindex.net\/SID22002",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Deep Struggles",
             "description": "Have you been praying and praying to God for an answer and you feel as if He is not answering you? Have you been super depressed from the lost of a job or loved one? Have you had an extremely painful experience and you feel like God has left you? These are some examples of the Dark Night of the Soul. Dr. Jim Logan explains personally how he had to enter this dark place and he shares what should I do when I am there.",
-            "download": "https:\/\/sermonindex.info\/SID22002-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22002-download",
             "preacher_name": "Jim Logan",
             "preacher_image": "",
             "preacher_description": "",

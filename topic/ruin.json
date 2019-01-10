@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Ruin of a Christian",
-            "url": "https:\/\/sermonindex.info\/SID24655",
+            "url": "http:\/\/api.sermonindex.net\/SID24655",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Ruin",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24655-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24655-download",
             "preacher_name": "Glenn Meldrum",
             "preacher_image": "",
             "preacher_description": "",

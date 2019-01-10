@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "What is Justification?",
-            "url": "https:\/\/sermonindex.info\/SID2497",
+            "url": "http:\/\/api.sermonindex.net\/SID2497",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Justification",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID2497-download",
+            "download": "http:\/\/api.sermonindex.net\/SID2497-download",
             "preacher_name": "Tim Knight",
             "preacher_image": "",
             "preacher_description": "",

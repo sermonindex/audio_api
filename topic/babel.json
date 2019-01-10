@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Tower Builders And The Name Game",
-            "url": "https:\/\/sermonindex.info\/SID27531",
+            "url": "http:\/\/api.sermonindex.net\/SID27531",
             "size": "0",
             "format": "mp3",
             "scripture": "Genesis 11:1-9",
             "topic": "Babel",
             "description": "The tower of Babel: 1-The context of this story 2-The character of this tower 3-The curse of Babel",
-            "download": "https:\/\/sermonindex.info\/SID27531-download",
+            "download": "http:\/\/api.sermonindex.net\/SID27531-download",
             "preacher_name": "Roger Ellsworth",
             "preacher_image": "",
             "preacher_description": "",

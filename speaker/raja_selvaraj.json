@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The God of Grace",
-            "url": "https:\/\/sermonindex.info\/SID27742",
+            "url": "http:\/\/api.sermonindex.net\/SID27742",
             "size": "0",
             "format": "mp3",
             "scripture": "John 1:17",
             "topic": "Grace",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID27742-download",
+            "download": "http:\/\/api.sermonindex.net\/SID27742-download",
             "preacher_name": "Raja Selvaraj",
             "preacher_image": "",
             "preacher_description": "",

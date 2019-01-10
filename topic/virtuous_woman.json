@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "A Virtuous Woman",
-            "url": "https:\/\/sermonindex.info\/SID24243",
+            "url": "http:\/\/api.sermonindex.net\/SID24243",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Virtuous Woman",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24243-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24243-download",
             "preacher_name": "Mary Peckham",
             "preacher_image": "",
             "preacher_description": "",

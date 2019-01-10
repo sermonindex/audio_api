@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Abimelech",
-            "url": "https:\/\/sermonindex.info\/SID16371",
+            "url": "http:\/\/api.sermonindex.net\/SID16371",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Abimelech",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16371-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16371-download",
             "preacher_name": "Charles Alexander",
             "preacher_image": "",
             "preacher_description": "",

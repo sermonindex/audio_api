@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Why The Devil Hates You",
-            "url": "https:\/\/sermonindex.info\/SID19851",
+            "url": "http:\/\/api.sermonindex.net\/SID19851",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Devil",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19851-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19851-download",
             "preacher_name": "Dana Carpenter",
             "preacher_image": "",
             "preacher_description": "",

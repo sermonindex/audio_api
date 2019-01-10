@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "False gospels and Watching Virgins by David Servant",
-            "url": "https:\/\/sermonindex.info\/SID25082",
+            "url": "http:\/\/api.sermonindex.net\/SID25082",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "False gospels",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID25082-download",
+            "download": "http:\/\/api.sermonindex.net\/SID25082-download",
             "preacher_name": "SermonIndex.net Simulcast 2013",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Is Biogenesis Scientific?",
-            "url": "https:\/\/sermonindex.info\/SID0545",
+            "url": "http:\/\/api.sermonindex.net\/SID0545",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Biogenesis",
             "description": "Smith discusses in this truncated message, the value of understanding that DNA is the result of thought, and not randomness.  The sermon cuts off early before he can make his point.",
-            "download": "https:\/\/sermonindex.info\/SID0545-download",
+            "download": "http:\/\/api.sermonindex.net\/SID0545-download",
             "preacher_name": "Dr. A.E. Wilder-Smith",
             "preacher_image": "",
             "preacher_description": "",

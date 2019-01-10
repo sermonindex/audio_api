@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Everlasting Kingdom",
-            "url": "https:\/\/sermonindex.info\/SID23800",
+            "url": "http:\/\/api.sermonindex.net\/SID23800",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Everlasting Kingdom",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23800-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23800-download",
             "preacher_name": "Burt Groves",
             "preacher_image": "",
             "preacher_description": "",

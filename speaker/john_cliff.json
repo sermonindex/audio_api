@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Cornerstone 50'th Anniversary De Moines",
-            "url": "https:\/\/sermonindex.info\/SID9953",
+            "url": "http:\/\/api.sermonindex.net\/SID9953",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Anniversary",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID9953-download",
+            "download": "http:\/\/api.sermonindex.net\/SID9953-download",
             "preacher_name": "John Cliff",
             "preacher_image": "",
             "preacher_description": "",

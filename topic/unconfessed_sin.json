@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Covering Sin",
-            "url": "https:\/\/sermonindex.info\/SID14147",
+            "url": "http:\/\/api.sermonindex.net\/SID14147",
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 59:2",
             "topic": "Unconfessed Sin",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID14147-download",
+            "download": "http:\/\/api.sermonindex.net\/SID14147-download",
             "preacher_name": "Ed Mohr",
             "preacher_image": "",
             "preacher_description": "",

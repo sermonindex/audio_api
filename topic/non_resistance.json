@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Sword",
-            "url": "https:\/\/sermonindex.info\/SID19360",
+            "url": "http:\/\/api.sermonindex.net\/SID19360",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Non Resistance",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19360-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19360-download",
             "preacher_name": "Zeb McDaris",
             "preacher_image": "",
             "preacher_description": "",

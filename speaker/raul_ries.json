@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Personal Testimony",
-            "url": "https:\/\/sermonindex.info\/SID19868",
+            "url": "http:\/\/api.sermonindex.net\/SID19868",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Testimony",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19868-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19868-download",
             "preacher_name": "Raul Ries",
             "preacher_image": "",
             "preacher_description": "",

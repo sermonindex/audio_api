@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "(Genesis) 32 - The Sign of the Abrahamic Covenant",
-            "url": "https:\/\/sermonindex.info\/SID13021",
+            "url": "http:\/\/api.sermonindex.net\/SID13021",
             "size": "0",
             "format": "mp3",
             "scripture": "Genesis 17:9-27",
             "topic": "Abrahamic Covenant",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID13021-download",
+            "download": "http:\/\/api.sermonindex.net\/SID13021-download",
             "preacher_name": "S. Lewis Johnson",
             "preacher_image": "",
             "preacher_description": "",

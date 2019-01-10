@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Patience and Longsuffering of God",
-            "url": "https:\/\/sermonindex.info\/SID13058",
+            "url": "http:\/\/api.sermonindex.net\/SID13058",
             "size": "0",
             "format": "mp3",
             "scripture": "2 Peter 3:9, Romans 9:22",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID13058-download",
+            "download": "http:\/\/api.sermonindex.net\/SID13058-download",
             "preacher_name": "John G. Reisinger",
             "preacher_image": "",
             "preacher_description": "",

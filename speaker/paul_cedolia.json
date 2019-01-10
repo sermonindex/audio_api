@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Living In Christ",
-            "url": "https:\/\/sermonindex.info\/SID22734",
+            "url": "http:\/\/api.sermonindex.net\/SID22734",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Christian Life",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22734-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22734-download",
             "preacher_name": "Paul Cedolia",
             "preacher_image": "",
             "preacher_description": "",

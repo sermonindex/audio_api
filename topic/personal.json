@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Speaking Personally",
-            "url": "https:\/\/sermonindex.info\/SID23638",
+            "url": "http:\/\/api.sermonindex.net\/SID23638",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Personal",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23638-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23638-download",
             "preacher_name": "Stuart Briscoe",
             "preacher_image": "\/images\/stuart_briscoe.gif",
             "preacher_description": "",

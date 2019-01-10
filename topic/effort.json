@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Maximum Effort Noblest Cause",
-            "url": "https:\/\/sermonindex.info\/SID1169",
+            "url": "http:\/\/api.sermonindex.net\/SID1169",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Effort",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID1169-download",
+            "download": "http:\/\/api.sermonindex.net\/SID1169-download",
             "preacher_name": "Danny Bond",
             "preacher_image": "",
             "preacher_description": "",

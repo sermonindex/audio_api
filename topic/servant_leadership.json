@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Servant Leader",
-            "url": "https:\/\/sermonindex.info\/SID0121",
+            "url": "http:\/\/api.sermonindex.net\/SID0121",
             "size": "4843520",
             "format": "mp3",
             "scripture": "",
             "topic": "Servant Leadership",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID0121-download",
+            "download": "http:\/\/api.sermonindex.net\/SID0121-download",
             "preacher_name": "J. Oswald Sanders",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Bearing Fruit",
-            "url": "https:\/\/sermonindex.info\/SID19801",
+            "url": "http:\/\/api.sermonindex.net\/SID19801",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Bearing Fruit",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19801-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19801-download",
             "preacher_name": "Diane Andrews",
             "preacher_image": "",
             "preacher_description": "",

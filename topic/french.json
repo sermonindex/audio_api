@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "CC Nice- Vraie Repentance (French)",
-            "url": "https:\/\/sermonindex.info\/SID24252",
+            "url": "http:\/\/api.sermonindex.net\/SID24252",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "French",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24252-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24252-download",
             "preacher_name": "Manuel Brambila",
             "preacher_image": "",
             "preacher_description": "",

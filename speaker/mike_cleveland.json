@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Hebrews 2:5-15",
-            "url": "https:\/\/sermonindex.info\/SID3036",
+            "url": "http:\/\/api.sermonindex.net\/SID3036",
             "size": "6205440",
             "format": "mp3",
             "scripture": "Hebrews 2:5-15",
             "topic": "Manhood",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3036-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3036-download",
             "preacher_name": "Mike Cleveland",
             "preacher_image": "",
             "preacher_description": "",

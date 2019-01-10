@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Anchoring Your Family in Christ for the Next One Hundred Years",
-            "url": "https:\/\/sermonindex.info\/SID22270",
+            "url": "http:\/\/api.sermonindex.net\/SID22270",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Family",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22270-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22270-download",
             "preacher_name": "Steve Farrar",
             "preacher_image": "",
             "preacher_description": "",

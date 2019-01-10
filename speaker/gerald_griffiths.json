@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Parable of the Rich Fool",
-            "url": "https:\/\/sermonindex.info\/SID2335",
+            "url": "http:\/\/api.sermonindex.net\/SID2335",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID2335-download",
+            "download": "http:\/\/api.sermonindex.net\/SID2335-download",
             "preacher_name": "Gerald Griffiths",
             "preacher_image": "",
             "preacher_description": "",

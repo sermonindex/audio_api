@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Vine and the Branches 4 the Fruit of the Fruit",
-            "url": "https:\/\/sermonindex.info\/SID22650",
+            "url": "http:\/\/api.sermonindex.net\/SID22650",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Abiding",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22650-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22650-download",
             "preacher_name": "Omri Jenkins",
             "preacher_image": "",
             "preacher_description": "",

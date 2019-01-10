@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Cooperators with God",
-            "url": "https:\/\/sermonindex.info\/SID23576",
+            "url": "http:\/\/api.sermonindex.net\/SID23576",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Working",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23576-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23576-download",
             "preacher_name": "Elisabeth Elliot",
             "preacher_image": "",
             "preacher_description": "",

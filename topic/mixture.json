@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Thessalonians - Understanding the Mixture",
-            "url": "https:\/\/sermonindex.info\/SID12051",
+            "url": "http:\/\/api.sermonindex.net\/SID12051",
             "size": "0",
             "format": "mp3",
             "scripture": "1 Thessalonians",
             "topic": "Mixture",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID12051-download",
+            "download": "http:\/\/api.sermonindex.net\/SID12051-download",
             "preacher_name": "Jacob Prasch",
             "preacher_image": "",
             "preacher_description": "",

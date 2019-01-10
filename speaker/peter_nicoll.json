@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Logos II - 26 Feb.1995",
-            "url": "https:\/\/sermonindex.info\/SID16081",
+            "url": "http:\/\/api.sermonindex.net\/SID16081",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16081-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16081-download",
             "preacher_name": "Peter Nicoll",
             "preacher_image": "",
             "preacher_description": "",

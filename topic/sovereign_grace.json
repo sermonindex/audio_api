@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Sovereign Grace",
-            "url": "https:\/\/sermonindex.info\/SID22312",
+            "url": "http:\/\/api.sermonindex.net\/SID22312",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Sovereign Grace",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22312-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22312-download",
             "preacher_name": "C.J. Mahaney",
             "preacher_image": "",
             "preacher_description": "",

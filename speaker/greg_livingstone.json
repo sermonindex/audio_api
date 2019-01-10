@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Human Factor In Discipleship",
-            "url": "https:\/\/sermonindex.info\/SID16078",
+            "url": "http:\/\/api.sermonindex.net\/SID16078",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16078-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16078-download",
             "preacher_name": "Greg Livingstone",
             "preacher_image": "",
             "preacher_description": "",

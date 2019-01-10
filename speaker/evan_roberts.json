@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Evan Roberts preaching in 1905",
-            "url": "https:\/\/sermonindex.info\/SID15703",
+            "url": "http:\/\/api.sermonindex.net\/SID15703",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "A century after the last religious revival in Wales, a recording of the voice of the most prominent leader of the movement has been discovered. Hear the voice of the revivalist Evan Roberts preaching in 1905 in Wales.",
-            "download": "https:\/\/sermonindex.info\/SID15703-download",
+            "download": "http:\/\/api.sermonindex.net\/SID15703-download",
             "preacher_name": "Evan Roberts",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "(Genesis) 51 - Back to Bethel",
-            "url": "https:\/\/sermonindex.info\/SID13094",
+            "url": "http:\/\/api.sermonindex.net\/SID13094",
             "size": "0",
             "format": "mp3",
             "scripture": "Genesis 35:1-29",
             "topic": "Bethel",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID13094-download",
+            "download": "http:\/\/api.sermonindex.net\/SID13094-download",
             "preacher_name": "S. Lewis Johnson",
             "preacher_image": "",
             "preacher_description": "",

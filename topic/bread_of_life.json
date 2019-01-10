@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Jesus the Bread of Life",
-            "url": "https:\/\/sermonindex.info\/SID22715",
+            "url": "http:\/\/api.sermonindex.net\/SID22715",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Bread Of Life",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22715-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22715-download",
             "preacher_name": "Reuben Walter",
             "preacher_image": "",
             "preacher_description": "",

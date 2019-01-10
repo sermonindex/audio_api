@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The conversion of Saul",
-            "url": "https:\/\/sermonindex.info\/SID22209",
+            "url": "http:\/\/api.sermonindex.net\/SID22209",
             "size": "0",
             "format": "mp3",
             "scripture": "Acts 9",
             "topic": "Conversion Of Saul",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22209-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22209-download",
             "preacher_name": "James A. Stewart",
             "preacher_image": "",
             "preacher_description": "",

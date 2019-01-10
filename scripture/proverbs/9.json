@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Proverbs - Chapter 9",
-            "url": "https:\/\/sermonindex.info\/SID5997",
+            "url": "http:\/\/api.sermonindex.net\/SID5997",
             "size": "0",
             "format": "mp3",
             "scripture": "Proverbs 9",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID5997-download",
+            "download": "http:\/\/api.sermonindex.net\/SID5997-download",
             "preacher_name": "Proverbs",
             "preacher_image": "",
             "preacher_description": "",

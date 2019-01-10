@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Revival: Crisis And Process",
-            "url": "https:\/\/sermonindex.info\/SID22102",
+            "url": "http:\/\/api.sermonindex.net\/SID22102",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Revival",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22102-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22102-download",
             "preacher_name": "Henry Teichrob",
             "preacher_image": "",
             "preacher_description": "",

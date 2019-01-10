@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "61. What is forbidden in the fourth commandment?",
-            "url": "https:\/\/sermonindex.info\/SID22415",
+            "url": "http:\/\/api.sermonindex.net\/SID22415",
             "size": "0",
             "format": "mp3",
             "scripture": "Ezekiel 22:26, Ezekiel 23:38",
             "topic": "Audio Books",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22415-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22415-download",
             "preacher_name": "Westminster Shorter Catechism",
             "preacher_image": "",
             "preacher_description": "",

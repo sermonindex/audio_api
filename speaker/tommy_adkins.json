@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Sin and Grace, Satan and Victor",
-            "url": "https:\/\/sermonindex.info\/SID19787",
+            "url": "http:\/\/api.sermonindex.net\/SID19787",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Grace",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19787-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19787-download",
             "preacher_name": "Tommy Adkins",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Capital Gains: Eternal Losses",
-            "url": "https:\/\/sermonindex.info\/SID26683",
+            "url": "http:\/\/api.sermonindex.net\/SID26683",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Eternal",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26683-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26683-download",
             "preacher_name": "John Vissers",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Jude - Last Days Message to Christians",
-            "url": "https:\/\/sermonindex.info\/SID3637",
+            "url": "http:\/\/api.sermonindex.net\/SID3637",
             "size": "0",
             "format": "mp3",
             "scripture": "Jude",
             "topic": "Last Days Message",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3637-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3637-download",
             "preacher_name": "Martin Geehan",
             "preacher_image": "",
             "preacher_description": "",

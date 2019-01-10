@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Mau Mau 1957",
-            "url": "https:\/\/sermonindex.info\/SID23988",
+            "url": "http:\/\/api.sermonindex.net\/SID23988",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Kenya",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23988-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23988-download",
             "preacher_name": "Ken Terhoven",
             "preacher_image": "",
             "preacher_description": "",

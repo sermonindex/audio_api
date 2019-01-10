@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "We Need The Breakings of God",
-            "url": "https:\/\/sermonindex.info\/SID27765",
+            "url": "http:\/\/api.sermonindex.net\/SID27765",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Breaking",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID27765-download",
+            "download": "http:\/\/api.sermonindex.net\/SID27765-download",
             "preacher_name": "R. Edward Miller",
             "preacher_image": "",
             "preacher_description": "",

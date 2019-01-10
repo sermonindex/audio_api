@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Partnership",
-            "url": "https:\/\/sermonindex.info\/SID20838",
+            "url": "http:\/\/api.sermonindex.net\/SID20838",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Partnership",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20838-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20838-download",
             "preacher_name": "Stuart Briscoe",
             "preacher_image": "\/images\/stuart_briscoe.gif",
             "preacher_description": "",

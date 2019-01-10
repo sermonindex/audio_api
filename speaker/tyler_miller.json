@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Fighting Of Truth In An Age Of Deception",
-            "url": "https:\/\/sermonindex.info\/",
+            "url": "http:\/\/api.sermonindex.net\/",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Deception",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/-download",
+            "download": "http:\/\/api.sermonindex.net\/-download",
             "preacher_name": "Tyler Miller",
             "preacher_image": "",
             "preacher_description": "",

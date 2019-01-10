@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Love Of God Radio Message",
-            "url": "https:\/\/sermonindex.info\/SID21991",
+            "url": "http:\/\/api.sermonindex.net\/SID21991",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Love Of God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21991-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21991-download",
             "preacher_name": "Lester Wilson",
             "preacher_image": "",
             "preacher_description": "",

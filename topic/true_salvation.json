@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Soundly Saved - Kirk's HBKS",
-            "url": "https:\/\/sermonindex.info\/SID4724",
+            "url": "http:\/\/api.sermonindex.net\/SID4724",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "True Salvation",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID4724-download",
+            "download": "http:\/\/api.sermonindex.net\/SID4724-download",
             "preacher_name": "Kirk Cameron",
             "preacher_image": "",
             "preacher_description": "",

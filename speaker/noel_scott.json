@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Love",
-            "url": "https:\/\/sermonindex.info\/SID16604",
+            "url": "http:\/\/api.sermonindex.net\/SID16604",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16604-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16604-download",
             "preacher_name": "Noel Scott",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "A Good Report",
-            "url": "https:\/\/sermonindex.info\/SID13999",
+            "url": "http:\/\/api.sermonindex.net\/SID13999",
             "size": "0",
             "format": "mp3",
             "scripture": "Hebrews 11:39-40",
             "topic": "Men Of Faith",
             "description": "This message deals with the vital necessity of faith, examining the heroic standard set by those ancient men and women listed in the eleventh chapter of Hebrews. \"And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they without us should not be made perfect.\" (Hebrews 11:39-40) Our generation is starving for men and women of this caliber of faith, but who will heed the call?",
-            "download": "https:\/\/sermonindex.info\/SID13999-download",
+            "download": "http:\/\/api.sermonindex.net\/SID13999-download",
             "preacher_name": "Eli Brayley",
             "preacher_image": "",
             "preacher_description": "",

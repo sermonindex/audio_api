@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Doctrine of Eternal Hell",
-            "url": "https:\/\/sermonindex.info\/SID19347",
+            "url": "http:\/\/api.sermonindex.net\/SID19347",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Eternal Hell",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19347-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19347-download",
             "preacher_name": "Mose Stoltzfus",
             "preacher_image": "",
             "preacher_description": "",

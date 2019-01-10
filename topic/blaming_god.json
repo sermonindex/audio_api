@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Dare I blame God?",
-            "url": "https:\/\/sermonindex.info\/SID20825",
+            "url": "http:\/\/api.sermonindex.net\/SID20825",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Blaming God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20825-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20825-download",
             "preacher_name": "Jonathan McRostie",
             "preacher_image": "",
             "preacher_description": "",

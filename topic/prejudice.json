@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Perils of Prejudice",
-            "url": "https:\/\/sermonindex.info\/SID24306",
+            "url": "http:\/\/api.sermonindex.net\/SID24306",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Prejudice",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24306-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24306-download",
             "preacher_name": "Steve Mays",
             "preacher_image": "",
             "preacher_description": "",

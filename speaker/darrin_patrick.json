@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The History Of The Emerging Church",
-            "url": "https:\/\/sermonindex.info\/SID19864",
+            "url": "http:\/\/api.sermonindex.net\/SID19864",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Emerging Church",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19864-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19864-download",
             "preacher_name": "Darrin Patrick",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Walking In The Spirit",
-            "url": "https:\/\/sermonindex.info\/SID19845",
+            "url": "http:\/\/api.sermonindex.net\/SID19845",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Walking In The Spirit",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19845-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19845-download",
             "preacher_name": "Jack Abeelen",
             "preacher_image": "",
             "preacher_description": "",

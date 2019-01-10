@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "JESUS - The Great I AM",
-            "url": "https:\/\/sermonindex.info\/SID23991",
+            "url": "http:\/\/api.sermonindex.net\/SID23991",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Jesus",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23991-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23991-download",
             "preacher_name": "Harry Foster",
             "preacher_image": "",
             "preacher_description": "",

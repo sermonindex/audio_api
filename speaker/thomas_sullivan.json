@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Life of Adoniram Judson",
-            "url": "https:\/\/sermonindex.info\/SID23466",
+            "url": "http:\/\/api.sermonindex.net\/SID23466",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Biography",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23466-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23466-download",
             "preacher_name": "Thomas Sullivan",
             "preacher_image": "",
             "preacher_description": "",

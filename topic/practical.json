@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Practical Christianity",
-            "url": "https:\/\/sermonindex.info\/SID27113",
+            "url": "http:\/\/api.sermonindex.net\/SID27113",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Practical",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID27113-download",
+            "download": "http:\/\/api.sermonindex.net\/SID27113-download",
             "preacher_name": "Doc Greenway",
             "preacher_image": "",
             "preacher_description": "",

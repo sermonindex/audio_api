@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "(Ephesians) Christian Parenting, Part 1",
-            "url": "https:\/\/sermonindex.info\/SID18969",
+            "url": "http:\/\/api.sermonindex.net\/SID18969",
             "size": "0",
             "format": "mp3",
             "scripture": "Ephesians 6:4",
             "topic": "Christian Parenting",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID18969-download",
+            "download": "http:\/\/api.sermonindex.net\/SID18969-download",
             "preacher_name": "Jeff Noblit",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Matthew 6",
-            "url": "https:\/\/sermonindex.info\/SID21986",
+            "url": "http:\/\/api.sermonindex.net\/SID21986",
             "size": "0",
             "format": "mp3",
             "scripture": "Matthew 6",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21986-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21986-download",
             "preacher_name": "William Wilson",
             "preacher_image": "",
             "preacher_description": "",

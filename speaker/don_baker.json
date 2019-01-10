@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Beyond Forgiveness",
-            "url": "https:\/\/sermonindex.info\/SID2494",
+            "url": "http:\/\/api.sermonindex.net\/SID2494",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Forgiveness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID2494-download",
+            "download": "http:\/\/api.sermonindex.net\/SID2494-download",
             "preacher_name": "Don Baker",
             "preacher_image": "",
             "preacher_description": "",

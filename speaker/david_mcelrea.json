@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Cosmic Christ",
-            "url": "https:\/\/sermonindex.info\/SID26924",
+            "url": "http:\/\/api.sermonindex.net\/SID26924",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Christ",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26924-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26924-download",
             "preacher_name": "David McElrea",
             "preacher_image": "",
             "preacher_description": "",

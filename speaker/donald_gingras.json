@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Reconciliation And Compassion",
-            "url": "https:\/\/sermonindex.info\/SID22274",
+            "url": "http:\/\/api.sermonindex.net\/SID22274",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Reconciliation",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22274-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22274-download",
             "preacher_name": "Donald Gingras",
             "preacher_image": "",
             "preacher_description": "",

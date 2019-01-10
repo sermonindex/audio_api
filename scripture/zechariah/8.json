@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "77. What is required in the ninth commandment?",
-            "url": "https:\/\/sermonindex.info\/SID22431",
+            "url": "http:\/\/api.sermonindex.net\/SID22431",
             "size": "0",
             "format": "mp3",
             "scripture": "Zechariah 8:16, 1 Peter 3:16",
             "topic": "Audio Books",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22431-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22431-download",
             "preacher_name": "Westminster Shorter Catechism",
             "preacher_image": "",
             "preacher_description": "",

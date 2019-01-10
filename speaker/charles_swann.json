@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Pre-Wrath Rapture of the Church",
-            "url": "https:\/\/sermonindex.info\/SID23090",
+            "url": "http:\/\/api.sermonindex.net\/SID23090",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Pre-Wrath Rapture",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23090-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23090-download",
             "preacher_name": "Charles Swann",
             "preacher_image": "",
             "preacher_description": "",

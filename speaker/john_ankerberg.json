@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "If Jesus Wasn't God",
-            "url": "https:\/\/sermonindex.info\/SID19846",
+            "url": "http:\/\/api.sermonindex.net\/SID19846",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Atheism",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19846-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19846-download",
             "preacher_name": "John Ankerberg",
             "preacher_image": "",
             "preacher_description": "",

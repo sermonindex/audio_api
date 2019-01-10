@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Witness of Stephen",
-            "url": "https:\/\/sermonindex.info\/SID1872",
+            "url": "http:\/\/api.sermonindex.net\/SID1872",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Stephen",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID1872-download",
+            "download": "http:\/\/api.sermonindex.net\/SID1872-download",
             "preacher_name": "Les Wheeldon",
             "preacher_image": "",
             "preacher_description": "",

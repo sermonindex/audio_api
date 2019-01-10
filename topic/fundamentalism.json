@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Failure of Fundamentalism",
-            "url": "https:\/\/sermonindex.info\/SID22347",
+            "url": "http:\/\/api.sermonindex.net\/SID22347",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Fundamentalism",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22347-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22347-download",
             "preacher_name": "Phil Johnson",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Bearing His Reproach",
-            "url": "https:\/\/sermonindex.info\/SID22647",
+            "url": "http:\/\/api.sermonindex.net\/SID22647",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Reproach",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22647-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22647-download",
             "preacher_name": "Graham Harrison",
             "preacher_image": "",
             "preacher_description": "",

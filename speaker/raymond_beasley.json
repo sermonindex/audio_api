@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Sin Of Prayerlessness",
-            "url": "https:\/\/sermonindex.info\/SID16677",
+            "url": "http:\/\/api.sermonindex.net\/SID16677",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Prayer",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16677-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16677-download",
             "preacher_name": "Raymond Beasley",
             "preacher_image": "",
             "preacher_description": "",

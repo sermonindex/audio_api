@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "A Leaders Worst Nightmare",
-            "url": "https:\/\/sermonindex.info\/SID23312",
+            "url": "http:\/\/api.sermonindex.net\/SID23312",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Leadership",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23312-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23312-download",
             "preacher_name": "Alan Stewart",
             "preacher_image": "",
             "preacher_description": "",

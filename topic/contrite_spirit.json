@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "A Broken and Contrite Spirit",
-            "url": "https:\/\/sermonindex.info\/SID27768",
+            "url": "http:\/\/api.sermonindex.net\/SID27768",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Contrite Spirit",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID27768-download",
+            "download": "http:\/\/api.sermonindex.net\/SID27768-download",
             "preacher_name": "R. Edward Miller",
             "preacher_image": "",
             "preacher_description": "",

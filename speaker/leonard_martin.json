@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "What Is True Greatness",
-            "url": "https:\/\/sermonindex.info\/SID19638",
+            "url": "http:\/\/api.sermonindex.net\/SID19638",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Greatness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19638-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19638-download",
             "preacher_name": "Leonard Martin",
             "preacher_image": "",
             "preacher_description": "",

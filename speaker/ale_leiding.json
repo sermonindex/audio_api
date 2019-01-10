@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Personal Preparation for Spiritual Awakening",
-            "url": "https:\/\/sermonindex.info\/SID19768",
+            "url": "http:\/\/api.sermonindex.net\/SID19768",
             "size": "0",
             "format": "mp3",
             "scripture": "2 Chronicles 20, Psalms 24",
             "topic": "Spiritual Awakening",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19768-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19768-download",
             "preacher_name": "Ale Leiding",
             "preacher_image": "",
             "preacher_description": "",

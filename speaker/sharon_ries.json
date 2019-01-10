@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Prevailing Prayers",
-            "url": "https:\/\/sermonindex.info\/SID19869",
+            "url": "http:\/\/api.sermonindex.net\/SID19869",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Prevailing Prayer",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19869-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19869-download",
             "preacher_name": "Sharon Ries",
             "preacher_image": "",
             "preacher_description": "",

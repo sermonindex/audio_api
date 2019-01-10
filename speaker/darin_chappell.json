@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Will Ye Hear the Lord?",
-            "url": "https:\/\/sermonindex.info\/SID23810",
+            "url": "http:\/\/api.sermonindex.net\/SID23810",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Obedience",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23810-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23810-download",
             "preacher_name": "Darin Chappell",
             "preacher_image": "",
             "preacher_description": "",

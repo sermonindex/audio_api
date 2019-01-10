@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "A Vision Of Jesus And Overcoming",
-            "url": "https:\/\/sermonindex.info\/SID19038",
+            "url": "http:\/\/api.sermonindex.net\/SID19038",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Jesus Christ",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19038-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19038-download",
             "preacher_name": "Colin Shreenan",
             "preacher_image": "",
             "preacher_description": "",

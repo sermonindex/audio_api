@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "A Prayer from Hell",
-            "url": "https:\/\/sermonindex.info\/SID16227",
+            "url": "http:\/\/api.sermonindex.net\/SID16227",
             "size": "0",
             "format": "mp3",
             "scripture": "Luke 16:19-31",
             "topic": "Prayer",
             "description": "A simple, passionate gospel message on this sobering text of the Rich man and Lazarus. It speaks of our eternal destination and abode either in heaven or hell. What a sobering reality that there is prayer in hell.",
-            "download": "https:\/\/sermonindex.info\/SID16227-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16227-download",
             "preacher_name": "Gary Kopfstein",
             "preacher_image": "",
             "preacher_description": "",

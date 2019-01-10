@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Divine Response",
-            "url": "https:\/\/sermonindex.info\/SID23705",
+            "url": "http:\/\/api.sermonindex.net\/SID23705",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Christian Life",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23705-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23705-download",
             "preacher_name": "J.B. Chapman",
             "preacher_image": "",
             "preacher_description": "",

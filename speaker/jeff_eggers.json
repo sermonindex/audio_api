@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Why Pray",
-            "url": "https:\/\/sermonindex.info\/SID22186",
+            "url": "http:\/\/api.sermonindex.net\/SID22186",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Prayer",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22186-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22186-download",
             "preacher_name": "Jeff Eggers",
             "preacher_image": "",
             "preacher_description": "",

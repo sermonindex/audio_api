@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Covetousness, The Sin of Our Time",
-            "url": "https:\/\/sermonindex.info\/SID16112",
+            "url": "http:\/\/api.sermonindex.net\/SID16112",
             "size": "0",
             "format": "mp3",
             "scripture": "1 Timothy 6:6-12",
             "topic": "Covetousness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16112-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16112-download",
             "preacher_name": "Stephen Jones",
             "preacher_image": "",
             "preacher_description": "",

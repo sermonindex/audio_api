@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The True And False Seed",
-            "url": "https:\/\/sermonindex.info\/SID17247",
+            "url": "http:\/\/api.sermonindex.net\/SID17247",
             "size": "0",
             "format": "mp3",
             "scripture": "Genesis 16",
             "topic": "Seed",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID17247-download",
+            "download": "http:\/\/api.sermonindex.net\/SID17247-download",
             "preacher_name": "Bill Randles",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Woe to the Foolish Prophets",
-            "url": "https:\/\/sermonindex.info\/SID23803",
+            "url": "http:\/\/api.sermonindex.net\/SID23803",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Foolish Prophets",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23803-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23803-download",
             "preacher_name": "Brian Gochenour",
             "preacher_image": "",
             "preacher_description": "",

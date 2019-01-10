@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Encounter the Glory, Accomplish Your Goal",
-            "url": "https:\/\/sermonindex.info\/SID12171",
+            "url": "http:\/\/api.sermonindex.net\/SID12171",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Goal",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID12171-download",
+            "download": "http:\/\/api.sermonindex.net\/SID12171-download",
             "preacher_name": "Rick Hagans",
             "preacher_image": "",
             "preacher_description": "",

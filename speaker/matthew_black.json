@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "An Urgent Prayer For America",
-            "url": "https:\/\/sermonindex.info\/SID21932",
+            "url": "http:\/\/api.sermonindex.net\/SID21932",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Urgent Prayer",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21932-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21932-download",
             "preacher_name": "Matthew Black",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Building Unity Through Generosity",
-            "url": "https:\/\/sermonindex.info\/SID22302",
+            "url": "http:\/\/api.sermonindex.net\/SID22302",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Unity",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22302-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22302-download",
             "preacher_name": "Ben Wikner",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Stewardship of the Gospel",
-            "url": "https:\/\/sermonindex.info\/SID22504",
+            "url": "http:\/\/api.sermonindex.net\/SID22504",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Stewardship",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22504-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22504-download",
             "preacher_name": "Clarence Sexton",
             "preacher_image": "",
             "preacher_description": "",

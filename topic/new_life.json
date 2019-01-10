@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Colossians - New Life in Christ",
-            "url": "https:\/\/sermonindex.info\/SID26711",
+            "url": "http:\/\/api.sermonindex.net\/SID26711",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "New Life",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26711-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26711-download",
             "preacher_name": "Mariano Di Gangi",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Sat. Healing and Communion Service (2002 C&MA Council)",
-            "url": "https:\/\/sermonindex.info\/SID1163",
+            "url": "http:\/\/api.sermonindex.net\/SID1163",
             "size": "25118208",
             "format": "mp3",
             "scripture": "",
             "topic": "Communion Service",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID1163-download",
+            "download": "http:\/\/api.sermonindex.net\/SID1163-download",
             "preacher_name": "Jeffery A Valentine",
             "preacher_image": "",
             "preacher_description": "",

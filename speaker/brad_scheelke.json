@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Do You See Jesus?",
-            "url": "https:\/\/sermonindex.info\/SID19680",
+            "url": "http:\/\/api.sermonindex.net\/SID19680",
             "size": "0",
             "format": "mp3",
             "scripture": "Colossians 3:1-4",
             "topic": "Seeing God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19680-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19680-download",
             "preacher_name": "Brad Scheelke",
             "preacher_image": "",
             "preacher_description": "",

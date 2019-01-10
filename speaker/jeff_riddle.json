@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Life and Legacy of Jonathan Edwards",
-            "url": "https:\/\/sermonindex.info\/SID14370",
+            "url": "http:\/\/api.sermonindex.net\/SID14370",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID14370-download",
+            "download": "http:\/\/api.sermonindex.net\/SID14370-download",
             "preacher_name": "Jeff Riddle",
             "preacher_image": "",
             "preacher_description": "",

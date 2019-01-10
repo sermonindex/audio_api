@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "A Wake Up Call To The Church",
-            "url": "https:\/\/sermonindex.info\/SID22021",
+            "url": "http:\/\/api.sermonindex.net\/SID22021",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Dreams",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22021-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22021-download",
             "preacher_name": "Bob Taylor",
             "preacher_image": "",
             "preacher_description": "",

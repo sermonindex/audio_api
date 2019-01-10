@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Facing the Opposition",
-            "url": "https:\/\/sermonindex.info\/SID23805",
+            "url": "http:\/\/api.sermonindex.net\/SID23805",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Opposition",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23805-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23805-download",
             "preacher_name": "Mark Rhodes",
             "preacher_image": "",
             "preacher_description": "",

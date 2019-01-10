@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "My Meditation Shall Be Sweet",
-            "url": "https:\/\/sermonindex.info\/SID23785",
+            "url": "http:\/\/api.sermonindex.net\/SID23785",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Meditation",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23785-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23785-download",
             "preacher_name": "Walter Wilson",
             "preacher_image": "",
             "preacher_description": "",

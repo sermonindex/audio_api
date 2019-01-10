@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "John's Gospel - What Does it Mean to Follow Jesus",
-            "url": "https:\/\/sermonindex.info\/SID26627",
+            "url": "http:\/\/api.sermonindex.net\/SID26627",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Follow Jesus",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26627-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26627-download",
             "preacher_name": "John Vissers",
             "preacher_image": "",
             "preacher_description": "",

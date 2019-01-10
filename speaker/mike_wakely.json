@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Miscellaneous Thoughts (Kathmandu) ",
-            "url": "https:\/\/sermonindex.info\/SID20840",
+            "url": "http:\/\/api.sermonindex.net\/SID20840",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Missions",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20840-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20840-download",
             "preacher_name": "Mike Wakely",
             "preacher_image": "",
             "preacher_description": "",

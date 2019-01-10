@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "God's Way Is Better",
-            "url": "https:\/\/sermonindex.info\/SID23292",
+            "url": "http:\/\/api.sermonindex.net\/SID23292",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Christian Life",
             "description": "nill",
-            "download": "https:\/\/sermonindex.info\/SID23292-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23292-download",
             "preacher_name": "Harold Luff",
             "preacher_image": "",
             "preacher_description": "",

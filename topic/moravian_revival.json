@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Moravian Revival",
-            "url": "https:\/\/sermonindex.info\/SID20591",
+            "url": "http:\/\/api.sermonindex.net\/SID20591",
             "size": "0",
             "format": "mp3",
             "scripture": "Acts 1:8",
             "topic": "Moravian Revival",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20591-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20591-download",
             "preacher_name": "Andrew Davies",
             "preacher_image": "",
             "preacher_description": "",

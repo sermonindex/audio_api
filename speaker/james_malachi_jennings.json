@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Live, Think Eternally",
-            "url": "https:\/\/sermonindex.info\/SID21486",
+            "url": "http:\/\/api.sermonindex.net\/SID21486",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Eternity",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21486-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21486-download",
             "preacher_name": "James Malachi Jennings",
             "preacher_image": "",
             "preacher_description": "",

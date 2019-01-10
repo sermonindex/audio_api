@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "5. Are there more Gods than one?",
-            "url": "https:\/\/sermonindex.info\/SID22359",
+            "url": "http:\/\/api.sermonindex.net\/SID22359",
             "size": "0",
             "format": "mp3",
             "scripture": "Deuteronomy 6:4, Jeremiah 10:10",
             "topic": "Audio Books",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22359-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22359-download",
             "preacher_name": "Westminster Shorter Catechism",
             "preacher_image": "",
             "preacher_description": "",

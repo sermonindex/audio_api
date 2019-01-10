@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Prayer 08 Certainty - Answered Prayer",
-            "url": "https:\/\/sermonindex.info\/SID10604",
+            "url": "http:\/\/api.sermonindex.net\/SID10604",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Answered Prayer",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID10604-download",
+            "download": "http:\/\/api.sermonindex.net\/SID10604-download",
             "preacher_name": "Alden Gannett",
             "preacher_image": "",
             "preacher_description": "",

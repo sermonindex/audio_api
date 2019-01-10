@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Church Leader And The Cross",
-            "url": "https:\/\/sermonindex.info\/SID19757",
+            "url": "http:\/\/api.sermonindex.net\/SID19757",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Church Leadership",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19757-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19757-download",
             "preacher_name": "Al Henson",
             "preacher_image": "",
             "preacher_description": "",

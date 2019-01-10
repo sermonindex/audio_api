@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Justice of God",
-            "url": "https:\/\/sermonindex.info\/SID8408",
+            "url": "http:\/\/api.sermonindex.net\/SID8408",
             "size": "0",
             "format": "mp3",
             "scripture": "Jeremiah 12:1",
             "topic": "Justice Of God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID8408-download",
+            "download": "http:\/\/api.sermonindex.net\/SID8408-download",
             "preacher_name": "Michael Durham",
             "preacher_image": "",
             "preacher_description": "",

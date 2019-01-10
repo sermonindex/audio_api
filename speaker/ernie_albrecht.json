@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Don't Bend Under Pressure",
-            "url": "https:\/\/sermonindex.info\/SID23809",
+            "url": "http:\/\/api.sermonindex.net\/SID23809",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Pressure",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23809-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23809-download",
             "preacher_name": "Ernie Albrecht",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Move Forward ",
-            "url": "https:\/\/sermonindex.info\/SID23084",
+            "url": "http:\/\/api.sermonindex.net\/SID23084",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Forgiveness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23084-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23084-download",
             "preacher_name": "Loran Livingston",
             "preacher_image": "",
             "preacher_description": "",

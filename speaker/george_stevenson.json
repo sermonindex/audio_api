@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Life of C.T. Studd",
-            "url": "https:\/\/sermonindex.info\/SID7083",
+            "url": "http:\/\/api.sermonindex.net\/SID7083",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "C.T. Studd",
             "description": "This is a simple but remarkable retelling of the faith filled life of C.T. Studd. His life will challange us and give us a standard to see and seek after as Christians in our day. This is a quite full and well given biography of his life in about 1 hour.",
-            "download": "https:\/\/sermonindex.info\/SID7083-download",
+            "download": "http:\/\/api.sermonindex.net\/SID7083-download",
             "preacher_name": "George Stevenson",
             "preacher_image": "",
             "preacher_description": "",

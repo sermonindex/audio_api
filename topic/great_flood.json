@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "(Genesis) 16 - The Great Flood and the Saving Ark",
-            "url": "https:\/\/sermonindex.info\/",
+            "url": "http:\/\/api.sermonindex.net\/",
             "size": "0",
             "format": "mp3",
             "scripture": "Genesis 7:1-24",
             "topic": "Great Flood",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/-download",
+            "download": "http:\/\/api.sermonindex.net\/-download",
             "preacher_name": "S. Lewis Johnson",
             "preacher_image": "",
             "preacher_description": "",

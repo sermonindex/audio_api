@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "(Genesis) 37 - The Old Testament's Greatest Scene",
-            "url": "https:\/\/sermonindex.info\/SID13026",
+            "url": "http:\/\/api.sermonindex.net\/SID13026",
             "size": "0",
             "format": "mp3",
             "scripture": "Genesis 22:1-24",
             "topic": "Old Testament",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID13026-download",
+            "download": "http:\/\/api.sermonindex.net\/SID13026-download",
             "preacher_name": "S. Lewis Johnson",
             "preacher_image": "",
             "preacher_description": "",

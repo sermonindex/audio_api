@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Are You Really a Christian?",
-            "url": "https:\/\/sermonindex.info\/SID15521",
+            "url": "http:\/\/api.sermonindex.net\/SID15521",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID15521-download",
+            "download": "http:\/\/api.sermonindex.net\/SID15521-download",
             "preacher_name": "Todd Friel",
             "preacher_image": "",
             "preacher_description": "",

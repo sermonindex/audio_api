@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Psalm 2 And The Mockery Of Christ",
-            "url": "https:\/\/sermonindex.info\/SID23796",
+            "url": "http:\/\/api.sermonindex.net\/SID23796",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Mockery",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23796-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23796-download",
             "preacher_name": "Malcolm Horlock",
             "preacher_image": "",
             "preacher_description": "",

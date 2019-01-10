@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Love of God",
-            "url": "https:\/\/sermonindex.info\/SID8413",
+            "url": "http:\/\/api.sermonindex.net\/SID8413",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID8413-download",
+            "download": "http:\/\/api.sermonindex.net\/SID8413-download",
             "preacher_name": "Mike Morrow",
             "preacher_image": "",
             "preacher_description": "",

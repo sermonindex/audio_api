@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Person of Christ",
-            "url": "https:\/\/sermonindex.info\/SID23680",
+            "url": "http:\/\/api.sermonindex.net\/SID23680",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Person Of Christ",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23680-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23680-download",
             "preacher_name": "David Gooding",
             "preacher_image": "",
             "preacher_description": "",

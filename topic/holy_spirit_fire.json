@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Tongue of Fire",
-            "url": "https:\/\/sermonindex.info\/SID12198",
+            "url": "http:\/\/api.sermonindex.net\/SID12198",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Holy Spirit Fire",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID12198-download",
+            "download": "http:\/\/api.sermonindex.net\/SID12198-download",
             "preacher_name": "John Rhys Watkins",
             "preacher_image": "",
             "preacher_description": "",

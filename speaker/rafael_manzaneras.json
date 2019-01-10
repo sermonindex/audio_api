@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Complaining",
-            "url": "https:\/\/sermonindex.info\/SID11536",
+            "url": "http:\/\/api.sermonindex.net\/SID11536",
             "size": "0",
             "format": "mp3",
             "scripture": "Luke 15",
             "topic": "Complaining",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID11536-download",
+            "download": "http:\/\/api.sermonindex.net\/SID11536-download",
             "preacher_name": "Rafael Manzaneras",
             "preacher_image": "",
             "preacher_description": "",

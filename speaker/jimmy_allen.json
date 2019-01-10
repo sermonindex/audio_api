@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Learning the Hard Way",
-            "url": "https:\/\/sermonindex.info\/SID19794",
+            "url": "http:\/\/api.sermonindex.net\/SID19794",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Mistakes",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19794-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19794-download",
             "preacher_name": "Jimmy Allen",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "(The Royal Psalms) Part 3",
-            "url": "https:\/\/sermonindex.info\/SID15010",
+            "url": "http:\/\/api.sermonindex.net\/SID15010",
             "size": "0",
             "format": "mp3",
             "scripture": "Psalm 99, Psalm 100",
             "topic": "",
             "description": "\"The climax of the Christian experience of knowing Christ as King,\" says Ed, \"has to do with a revelation of God Himself.\"  The royal psalms progress from the song of rest to the song of victory to this song of service.  The King has stepped down from His throne to shepherd His sheep, a great principle that serving the Lord with gladness comes from letting Him serve you.",
-            "download": "https:\/\/sermonindex.info\/SID15010-download",
+            "download": "http:\/\/api.sermonindex.net\/SID15010-download",
             "preacher_name": "Ed Miller",
             "preacher_image": "",
             "preacher_description": "",

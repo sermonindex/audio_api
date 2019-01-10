@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Satan's Schemes",
-            "url": "https:\/\/sermonindex.info\/SID5983",
+            "url": "http:\/\/api.sermonindex.net\/SID5983",
             "size": "0",
             "format": "mp3",
             "scripture": "2 Corinthians 2",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID5983-download",
+            "download": "http:\/\/api.sermonindex.net\/SID5983-download",
             "preacher_name": "Ron Ritchie",
             "preacher_image": "",
             "preacher_description": "",

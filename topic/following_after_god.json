@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Go on with God (Rora 2003)",
-            "url": "https:\/\/sermonindex.info\/SID1830",
+            "url": "http:\/\/api.sermonindex.net\/SID1830",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Following After God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID1830-download",
+            "download": "http:\/\/api.sermonindex.net\/SID1830-download",
             "preacher_name": "Les Wheeldon",
             "preacher_image": "",
             "preacher_description": "",

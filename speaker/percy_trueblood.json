@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "If...",
-            "url": "https:\/\/sermonindex.info\/SID16605",
+            "url": "http:\/\/api.sermonindex.net\/SID16605",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16605-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16605-download",
             "preacher_name": "Percy Trueblood",
             "preacher_image": "",
             "preacher_description": "",

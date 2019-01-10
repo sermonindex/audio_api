@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Youth Ministry",
-            "url": "https:\/\/sermonindex.info\/SID22575",
+            "url": "http:\/\/api.sermonindex.net\/SID22575",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Youth Ministry",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22575-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22575-download",
             "preacher_name": "Voddie Baucham",
             "preacher_image": "",
             "preacher_description": "",

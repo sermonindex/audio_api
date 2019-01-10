@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Redeeming The Time",
-            "url": "https:\/\/sermonindex.info\/SID3586",
+            "url": "http:\/\/api.sermonindex.net\/SID3586",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3586-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3586-download",
             "preacher_name": "William B. Riley",
             "preacher_image": "",
             "preacher_description": "",

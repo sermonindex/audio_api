@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Dwelling in Ceiled Houses",
-            "url": "https:\/\/sermonindex.info\/SID23808",
+            "url": "http:\/\/api.sermonindex.net\/SID23808",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Family",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23808-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23808-download",
             "preacher_name": "David Dalton",
             "preacher_image": "",
             "preacher_description": "",

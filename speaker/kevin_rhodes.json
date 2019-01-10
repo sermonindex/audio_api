@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Building Leadership",
-            "url": "https:\/\/sermonindex.info\/SID23802",
+            "url": "http:\/\/api.sermonindex.net\/SID23802",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Leadership",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23802-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23802-download",
             "preacher_name": "Kevin Rhodes",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Christ and Holiness",
-            "url": "https:\/\/sermonindex.info\/SID16591",
+            "url": "http:\/\/api.sermonindex.net\/SID16591",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16591-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16591-download",
             "preacher_name": "V.O. Agan",
             "preacher_image": "",
             "preacher_description": "",

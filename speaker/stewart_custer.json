@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Holiness",
-            "url": "https:\/\/sermonindex.info\/SID16054",
+            "url": "http:\/\/api.sermonindex.net\/SID16054",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16054-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16054-download",
             "preacher_name": "Stewart Custer",
             "preacher_image": "",
             "preacher_description": "",

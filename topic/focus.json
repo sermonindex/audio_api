@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Keeping our Focus",
-            "url": "https:\/\/sermonindex.info\/SID23619",
+            "url": "http:\/\/api.sermonindex.net\/SID23619",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Focus",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23619-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23619-download",
             "preacher_name": "Debbie Meroff",
             "preacher_image": "",
             "preacher_description": "",

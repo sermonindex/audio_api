@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Living In Anticipation",
-            "url": "https:\/\/sermonindex.info\/SID7921",
+            "url": "http:\/\/api.sermonindex.net\/SID7921",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Anticipation",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID7921-download",
+            "download": "http:\/\/api.sermonindex.net\/SID7921-download",
             "preacher_name": "Randy Amos",
             "preacher_image": "",
             "preacher_description": "",

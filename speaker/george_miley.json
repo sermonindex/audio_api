@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Why does God allow crises",
-            "url": "https:\/\/sermonindex.info\/SID18200",
+            "url": "http:\/\/api.sermonindex.net\/SID18200",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID18200-download",
+            "download": "http:\/\/api.sermonindex.net\/SID18200-download",
             "preacher_name": "George Miley",
             "preacher_image": "",
             "preacher_description": "",

@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Prayer 07 Example From The Lord",
-            "url": "https:\/\/sermonindex.info\/SID10603",
+            "url": "http:\/\/api.sermonindex.net\/SID10603",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Example Of Christ",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID10603-download",
+            "download": "http:\/\/api.sermonindex.net\/SID10603-download",
             "preacher_name": "Alden Gannett",
             "preacher_image": "",
             "preacher_description": "",

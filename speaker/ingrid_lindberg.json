@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Art of Prayer",
-            "url": "https:\/\/sermonindex.info\/SID12350",
+            "url": "http:\/\/api.sermonindex.net\/SID12350",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID12350-download",
+            "download": "http:\/\/api.sermonindex.net\/SID12350-download",
             "preacher_name": "Ingrid Lindberg",
             "preacher_image": "",
             "preacher_description": "",

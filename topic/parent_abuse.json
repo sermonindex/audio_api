@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Parent Abuse Faith Bible Church 28",
-            "url": "https:\/\/sermonindex.info\/SID21631",
+            "url": "http:\/\/api.sermonindex.net\/SID21631",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Parent Abuse",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21631-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21631-download",
             "preacher_name": "Daniel Peters",
             "preacher_image": "",
             "preacher_description": "",

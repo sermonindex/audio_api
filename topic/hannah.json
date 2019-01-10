@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Prayer 01 1 Sam.2:-Hannah's Song",
-            "url": "https:\/\/sermonindex.info\/SID9856",
+            "url": "http:\/\/api.sermonindex.net\/SID9856",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Hannah",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID9856-download",
+            "download": "http:\/\/api.sermonindex.net\/SID9856-download",
             "preacher_name": "Bob Clark",
             "preacher_image": "",
             "preacher_description": "",

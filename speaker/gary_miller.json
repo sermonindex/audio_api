@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Prepare Ourselves For A Spiritual Awakening",
-            "url": "https:\/\/sermonindex.info\/SID23315",
+            "url": "http:\/\/api.sermonindex.net\/SID23315",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Spiritual Awakening",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23315-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23315-download",
             "preacher_name": "Gary Miller",
             "preacher_image": "",
             "preacher_description": "",

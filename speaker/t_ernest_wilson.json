@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Greatness Of Christ's Name and Person",
-            "url": "https:\/\/sermonindex.info\/SID21990",
+            "url": "http:\/\/api.sermonindex.net\/SID21990",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Name Of God",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21990-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21990-download",
             "preacher_name": "T. Ernest Wilson",
             "preacher_image": "",
             "preacher_description": "",

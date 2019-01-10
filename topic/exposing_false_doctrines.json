@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Standing Against Misunderstandings",
-            "url": "https:\/\/sermonindex.info\/SID20477",
+            "url": "http:\/\/api.sermonindex.net\/SID20477",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Exposing False Doctrines",
             "description": "In this sermon, several misunderstandings, misconceptions, falsehoods and outright lies concerning problems and difficulties in the life of a Christian or comments from those observing the life of a Christian are exposed and addressed.",
-            "download": "https:\/\/sermonindex.info\/SID20477-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20477-download",
             "preacher_name": "David Rubio",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Deserting Principal For Convenience",
-            "url": "https:\/\/sermonindex.info\/SID21982",
+            "url": "http:\/\/api.sermonindex.net\/SID21982",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Convenience",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21982-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21982-download",
             "preacher_name": "Ernest Woodhouse",
             "preacher_image": "",
             "preacher_description": "",

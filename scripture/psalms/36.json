@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Psalm 36",
-            "url": "https:\/\/sermonindex.info\/SID8037",
+            "url": "http:\/\/api.sermonindex.net\/SID8037",
             "size": "0",
             "format": "mp3",
             "scripture": "Psalm 36",
             "topic": "Psalms",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID8037-download",
+            "download": "http:\/\/api.sermonindex.net\/SID8037-download",
             "preacher_name": "Carl Armerding",
             "preacher_image": "",
             "preacher_description": "",

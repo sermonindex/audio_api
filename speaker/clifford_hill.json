@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Evangelistic Conference 1978",
-            "url": "https:\/\/sermonindex.info\/SID20834",
+            "url": "http:\/\/api.sermonindex.net\/SID20834",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Evangelism",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20834-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20834-download",
             "preacher_name": "Clifford Hill",
             "preacher_image": "",
             "preacher_description": "",

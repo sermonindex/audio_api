@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Religious Hell",
-            "url": "https:\/\/sermonindex.info\/SID16652",
+            "url": "http:\/\/api.sermonindex.net\/SID16652",
             "size": "0",
             "format": "mp3",
             "scripture": "John 6:37",
             "topic": "",
             "description": "Brother Sammy Allen preaches with the William Booth statement as a jump off point, he covers a lot of ground in many key areas such as repentance. \"I consider that the chief dangers which confront the coming century will be religion  without the Holy Ghost, Christianity  without Christ, forgiveness  without repentance, salvation  without  regeneration, politics  without God, and heaven  without hell.\" - William Booth",
-            "download": "https:\/\/sermonindex.info\/SID16652-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16652-download",
             "preacher_name": "Sammy Allen",
             "preacher_image": "",
             "preacher_description": "",

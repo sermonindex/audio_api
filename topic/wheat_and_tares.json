@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Wheat and Tares",
-            "url": "https:\/\/sermonindex.info\/SID14194",
+            "url": "http:\/\/api.sermonindex.net\/SID14194",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Wheat And Tares",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID14194-download",
+            "download": "http:\/\/api.sermonindex.net\/SID14194-download",
             "preacher_name": "Harold Vaughan",
             "preacher_image": "",
             "preacher_description": "",

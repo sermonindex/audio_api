@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Plain Christians in a Vain World",
-            "url": "https:\/\/sermonindex.info\/SID23340",
+            "url": "http:\/\/api.sermonindex.net\/SID23340",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Plain Christians",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23340-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23340-download",
             "preacher_name": "David Cooper",
             "preacher_image": "",
             "preacher_description": "",

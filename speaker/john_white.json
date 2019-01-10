@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Living A Life Of Power And Influence",
-            "url": "https:\/\/sermonindex.info\/SID21776",
+            "url": "http:\/\/api.sermonindex.net\/SID21776",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Influence",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21776-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21776-download",
             "preacher_name": "John White",
             "preacher_image": "",
             "preacher_description": "",

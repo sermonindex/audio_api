@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "John Wesley's Vision of Authentic Christianity",
-            "url": "https:\/\/sermonindex.info\/SID20703",
+            "url": "http:\/\/api.sermonindex.net\/SID20703",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Authentic Christianity",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20703-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20703-download",
             "preacher_name": "Herbert McGonigle",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "God Speaking",
-            "url": "https:\/\/sermonindex.info\/SID24004",
+            "url": "http:\/\/api.sermonindex.net\/SID24004",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Gods Voice",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID24004-download",
+            "download": "http:\/\/api.sermonindex.net\/SID24004-download",
             "preacher_name": "David Wang",
             "preacher_image": "",
             "preacher_description": "",

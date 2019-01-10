@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Disciples' Prayer",
-            "url": "https:\/\/sermonindex.info\/SID7341",
+            "url": "http:\/\/api.sermonindex.net\/SID7341",
             "size": "0",
             "format": "mp3",
             "scripture": "Matthew 6:1-15",
             "topic": "Disciples' Prayer",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID7341-download",
+            "download": "http:\/\/api.sermonindex.net\/SID7341-download",
             "preacher_name": "Pat Kenney",
             "preacher_image": "",
             "preacher_description": "",

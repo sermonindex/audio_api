@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Cultural Compasses",
-            "url": "https:\/\/sermonindex.info\/SID22069",
+            "url": "http:\/\/api.sermonindex.net\/SID22069",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Cultural",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22069-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22069-download",
             "preacher_name": "Don Richardson",
             "preacher_image": "",
             "preacher_description": "",

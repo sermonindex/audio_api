@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "The Joys Of Christian Giving",
-            "url": "https:\/\/sermonindex.info\/SID21972",
+            "url": "http:\/\/api.sermonindex.net\/SID21972",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Giving",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID21972-download",
+            "download": "http:\/\/api.sermonindex.net\/SID21972-download",
             "preacher_name": "Peter Aceti",
             "preacher_image": "",
             "preacher_description": "",

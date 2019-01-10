@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Total Forgiveness",
-            "url": "https:\/\/sermonindex.info\/SID26443",
+            "url": "http:\/\/api.sermonindex.net\/SID26443",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Forgiveness",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID26443-download",
+            "download": "http:\/\/api.sermonindex.net\/SID26443-download",
             "preacher_name": "R.T. Kendall",
             "preacher_image": "",
             "preacher_description": "",

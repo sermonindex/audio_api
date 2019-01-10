@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Ringing the Bell - Samuel",
-            "url": "https:\/\/sermonindex.info\/SID18148",
+            "url": "http:\/\/api.sermonindex.net\/SID18148",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Revival",
             "description": "A powerful testimony of a African boy who got saved and was the means of salvation for many in Africa. What a encouragement toward answered prayer and faith in the Lord Jesus Christ.",
-            "download": "https:\/\/sermonindex.info\/SID18148-download",
+            "download": "http:\/\/api.sermonindex.net\/SID18148-download",
             "preacher_name": "Harmon Schmelzenbach",
             "preacher_image": "",
             "preacher_description": "",

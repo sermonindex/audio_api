@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Matter of the Will",
-            "url": "https:\/\/sermonindex.info\/SID19782",
+            "url": "http:\/\/api.sermonindex.net\/SID19782",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Will Of Man",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID19782-download",
+            "download": "http:\/\/api.sermonindex.net\/SID19782-download",
             "preacher_name": "Ann Abernathy",
             "preacher_image": "",
             "preacher_description": "",

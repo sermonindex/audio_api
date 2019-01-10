@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Going Home",
-            "url": "https:\/\/sermonindex.info\/SID16586",
+            "url": "http:\/\/api.sermonindex.net\/SID16586",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16586-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16586-download",
             "preacher_name": "Glenn Griffith",
             "preacher_image": "",
             "preacher_description": "",

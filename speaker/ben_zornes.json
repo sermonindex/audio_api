@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "There is More",
-            "url": "https:\/\/sermonindex.info\/SID22669",
+            "url": "http:\/\/api.sermonindex.net\/SID22669",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Mediocre Christianity",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID22669-download",
+            "download": "http:\/\/api.sermonindex.net\/SID22669-download",
             "preacher_name": "Ben Zornes",
             "preacher_image": "",
             "preacher_description": "",

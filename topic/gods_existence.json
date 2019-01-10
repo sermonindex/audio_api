@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "Proof God Lives",
-            "url": "https:\/\/sermonindex.info\/SID20580",
+            "url": "http:\/\/api.sermonindex.net\/SID20580",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "God's Existence",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID20580-download",
+            "download": "http:\/\/api.sermonindex.net\/SID20580-download",
             "preacher_name": "Ray Brubaker",
             "preacher_image": "",
             "preacher_description": "",

@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Day of Atonement - Tabernacles",
-            "url": "https:\/\/sermonindex.info\/SID23557",
+            "url": "http:\/\/api.sermonindex.net\/SID23557",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Tabernacles",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23557-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23557-download",
             "preacher_name": "Stephen Grant",
             "preacher_image": "",
             "preacher_description": "",

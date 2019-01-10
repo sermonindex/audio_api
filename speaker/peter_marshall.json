@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Contrast Of Faith",
-            "url": "https:\/\/sermonindex.info\/SID3589",
+            "url": "http:\/\/api.sermonindex.net\/SID3589",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID3589-download",
+            "download": "http:\/\/api.sermonindex.net\/SID3589-download",
             "preacher_name": "Peter Marshall",
             "preacher_image": "",
             "preacher_description": "",

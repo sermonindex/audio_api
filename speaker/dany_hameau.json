@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Being Heavenly Minded",
-            "url": "https:\/\/sermonindex.info\/SID18799",
+            "url": "http:\/\/api.sermonindex.net\/SID18799",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Heavenly Minded",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID18799-download",
+            "download": "http:\/\/api.sermonindex.net\/SID18799-download",
             "preacher_name": "Dany Hameau",
             "preacher_image": "",
             "preacher_description": "",

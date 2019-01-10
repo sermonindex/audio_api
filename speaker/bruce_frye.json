@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "From the Alley to the Highway",
-            "url": "https:\/\/sermonindex.info\/SID16929",
+            "url": "http:\/\/api.sermonindex.net\/SID16929",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Testimony",
             "description": "Brother Frye gives his testimony, from a false conversion & a life entangled in the southern rock & country music industry. His humility and brokenness is particularly moving in the lead-in & exiting songs.",
-            "download": "https:\/\/sermonindex.info\/SID16929-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16929-download",
             "preacher_name": "Bruce Frye",
             "preacher_image": "",
             "preacher_description": "",

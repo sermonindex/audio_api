@@ -4,13 +4,13 @@
     "sermons": [
         {
             "title": "The Crowd The Broad Road",
-            "url": "https:\/\/sermonindex.info\/SID23569",
+            "url": "http:\/\/api.sermonindex.net\/SID23569",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Broad Way",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23569-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23569-download",
             "preacher_name": "Peter Orasuk",
             "preacher_image": "",
             "preacher_description": "",

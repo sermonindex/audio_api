@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Ann Griffiths",
-            "url": "https:\/\/sermonindex.info\/SID16897",
+            "url": "http:\/\/api.sermonindex.net\/SID16897",
             "size": "0",
             "format": "mp3",
             "scripture": "Song of Solomon 5:2-16",
             "topic": "",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID16897-download",
+            "download": "http:\/\/api.sermonindex.net\/SID16897-download",
             "preacher_name": "Robert Rhys",
             "preacher_image": "",
             "preacher_description": "",

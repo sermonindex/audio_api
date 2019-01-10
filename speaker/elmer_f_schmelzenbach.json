@@ -5,13 +5,13 @@
     "sermons": [
         {
             "title": "Having Done All To Stand",
-            "url": "https:\/\/sermonindex.info\/SID23710",
+            "url": "http:\/\/api.sermonindex.net\/SID23710",
             "size": "0",
             "format": "mp3",
             "scripture": "",
             "topic": "Spiritual Warfare",
             "description": "",
-            "download": "https:\/\/sermonindex.info\/SID23710-download",
+            "download": "http:\/\/api.sermonindex.net\/SID23710-download",
             "preacher_name": "Elmer F. Schmelzenbach",
             "preacher_image": "",
             "preacher_description": "",
