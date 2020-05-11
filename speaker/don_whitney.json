@@ -12,9 +12,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18953-download",
-            "preacher_name": "Don Whitney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Whitney",
             "_scripture": []
         }
     ]

@@ -1,0 +1,48 @@
+[
+    {
+        "title": "(Genesis #2) Man in God's Estimate",
+        "url": "http:\/\/api.sermonindex.net\/SID4832",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sinfulness Of Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4832-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "(John) The Sinfulness Of Man",
+        "url": "http:\/\/api.sermonindex.net\/SID6884",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 18:12-32",
+        "topic": "Sinfulness Of Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6884-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "18"
+            }
+        ]
+    },
+    {
+        "title": "Romans 1",
+        "url": "http:\/\/api.sermonindex.net\/SID17728",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 1",
+        "topic": "Sinfulness Of Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17728-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "1"
+            }
+        ]
+    }
+]

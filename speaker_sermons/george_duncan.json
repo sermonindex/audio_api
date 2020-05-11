@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Love",
+        "url": "http:\/\/api.sermonindex.net\/SID23598",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Love",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23598-download",
+        "speaker_name": "George Duncan",
+        "_scripture": []
+    },
+    {
+        "title": "The Fight of Faith",
+        "url": "http:\/\/api.sermonindex.net\/SID23599",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Faith",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23599-download",
+        "speaker_name": "George Duncan",
+        "_scripture": []
+    }
+]

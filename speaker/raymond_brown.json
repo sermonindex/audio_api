@@ -12,9 +12,7 @@
             "topic": "Sanctification",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23566-download",
-            "preacher_name": "Raymond Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Raymond Brown",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Plan Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23565-download",
-            "preacher_name": "Raymond Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Raymond Brown",
             "_scripture": []
         }
     ]

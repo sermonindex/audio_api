@@ -1,0 +1,79 @@
+[
+    {
+        "title": "(South West Baptist Church 2008) Classic Prayer Books",
+        "url": "http:\/\/api.sermonindex.net\/SID18135",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 12:1",
+        "topic": "Prayer Example",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18135-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "The Three Prayers (Part 1)",
+        "url": "http:\/\/api.sermonindex.net\/SID1466",
+        "size": "2365952",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer Example",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1466-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    },
+    {
+        "title": "The Three Prayers (Part 2)",
+        "url": "http:\/\/api.sermonindex.net\/SID1467",
+        "size": "3588608",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer Example",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1467-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    },
+    {
+        "title": "The Three Prayers (Part 3)",
+        "url": "http:\/\/api.sermonindex.net\/SID1468",
+        "size": "2727424",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer Example",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1468-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    },
+    {
+        "title": "The Three Prayers (Part 4)",
+        "url": "http:\/\/api.sermonindex.net\/SID1469",
+        "size": "4191744",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer Example",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1469-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    },
+    {
+        "title": "The Three Prayers (Part 5)",
+        "url": "http:\/\/api.sermonindex.net\/SID1470",
+        "size": "3505152",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer Example",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1470-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    }
+]

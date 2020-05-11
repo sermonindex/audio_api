@@ -1,0 +1,31 @@
+[
+    {
+        "title": "All on the Altar",
+        "url": "http:\/\/api.sermonindex.net\/SID12249",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Chronicles 29",
+        "topic": "Full Surrender",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12249-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "2 Chronicles",
+                "chapter": "29"
+            }
+        ]
+    },
+    {
+        "title": "Life of Full Surrender",
+        "url": "http:\/\/api.sermonindex.net\/SID22554",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Full Surrender",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22554-download",
+        "speaker_name": "Stephen Olford",
+        "_scripture": []
+    }
+]

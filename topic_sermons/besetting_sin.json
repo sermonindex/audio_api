@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Besetting Sin",
+        "url": "http:\/\/api.sermonindex.net\/SID13033",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 12:1-4",
+        "topic": "Besetting Sin",
+        "description": "An admonition to lay aside and overcome sin in our life. Bob has a wonderful way of challenging believers to more godliness.",
+        "download": "http:\/\/api.sermonindex.net\/SID13033-download",
+        "speaker_name": "Bob Jennings",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "How to Deal with Personal Besetting Sin",
+        "url": "http:\/\/api.sermonindex.net\/SID24924",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Besetting Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24924-download",
+        "speaker_name": "Al Whittinghill",
+        "_scripture": []
+    },
+    {
+        "title": "Killing Your Giant",
+        "url": "http:\/\/api.sermonindex.net\/SID21573",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Besetting Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21573-download",
+        "speaker_name": "J.C. Hibbard",
+        "_scripture": []
+    }
+]

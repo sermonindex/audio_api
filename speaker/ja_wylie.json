@@ -12,9 +12,7 @@
             "topic": "Papacy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3302-download",
-            "preacher_name": "J.A. Wylie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.A. Wylie",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Papacy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3303-download",
-            "preacher_name": "J.A. Wylie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.A. Wylie",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Papacy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3304-download",
-            "preacher_name": "J.A. Wylie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.A. Wylie",
             "_scripture": []
         }
     ]

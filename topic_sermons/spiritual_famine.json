@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Spiritual Famine",
+        "url": "http:\/\/api.sermonindex.net\/SID5397",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Samuel 21, 1 Peter 2:24",
+        "topic": "Spiritual Famine",
+        "description": "\"Our experience in Christ is supposed to be a land that flows with milk and honey,\" says Roy Hession.  Hession illustrates God's ways in revival by looking at the famine that took place in David's reign and seeing the resolution, ultimately bringing our sins to Calvary and realizing that Christ has been made a curse for us by hanging upon the tree.",
+        "download": "http:\/\/api.sermonindex.net\/SID5397-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "2"
+            },
+            {
+                "book": "2 Samuel",
+                "chapter": "21"
+            }
+        ]
+    },
+    {
+        "title": "When Spiritual Famine Invades the Church",
+        "url": "http:\/\/api.sermonindex.net\/SID25149",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spiritual Famine",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25149-download",
+        "speaker_name": "Brad Allen",
+        "_scripture": []
+    }
+]

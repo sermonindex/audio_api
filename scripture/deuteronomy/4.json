@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22405-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -35,9 +33,7 @@
             "topic": "",
             "description": "It doesn\u2019t matter where you go or how far you drift from the Lord \u2013 God will go after you. And when your heart turns to the Lord - you will find Him right next to you. Its in those times when you feel so insignificant that God will reveal your importance to Him.",
             "download": "http:\/\/api.sermonindex.net\/SID3943-download",
-            "preacher_name": "Neil Rhodes",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Rhodes",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -58,9 +54,7 @@
             "topic": "Bible Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9382-download",
-            "preacher_name": "Morgan Bartlett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morgan Bartlett",
             "_scripture": [
                 {
                     "book": "Deuteronomy",

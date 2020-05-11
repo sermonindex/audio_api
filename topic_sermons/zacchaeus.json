@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Luke) 46 - Trinity-Zacchaeus",
+        "url": "http:\/\/api.sermonindex.net\/SID15146",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 19:1-10",
+        "topic": "Zacchaeus",
+        "description": "The story of Zacchaeus summarizes God's salvation is three wonderful ways.  First, salvation is God seeking man, not man seeking God.  Secondly, salvation means a radical transformation, like this chief tax collector's public confession to restore fourfold.  Lastly, real salvation is intimate fellowship with the Lord Jesus Christ.",
+        "download": "http:\/\/api.sermonindex.net\/SID15146-download",
+        "speaker_name": "Ed Miller",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "When God Walked in the Room",
+        "url": "http:\/\/api.sermonindex.net\/SID26379",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Colossians 1:15-20",
+        "topic": "Zacchaeus",
+        "description": "In this teaching, Pastor Cymbala gives a clear picture of what it would have been like if we were present when Jesus entered Zacchaeus's house. Col 1:15-20; 3:12-13 (NIV)",
+        "download": "http:\/\/api.sermonindex.net\/SID26379-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "Colossians",
+                "chapter": "1"
+            }
+        ]
+    }
+]

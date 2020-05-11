@@ -11,9 +11,7 @@
             "topic": "American Church",
             "description": "When somebody is searching for a church today, they usually ask the following questions to the church secretary or Pastor: Do you have a youth program? How many ball fields do you have? Do you have a fitness center and does it have basketball courts? Do you have a contemporary music program at your church and a good worship band? Do you have recovery groups for the divorced and drug-dependent? Do you have yoga classes? Do you have Zumba dance classes? In other words, a typical American family looking for a typical American church today approaches it like they do a buffet line in a restaurant with a smorgasbord of choices. In essence, they are saying, \u201cBefore I join your church let me see a menu and look over it to see if you can service my family the way I want you to.\u201d",
             "download": "http:\/\/api.sermonindex.net\/SID25030-download",
-            "preacher_name": "E.A. Johnston",
-            "preacher_image": "",
-            "preacher_description": "E.A. Johnston ( - )\r\nListen to freely downloadable audio sermons by the speaker E.A. Johnston in mp3 format. E. A. Johnston lives in Memphis, Tennessee and is a fellow of the Stephen Olford Institute for Biblical Preaching. He is currently involved in Bible teaching and disciple making, as well as authoring books. Some of his titles include: Realities of Revival (series), Church in Revival (series), Call to Revival (series), Return to Me, No Turning Back, The Master\u2019s Plan, Walking with God, etc.\r\n\"If the Church will not defend His holy Name then the Almighty must. God will either pour out His blessings in revival to defend His holy Name, or He will pour out His wrath upon mankind to avenge His holy Name. It will either be a defending or avenging to show forth His glory and remind mankind He alone is the Sovereign ruler of all.\"",
+            "speaker_name": "E.A. Johnston",
             "_scripture": [
                 {
                     "book": "Hosea",

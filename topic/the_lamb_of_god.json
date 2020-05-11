@@ -11,9 +11,7 @@
             "topic": "The Lamb of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17401-download",
-            "preacher_name": "Randy Jones",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Jones",
             "_scripture": []
         }
     ]

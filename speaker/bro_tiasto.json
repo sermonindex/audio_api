@@ -12,9 +12,7 @@
             "topic": "China",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18284-download",
-            "preacher_name": "Bro. Tiasto",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bro. Tiasto",
             "_scripture": [
                 {
                     "book": "Psalms",

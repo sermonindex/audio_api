@@ -1,0 +1,111 @@
+[
+    {
+        "title": "2 Corinthians 3",
+        "url": "http:\/\/api.sermonindex.net\/SID8503",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 3",
+        "topic": "New Covenant",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8503-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Elijah",
+        "url": "http:\/\/api.sermonindex.net\/SID8502",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Kings 17",
+        "topic": "Elijah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8502-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": [
+            {
+                "book": "1 Kings",
+                "chapter": "17"
+            }
+        ]
+    },
+    {
+        "title": "Genesis 12:1",
+        "url": "http:\/\/api.sermonindex.net\/SID8504",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 12:1",
+        "topic": "Abram",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8504-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "Making of a Man of God",
+        "url": "http:\/\/api.sermonindex.net\/SID8505",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 2",
+        "topic": "Man Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8505-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": [
+            {
+                "book": "2 Kings",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "The Church",
+        "url": "http:\/\/api.sermonindex.net\/SID8506",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Church",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8506-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": []
+    },
+    {
+        "title": "The Nazarene",
+        "url": "http:\/\/api.sermonindex.net\/SID8507",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Numbers 6:2",
+        "topic": "Jesus",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8507-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": [
+            {
+                "book": "Numbers",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "The Nazarite",
+        "url": "http:\/\/api.sermonindex.net\/SID8508",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Nazarite",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8508-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": []
+    }
+]

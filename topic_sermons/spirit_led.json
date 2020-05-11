@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Follow The Leader",
+        "url": "http:\/\/api.sermonindex.net\/SID26378",
+        "size": "0",
+        "format": "",
+        "scripture": "Romans 8:3-8",
+        "topic": "Spirit Led",
+        "description": "For Christians, the same Spirit that raised Jesus from the dead lives in us. In this teaching, Pastor Cymbala urges listeners to live a Spirit led life. Rom 8:3-8 (GNB)",
+        "download": "http:\/\/api.sermonindex.net\/SID26378-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "Led of the Spirit",
+        "url": "http:\/\/api.sermonindex.net\/SID0332",
+        "size": "443576",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spirit Led",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0332-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    }
+]

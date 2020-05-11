@@ -12,9 +12,7 @@
             "topic": "Bible",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18202-download",
-            "preacher_name": "Nigel Lee",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Nigel Lee",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Martyrdom",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18201-download",
-            "preacher_name": "Nigel Lee",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Nigel Lee",
             "_scripture": []
         }
     ]

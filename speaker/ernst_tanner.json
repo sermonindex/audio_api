@@ -12,9 +12,7 @@
             "topic": "Delay",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18802-download",
-            "preacher_name": "Ernst Tanner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernst Tanner",
             "_scripture": []
         }
     ]

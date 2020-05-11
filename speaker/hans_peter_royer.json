@@ -12,9 +12,7 @@
             "topic": "Experience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0371-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": [
                 {
                     "book": "John",
@@ -28,12 +26,10 @@
             "size": "9176576",
             "format": "mp3",
             "scripture": "1 Chronicles 13:1-12, John 14:6",
-            "topic": "God's Way",
+            "topic": "Gods Way",
             "description": "Hans Royer shares the story of the Ark of God being brought back by David.  He highlights the fact that we sometimes try and coupe with our strength and mind until a disaster then we start to rely on God. God's ways must be sought first. It seems the lessons we learn many times is when we fail. We need to come to God on His terms and not our own.",
             "download": "http:\/\/api.sermonindex.net\/SID0373-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": [
                 {
                     "book": "1 Chronicles",
@@ -54,9 +50,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2848-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -68,9 +62,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2849-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -82,9 +74,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2850-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -96,9 +86,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2851-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -110,9 +98,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0370-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -124,9 +110,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0372-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -138,9 +122,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0368-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         },
         {
@@ -152,9 +134,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0369-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": []
         }
     ]

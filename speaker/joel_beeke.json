@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2475-download",
-            "preacher_name": "Joel Beeke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joel Beeke",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2478-download",
-            "preacher_name": "Joel Beeke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joel Beeke",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2477-download",
-            "preacher_name": "Joel Beeke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joel Beeke",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2476-download",
-            "preacher_name": "Joel Beeke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joel Beeke",
             "_scripture": []
         }
     ]

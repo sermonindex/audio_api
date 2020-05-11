@@ -12,9 +12,7 @@
             "topic": "Servanthood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21979-download",
-            "preacher_name": "Bob Woolsey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Woolsey",
             "_scripture": []
         }
     ]

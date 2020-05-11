@@ -12,9 +12,7 @@
             "topic": "Local Church",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19781-download",
-            "preacher_name": "Lewis Abbott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lewis Abbott",
             "_scripture": []
         }
     ]

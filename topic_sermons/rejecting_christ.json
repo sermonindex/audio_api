@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Are We Denying Christ?",
+        "url": "http:\/\/api.sermonindex.net\/SID24581",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Rejecting Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24581-download",
+        "speaker_name": "Jon Couch",
+        "_scripture": []
+    },
+    {
+        "title": "Peter Rejects Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID10164",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 22:31",
+        "topic": "Rejecting Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10164-download",
+        "speaker_name": "Welcome Detweiler",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "22"
+            }
+        ]
+    }
+]

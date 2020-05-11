@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Sheep and the Goats",
+        "url": "http:\/\/api.sermonindex.net\/SID16690",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 12:2-12",
+        "topic": "False Profession",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16690-download",
+        "speaker_name": "David Servant",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "12"
+            }
+        ]
+    }
+]

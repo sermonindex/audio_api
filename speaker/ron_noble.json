@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22101-download",
-            "preacher_name": "Ron Noble",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Noble",
             "_scripture": []
         }
     ]

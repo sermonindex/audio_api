@@ -11,9 +11,7 @@
             "topic": "Excellence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1655-download",
-            "preacher_name": "George Warnock",
-            "preacher_image": "\/images\/george_warnock.gif",
-            "preacher_description": "George Warnock (1917 - 2016)\r\nListen to freely downloadable audio sermons by the speaker George Warnock in mp3 format. Brother George Warnock was used of the Lord in the latter rain movement which he had influence in. He wrote some books which were corrections to imbalances in his day. His well known book was: \"The Feast Of Tabernacles\"\r\nHis heart has been to serve the body of Christ and see a last days manifestation of a pure Church that Jesus Christ will redeem as His bride. He tentmaked as a carpenter until well into retirement. He resided in Cranbrook, BC, Canada until his death. You can read a expanded biography of him on his family website.",
+            "speaker_name": "George Warnock",
             "_scripture": []
         }
     ]

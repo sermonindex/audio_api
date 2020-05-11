@@ -11,9 +11,7 @@
             "topic": "Rejecting Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24581-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Rejecting Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10164-download",
-            "preacher_name": "Welcome Detweiler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Welcome Detweiler",
             "_scripture": [
                 {
                     "book": "Luke",

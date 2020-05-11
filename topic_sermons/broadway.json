@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Church People on Broadway",
+        "url": "http:\/\/api.sermonindex.net\/SID17283",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 7:13-27",
+        "topic": "Broadway",
+        "description": "Steve Gallagher delivers a very solemn message on unconverted believers in the modern church. Jesus concluded His fabulous Sermon on the Mount with four parables-each contrasting the fate of genuine saints with that of false Christians. In this powerful message, Steve vividly paints a picture of the horror psuedo-believers will experience at Judgement when they hear the terrifying words, \"Depart from Me...\"",
+        "download": "http:\/\/api.sermonindex.net\/SID17283-download",
+        "speaker_name": "Steve Gallagher",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "7"
+            }
+        ]
+    }
+]

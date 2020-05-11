@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Friendship With God",
+        "url": "http:\/\/api.sermonindex.net\/SID19759",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Friendship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19759-download",
+        "speaker_name": "Bill McLeod",
+        "_scripture": []
+    },
+    {
+        "title": "Knowing Christ The Friend",
+        "url": "http:\/\/api.sermonindex.net\/SID11414",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 12:23-26, Exodus 33:14",
+        "topic": "Friendship",
+        "description": "Ed Miller shows how dying to self and the lordship of Christ are not the goal but merely the foundation stones of service to the Lord.  The heart of lordship is friendship, a thirsting from satisfaction that yearns to see more and more and more of the glory of God throughout eternity.",
+        "download": "http:\/\/api.sermonindex.net\/SID11414-download",
+        "speaker_name": "Ed Miller",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "33"
+            },
+            {
+                "book": "John",
+                "chapter": "12"
+            }
+        ]
+    }
+]

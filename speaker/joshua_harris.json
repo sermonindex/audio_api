@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2519-download",
-            "preacher_name": "Joshua Harris",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joshua Harris",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Confessing Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22297-download",
-            "preacher_name": "Joshua Harris",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joshua Harris",
             "_scripture": []
         }
     ]

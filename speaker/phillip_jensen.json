@@ -12,9 +12,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22352-download",
-            "preacher_name": "Phillip Jensen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Phillip Jensen",
             "_scripture": []
         }
     ]

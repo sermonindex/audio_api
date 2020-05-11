@@ -12,9 +12,7 @@
             "topic": "Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22735-download",
-            "preacher_name": "Edwin H. Waldvogel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edwin H. Waldvogel",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Worship",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22736-download",
-            "preacher_name": "Edwin H. Waldvogel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edwin H. Waldvogel",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Lessons",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22737-download",
-            "preacher_name": "Edwin H. Waldvogel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edwin H. Waldvogel",
             "_scripture": []
         }
     ]

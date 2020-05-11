@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Christ Our Everyday Life",
+        "url": "http:\/\/api.sermonindex.net\/SID16000",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 17:1-9, Matthew 17:15-21",
+        "topic": "Everyday Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16000-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "17"
+            }
+        ]
+    }
+]

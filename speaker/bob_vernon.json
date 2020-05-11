@@ -12,9 +12,7 @@
             "topic": "Spirituality",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2492-download",
-            "preacher_name": "Bob Vernon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Vernon",
             "_scripture": []
         }
     ]

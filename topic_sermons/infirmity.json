@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Loosed From Thine Infirmity",
+        "url": "http:\/\/api.sermonindex.net\/SID21903",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Infirmity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21903-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Spirit of Infirmity",
+        "url": "http:\/\/api.sermonindex.net\/SID12258",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 13",
+        "topic": "Infirmity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12258-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "13"
+            }
+        ]
+    }
+]

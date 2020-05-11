@@ -12,9 +12,7 @@
             "topic": "Expositional",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21975-download",
-            "preacher_name": "Zac Zachariassen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Zac Zachariassen",
             "_scripture": [
                 {
                     "book": "Acts",

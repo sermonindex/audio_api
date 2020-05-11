@@ -12,9 +12,7 @@
             "topic": "Provision",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14146-download",
-            "preacher_name": "Billy Ingram",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Billy Ingram",
             "_scripture": []
         }
     ]

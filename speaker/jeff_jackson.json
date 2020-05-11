@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7270-download",
-            "preacher_name": "Jeff Jackson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeff Jackson",
             "_scripture": [
                 {
                     "book": "Matthew",

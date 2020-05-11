@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Living With Your Passion",
+        "url": "http:\/\/api.sermonindex.net\/SID19910",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5:27-28, 2 Corinthians 10:4-5",
+        "topic": "Marriage",
+        "description": "Three Commitments Jesus Christ asks us to make. Purity in Marriage, Purity in our thoughts, Purity in our associations. September 1984 - Flames of Freedom Family Rally.",
+        "download": "http:\/\/api.sermonindex.net\/SID19910-download",
+        "speaker_name": "Erwin Lutzer",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "10"
+            }
+        ]
+    },
+    {
+        "title": "Managing Your Emotions",
+        "url": "http:\/\/api.sermonindex.net\/SID19914",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Emotions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19914-download",
+        "speaker_name": "Erwin Lutzer",
+        "_scripture": []
+    },
+    {
+        "title": "The Judgement Seat of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID0195",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 5:9-10, 1 Corinthians 3:12-15",
+        "topic": "",
+        "description": "What does Judgment mean for a Christian?    Pastor Lutzer expounds the Judgments\u2019 of Christ. Lutzer goes on and preaches that a Christian will be judged fairly, individually and thoroughly. This is a much neglected topic in preaching in our generation.",
+        "download": "http:\/\/api.sermonindex.net\/SID0195-download",
+        "speaker_name": "Erwin Lutzer",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "5"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "When God Doesn't Come Through",
+        "url": "http:\/\/api.sermonindex.net\/SID19909",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Trusting God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19909-download",
+        "speaker_name": "Erwin Lutzer",
+        "_scripture": []
+    },
+    {
+        "title": "Will America Be Given Another Chance",
+        "url": "http:\/\/api.sermonindex.net\/SID20417",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "America",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20417-download",
+        "speaker_name": "Erwin Lutzer",
+        "_scripture": []
+    }
+]

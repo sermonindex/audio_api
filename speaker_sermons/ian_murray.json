@@ -1,0 +1,36 @@
+[
+    {
+        "title": "John 1",
+        "url": "http:\/\/api.sermonindex.net\/SID23714",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 1",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23714-download",
+        "speaker_name": "Ian Murray",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Jonah 1",
+        "url": "http:\/\/api.sermonindex.net\/SID23715",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jonah 1",
+        "topic": "Jonah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23715-download",
+        "speaker_name": "Ian Murray",
+        "_scripture": [
+            {
+                "book": "Jonah",
+                "chapter": "1"
+            }
+        ]
+    }
+]

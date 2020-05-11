@@ -1,0 +1,31 @@
+[
+    {
+        "title": "How To Discover Your Gift",
+        "url": "http:\/\/api.sermonindex.net\/SID7673",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 12:1",
+        "topic": "Gifting",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7673-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "Knowing Our Gift",
+        "url": "http:\/\/api.sermonindex.net\/SID7823",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gifting",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7823-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": []
+    }
+]

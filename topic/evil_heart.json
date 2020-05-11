@@ -11,9 +11,7 @@
             "topic": "Evil Heart",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8094-download",
-            "preacher_name": "Ernest O'Neill",
-            "preacher_image": "",
-            "preacher_description": "Ernest O'Neill ( - )\r\nListen to freely downloadable audio sermons by the speaker Ernest O'Neill in mp3 format. Ernest W. O'Neill was born in Belfast, Northern Ireland in 1934 and educated at Queen's University, where he received a degree in English Literature - Stranmillis Training College, where he obtained a teaching diploma - and Edgehill Theological Seminary, where he received a degree in theology. After teaching English at Methodist College, he was ordained to the Methodist ministry in Ireland in 1960 and served churches there and in London, England before moving to the United States in 1963.\r\nErnest O'Neill pastored Methodist churches in Minneapolis for three years and taught English in a Christian Brothers' School for four years. He preached in Bethany Presbyterian Church at the University of Minnesota for four years. Then in 1970, he founded Campus Church in Minneapolis, an independent, non-denominational body, to demonstrate the intellectual validity and spiritual reality of Jesus Christ on a secular campus.",
+            "speaker_name": "Ernest ONeill",
             "_scripture": [
                 {
                     "book": "Genesis",

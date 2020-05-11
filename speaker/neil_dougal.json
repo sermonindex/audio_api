@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10250-download",
-            "preacher_name": "Neil Dougal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Dougal",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10251-download",
-            "preacher_name": "Neil Dougal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Dougal",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10252-download",
-            "preacher_name": "Neil Dougal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Dougal",
             "_scripture": [
                 {
                     "book": "John",
@@ -69,9 +63,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10253-download",
-            "preacher_name": "Neil Dougal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Dougal",
             "_scripture": []
         },
         {
@@ -83,9 +75,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10254-download",
-            "preacher_name": "Neil Dougal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Dougal",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -102,9 +92,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10255-download",
-            "preacher_name": "Neil Dougal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Neil Dougal",
             "_scripture": [
                 {
                     "book": "Matthew",

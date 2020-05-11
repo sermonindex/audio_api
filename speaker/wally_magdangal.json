@@ -12,9 +12,7 @@
             "topic": "Suffering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19142-download",
-            "preacher_name": "Wally Magdangal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wally Magdangal",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Suffering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19140-download",
-            "preacher_name": "Wally Magdangal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wally Magdangal",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Suffering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19141-download",
-            "preacher_name": "Wally Magdangal",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wally Magdangal",
             "_scripture": []
         }
     ]

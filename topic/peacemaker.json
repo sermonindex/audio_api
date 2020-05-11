@@ -11,9 +11,7 @@
             "topic": "Peacemaker",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23581-download",
-            "preacher_name": "Dwight Pentecost",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dwight Pentecost",
             "_scripture": []
         }
     ]

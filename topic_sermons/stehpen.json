@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Stehpen: A Trophy of Grace",
+        "url": "http:\/\/api.sermonindex.net\/SID0700",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Stehpen",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0700-download",
+        "speaker_name": "Danny Bond",
+        "_scripture": []
+    },
+    {
+        "title": "Stephen's Landmark Sermon",
+        "url": "http:\/\/api.sermonindex.net\/SID0701",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 7:1-54",
+        "topic": "Stehpen",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0701-download",
+        "speaker_name": "Danny Bond",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "7"
+            }
+        ]
+    }
+]

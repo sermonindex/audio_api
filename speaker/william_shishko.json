@@ -12,9 +12,7 @@
             "topic": "Betrayal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27154-download",
-            "preacher_name": "William Shishko",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William Shishko",
             "_scripture": [
                 {
                     "book": "Psalms",

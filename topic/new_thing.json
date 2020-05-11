@@ -11,9 +11,7 @@
             "topic": "New Thing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21495-download",
-            "preacher_name": "Peter Maiden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Maiden",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "New Thing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25490-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         }
     ]

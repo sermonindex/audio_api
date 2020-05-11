@@ -12,9 +12,7 @@
             "topic": "Russia",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24418-download",
-            "preacher_name": "John Noble",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Noble",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Russia",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24419-download",
-            "preacher_name": "John Noble",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Noble",
             "_scripture": []
         }
     ]

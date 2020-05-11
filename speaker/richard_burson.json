@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9791-download",
-            "preacher_name": "Richard Burson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard Burson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9792-download",
-            "preacher_name": "Richard Burson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard Burson",
             "_scripture": [
                 {
                     "book": "Psalms",

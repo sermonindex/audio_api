@@ -12,9 +12,7 @@
             "topic": "Biographical",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7118-download",
-            "preacher_name": "BJU Students and Faculty",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "BJU Students and Faculty",
             "_scripture": []
         }
     ]

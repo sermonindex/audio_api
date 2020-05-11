@@ -1,0 +1,47 @@
+[
+    {
+        "title": "1975 Address to the Southern Baptist Convention",
+        "url": "http:\/\/api.sermonindex.net\/SID2428",
+        "size": "3623424",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2428-download",
+        "speaker_name": "W.A. Criswell",
+        "_scripture": []
+    },
+    {
+        "title": "Memorial Service",
+        "url": "http:\/\/api.sermonindex.net\/SID2429",
+        "size": "27794944",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2429-download",
+        "speaker_name": "W.A. Criswell",
+        "_scripture": []
+    },
+    {
+        "title": "The Living Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID2585",
+        "size": "7061504",
+        "format": "mp3",
+        "scripture": "Acts 27:23, Acts 18:9",
+        "topic": "",
+        "description": "Jesus Christ is a real living person like you and I. He isn't just some historical figure Who died, He is a living Entity today. \"Jesus is Somebody! And He's with us!\" Listen to this message by the great pulpiteer.",
+        "download": "http:\/\/api.sermonindex.net\/SID2585-download",
+        "speaker_name": "W.A. Criswell",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "27"
+            },
+            {
+                "book": "Acts",
+                "chapter": "18"
+            }
+        ]
+    }
+]

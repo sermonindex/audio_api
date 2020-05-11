@@ -11,9 +11,7 @@
             "topic": "Beloved",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20870-download",
-            "preacher_name": "Randy Jones",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Jones",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Beloved",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20872-download",
-            "preacher_name": "Randy Jones",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Jones",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Beloved",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20871-download",
-            "preacher_name": "Randy Jones",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Jones",
             "_scripture": []
         }
     ]

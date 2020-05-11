@@ -9,12 +9,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Presence",
+            "topic": "Gods Presence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19802-download",
-            "preacher_name": "Ray Andrews",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Andrews",
             "_scripture": []
         },
         {
@@ -23,12 +21,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Presence",
+            "topic": "Gods Presence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19803-download",
-            "preacher_name": "Ray Andrews",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Andrews",
             "_scripture": []
         }
     ]

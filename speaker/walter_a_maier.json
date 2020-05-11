@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3078-download",
-            "preacher_name": "Walter A. Maier",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter A. Maier",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3085-download",
-            "preacher_name": "Walter A. Maier",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter A. Maier",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3077-download",
-            "preacher_name": "Walter A. Maier",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter A. Maier",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23986-download",
-            "preacher_name": "Keith Parker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Keith Parker",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23987-download",
-            "preacher_name": "Keith Parker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Keith Parker",
             "_scripture": []
         }
     ]

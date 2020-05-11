@@ -1,0 +1,36 @@
+[
+    {
+        "title": "The Post Resurrection of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID20753",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 24:11-35",
+        "topic": "Resurrection Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20753-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "24"
+            }
+        ]
+    },
+    {
+        "title": "The Resurrection Of Christ ",
+        "url": "http:\/\/api.sermonindex.net\/SID12772",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 15",
+        "topic": "Resurrection Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12772-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "15"
+            }
+        ]
+    }
+]

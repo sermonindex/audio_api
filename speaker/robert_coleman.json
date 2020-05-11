@@ -12,9 +12,7 @@
             "topic": "Great Commission",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28033-download",
-            "preacher_name": "Robert Coleman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Coleman",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Great Commission",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28034-download",
-            "preacher_name": "Robert Coleman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Coleman",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Harvest",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21967-download",
-            "preacher_name": "Robert Coleman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Coleman",
             "_scripture": []
         }
     ]

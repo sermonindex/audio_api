@@ -12,9 +12,7 @@
             "topic": "Submission",
             "description": "Tony Miano preached this sermon at the 2011 Jersey Fire conference. It is both a warning and a call to Christians nomads to return to the protective umbrella of the local church.",
             "download": "http:\/\/api.sermonindex.net\/SID23124-download",
-            "preacher_name": "Tony Miano",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tony Miano",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "This is a clear, pleading sermon with tears and brokenness over the precious doctrine of propitiation. This biblical message clearly portrays the gospel to a generation that is not used to or desiring to hear the hard plain truth.",
             "download": "http:\/\/api.sermonindex.net\/SID16651-download",
-            "preacher_name": "Tony Miano",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tony Miano",
             "_scripture": [
                 {
                     "book": "Romans",

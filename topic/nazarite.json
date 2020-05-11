@@ -11,9 +11,7 @@
             "topic": "Nazarite",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8508-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Nazarite",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3987-download",
-            "preacher_name": "Gary Wilkerson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gary Wilkerson",
             "_scripture": []
         }
     ]

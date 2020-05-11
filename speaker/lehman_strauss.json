@@ -12,9 +12,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23325-download",
-            "preacher_name": "Lehman Strauss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lehman Strauss",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Preeminence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23326-download",
-            "preacher_name": "Lehman Strauss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lehman Strauss",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Preeminence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23327-download",
-            "preacher_name": "Lehman Strauss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lehman Strauss",
             "_scripture": []
         }
     ]

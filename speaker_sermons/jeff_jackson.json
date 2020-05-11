@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Good Works: A Window to the World",
+        "url": "http:\/\/api.sermonindex.net\/SID7270",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7270-download",
+        "speaker_name": "Jeff Jackson",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            }
+        ]
+    }
+]

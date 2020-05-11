@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Arrepi\u00e9ntase y Crea",
+        "url": "http:\/\/api.sermonindex.net\/SID19400",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 1:15",
+        "topic": "Spanish",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19400-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "1"
+            }
+        ]
+    }
+]

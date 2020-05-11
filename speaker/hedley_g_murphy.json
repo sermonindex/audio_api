@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7114-download",
-            "preacher_name": "Hedley G Murphy",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hedley G Murphy",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7108-download",
-            "preacher_name": "Hedley G Murphy",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hedley G Murphy",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7115-download",
-            "preacher_name": "Hedley G Murphy",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hedley G Murphy",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7109-download",
-            "preacher_name": "Hedley G Murphy",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hedley G Murphy",
             "_scripture": []
         }
     ]

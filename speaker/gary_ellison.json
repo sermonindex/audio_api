@@ -12,9 +12,7 @@
             "topic": "Holy Character",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14511-download",
-            "preacher_name": "Gary Ellison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gary Ellison",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Decision",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14512-download",
-            "preacher_name": "Gary Ellison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gary Ellison",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Personal Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14513-download",
-            "preacher_name": "Gary Ellison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gary Ellison",
             "_scripture": []
         }
     ]

@@ -11,9 +11,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19135-download",
-            "preacher_name": "John Hunter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Hunter",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19136-download",
-            "preacher_name": "John Hunter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Hunter",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19137-download",
-            "preacher_name": "John Hunter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Hunter",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19138-download",
-            "preacher_name": "John Hunter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Hunter",
             "_scripture": []
         },
         {
@@ -67,9 +59,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19139-download",
-            "preacher_name": "John Hunter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Hunter",
             "_scripture": []
         },
         {
@@ -81,9 +71,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23832-download",
-            "preacher_name": "Billy Strachen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Billy Strachen",
             "_scripture": []
         },
         {
@@ -95,9 +83,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21496-download",
-            "preacher_name": "Peter Maiden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Maiden",
             "_scripture": []
         },
         {
@@ -109,9 +95,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21497-download",
-            "preacher_name": "Peter Maiden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Maiden",
             "_scripture": []
         },
         {
@@ -123,9 +107,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21498-download",
-            "preacher_name": "Peter Maiden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Maiden",
             "_scripture": []
         },
         {
@@ -137,9 +119,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19483-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -151,9 +131,7 @@
             "topic": "James",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19863-download",
-            "preacher_name": "Steve Mays",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Mays",
             "_scripture": []
         }
     ]

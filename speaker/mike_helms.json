@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16909-download",
-            "preacher_name": "Mike Helms",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Helms",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16910-download",
-            "preacher_name": "Mike Helms",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Helms",
             "_scripture": []
         }
     ]

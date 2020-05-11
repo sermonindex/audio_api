@@ -12,9 +12,7 @@
             "topic": "Maturity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3271-download",
-            "preacher_name": "Peet Botha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peet Botha",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Will Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3270-download",
-            "preacher_name": "Peet Botha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peet Botha",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Homosexuality",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3996-download",
-            "preacher_name": "Peet Botha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peet Botha",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3249-download",
-            "preacher_name": "Peet Botha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peet Botha",
             "_scripture": []
         }
     ]

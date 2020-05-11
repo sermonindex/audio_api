@@ -11,9 +11,7 @@
             "topic": "Feeling",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19773-download",
-            "preacher_name": "Richard Sipley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard Sipley",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

@@ -12,9 +12,7 @@
             "topic": "Assurance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22325-download",
-            "preacher_name": "James MacDonald",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James MacDonald",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Sovereignty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22324-download",
-            "preacher_name": "James MacDonald",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James MacDonald",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Holiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22326-download",
-            "preacher_name": "James MacDonald",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James MacDonald",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17864-download",
-            "preacher_name": "James MacDonald",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James MacDonald",
             "_scripture": []
         }
     ]

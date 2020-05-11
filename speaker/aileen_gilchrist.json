@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17214-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17213-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17210-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17209-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17211-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17212-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17239-download",
-            "preacher_name": "Aileen Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aileen Gilchrist",
             "_scripture": []
         }
     ]

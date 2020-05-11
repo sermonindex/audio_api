@@ -11,9 +11,7 @@
             "topic": "Justice Of God",
             "description": "How does a just and holy God forgive sin? For sin is an abomination to the Lord and His very nature demands justice be served. Come and rejoice in a loving Saviour who was willing to drink the cup of God's wrath in our place and be crushed for our transgressions. Learn how only God's perfect Son could satisfy the Father's need for justice. A most powerful and enlightening sermon.",
             "download": "http:\/\/api.sermonindex.net\/SID13242-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -34,9 +32,7 @@
             "topic": "Justice Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20500-download",
-            "preacher_name": "Vance Havner",
-            "preacher_image": "\/images\/vance_havner.gif",
-            "preacher_description": "Vance Havner (1901 - 1986)\r\nListen to freely downloadable audio sermons by the speaker Vance Havner in mp3 format. For over 70 years, the church was blessed and challenged by the prophetic ministry of Vance Havner. His style and burden was prophetic similar to the ministry of A.W. Tozer calling the Church to revival. His influence extended to a national level, but Dr. Havner's approach was always to minister where God directed, regardless of the size of the church.  His appeal and influence transcended denominational lines, and he spoke to many different groups of people.\r\n\r\nThroughout his ministry, Vance Havner lived and preached that a Christian should should exhibit faithfulness to Jesus in all areas of life.  He taught that the Christian should attend to, \"the outliving of the inliving Christ.\"  Havner wrote, \"To some, Christianity is an argument.  To many, it is a performance.  To a few, it is an experience.\"",
+            "speaker_name": "Vance Havner",
             "_scripture": []
         },
         {
@@ -48,9 +44,7 @@
             "topic": "Justice Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8408-download",
-            "preacher_name": "Michael Durham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Durham",
             "_scripture": [
                 {
                     "book": "Jeremiah",

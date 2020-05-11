@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Reversed Values",
+        "url": "http:\/\/api.sermonindex.net\/SID23592",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 9",
+        "topic": "Values",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23592-download",
+        "speaker_name": "David Jackman",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "9"
+            }
+        ]
+    }
+]

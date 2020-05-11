@@ -12,9 +12,7 @@
             "topic": "Deliverance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23894-download",
-            "preacher_name": "Merle Flory",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Merle Flory",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Holiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19602-download",
-            "preacher_name": "Merle Flory",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Merle Flory",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19603-download",
-            "preacher_name": "Merle Flory",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Merle Flory",
             "_scripture": []
         }
     ]

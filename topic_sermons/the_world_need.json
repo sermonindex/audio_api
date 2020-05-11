@@ -1,0 +1,53 @@
+[
+    {
+        "title": "(John) Gazing At The People",
+        "url": "http:\/\/api.sermonindex.net\/SID6855",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 6:1-15",
+        "topic": "The World Need",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6855-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "(John) The Explanation Of The Mission Of The Master",
+        "url": "http:\/\/api.sermonindex.net\/SID6853",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 4:31-54",
+        "topic": "The World Need",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6853-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "(John) The Patter Of The People",
+        "url": "http:\/\/api.sermonindex.net\/SID6859",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 7:40-53",
+        "topic": "The World Need",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6859-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "7"
+            }
+        ]
+    }
+]

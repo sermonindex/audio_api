@@ -12,9 +12,7 @@
             "topic": "",
             "description": "A sermon on the sonship of being in Christ Jesus taken from John 20.",
             "download": "http:\/\/api.sermonindex.net\/SID3367-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3355-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3363-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2979-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2978-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3358-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3375-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3365-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -129,9 +113,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3373-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -143,9 +125,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2991-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -157,9 +137,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2992-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -171,9 +149,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2993-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -185,9 +161,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2994-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -199,9 +173,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2995-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -213,9 +185,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3364-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -227,9 +197,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2980-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -241,9 +209,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2981-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -255,9 +221,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3370-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -269,9 +233,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3371-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -283,9 +245,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3369-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -297,9 +257,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3372-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -311,9 +269,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3368-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -325,9 +281,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3361-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -339,9 +293,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3360-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -353,9 +305,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2977-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -367,9 +317,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3356-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -381,9 +329,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3366-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -395,9 +341,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3359-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -409,9 +353,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2972-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -423,9 +365,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2973-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -437,9 +377,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2974-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -451,9 +389,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2975-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -465,9 +401,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2976-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -479,9 +413,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3357-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -493,9 +425,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3374-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -507,9 +437,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3362-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         },
         {
@@ -521,9 +449,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2990-download",
-            "preacher_name": "Iain Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Iain Murray",
             "_scripture": []
         }
     ]

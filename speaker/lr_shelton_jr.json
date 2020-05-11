@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1777-download",
-            "preacher_name": "L.R. Shelton Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton Jr",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1778-download",
-            "preacher_name": "L.R. Shelton Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton Jr",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1817-download",
-            "preacher_name": "L.R. Shelton Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton Jr",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1818-download",
-            "preacher_name": "L.R. Shelton Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton Jr",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1822-download",
-            "preacher_name": "L.R. Shelton Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton Jr",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1823-download",
-            "preacher_name": "L.R. Shelton Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton Jr",
             "_scripture": []
         }
     ]

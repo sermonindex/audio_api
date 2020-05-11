@@ -9,12 +9,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16635-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -23,12 +21,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16636-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -37,12 +33,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16637-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -51,12 +45,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16638-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -65,12 +57,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16639-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -79,12 +69,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16640-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -93,12 +81,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16641-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -107,12 +93,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pilgrim's Progress",
+            "topic": "Pilgrims Progress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16634-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "Great Commission",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28040-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -143,9 +125,7 @@
             "topic": "Bible Study",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28039-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         }
     ]

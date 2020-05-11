@@ -12,9 +12,7 @@
             "topic": "Biography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21688-download",
-            "preacher_name": "Thomas Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Thomas Martin",
             "_scripture": []
         }
     ]

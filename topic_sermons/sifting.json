@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Sifting",
+        "url": "http:\/\/api.sermonindex.net\/SID20933",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sifting",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20933-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": []
+    },
+    {
+        "title": "The Sifting Process",
+        "url": "http:\/\/api.sermonindex.net\/SID3608",
+        "size": "18256384",
+        "format": "mp3",
+        "scripture": "Luke 22:28-32",
+        "topic": "Sifting",
+        "description": "Out of Luke 22: 28-32, Wilkerson preaches about the time when we will go through a sifting process.  A time where God will allow satan to work against us but there is always a reason and in the end the result can be dynamic for those who endure.",
+        "download": "http:\/\/api.sermonindex.net\/SID3608-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "22"
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "title": "A Renewal of the Mind and Thoughts",
+        "url": "http:\/\/api.sermonindex.net\/SID24915",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Renewing The Mind",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24915-download",
+        "speaker_name": "Al Whittinghill",
+        "_scripture": []
+    },
+    {
+        "title": "Jesus Appears",
+        "url": "http:\/\/api.sermonindex.net\/SID25443",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 24:13-35, Psalm 119:17",
+        "topic": "Renewing The Mind",
+        "description": "In today's modern Christian Church, most view their faith as mental and mechanical. In this teaching Pastor Cymbala's prayer is for the Lord to replace our active minds with a burning heart for the living Lord Jesus Christ.",
+        "download": "http:\/\/api.sermonindex.net\/SID25443-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "24"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "119"
+            }
+        ]
+    },
+    {
+        "title": "Renewal of the Mind",
+        "url": "http:\/\/api.sermonindex.net\/SID19771",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 12:1-2",
+        "topic": "Renewing The Mind",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19771-download",
+        "speaker_name": "Richard Sipley",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "Renewing The Mind",
+        "url": "http:\/\/api.sermonindex.net\/SID19772",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 12:1-2",
+        "topic": "Renewing The Mind",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19772-download",
+        "speaker_name": "Richard Sipley",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "12"
+            }
+        ]
+    }
+]

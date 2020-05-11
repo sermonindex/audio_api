@@ -12,9 +12,7 @@
             "topic": "Eternal Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22578-download",
-            "preacher_name": "Thabiti Anyabwile",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Thabiti Anyabwile",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Eternal Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22577-download",
-            "preacher_name": "Thabiti Anyabwile",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Thabiti Anyabwile",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23714-download",
-            "preacher_name": "Ian Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ian Murray",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "Jonah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23715-download",
-            "preacher_name": "Ian Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ian Murray",
             "_scripture": [
                 {
                     "book": "Jonah",

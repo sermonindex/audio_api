@@ -11,9 +11,7 @@
             "topic": "Leprosy",
             "description": "The miraculous catch of fish is God's illustration of soul-winning: it is a mighty miracle of God.  Your responsibility is not to win the lost; your responsibility is just to obey Jesus.  Leprosy is a picture of sin and the cleansing which followed illustrates Jesus' willingness and ability to cleanse sin.  The priestly examination of a cleansed leper signifies that it is not our verbal declaration that confirms our cleansing but others who watch our lives.",
             "download": "http:\/\/api.sermonindex.net\/SID15117-download",
-            "preacher_name": "Ed Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ed Miller",
             "_scripture": [
                 {
                     "book": "Mark",
@@ -34,9 +32,7 @@
             "topic": "Leprosy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25493-download",
-            "preacher_name": "Andy Brink",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andy Brink",
             "_scripture": []
         }
     ]

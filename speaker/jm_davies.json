@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10071-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10073-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10069-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Song of Solomon",
@@ -78,9 +70,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10070-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -97,9 +87,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10074-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": []
         },
         {
@@ -111,9 +99,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10075-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -130,9 +116,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10076-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -149,9 +133,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10077-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Job",
@@ -168,9 +150,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10078-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -191,9 +171,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10079-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -210,9 +188,7 @@
             "topic": "Assembly",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10080-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -229,9 +205,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10081-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Acts",

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "The Marks of True Revival",
+        "url": "http:\/\/api.sermonindex.net\/SID3814",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "True Revival",
+        "description": "When God answers sincere, desperate prayers for revival, He restores the life and reality that was once there. You will understand in a deeper way the depravity of man and the wages of sin. As you break your heart before Him, God will perform a sanctifying work in your life, you will find yourself overwhelmed with a true joy, and you will begin to be burdened for and to reach out to others.",
+        "download": "http:\/\/api.sermonindex.net\/SID3814-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": []
+    },
+    {
+        "title": "True Revival - The Presence of the Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID20761",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 4:1-6",
+        "topic": "True Revival",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20761-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "4"
+            }
+        ]
+    }
+]

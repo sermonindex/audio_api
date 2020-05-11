@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7284-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "Partnership",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20838-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7279-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7280-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7281-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7282-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7283-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "Personal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23638-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -129,9 +113,7 @@
             "topic": "Temptation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19751-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -143,9 +125,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2430-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -157,9 +137,7 @@
             "topic": "Church",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23639-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -171,9 +149,7 @@
             "topic": "Forgiveness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23640-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -185,9 +161,7 @@
             "topic": "Perspective",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23641-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -199,9 +173,7 @@
             "topic": "Kingdom Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23642-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -213,9 +185,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7278-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         },
         {
@@ -227,9 +197,7 @@
             "topic": "End Times",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23643-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         }
     ]

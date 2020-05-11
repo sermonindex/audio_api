@@ -1,0 +1,241 @@
+[
+    {
+        "title": "Beginning",
+        "url": "http:\/\/api.sermonindex.net\/SID1439",
+        "size": "3875328",
+        "format": "mp3",
+        "scripture": "Mark 1:1-16, Mark 16:15-20",
+        "topic": "Christian Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1439-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "16"
+            },
+            {
+                "book": "Mark",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Come, See a Man",
+        "url": "http:\/\/api.sermonindex.net\/SID1448",
+        "size": "2379264",
+        "format": "mp3",
+        "scripture": "John 4:27-30",
+        "topic": "Jesus Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1448-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Communion",
+        "url": "http:\/\/api.sermonindex.net\/SID1445",
+        "size": "3265536",
+        "format": "mp3",
+        "scripture": "Philippians 1:3-7",
+        "topic": "Communion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1445-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Feeding 5000+",
+        "url": "http:\/\/api.sermonindex.net\/SID1446",
+        "size": "4069376",
+        "format": "mp3",
+        "scripture": "Mark 6:31-44",
+        "topic": "Miracles",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1446-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "Gifts of the Spirit - Part 1 (Rora 2003)",
+        "url": "http:\/\/api.sermonindex.net\/SID1835",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gifts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1835-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "Gifts of the Spirit - Part 2 (Rora 2003)",
+        "url": "http:\/\/api.sermonindex.net\/SID1836",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gifts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1836-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "Give Him the Pre-eminence",
+        "url": "http:\/\/api.sermonindex.net\/SID1438",
+        "size": "4529664",
+        "format": "mp3",
+        "scripture": "Colossians 1:9-29",
+        "topic": "Jesus Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1438-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "Colossians",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Mark 4",
+        "url": "http:\/\/api.sermonindex.net\/SID1444",
+        "size": "4738048",
+        "format": "mp3",
+        "scripture": "Mark 4",
+        "topic": "Gospel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1444-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "New Birth (Rora 2003)",
+        "url": "http:\/\/api.sermonindex.net\/SID1831",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "New Birth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1831-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "Revelation Of The Mystery",
+        "url": "http:\/\/api.sermonindex.net\/SID15799",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 3:1-10, Ephesians 6:18-20, 1 Corinthians 4:1-2",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15799-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "3"
+            },
+            {
+                "book": "Ephesians",
+                "chapter": "6"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "The Body",
+        "url": "http:\/\/api.sermonindex.net\/SID1440",
+        "size": "4069376",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Body Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1440-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "The Good Shepherd",
+        "url": "http:\/\/api.sermonindex.net\/SID1441",
+        "size": "4564480",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Shepherd",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1441-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "The Tools Of Love",
+        "url": "http:\/\/api.sermonindex.net\/SID21200",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Love",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21200-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "The Well of Sychar",
+        "url": "http:\/\/api.sermonindex.net\/SID1443",
+        "size": "3747840",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Well Of Sychar",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1443-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "The Word of God",
+        "url": "http:\/\/api.sermonindex.net\/SID1442",
+        "size": "3883008",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Word Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1442-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    },
+    {
+        "title": "Where the Spirit Is",
+        "url": "http:\/\/api.sermonindex.net\/SID1447",
+        "size": "4561920",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spirit Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1447-download",
+        "speaker_name": "Norman Meeten",
+        "_scripture": []
+    }
+]

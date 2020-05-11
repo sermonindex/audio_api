@@ -12,9 +12,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16577-download",
-            "preacher_name": "Bud Elford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bud Elford",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16575-download",
-            "preacher_name": "Bud Elford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bud Elford",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16576-download",
-            "preacher_name": "Bud Elford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bud Elford",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16574-download",
-            "preacher_name": "Bud Elford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bud Elford",
             "_scripture": []
         }
     ]

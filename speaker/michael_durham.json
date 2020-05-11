@@ -12,9 +12,7 @@
             "topic": "Justice Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8408-download",
-            "preacher_name": "Michael Durham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Durham",
             "_scripture": [
                 {
                     "book": "Jeremiah",

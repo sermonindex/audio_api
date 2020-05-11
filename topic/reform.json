@@ -11,9 +11,7 @@
             "topic": "Reform",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17280-download",
-            "preacher_name": "Glenn Meldrum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Glenn Meldrum",
             "_scripture": [
                 {
                     "book": "2 Kings",

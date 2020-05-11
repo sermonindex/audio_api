@@ -1,0 +1,36 @@
+[
+    {
+        "title": "As He Is So Are We",
+        "url": "http:\/\/api.sermonindex.net\/SID9582",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 John 4:17",
+        "topic": "Living Like Christ",
+        "description": "Speaking on our standing with Christ, \"the Eternal Contemporary\", Vance Havner shows how our lives should be reflections of the life that Christ lived, and is still living today. A good sermon that gives no room for feel-good, prosperity religion. \"Everybody wants medals today, but nobody wants scars.\" Well worth the listen.",
+        "download": "http:\/\/api.sermonindex.net\/SID9582-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": [
+            {
+                "book": "1 John",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Begin Being Like Him",
+        "url": "http:\/\/api.sermonindex.net\/SID9595",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Job 29-30",
+        "topic": "Living Like Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9595-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": [
+            {
+                "book": "Job",
+                "chapter": "29"
+            }
+        ]
+    }
+]

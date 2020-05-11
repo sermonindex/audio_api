@@ -12,9 +12,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19664-download",
-            "preacher_name": "Bruce Berliner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bruce Berliner",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "End Times",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19663-download",
-            "preacher_name": "Bruce Berliner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bruce Berliner",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -45,9 +41,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19665-download",
-            "preacher_name": "Bruce Berliner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bruce Berliner",
             "_scripture": []
         }
     ]

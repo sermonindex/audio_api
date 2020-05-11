@@ -1,0 +1,47 @@
+[
+    {
+        "title": "A Gift that Lasts",
+        "url": "http:\/\/api.sermonindex.net\/SID26699",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gift",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26699-download",
+        "speaker_name": "John Vissers",
+        "_scripture": []
+    },
+    {
+        "title": "The First Gift Of The Father",
+        "url": "http:\/\/api.sermonindex.net\/SID13256",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 37:1-4, Luke 15:11-22",
+        "topic": "Gift",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13256-download",
+        "speaker_name": "Ian Paisley",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "37"
+            }
+        ]
+    },
+    {
+        "title": "The Gift",
+        "url": "http:\/\/api.sermonindex.net\/SID24448",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gift",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24448-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    }
+]

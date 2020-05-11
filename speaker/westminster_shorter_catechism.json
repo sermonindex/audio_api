@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22355-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -35,9 +33,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22364-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -58,9 +54,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22454-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -81,9 +75,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22455-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -104,9 +96,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22456-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -127,9 +117,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22457-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -150,9 +138,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22458-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -173,9 +159,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22459-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -196,9 +180,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22460-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -219,9 +201,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22461-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Daniel",
@@ -242,9 +222,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22365-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -265,9 +243,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22366-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -288,9 +264,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22367-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -311,9 +285,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22368-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 John",
@@ -334,9 +306,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22369-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -357,9 +327,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22370-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -380,9 +348,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22371-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -403,9 +369,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22372-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -422,9 +386,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22373-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -445,9 +407,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22356-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Galatians",
@@ -468,9 +428,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22374-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -491,9 +449,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22375-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Timothy",
@@ -514,9 +470,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22376-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "John",
@@ -537,9 +491,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22377-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -560,9 +512,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22378-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "John",
@@ -583,9 +533,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22379-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -606,9 +554,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22380-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -629,9 +575,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22381-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -652,9 +596,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22382-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -675,9 +617,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22383-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "John",
@@ -698,9 +638,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22357-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Micah",
@@ -721,9 +659,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22384-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -744,9 +680,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22385-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -767,9 +701,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22386-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -790,9 +722,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22387-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -813,9 +743,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22388-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 John",
@@ -836,9 +764,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22389-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "2 Thessalonians",
@@ -859,9 +785,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22390-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -882,9 +806,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22391-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -905,9 +827,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22392-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -928,9 +848,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22393-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -951,9 +869,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22358-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "John",
@@ -974,9 +890,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22394-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -997,9 +911,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22395-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -1016,9 +928,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22396-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -1035,9 +945,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22397-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1054,9 +962,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22398-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -1077,9 +983,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22399-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1096,9 +1000,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22400-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Chronicles",
@@ -1119,9 +1021,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22401-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -1142,9 +1042,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22402-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Chronicles",
@@ -1165,9 +1063,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22403-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1184,9 +1080,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22359-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -1207,9 +1101,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22404-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -1230,9 +1122,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22405-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -1253,9 +1143,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22406-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -1276,9 +1164,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22407-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1295,9 +1181,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22408-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -1318,9 +1202,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22409-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Malachi",
@@ -1341,9 +1223,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22410-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -1360,9 +1240,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22411-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1379,9 +1257,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22412-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Leviticus",
@@ -1402,9 +1278,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22413-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -1425,9 +1299,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22360-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "2 Corinthians",
@@ -1448,9 +1320,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22414-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Leviticus",
@@ -1471,9 +1341,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22415-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ezekiel",
@@ -1494,9 +1362,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22416-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1517,9 +1383,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22417-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1536,9 +1400,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22418-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -1559,9 +1421,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22419-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -1578,9 +1438,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22420-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -1597,9 +1455,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22421-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1616,9 +1472,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22422-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -1639,9 +1493,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22423-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -1662,9 +1514,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22361-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -1685,9 +1535,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22424-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1704,9 +1552,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22425-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Thessalonians",
@@ -1727,9 +1573,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22426-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -1750,9 +1594,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22427-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1769,9 +1611,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22428-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "2 Thessalonians",
@@ -1792,9 +1632,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22429-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Timothy",
@@ -1815,9 +1653,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22430-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1834,9 +1670,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22431-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Zechariah",
@@ -1857,9 +1691,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22432-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -1880,9 +1712,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22433-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -1899,9 +1729,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22362-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -1922,9 +1750,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22434-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -1945,9 +1771,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22435-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Kings",
@@ -1968,9 +1792,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22436-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Kings",
@@ -1991,9 +1813,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22437-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ezekiel",
@@ -2014,9 +1834,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22438-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -2037,9 +1855,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22439-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -2060,9 +1876,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22440-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -2083,9 +1897,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22441-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -2106,9 +1918,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22442-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -2129,9 +1939,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22443-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -2152,9 +1960,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22363-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -2175,9 +1981,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22444-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -2198,9 +2002,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22445-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Peter",
@@ -2221,9 +2023,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22446-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Peter",
@@ -2244,9 +2044,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22447-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -2267,9 +2065,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22448-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -2290,9 +2086,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22449-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -2313,9 +2107,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22450-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -2336,9 +2128,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22451-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -2359,9 +2149,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22452-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -2382,9 +2170,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22453-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "1 John",

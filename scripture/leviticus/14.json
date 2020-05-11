@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9832-download",
-            "preacher_name": "Svend Christensen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Svend Christensen",
             "_scripture": [
                 {
                     "book": "Leviticus",

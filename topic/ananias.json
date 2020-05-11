@@ -11,9 +11,7 @@
             "topic": "Ananias",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0698-download",
-            "preacher_name": "Danny Bond",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Danny Bond",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Venture Of Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3247-download",
-            "preacher_name": "Albu van Eeden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albu van Eeden",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3266-download",
-            "preacher_name": "Albu van Eeden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albu van Eeden",
             "_scripture": []
         }
     ]

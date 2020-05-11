@@ -11,9 +11,7 @@
             "topic": "Work Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23021-download",
-            "preacher_name": "Hans R. Waldvogel",
-            "preacher_image": "\/images\/hans_r_waldvogel.gif",
-            "preacher_description": "Hans R. Waldvogel (1893 - 1969)\r\nListen to freely downloadable audio sermons by the speaker Hans R. Waldvogel in mp3 format. A powerful preacher who ministered as a pentecostal minister. He did not believe in sectarian groups but rather saw the Church as a whole who have the person of Christ in them.  Brother Waldvogel gleamed from many different men of God including A.B. Simpson.\r\n\r\nHis preaching was centred around the very person of Jesus Christ and the work of the Holy Spirit. He spoke much of the rest of the Lord in Christian work and experience and the Spirit-filled life.",
+            "speaker_name": "Hans R. Waldvogel",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Work Of Christ",
             "description": "When God came to earth, in the form of His Son Jesus Christ, the veil was suddenly torn and Heaven came into view. The first veil was Heaven coming to us, the second veil was torn so that we are no longer separated from the presence of God. The third veil is that which separates us from the fullness of what we are called to be in Christ Jesus. God has won a victory that takes us out of every place of weakness and brings us into His redemptive power. May we find ourselves in a place of prayer, anticipating the power of the Holy Spirit so we can burst out of the veil of obscurity and step into the market place and begin to talk about the wonderful things that God is about to do.",
             "download": "http:\/\/api.sermonindex.net\/SID28164-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": []
         }
     ]

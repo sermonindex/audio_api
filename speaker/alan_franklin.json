@@ -12,9 +12,7 @@
             "topic": "Renewal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19855-download",
-            "preacher_name": "Alan Franklin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Franklin",
             "_scripture": []
         }
     ]

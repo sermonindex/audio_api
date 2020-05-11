@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Follow These Rules",
+        "url": "http:\/\/api.sermonindex.net\/SID25542",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 10:7-11",
+        "topic": "Rules",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25542-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "10"
+            }
+        ]
+    }
+]

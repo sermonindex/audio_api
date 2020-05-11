@@ -12,9 +12,7 @@
             "topic": "Purity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23614-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Suffering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23613-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Spirit Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21054-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Spirit Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21055-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Spirit Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21056-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23616-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23615-download",
-            "preacher_name": "Ralph Shallis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Shallis",
             "_scripture": []
         }
     ]

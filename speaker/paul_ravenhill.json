@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13580-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13581-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13582-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13461-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": [
                 {
                     "book": "John",
@@ -73,9 +65,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14669-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -92,9 +82,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13583-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -106,9 +94,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13584-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -120,9 +106,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13585-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -134,9 +118,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14670-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -148,9 +130,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14671-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -162,9 +142,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14672-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -176,9 +154,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13586-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -190,9 +166,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13587-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         },
         {
@@ -204,9 +178,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13462-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": []
         }
     ]

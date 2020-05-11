@@ -11,9 +11,7 @@
             "topic": "Classroom",
             "description": "Whether public, Christian or private schools, if you want to learn techniques that can help you regain control of your classroom. This audio gives you some valuable resources to help.",
             "download": "http:\/\/api.sermonindex.net\/SID13271-download",
-            "preacher_name": "Kent Hovind",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kent Hovind",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -30,9 +28,7 @@
             "topic": "Classroom",
             "description": "Parents and Students need to be made aware of the anti-Christian teachings that have been placed into the schoolbooks, dont miss this message my Christian friends.",
             "download": "http:\/\/api.sermonindex.net\/SID13270-download",
-            "preacher_name": "Kent Hovind",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kent Hovind",
             "_scripture": [
                 {
                     "book": "Matthew",

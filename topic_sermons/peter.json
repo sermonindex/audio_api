@@ -1,0 +1,67 @@
+[
+    {
+        "title": "(Men God Made) Peter - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID16312",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Peter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16312-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": []
+    },
+    {
+        "title": "(Men God Made) Peter - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID16313",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Peter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16313-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": []
+    },
+    {
+        "title": "(Men God Made) Peter - Part 3",
+        "url": "http:\/\/api.sermonindex.net\/SID16314",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Peter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16314-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": []
+    },
+    {
+        "title": "Mark - When Peter Disowned His Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID26556",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Peter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26556-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "Peter",
+        "url": "http:\/\/api.sermonindex.net\/SID7285",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 1:1",
+        "topic": "Peter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7285-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "1"
+            }
+        ]
+    }
+]

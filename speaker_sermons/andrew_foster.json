@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Samson #1 - His home",
+        "url": "http:\/\/api.sermonindex.net\/SID24151",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 13:1-25",
+        "topic": "Samson",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24151-download",
+        "speaker_name": "Andrew Foster",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "Samson #2 - First warfare",
+        "url": "http:\/\/api.sermonindex.net\/SID24152",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 14:1-20, Judges 15:1-8",
+        "topic": "Samson",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24152-download",
+        "speaker_name": "Andrew Foster",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "14"
+            },
+            {
+                "book": "Judges",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Samson #3 - A lonely struggle",
+        "url": "http:\/\/api.sermonindex.net\/SID24153",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 15:9-20",
+        "topic": "Samson",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24153-download",
+        "speaker_name": "Andrew Foster",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Samson #4 - Indulging sin",
+        "url": "http:\/\/api.sermonindex.net\/",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 16:1-31",
+        "topic": "Samson",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/-download",
+        "speaker_name": "Andrew Foster",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "16"
+            }
+        ]
+    },
+    {
+        "title": "Samson #5 - Tragic legacy",
+        "url": "http:\/\/api.sermonindex.net\/SID24155",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 16:1-31",
+        "topic": "Samson",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24155-download",
+        "speaker_name": "Andrew Foster",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "16"
+            }
+        ]
+    }
+]

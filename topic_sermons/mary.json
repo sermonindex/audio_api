@@ -1,0 +1,60 @@
+[
+    {
+        "title": "(John) The Scene With Mary",
+        "url": "http:\/\/api.sermonindex.net\/SID6889",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 20:17-29",
+        "topic": "Mary",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6889-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "20"
+            }
+        ]
+    },
+    {
+        "title": "Mary, Joseph and the angel",
+        "url": "http:\/\/api.sermonindex.net\/SID22112",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Mary",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22112-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": []
+    },
+    {
+        "title": "Mary: Disciple of Jesus",
+        "url": "http:\/\/api.sermonindex.net\/SID1782",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Mary",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1782-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    },
+    {
+        "title": "Mary\u00b4s treasure",
+        "url": "http:\/\/api.sermonindex.net\/SID14310",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 1:26-45",
+        "topic": "Mary",
+        "description": "Mary was very young when Gabriel appeared to her and told her that she would give birth to the Messiah. This was a great experience for Mary and she wanted to share it with her friend, Elizabeth. Elizabeth was upright and served the Lord faithfully. Although Elizabeth was much older than Mary they could share deep spiritual things with one another. In spiritual matters, age does not matter; only one's spiritual state is important. It is a blessing when one's friend walks with God. Then people are united because of the things of God and can bear one another's burdens. However, be careful not to unite with others in evil, like Ananias and Sapphira (Acts 5). Although Mary was only a teenager, she delighted herself in the things of God. She was full of joy because God has finally sent the promised Messiah Who would bruise the serpent's head and bring forgiveness and true liberty. She hid God's words in her heart. The world and the things of the world lost its value, because heaven filled her heart.",
+        "download": "http:\/\/api.sermonindex.net\/SID14310-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "1"
+            }
+        ]
+    }
+]

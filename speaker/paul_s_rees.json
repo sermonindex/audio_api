@@ -12,9 +12,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28057-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28058-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28059-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28060-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28061-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Nazarenes",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23712-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         }
     ]

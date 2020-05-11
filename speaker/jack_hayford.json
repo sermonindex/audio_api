@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3696-download",
-            "preacher_name": "Jack Hayford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jack Hayford",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2499-download",
-            "preacher_name": "Jack Hayford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jack Hayford",
             "_scripture": []
         }
     ]

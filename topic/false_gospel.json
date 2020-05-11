@@ -11,9 +11,7 @@
             "topic": "False Gospel",
             "description": "Accommodate means to adapt, to make suitable and acceptable, to make convenient. A gospel of accommodation is creeping into the United States. It's an American cultural invention to appease the lifestyle of luxury and pleasure. Primarily a Caucasian, suburban gospel, it's also in our major cities and is sweeping the nation, influencing ministers of every denomination, and giving birth to megachurches with thousands who come to hear a nonconfronting message.",
             "download": "http:\/\/api.sermonindex.net\/SID4266-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Galatians",
@@ -34,9 +32,7 @@
             "topic": "False Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24329-download",
-            "preacher_name": "E.A. Johnston",
-            "preacher_image": "",
-            "preacher_description": "E.A. Johnston ( - )\r\nListen to freely downloadable audio sermons by the speaker E.A. Johnston in mp3 format. E. A. Johnston lives in Memphis, Tennessee and is a fellow of the Stephen Olford Institute for Biblical Preaching. He is currently involved in Bible teaching and disciple making, as well as authoring books. Some of his titles include: Realities of Revival (series), Church in Revival (series), Call to Revival (series), Return to Me, No Turning Back, The Master\u2019s Plan, Walking with God, etc.\r\n\"If the Church will not defend His holy Name then the Almighty must. God will either pour out His blessings in revival to defend His holy Name, or He will pour out His wrath upon mankind to avenge His holy Name. It will either be a defending or avenging to show forth His glory and remind mankind He alone is the Sovereign ruler of all.\"",
+            "speaker_name": "E.A. Johnston",
             "_scripture": []
         }
     ]

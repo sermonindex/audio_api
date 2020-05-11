@@ -11,9 +11,7 @@
             "topic": "Quarrels",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17114-download",
-            "preacher_name": "Friedel Stegen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Friedel Stegen",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Quarrels",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22236-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",

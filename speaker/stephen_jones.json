@@ -12,9 +12,7 @@
             "topic": "Covetousness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16112-download",
-            "preacher_name": "Stephen Jones",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Jones",
             "_scripture": [
                 {
                     "book": "1 Timothy",

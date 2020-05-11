@@ -11,9 +11,7 @@
             "topic": "Bible College",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19484-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         }
     ]

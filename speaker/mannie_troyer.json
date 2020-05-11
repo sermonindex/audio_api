@@ -12,9 +12,7 @@
             "topic": "Salvation",
             "description": "A simple, upbeat inspiration on the basis, effect, place, result, and means of our reconciliation to God. The speaker interjected testimonies throughout the sermon and based his thoughts on the account of a man who lived a good life without Christ, until one day\u2026God met him and totally changed him.",
             "download": "http:\/\/api.sermonindex.net\/SID20480-download",
-            "preacher_name": "Mannie Troyer",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mannie Troyer",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "This message addresses the greatest need of the church in America today, namely, \"How do I live out Biblical Christianity in every day life?\". You will be challenged to a deeper appreciation for what Christ has done for us.",
             "download": "http:\/\/api.sermonindex.net\/SID3823-download",
-            "preacher_name": "Mannie Troyer",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mannie Troyer",
             "_scripture": []
         }
     ]

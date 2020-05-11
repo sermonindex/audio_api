@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23697-download",
-            "preacher_name": "Bud Robinson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bud Robinson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16592-download",
-            "preacher_name": "Bud Robinson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bud Robinson",
             "_scripture": []
         }
     ]

@@ -1,0 +1,52 @@
+[
+    {
+        "title": "A Certain Disciple",
+        "url": "http:\/\/api.sermonindex.net\/SID25506",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 9:10-19",
+        "topic": "Disciple",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25506-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "9"
+            }
+        ]
+    },
+    {
+        "title": "The Disciple Whom Jesus Loved",
+        "url": "http:\/\/api.sermonindex.net\/SID18772",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Disciple",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18772-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": []
+    },
+    {
+        "title": "The Disciple who loved Jesus and the One Jesus Loved",
+        "url": "http:\/\/api.sermonindex.net\/SID5420",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 21, Matthew 26:31",
+        "topic": "Disciple",
+        "description": "Roy Hession points out the difference between being a disciple who loves Jesus (i.e., Peter) versus one loved by Jesus (i.e., John).  When our relationship to the Lord is like Peter, the self appointed leader, not a sheep among sheep, God will allow us to fall and fail.  The last 10 minutes starts a new sermon \"Forgiven Much or Forgiven Little\" in which Hession contrasts two classes of Christians out of Luke chapter 7.",
+        "download": "http:\/\/api.sermonindex.net\/SID5420-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "26"
+            },
+            {
+                "book": "John",
+                "chapter": "21"
+            }
+        ]
+    }
+]

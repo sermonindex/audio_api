@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16687-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16685-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16683-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16686-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16689-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16688-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16684-download",
-            "preacher_name": "Percy Ray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Percy Ray",
             "_scripture": []
         }
     ]

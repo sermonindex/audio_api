@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19776-download",
-            "preacher_name": "Robin Wood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin Wood",
             "_scripture": [
                 {
                     "book": "Nehemiah",
@@ -31,9 +29,7 @@
             "topic": "Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19587-download",
-            "preacher_name": "Robin Wood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin Wood",
             "_scripture": []
         }
     ]

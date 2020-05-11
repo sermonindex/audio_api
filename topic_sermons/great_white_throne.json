@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(Revelation) The Great White Throne",
+        "url": "http:\/\/api.sermonindex.net\/SID7091",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 20:11-15",
+        "topic": "Great White Throne",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7091-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "20"
+            }
+        ]
+    },
+    {
+        "title": "The 6th Vision: The Great White Throne",
+        "url": "http:\/\/api.sermonindex.net\/SID1788",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Great White Throne",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1788-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    }
+]

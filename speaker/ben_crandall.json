@@ -12,9 +12,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16725-download",
-            "preacher_name": "Ben Crandall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ben Crandall",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Holiness",
             "description": "June 19, 2007 - God calls us to a holy life. We are called to be separate from the world and our old life. Satan uses the world and deception to trap us. Psalm 91 tells us there is deliverance from the snare of the fowler. If we run to the Lord for protection He will keep us from the fiery darts of the enemy and protect us under His wings. He will deliver us and send His angels to take charge over us. We have all this available to us in Christ and we have the promise of heaven too.",
             "download": "http:\/\/api.sermonindex.net\/SID15846-download",
-            "preacher_name": "Ben Crandall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ben Crandall",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Spiritual Warfare",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15702-download",
-            "preacher_name": "Ben Crandall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ben Crandall",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Spiritual Awakening",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17392-download",
-            "preacher_name": "Ben Crandall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ben Crandall",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Future",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22134-download",
-            "preacher_name": "Ben Crandall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ben Crandall",
             "_scripture": []
         }
     ]

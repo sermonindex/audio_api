@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19911-download",
-            "preacher_name": "Jack Crans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jack Crans",
             "_scripture": []
         }
     ]

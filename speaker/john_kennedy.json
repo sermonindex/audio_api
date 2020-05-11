@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1189-download",
-            "preacher_name": "John Kennedy",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Kennedy",
             "_scripture": []
         }
     ]

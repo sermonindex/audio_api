@@ -12,9 +12,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15428-download",
-            "preacher_name": "Dean Taylor",
-            "preacher_image": "",
-            "preacher_description": "Dean Taylor ( \u00c2\u2013 Present)\r\nListen to freely downloadable audio sermons by the speaker Dean Taylor in mp3 format. Dean Taylor is the general editor of The Remnant of the Charity church movement. He has written a powerful book on non-resistance: A Change of Allegiance. His teachings on suffering and martyrdom are important for the body of Christ and we must learn again from our forefathers and how they suffered for Christ.\r\n\"Every day I\u00c2\u2019m more convinced that the only thing worth putting my life into is the simple, child-like acceptance of the teachings of Jesus. I believe that Jesus meant what He said. But even more, I believe that Jesus\u00c2\u2019 plan for humanity is actually a great idea! Sometimes the ways and wisdom of Jesus don\u00c2\u2019t make sense.\" - Dean Taylor",
+            "speaker_name": "Dean Taylor",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -31,9 +29,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21179-download",
-            "preacher_name": "George Verwer",
-            "preacher_image": "\/images\/george_verwer.gif",
-            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "speaker_name": "George Verwer",
             "_scripture": [
                 {
                     "book": "Acts",

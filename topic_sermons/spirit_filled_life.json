@@ -1,0 +1,43 @@
+[
+    {
+        "title": "A Spirit Led Evangelistic Life",
+        "url": "http:\/\/api.sermonindex.net\/SID0704",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spirit Filled Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0704-download",
+        "speaker_name": "Danny Bond",
+        "_scripture": []
+    },
+    {
+        "title": "Joshua crossing Jordan",
+        "url": "http:\/\/api.sermonindex.net\/SID15892",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spirit Filled Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15892-download",
+        "speaker_name": "Gareth Evans",
+        "_scripture": []
+    },
+    {
+        "title": "The Spirit Filled Life",
+        "url": "http:\/\/api.sermonindex.net\/SID6708",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 5:18",
+        "topic": "Spirit Filled Life",
+        "description": "'The question is not,' Oswald J. Smith contends, 'Do I have the Holy Spirit?' but, 'Am I filled with the Holy Spirit?'  Smith shows how this commandment to be filled with the Spirit is essential to have power over sin and power for service.  HOW may I be filled?  Five conditions are laid out to consider: confession, renunciation, surrender, obedience and faith.  Mr. Smith closes with his own personal testimony of how God broke him in ministry and humbled him sorely so that he could be used in the power of the Spirit and not in the energy of the flesh.",
+        "download": "http:\/\/api.sermonindex.net\/SID6708-download",
+        "speaker_name": "Oswald J. Smith",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

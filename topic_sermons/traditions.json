@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Empty Rituals",
+        "url": "http:\/\/api.sermonindex.net\/SID11022",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Zechariah 7:5-8",
+        "topic": "Traditions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11022-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Zechariah",
+                "chapter": "7"
+            }
+        ]
+    },
+    {
+        "title": "Traditions vs Commandments",
+        "url": "http:\/\/api.sermonindex.net\/SID9010",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 35",
+        "topic": "Traditions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9010-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Jeremiah",
+                "chapter": "35"
+            }
+        ]
+    }
+]

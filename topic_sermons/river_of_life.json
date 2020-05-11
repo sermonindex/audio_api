@@ -1,0 +1,27 @@
+[
+    {
+        "title": "A River of Life",
+        "url": "http:\/\/api.sermonindex.net\/SID3161",
+        "size": "13230416",
+        "format": "mp3",
+        "scripture": "Revelation 22:1-5, Genesis 3:22-24, Ezekiel 47:1-12",
+        "topic": "River of Life",
+        "description": "Art insists that the waters of life flowing from the Throne are available here and now for those who are yielded to that Throne and to that Lordship. As believers, why are so few of us accessing that life? Could it be we are not yielded to the totality of that Lordship?",
+        "download": "http:\/\/api.sermonindex.net\/SID3161-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Ezekiel",
+                "chapter": "47"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "3"
+            },
+            {
+                "book": "Revelation",
+                "chapter": "22"
+            }
+        ]
+    }
+]

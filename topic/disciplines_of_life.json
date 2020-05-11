@@ -11,9 +11,7 @@
             "topic": "Disciplines Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13102-download",
-            "preacher_name": "S. Lewis Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S. Lewis Johnson",
             "_scripture": [
                 {
                     "book": "Genesis",

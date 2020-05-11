@@ -1,0 +1,70 @@
+[
+    {
+        "title": "John The Baptist",
+        "url": "http:\/\/api.sermonindex.net\/SID9378",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 1:6",
+        "topic": "John The Baptist",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9378-download",
+        "speaker_name": "Ernest Barker",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "The Bible Is The Word Of God",
+        "url": "http:\/\/api.sermonindex.net\/SID9380",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Timothy 3",
+        "topic": "Scriptures",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9380-download",
+        "speaker_name": "Ernest Barker",
+        "_scripture": [
+            {
+                "book": "2 Timothy",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "The Greatest Thing Is Love",
+        "url": "http:\/\/api.sermonindex.net\/SID9379",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 13",
+        "topic": "Love",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9379-download",
+        "speaker_name": "Ernest Barker",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "The Trinity",
+        "url": "http:\/\/api.sermonindex.net\/SID9381",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 5",
+        "topic": "Trinity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9381-download",
+        "speaker_name": "Ernest Barker",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "5"
+            }
+        ]
+    }
+]

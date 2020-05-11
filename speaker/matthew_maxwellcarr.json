@@ -1,5 +1,5 @@
 {
-    "name": "Matthew Maxwell-Carr",
+    "name": "Matthew MaxwellCarr",
     "image": "",
     "description": "",
     "sermons": [
@@ -12,9 +12,7 @@
             "topic": "Purification",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22120-download",
-            "preacher_name": "Matthew Maxwell-Carr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Matthew MaxwellCarr",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9422-download",
-            "preacher_name": "Dora Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dora Esh",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9423-download",
-            "preacher_name": "Dora Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dora Esh",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9426-download",
-            "preacher_name": "Dora Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dora Esh",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9427-download",
-            "preacher_name": "Dora Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dora Esh",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9424-download",
-            "preacher_name": "Dora Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dora Esh",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9425-download",
-            "preacher_name": "Dora Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dora Esh",
             "_scripture": []
         }
     ]

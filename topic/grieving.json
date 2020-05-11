@@ -11,9 +11,7 @@
             "topic": "Grieving",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10615-download",
-            "preacher_name": "Alden Gannett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alden Gannett",
             "_scripture": [
                 {
                     "book": "1 John",

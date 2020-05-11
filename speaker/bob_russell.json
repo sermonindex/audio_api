@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15796-download",
-            "preacher_name": "Bob Russell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Russell",
             "_scripture": [
                 {
                     "book": "Ephesians",

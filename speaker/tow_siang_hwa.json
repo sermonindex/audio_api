@@ -12,9 +12,7 @@
             "topic": "Secret Rapture",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12098-download",
-            "preacher_name": "Tow Siang Hwa",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tow Siang Hwa",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Grace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12103-download",
-            "preacher_name": "Tow Siang Hwa",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tow Siang Hwa",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Walking In The Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12104-download",
-            "preacher_name": "Tow Siang Hwa",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tow Siang Hwa",
             "_scripture": []
         }
     ]

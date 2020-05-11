@@ -11,9 +11,7 @@
             "topic": "Bethel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13094-download",
-            "preacher_name": "S. Lewis Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S. Lewis Johnson",
             "_scripture": [
                 {
                     "book": "Genesis",

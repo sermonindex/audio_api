@@ -1,0 +1,67 @@
+[
+    {
+        "title": "A Friend With God",
+        "url": "http:\/\/api.sermonindex.net\/SID18402",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Friend Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18402-download",
+        "speaker_name": "Bill McLeod",
+        "_scripture": []
+    },
+    {
+        "title": "Becoming a Friend of God",
+        "url": "http:\/\/api.sermonindex.net\/SID24883",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Friend Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24883-download",
+        "speaker_name": "Brian Long",
+        "_scripture": []
+    },
+    {
+        "title": "Friendship With God In Prayer",
+        "url": "http:\/\/api.sermonindex.net\/SID18404",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Friend Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18404-download",
+        "speaker_name": "Bill McLeod",
+        "_scripture": []
+    },
+    {
+        "title": "The Friends Of God",
+        "url": "http:\/\/api.sermonindex.net\/SID18403",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Friend Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18403-download",
+        "speaker_name": "Bill McLeod",
+        "_scripture": []
+    },
+    {
+        "title": "You Are My Friends",
+        "url": "http:\/\/api.sermonindex.net\/SID3908",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 17",
+        "topic": "Friend Of God",
+        "description": "The recording of this tape is very poor, especially at the beginning of the tape.",
+        "download": "http:\/\/api.sermonindex.net\/SID3908-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "17"
+            }
+        ]
+    }
+]

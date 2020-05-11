@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Helps For Your Prayer Life",
+        "url": "http:\/\/api.sermonindex.net\/SID20421",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20421-download",
+        "speaker_name": "Dan Biser",
+        "_scripture": []
+    },
+    {
+        "title": "Psalm 119 Devotion ",
+        "url": "http:\/\/api.sermonindex.net\/SID20420",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 119",
+        "topic": "Devotional",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20420-download",
+        "speaker_name": "Dan Biser",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "119"
+            }
+        ]
+    },
+    {
+        "title": "The God Who Judges Kings And Nations Today",
+        "url": "http:\/\/api.sermonindex.net\/SID24811",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Chronicles 28",
+        "topic": "Gods Judgment",
+        "description": "Brother Dan Biser gives a solemn word on a prayer conference call about the current state of America and the Church. He clearly shows every sin and action is before a holy God who has to judge wickedness in our society. May this message build a solemn fear of the Lord in our day that we may confess our sins and seek the mercy of God through Jesus Christ.",
+        "download": "http:\/\/api.sermonindex.net\/SID24811-download",
+        "speaker_name": "Dan Biser",
+        "_scripture": [
+            {
+                "book": "2 Chronicles",
+                "chapter": "28"
+            }
+        ]
+    },
+    {
+        "title": "You Ought Not To Have Left These Things Undone",
+        "url": "http:\/\/api.sermonindex.net\/SID25152",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 11:42, Hebrews 2:1",
+        "topic": "Repentance",
+        "description": "On the heels of writing and sharing, 'When Evil Comes in Like a Flood' which addressed the rise of evil in our nation, and the response needed by the church, this word comes forth. It will be revealed in eternity of how many times God warned us, gave us wake up calls, for what was coming, but we missed the warning signals. I believe our nation, and particularly the church is at this cross road now. God has sent alarming signs to us to show us the path we are on and what is coming. And unless a proper response is done by the church, we will go down in the history books as, 'having eyes to see, but could not see; having ears to hear, but could not hear'. Brethren I beseech you take notice of these words and let us respond now, while there is still time, before the 'night cometh when no man can work'.",
+        "download": "http:\/\/api.sermonindex.net\/SID25152-download",
+        "speaker_name": "Dan Biser",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "11"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "2"
+            }
+        ]
+    }
+]

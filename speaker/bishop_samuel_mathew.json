@@ -12,9 +12,7 @@
             "topic": "God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28140-download",
-            "preacher_name": "Bishop Samuel Mathew",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bishop Samuel Mathew",
             "_scripture": [
                 {
                     "book": "Isaiah",

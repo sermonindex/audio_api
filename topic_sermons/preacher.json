@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Some Things Every Preacher Needs to Know",
+        "url": "http:\/\/api.sermonindex.net\/SID28339",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Preacher",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28339-download",
+        "speaker_name": "Lester Roloff",
+        "_scripture": []
+    },
+    {
+        "title": "The Preacher",
+        "url": "http:\/\/api.sermonindex.net\/SID9588",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 10:14",
+        "topic": "Preacher",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9588-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "10"
+            }
+        ]
+    }
+]

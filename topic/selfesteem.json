@@ -1,5 +1,5 @@
 {
-    "name": "Self-Esteem",
+    "name": "SelfEsteem",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Self-Esteem",
+            "topic": "SelfEsteem",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19681-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         }
     ]

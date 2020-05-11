@@ -11,9 +11,7 @@
             "topic": "Counterfeit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21211-download",
-            "preacher_name": "Charlie Orr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Orr",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Counterfeit",
             "description": "In this message we are challenged to search for truth ourselves, and to keep our eyes on Jesus. There are many deceptions in this world and we must watch.",
             "download": "http:\/\/api.sermonindex.net\/SID20649-download",
-            "preacher_name": "Reuben Walter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Reuben Walter",
             "_scripture": []
         }
     ]

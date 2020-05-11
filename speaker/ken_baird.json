@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8533-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "2 Peter",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8547-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8561-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8509-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "2 Thessalonians",
@@ -78,9 +70,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8510-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -97,9 +87,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8511-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -116,9 +104,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8512-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -135,9 +121,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8513-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -154,9 +138,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8514-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "1 Timothy",
@@ -173,9 +155,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -192,9 +172,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8516-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -211,9 +189,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8517-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "1 Thessalonians",
@@ -230,9 +206,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8518-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -249,9 +223,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8519-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "1 Peter",
@@ -268,9 +240,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8545-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -282,9 +252,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8548-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -296,9 +264,7 @@
             "topic": "Genesis",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8535-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -315,9 +281,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8549-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -329,9 +293,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8536-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -343,9 +305,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8550-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -357,9 +317,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8551-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Jeremiah",
@@ -376,9 +334,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8539-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -390,9 +346,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8555-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -404,9 +358,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8540-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -418,9 +370,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8559-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -432,9 +382,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8541-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Philemon",
@@ -451,9 +399,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8553-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -465,9 +411,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8532-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -479,9 +423,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8537-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -493,9 +435,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8556-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -507,9 +447,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8520-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -526,9 +464,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8521-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -545,9 +481,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8522-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -559,9 +493,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8523-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -578,9 +510,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8546-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -592,9 +522,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8538-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -606,9 +534,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8534-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -620,9 +546,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8524-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "John",
@@ -639,9 +563,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8525-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "John",
@@ -658,9 +580,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8526-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -677,9 +597,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8527-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "John",
@@ -696,9 +614,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8528-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Zechariah",
@@ -715,9 +631,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8529-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -734,9 +648,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8558-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -748,9 +660,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8554-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -762,9 +672,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8542-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -776,9 +684,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8543-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -790,9 +696,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8560-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -804,9 +708,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8544-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -818,9 +720,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8557-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -832,9 +732,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8530-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -846,9 +744,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8531-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         },
         {
@@ -860,9 +756,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8552-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": []
         }
     ]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "How to Handle Church Discipline",
+        "url": "http:\/\/api.sermonindex.net\/SID27215",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Correction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27215-download",
+        "speaker_name": "Shane Idleman",
+        "_scripture": []
+    },
+    {
+        "title": "Seven Corrective Lenses 2 Cor 5:10",
+        "url": "http:\/\/api.sermonindex.net\/SID12585",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 5:10",
+        "topic": "Correction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12585-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

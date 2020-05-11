@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7154-download",
-            "preacher_name": "John Piper",
-            "preacher_image": "",
-            "preacher_description": "John Piper (1946 - Present)\r\nListen to freely downloadable audio sermons by the speaker John Piper in mp3 format. is a Calvinistic Baptist Christian preacher and author currently serving as Pastor for Preaching and Vision of Bethlehem Baptist Church in Minneapolis, Minnesota. His books include ECPA Christian Book Award winners Spectacular Sins, What Jesus Demands from the World, Pierced by the Word, and God's Passion for His Glory, and bestsellers Don't Waste Your Life and The Passion of Jesus Christ. The evangelical organization Desiring God is named for his book Desiring God: Meditations of a Christian Hedonist (1986).\r\n\r\nIn 1980, after what he described as an \"irresistible call of the Lord to preach\", Piper became Pastor of Bethlehem Baptist Church in Minneapolis, Minnesota, where he has been ministering ever since. Piper hit the evangelical scene after the publication of his book Desiring God: Meditations of a Christian Hedonist (1986) and has continued to publish dozens of other books further articulating this theological perspective. In 1994, he founded Desiring God Ministries, which provides all of Piper's sermons and articles from the past three decades, and most of his books online free of charge, as well as offering for sale books, CDs, and DVDs and regularly hosting conferences.",
+            "speaker_name": "John Piper",
             "_scripture": [
                 {
                     "book": "Judges",
@@ -31,9 +29,7 @@
             "topic": "Brokenness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7834-download",
-            "preacher_name": "William MacDonald",
-            "preacher_image": "\/images\/william_macdonald.gif",
-            "preacher_description": "William MacDonald (1917 - 2007)\r\nListen to freely downloadable audio sermons by the speaker William MacDonald in mp3 format. Was President of Emmaus Bible College, teacher, Plymouth Brethren theologian and a prolific author of over 84 published books. MacDonald refused to accept royalties for his books but established a fund for translating his work Believers Bible Commentary into foreign languages.\r\n\r\n   Bill will be not only be remembered for the thousands upon thousands of lives he touched through his books, teaching and many personal letters, but for his Christ-like character and gentleness, yet powerful life lived by faith in Christ. One of his most impact-ful books is the small booklet called: \"True Discipleship\" it is recommended reading for every serious disciple of Christ.",
+            "speaker_name": "William MacDonald",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -62,9 +58,7 @@
             "topic": "Will Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25541-download",
-            "preacher_name": "Paris Reidhead",
-            "preacher_image": "\/images\/paris_reidhead.gif",
-            "preacher_description": "Paris Reidhead (1919 - 1992)\r\nListen to freely downloadable audio sermons by the speaker Paris Reidhead in mp3 format. Was a Christian missionary, teacher, writer, and advocate of economic development in impoverished nations. A spiritual crisis during this period\u2014as he described two decades later in what is probably his best-known recorded teaching, \"Ten Shekels and a Shirt\"--left Reidhead with the conviction that much of evangelicalism had adopted utilitarian and humanistic philosophies contradictory to Biblical teaching. The end of all being, he came to believe, was not the happiness of man, but the glorification of God. This theme would recur throughout his later teaching.\r\n\r\nSince Mr. Reidhead's death in 1992, Bible Teaching Ministries, Inc. continues under the leadership of his wife, Marjorie, and daughter, Virginia Teitt, a dedicated Board, and the many people who have donated time and talent after being changed by God\u2019s Word through this message. The message of the Gospel is reaching an ever-widening audience all over the world.",
+            "speaker_name": "Paris Reidhead",
             "_scripture": [
                 {
                     "book": "Judges",
@@ -81,9 +75,7 @@
             "topic": "",
             "description": "What does it mean to release the life of God for others?  Gideon's 300 provides vital clues of what makes up God's remnant, the New Testament overcomer.  We are the vessels God uses, but He must break us in order for His glory to shine out of us.",
             "download": "http:\/\/api.sermonindex.net\/SID11397-download",
-            "preacher_name": "Ed Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ed Miller",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

@@ -12,9 +12,7 @@
             "topic": "Calling",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10001-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Impotent",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10002-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Miracle",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10003-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Bethany",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10004-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Blindness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10005-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10006-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Jarius",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10007-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -110,9 +96,7 @@
             "topic": "Sabbath",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10008-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "Peace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10009-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -138,9 +120,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10010-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -149,12 +129,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Presence",
+            "topic": "Gods Presence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10011-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -166,9 +144,7 @@
             "topic": "Calling",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10026-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -180,9 +156,7 @@
             "topic": "Jesus Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10027-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -194,9 +168,7 @@
             "topic": "Elisha",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10021-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -208,9 +180,7 @@
             "topic": "Elisha",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10022-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -222,9 +192,7 @@
             "topic": "Elisha",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10023-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -236,9 +204,7 @@
             "topic": "Elisha",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10024-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -250,9 +216,7 @@
             "topic": "Elisha",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10025-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -264,9 +228,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10012-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -278,9 +240,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10013-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -292,9 +252,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10014-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -306,9 +264,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10015-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -320,9 +276,7 @@
             "topic": "Abraham",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10028-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -334,9 +288,7 @@
             "topic": "Isaac",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10029-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -348,9 +300,7 @@
             "topic": "Jacob",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10030-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -362,9 +312,7 @@
             "topic": "Moses",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10031-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         },
         {
@@ -376,9 +324,7 @@
             "topic": "Knowledge Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10032-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         }
     ]

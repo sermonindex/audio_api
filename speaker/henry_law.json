@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16036-download",
-            "preacher_name": "Henry Law",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Henry Law",
             "_scripture": []
         }
     ]

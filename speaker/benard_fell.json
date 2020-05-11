@@ -12,9 +12,7 @@
             "topic": "Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10324-download",
-            "preacher_name": "Benard Fell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Benard Fell",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10325-download",
-            "preacher_name": "Benard Fell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Benard Fell",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10326-download",
-            "preacher_name": "Benard Fell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Benard Fell",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Perseverance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10327-download",
-            "preacher_name": "Benard Fell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Benard Fell",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Waiting On God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10328-download",
-            "preacher_name": "Benard Fell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Benard Fell",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10329-download",
-            "preacher_name": "Benard Fell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Benard Fell",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Bible Reading",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19793-download",
-            "preacher_name": "Don Allen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Allen",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18825-download",
-            "preacher_name": "Fair Grove Music",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fair Grove Music",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18824-download",
-            "preacher_name": "Fair Grove Music",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fair Grove Music",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18822-download",
-            "preacher_name": "Fair Grove Music",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fair Grove Music",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18823-download",
-            "preacher_name": "Fair Grove Music",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fair Grove Music",
             "_scripture": []
         }
     ]

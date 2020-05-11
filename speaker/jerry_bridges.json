@@ -12,9 +12,7 @@
             "topic": "Finishing Well",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22179-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Fear of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12996-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Fear of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12997-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Fear of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12998-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Fear of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12999-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Fear of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13000-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Prayer Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12995-download",
-            "preacher_name": "Jerry Bridges",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jerry Bridges",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

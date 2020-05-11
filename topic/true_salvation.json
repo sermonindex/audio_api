@@ -11,9 +11,7 @@
             "topic": "True Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4724-download",
-            "preacher_name": "Kirk Cameron",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kirk Cameron",
             "_scripture": []
         }
     ]

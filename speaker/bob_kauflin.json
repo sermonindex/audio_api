@@ -12,9 +12,7 @@
             "topic": "Sovereignty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22605-download",
-            "preacher_name": "Bob Kauflin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Kauflin",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -31,9 +29,7 @@
             "topic": "Spiritual Gifts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22301-download",
-            "preacher_name": "Bob Kauflin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Kauflin",
             "_scripture": []
         }
     ]

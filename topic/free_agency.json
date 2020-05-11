@@ -11,9 +11,7 @@
             "topic": "Free Agency",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1275-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Free Agency",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1277-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         }
     ]

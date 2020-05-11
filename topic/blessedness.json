@@ -11,9 +11,7 @@
             "topic": "Blessedness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8028-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0999-download",
-            "preacher_name": "John Saunders",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Saunders",
             "_scripture": []
         }
     ]

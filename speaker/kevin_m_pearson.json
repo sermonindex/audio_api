@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1748-download",
-            "preacher_name": "Kevin M. Pearson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kevin M. Pearson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1749-download",
-            "preacher_name": "Kevin M. Pearson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kevin M. Pearson",
             "_scripture": []
         }
     ]

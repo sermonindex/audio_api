@@ -11,9 +11,7 @@
             "topic": "Confusion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4813-download",
-            "preacher_name": "J. Glyn Owen",
-            "preacher_image": "\/images\/j_glyn_owen.gif",
-            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "speaker_name": "J. Glyn Owen",
             "_scripture": [
                 {
                     "book": "1 John",
@@ -30,9 +28,7 @@
             "topic": "Confusion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24110-download",
-            "preacher_name": "Jim Cymbala",
-            "preacher_image": "\/images\/jim_cymbala.gif",
-            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "speaker_name": "Jim Cymbala",
             "_scripture": []
         }
     ]

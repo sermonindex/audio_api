@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Happenings Ahead) The Man Of Sin",
+        "url": "http:\/\/api.sermonindex.net\/SID9616",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Thessalonians 2:1-9",
+        "topic": "Man Of Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9616-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "2 Thessalonians",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "(Happenings Ahead) The Man Of Sin 2",
+        "url": "http:\/\/api.sermonindex.net\/SID9617",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Thessalonians 2:3-8",
+        "topic": "Man Of Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9617-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "2 Thessalonians",
+                "chapter": "2"
+            }
+        ]
+    }
+]

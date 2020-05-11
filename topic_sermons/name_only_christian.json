@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Christian In Name Only",
+        "url": "http:\/\/api.sermonindex.net\/SID3174",
+        "size": "10473472",
+        "format": "mp3",
+        "scripture": "Matthew 25:1-13",
+        "topic": "Name Only Christian",
+        "description": "Preaching out of Matthew 25, Wilkerson preaches on the wise and foolish \u201cChristian.\u201d  This is a message that should cause us all to test ourselves to see that we are truly in the faith.",
+        "download": "http:\/\/api.sermonindex.net\/SID3174-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "25"
+            }
+        ]
+    }
+]

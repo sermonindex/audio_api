@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Overcoming Moral Impurity",
+        "url": "http:\/\/api.sermonindex.net\/SID19774",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 11:6-13, 1 Corinthians 10: 12-13, 1 Corinthians 15:57-58",
+        "topic": "Moral Impurity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19774-download",
+        "speaker_name": "Al Henson",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "11"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "10"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "15"
+            }
+        ]
+    }
+]

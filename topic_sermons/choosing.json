@@ -1,0 +1,48 @@
+[
+    {
+        "title": "The Choice",
+        "url": "http:\/\/api.sermonindex.net\/SID8748",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 21:8",
+        "topic": "Choosing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8748-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Jeremiah",
+                "chapter": "21"
+            }
+        ]
+    },
+    {
+        "title": "What Are You Doing?",
+        "url": "http:\/\/api.sermonindex.net\/SID9221",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Kings 19:9",
+        "topic": "Choosing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9221-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "1 Kings",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "Where You Going to Stand?",
+        "url": "http:\/\/api.sermonindex.net\/SID19361",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Choosing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19361-download",
+        "speaker_name": "Zeb McDaris",
+        "_scripture": []
+    }
+]

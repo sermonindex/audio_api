@@ -11,9 +11,7 @@
             "topic": "Lies",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20578-download",
-            "preacher_name": "William Carrol",
-            "preacher_image": "",
-            "preacher_description": "William Carrol ( - )\r\nListen to freely downloadable audio sermons by the speaker William Carrol in mp3 format. Pastor William Carrol is an associate pastor and longtime \u201cspiritual son\u201d of the Times Square Church family. Shortly after his salvation, Pastor David Wilkerson, recognized the strong call of God on his life and sent him to Bible college and seminary for ministerial training.\r\nWhile completing his studies, Pastor William served as a co-pastor and later as senior pastor of Denver Fellowship in Colorado. He holds a masters degree in philosophy of religion. In 2005, Pastor William was invited to \u201ccome home\u201d and serve on the pastoral staff of Times Square Church.",
+            "speaker_name": "William Carrol",
             "_scripture": []
         }
     ]

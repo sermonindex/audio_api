@@ -12,9 +12,7 @@
             "topic": "Fear",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19790-download",
-            "preacher_name": "Joe Aldrich",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joe Aldrich",
             "_scripture": []
         }
     ]

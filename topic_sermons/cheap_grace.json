@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Cheap Grace",
+        "url": "http:\/\/api.sermonindex.net\/SID19308",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 1:16, John 1:11-12",
+        "topic": "Cheap Grace",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19308-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "1"
+            },
+            {
+                "book": "John",
+                "chapter": "1"
+            }
+        ]
+    }
+]

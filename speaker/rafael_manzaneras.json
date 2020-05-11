@@ -12,9 +12,7 @@
             "topic": "Complaining",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11536-download",
-            "preacher_name": "Rafael Manzaneras",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rafael Manzaneras",
             "_scripture": [
                 {
                     "book": "Luke",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11629-download",
-            "preacher_name": "J. Vernon McGee",
-            "preacher_image": "\/images\/j_vernon_mcgee.gif",
-            "preacher_description": "J. Vernon McGee (1904 - 1988)\r\nListen to freely downloadable audio sermons by the speaker J. Vernon McGee in mp3 format. Brother McGee pastored an inter-denominational church, Church Of The Open Door in California. In 1967 he started the now famous \"Through The Bible\" radio program that airs on thousands of stations world-wide.\r\n\r\nHis burden has been to do systematic simple bible teaching to equip believers, protect them against false doctrines and share the whole counsel of God. He also has been a guest lecturer at the Dallas Theological Seminary.",
+            "speaker_name": "J. Vernon McGee",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11630-download",
-            "preacher_name": "J. Vernon McGee",
-            "preacher_image": "\/images\/j_vernon_mcgee.gif",
-            "preacher_description": "J. Vernon McGee (1904 - 1988)\r\nListen to freely downloadable audio sermons by the speaker J. Vernon McGee in mp3 format. Brother McGee pastored an inter-denominational church, Church Of The Open Door in California. In 1967 he started the now famous \"Through The Bible\" radio program that airs on thousands of stations world-wide.\r\n\r\nHis burden has been to do systematic simple bible teaching to equip believers, protect them against false doctrines and share the whole counsel of God. He also has been a guest lecturer at the Dallas Theological Seminary.",
+            "speaker_name": "J. Vernon McGee",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -50,9 +46,7 @@
             "topic": "Audio Books",
             "description": "Considering Church history and the moving of God\u00e2\u20ac\u2122s Spirit in many groups that stood for the truth, a house Church or small gathering of believers is not so radical. Rather, gathering in this way is a preferred Biblical approach, especially when the Church is under persecution. If it was important to have specific church buildings to represent God and spread the Gospel, would God not have commanded them in Scripture? Although we find detailed instructions for the tabernacle in the Old Testament122 we find quite a different emphasis in the New Testament.123 We see this truth prophetically spoken by Stephen just before he was martyred: \u00e2\u20ac\u0153However, the Most High does not live in houses made by human hands. As the prophet says: \u00e2\u20ac\u02dcHeaven is My throne, and the earth is My footstool. What kind of house will you build for Me? Says the Lord. Or where will My resting place be? Has not My hand made all these things?\u00e2\u20ac\u2122 You stiff-necked people! Your hearts and ears are still uncircumcised. You are just like your ancestors: You always resist the Holy Spirit!\u00e2\u20ac\u009d",
             "download": "http:\/\/api.sermonindex.net\/SID25356-download",
-            "preacher_name": "Principles For The Gathering of Believers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Principles For The Gathering of Believers",
             "_scripture": [
                 {
                     "book": "Exodus",

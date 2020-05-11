@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "il",
             "download": "http:\/\/api.sermonindex.net\/SID22639-download",
-            "preacher_name": "David Norman Jones",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Norman Jones",
             "_scripture": [
                 {
                     "book": "Acts",

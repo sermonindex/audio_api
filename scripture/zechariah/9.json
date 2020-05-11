@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9719-download",
-            "preacher_name": "John W. Bramhall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John W. Bramhall",
             "_scripture": [
                 {
                     "book": "Zechariah",
@@ -31,9 +29,7 @@
             "topic": "Triumphal Entry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27685-download",
-            "preacher_name": "S. Lewis Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S. Lewis Johnson",
             "_scripture": [
                 {
                     "book": "Mark",

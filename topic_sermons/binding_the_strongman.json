@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Binding The Strongman",
+        "url": "http:\/\/api.sermonindex.net\/SID4194",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 12:31, Luke 1:74-75",
+        "topic": "Binding The Strongman",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4194-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "1"
+            },
+            {
+                "book": "John",
+                "chapter": "12"
+            }
+        ]
+    }
+]

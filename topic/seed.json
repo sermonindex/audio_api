@@ -11,9 +11,7 @@
             "topic": "Seed",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17247-download",
-            "preacher_name": "Bill Randles",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Randles",
             "_scripture": [
                 {
                     "book": "Genesis",

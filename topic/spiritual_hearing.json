@@ -11,9 +11,7 @@
             "topic": "Spiritual Hearing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5367-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Revelation",

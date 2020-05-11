@@ -1,0 +1,72 @@
+[
+    {
+        "title": "(Genesis #6) This Side of Eden",
+        "url": "http:\/\/api.sermonindex.net\/SID4836",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Garden Of Eden",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4836-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "Gleanings from the Garden - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID3129",
+        "size": "18411648",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Garden Of Eden",
+        "description": "What we celebrate as being good may well be our greatest snare. The world eats from the Tree of the knowledge of good and evil and the end result is death. We have got to have an unswerving devotion to the Tree of Life and abstain at all costs to draw from the Tree of the knowledge of good and evil.",
+        "download": "http:\/\/api.sermonindex.net\/SID3129-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "Gleanings from the Garden - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID3130",
+        "size": "13668480",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Garden Of Eden",
+        "description": "What we celebrate as being good may well be our greatest snare. The world eats from the Tree of the knowledge of good and evil and the end result is death. We have got to have an unswerving devotion to the Tree of Life and abstain at all costs to draw from the Tree of the knowledge of good and evil.",
+        "download": "http:\/\/api.sermonindex.net\/SID3130-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "There were two trees in the Garden - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID3127",
+        "size": "14246016",
+        "format": "mp3",
+        "scripture": "Genesis 2",
+        "topic": "Garden Of Eden",
+        "description": "If the Tree of Life was as equally accessible to Adam and Eve, why did they scorn and reject that tree, and prefer instead to eat from the Tree of the Knowledge of Good and Evil? Is the Tree of Life equally unattractive today, and why are we disposed to the thing that seems outwardly attractive? With an introduction on the \u2018cleaving\u2019 of man to woman.",
+        "download": "http:\/\/api.sermonindex.net\/SID3127-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "There were two trees in the Garden - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID3128",
+        "size": "8370304",
+        "format": "mp3",
+        "scripture": "Genesis 3",
+        "topic": "Garden Of Eden",
+        "description": "If the Tree of Life was as equally accessible to Adam and Eve, why did they scorn and reject that tree, and prefer instead to eat from the Tree of the Knowledge of Good and Evil? Is the Tree of Life equally unattractive today, and why are we disposed to the thing that seems outwardly attractive? With an introduction on the \u2018cleaving\u2019 of man to woman.",
+        "download": "http:\/\/api.sermonindex.net\/SID3128-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "3"
+            }
+        ]
+    }
+]

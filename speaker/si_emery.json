@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16595-download",
-            "preacher_name": "S.I. Emery",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S.I. Emery",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16596-download",
-            "preacher_name": "S.I. Emery",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S.I. Emery",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16597-download",
-            "preacher_name": "S.I. Emery",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S.I. Emery",
             "_scripture": []
         }
     ]

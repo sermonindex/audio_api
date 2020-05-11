@@ -11,9 +11,7 @@
             "topic": "Control",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6131-download",
-            "preacher_name": "Ray Lowe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Lowe",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Control",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6132-download",
-            "preacher_name": "Ray Lowe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Lowe",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Control",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22096-download",
-            "preacher_name": "Jim Logan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Logan",
             "_scripture": []
         }
     ]

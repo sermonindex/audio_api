@@ -11,9 +11,7 @@
             "topic": "Gospel Driven",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22329-download",
-            "preacher_name": "Michael Horton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Horton",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Gospel Driven",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22330-download",
-            "preacher_name": "Michael Horton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Horton",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Gospel Driven",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22331-download",
-            "preacher_name": "Michael Horton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Horton",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Gospel Driven",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22332-download",
-            "preacher_name": "Michael Horton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Horton",
             "_scripture": []
         }
     ]

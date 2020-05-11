@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Place of Seeing",
+        "url": "http:\/\/api.sermonindex.net\/SID3160",
+        "size": "13673661",
+        "format": "mp3",
+        "scripture": "Acts 17, Exodus 25:8",
+        "topic": "Spiritual Sight",
+        "description": "There is a place that God invites us to come, the holiest place of all, where God is, and it is out of that place that true, priestly service is made.",
+        "download": "http:\/\/api.sermonindex.net\/SID3160-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "25"
+            },
+            {
+                "book": "Acts",
+                "chapter": "17"
+            }
+        ]
+    }
+]

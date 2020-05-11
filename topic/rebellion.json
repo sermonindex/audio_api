@@ -11,9 +11,7 @@
             "topic": "Rebellion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4834-download",
-            "preacher_name": "J. Glyn Owen",
-            "preacher_image": "\/images\/j_glyn_owen.gif",
-            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "speaker_name": "J. Glyn Owen",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Rebellion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10227-download",
-            "preacher_name": "B.H. Clendennen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "B.H. Clendennen",
             "_scripture": [
                 {
                     "book": "Hosea",
@@ -44,9 +40,7 @@
             "topic": "Rebellion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3626-download",
-            "preacher_name": "Martin Geehan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Martin Geehan",
             "_scripture": []
         },
         {
@@ -58,9 +52,7 @@
             "topic": "Rebellion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19228-download",
-            "preacher_name": "Alan Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Martin",
             "_scripture": [
                 {
                     "book": "Jude",
@@ -77,9 +69,7 @@
             "topic": "Rebellion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20065-download",
-            "preacher_name": "Rolfe Barnard",
-            "preacher_image": "\/images\/rolfe_barnard.gif",
-            "preacher_description": "Rolfe Barnard (1904 - 1969)\r\nListen to freely downloadable audio sermons by the speaker Rolfe Barnard in mp3 format. Was evidently a prophet from God for the 20th Century. With a profound sense of the absolute sovereignty and glory of Jesus Christ, he was able to preach a message that produced conviction of sin. He maintained through all his ministry what he himself called a \"sweetheart love for the Lord Jesus,\" and it is most surely apparent in his messages.\r\n\r\nHe was an acclaimed preacher of primarily the 1940's and 1950's.About 100,000 professed faith in Christ during his decades of preaching. He was initially associated with John R.Rice in the 1940's. However,after giving a scripturally based message on John 6 Before rice and some other fundamentalist leaders he was kicked out of the Fundamentalist camp. He then went on the independent circuit. His preaching tours as an evangelist were mainly in the American south.But he also ministered in the mid-west and Canada as well.",
+            "speaker_name": "Rolfe Barnard",
             "_scripture": []
         }
     ]

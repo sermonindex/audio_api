@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Synagogue & Temple",
+        "url": "http:\/\/api.sermonindex.net\/SID0731",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ezra 1:1-5",
+        "topic": "Synagogue",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0731-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Ezra",
+                "chapter": "1"
+            }
+        ]
+    }
+]

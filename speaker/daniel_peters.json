@@ -12,9 +12,7 @@
             "topic": "Parent Abuse",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21631-download",
-            "preacher_name": "Daniel Peters",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Daniel Peters",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Flood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21635-download",
-            "preacher_name": "Daniel Peters",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Daniel Peters",
             "_scripture": [
                 {
                     "book": "Genesis",

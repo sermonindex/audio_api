@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Apollos",
+        "url": "http:\/\/api.sermonindex.net\/SID8040",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 18:24",
+        "topic": "Apollos",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8040-download",
+        "speaker_name": "Carl Armerding",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "18"
+            }
+        ]
+    },
+    {
+        "title": "Apollos-Aquilla-Pcilla",
+        "url": "http:\/\/api.sermonindex.net\/SID8020",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apollos",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8020-download",
+        "speaker_name": "Carl Armerding",
+        "_scripture": []
+    }
+]

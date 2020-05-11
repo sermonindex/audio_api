@@ -12,9 +12,7 @@
             "topic": "Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23997-download",
-            "preacher_name": "David Gardner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gardner",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Morality",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23996-download",
-            "preacher_name": "David Gardner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gardner",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Kingdom Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23995-download",
-            "preacher_name": "David Gardner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gardner",
             "_scripture": []
         }
     ]

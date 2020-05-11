@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Facing Afflictions",
+        "url": "http:\/\/api.sermonindex.net\/SID22912",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Afflictions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22912-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "God's Purpose for Afflictions",
+        "url": "http:\/\/api.sermonindex.net\/SID9132",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hosea 6:1-2",
+        "topic": "Afflictions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9132-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Hosea",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "God's Signs",
+        "url": "http:\/\/api.sermonindex.net\/SID20651",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Afflictions",
+        "description": "In this message we are challenged to view our circumstances and situations in light of God's word. Afflictions or accidents, all serve a vital purpose in our lives.",
+        "download": "http:\/\/api.sermonindex.net\/SID20651-download",
+        "speaker_name": "Reuben Walter",
+        "_scripture": []
+    },
+    {
+        "title": "Trials and Afflictions",
+        "url": "http:\/\/api.sermonindex.net\/SID1774",
+        "size": "3964928",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Afflictions",
+        "description": "Why trials and afflictions come into our lives and how God uses them to refine us.  Message delivered at the Holy Convocation, Cazenovia, NY, 1980.  22 minutes.  (Note: Dr. T.E. Koshy repeats Bro. Bakht Singh's statements for clarity.)",
+        "download": "http:\/\/api.sermonindex.net\/SID1774-download",
+        "speaker_name": "Bakht Singh",
+        "_scripture": []
+    }
+]

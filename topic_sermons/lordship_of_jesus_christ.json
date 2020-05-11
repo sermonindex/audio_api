@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Christ Lord and Master",
+        "url": "http:\/\/api.sermonindex.net\/SID6705",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 John 1:7",
+        "topic": "Lordship Of Jesus Christ",
+        "description": "This message starts with a singing of a old hymn: Leaning on the everlasting arms, followed by a long announcement time and ending with another hymn before Oswald J. Smith gives his message. There is a time of blank space that needs to be forwarded before his message. What message would you say to the multitudes, would you say something comforting or something convicting? This is a great message that shows what a true disciple is and what is the message the Lord Jesus preached.",
+        "download": "http:\/\/api.sermonindex.net\/SID6705-download",
+        "speaker_name": "Oswald J. Smith",
+        "_scripture": [
+            {
+                "book": "1 John",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "The Lordship of Jesus Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID6704",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship Of Jesus Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6704-download",
+        "speaker_name": "Oswald J. Smith",
+        "_scripture": []
+    }
+]

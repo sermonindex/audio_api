@@ -12,9 +12,7 @@
             "topic": "Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10052-download",
-            "preacher_name": "Arthur Cooke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arthur Cooke",
             "_scripture": []
         }
     ]

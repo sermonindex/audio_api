@@ -12,9 +12,7 @@
             "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28709-download",
-            "preacher_name": "Santosh Poonen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Santosh Poonen",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Falling Away",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24254-download",
-            "preacher_name": "Santosh Poonen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Santosh Poonen",
             "_scripture": []
         }
     ]

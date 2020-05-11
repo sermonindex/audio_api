@@ -12,9 +12,7 @@
             "topic": "Testimony",
             "description": "You will be blessed listening as Paul Washer shares from what he calls his \"life verses\". This is a rich sermon full of truth that can be summed up with the message that knowledge of Christ is more important than anything.",
             "download": "http:\/\/api.sermonindex.net\/SID12982-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": [
                 {
                     "book": "2 Corinthians",
@@ -39,9 +37,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22634-download",
-            "preacher_name": "John Marshall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Marshall",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -58,9 +54,7 @@
             "topic": "Isaiah",
             "description": "The Day of the Lord is coming and this chapter gives an amazing description of earth life during its final, dying moments. As an example, if 911 was the judgment of God, what was going on in our culture on 9\/10\/01 that brought about this judgment? The day of man is quickly coming to an end; the day of the Lord is upon us.",
             "download": "http:\/\/api.sermonindex.net\/SID23951-download",
-            "preacher_name": "Steve Gallagher",
-            "preacher_image": "",
-            "preacher_description": "Steve Gallagher ( - )\r\nListen to freely downloadable audio sermons by the speaker Steve Gallagher in mp3 format. Steve Gallagher holds an Associates of Arts degree from Sacramento City College and a Master\u2019s Degree in Pastoral Ministry from Master\u2019s International School of Divinity. He is also a certified Biblical Counselor through the International Association of Biblical Counselors (IABC) in Denver, CO. He is the founder of Pure Life Ministries.\r\nHe has also authored 14 books, including the best-selling At the Altar of Sexual Idolatry, Intoxicated with Babylon, Standing Firm Through the Great Apostasy, and his latest work, The Time of Our Lives in Light of Eternity. The new mission God has called Steve Gallagher to became the Eternal Weight of Glory website which exposes the great apostasy, calls people to repentance and leads Christians into an eternal perspective.",
+            "speaker_name": "Steve Gallagher",
             "_scripture": [
                 {
                     "book": "Isaiah",

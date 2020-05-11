@@ -11,9 +11,7 @@
             "topic": "Child Training",
             "description": "Keith Daniel shares many testimonies and stories of how children were raised in right and wrong ways. He shares multiple scriptures on verses of responsibility for parents to train children in the ways of God. We need to have the Spirit of Christ in all training of children is a precept he underlines.",
             "download": "http:\/\/api.sermonindex.net\/SID27516-download",
-            "preacher_name": "Keith Daniel",
-            "preacher_image": "\/images\/keith_daniel.gif",
-            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "speaker_name": "Keith Daniel",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -30,9 +28,7 @@
             "topic": "Child Training",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27541-download",
-            "preacher_name": "Keith Daniel",
-            "preacher_image": "\/images\/keith_daniel.gif",
-            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "speaker_name": "Keith Daniel",
             "_scripture": []
         },
         {
@@ -44,9 +40,7 @@
             "topic": "Child Training",
             "description": "As parents, and particularly mothers, we are continually shaping the souls of our children. There can be no higher calling than this. The world will pass away and with it the sculpture's work, but our children's souls will live on for eternity.",
             "download": "http:\/\/api.sermonindex.net\/SID15520-download",
-            "preacher_name": "Emanuel Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Emanuel Esh",
             "_scripture": [
                 {
                     "book": "Haggai",
@@ -63,9 +57,7 @@
             "topic": "Child Training",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19639-download",
-            "preacher_name": "Emanuel Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Emanuel Esh",
             "_scripture": []
         },
         {
@@ -77,9 +69,7 @@
             "topic": "Child Training",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19640-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         }
     ]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(Awake! Series): Two Kinds of Sleeping People",
+        "url": "http:\/\/api.sermonindex.net\/SID1982",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 52:1-3",
+        "topic": "Sleepiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1982-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "52"
+            }
+        ]
+    },
+    {
+        "title": "Sleepy Land - The Believer's Enemy",
+        "url": "http:\/\/api.sermonindex.net\/SID19686",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sleepiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19686-download",
+        "speaker_name": "David Rubio",
+        "_scripture": []
+    }
+]

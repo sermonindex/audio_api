@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Joseph: And He Washed His Face",
+        "url": "http:\/\/api.sermonindex.net\/SID27584",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 39:20",
+        "topic": "Christian Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27584-download",
+        "speaker_name": "J. Frank Norris",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "39"
+            }
+        ]
+    },
+    {
+        "title": "We Shall Not All Sleep",
+        "url": "http:\/\/api.sermonindex.net\/SID27583",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Resurrection",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27583-download",
+        "speaker_name": "J. Frank Norris",
+        "_scripture": []
+    }
+]

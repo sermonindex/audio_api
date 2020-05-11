@@ -12,9 +12,7 @@
             "topic": "Genesis",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9800-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9796-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9797-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9798-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9799-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9801-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -106,9 +94,7 @@
             "topic": "Flood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9802-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -125,9 +111,7 @@
             "topic": "Wedding",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9803-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": [
                 {
                     "book": "Genesis",

@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22644-download",
-            "preacher_name": "J. Douglas Macmillan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Douglas Macmillan",
             "_scripture": [
                 {
                     "book": "Genesis",

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Bereans",
+        "url": "http:\/\/api.sermonindex.net\/SID25110",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 17:10-12",
+        "topic": "Bereans",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25110-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "17"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19629-download",
-            "preacher_name": "Ern Baxter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ern Baxter",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19630-download",
-            "preacher_name": "Ern Baxter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ern Baxter",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5997-download",
-            "preacher_name": "Proverbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Proverbs",
             "_scripture": [
                 {
                     "book": "Proverbs",

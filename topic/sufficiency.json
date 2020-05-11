@@ -11,9 +11,7 @@
             "topic": "Sufficiency",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23310-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         }
     ]

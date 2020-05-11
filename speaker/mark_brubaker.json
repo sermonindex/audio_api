@@ -12,9 +12,7 @@
             "topic": "Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19642-download",
-            "preacher_name": "Mark Brubaker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Brubaker",
             "_scripture": []
         }
     ]

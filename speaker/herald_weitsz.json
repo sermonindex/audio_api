@@ -12,9 +12,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22189-download",
-            "preacher_name": "Herald Weitsz",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Herald Weitsz",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Fasting",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22188-download",
-            "preacher_name": "Herald Weitsz",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Herald Weitsz",
             "_scripture": []
         }
     ]

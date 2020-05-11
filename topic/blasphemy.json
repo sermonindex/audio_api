@@ -11,9 +11,7 @@
             "topic": "Blasphemy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12656-download",
-            "preacher_name": "Daniel Kenaston",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Daniel Kenaston",
             "_scripture": []
         }
     ]

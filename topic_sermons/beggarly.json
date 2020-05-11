@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Beggarly",
+        "url": "http:\/\/api.sermonindex.net\/SID26110",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5:3",
+        "topic": "Beggarly",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26110-download",
+        "speaker_name": "Bakht Singh",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            }
+        ]
+    }
+]

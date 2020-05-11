@@ -11,9 +11,7 @@
             "topic": "Patience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18764-download",
-            "preacher_name": "Roy Hession",
-            "preacher_image": "\/images\/roy_hession.gif",
-            "preacher_description": "Roy Hession (1908 - 1992)\r\nListen to freely downloadable audio sermons by the speaker Rolfe Barnard in mp3 format. Roy Hession was a famous post-war evangelist. He wrote many famous Christian classics including \"The Calvary Road.\" Which is currently have currently sold over 1 million copies world-wide. Although a British evangelist, Dr. Hession has spent considerable time ministering in the States under the sponsorship of Worldwide Evangelization Crusade (Ft. Washington, Pa.). This missionary organization was founded in 1914 by C.T Studd, and was directed for many years by his son-in-law, Norman Grubb.\r\n\r\nIn 1947 Hession met leaders of the East African Church which was then experiencing a sweeping revival, and recognized his deep personal need. It was like starting the Christian life over as he came humbly to the Cross. The principles which the Lord taught him were first published in 1950 as The Calvary Road and are now available in over 70 languages! Hession's other titles include We Would See Jesus and Be Filled Now.",
+            "speaker_name": "Roy Hession",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Patience",
             "description": "In this message, Brother Aaron Hurst shares how God often uses trials to exercise us in patient endurance. Aaron talks about how the prophets patiently endured persecution. He also discusses the patience of Job, and tells how Job retained his integrity in spite of intense sufferings. Trials can purify us if we trust in the Lord through the trials.",
             "download": "http:\/\/api.sermonindex.net\/SID15232-download",
-            "preacher_name": "Aaron Hurst",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aaron Hurst",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Patience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14655-download",
-            "preacher_name": "Zac Poonen",
-            "preacher_image": "\/images\/zac_poonen.gif",
-            "preacher_description": "Zac Poonen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Zac Poonen in mp3 format. God called brother Zac Poonen to a new work early on in his Christian experience. The movement is now called Christian Fellowship Churches where the New Covenant of New Testament Christianity is clearly preached. \r\n\r\nBrother Zac Poonen has written 25 books most of them being on the deeper Christian life. Many of these have been translated into a number of languages and have been circulated widely around the world. He clearly and passionately shares the  narrow way of Christian discipleship that is neglected by so many modern preachers.",
+            "speaker_name": "Zac Poonen",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Patience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4644-download",
-            "preacher_name": "J. Glyn Owen",
-            "preacher_image": "\/images\/j_glyn_owen.gif",
-            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "speaker_name": "J. Glyn Owen",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -72,9 +64,7 @@
             "topic": "Patience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24305-download",
-            "preacher_name": "Steve Mays",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Mays",
             "_scripture": []
         },
         {
@@ -86,9 +76,7 @@
             "topic": "Patience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23846-download",
-            "preacher_name": "Billy Strachen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Billy Strachen",
             "_scripture": []
         }
     ]

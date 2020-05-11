@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "This was written by William C. Nichols and gives us a very vivid description of Hell and then a practical application for both the believer and nonbeliever. The hearer of this message will not come away unchanged.",
             "download": "http:\/\/api.sermonindex.net\/SID15002-download",
-            "preacher_name": "William Nichols",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William Nichols",
             "_scripture": [
                 {
                     "book": "Matthew",

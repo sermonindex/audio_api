@@ -12,9 +12,7 @@
             "topic": "Consecration",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19253-download",
-            "preacher_name": "Jack Schaap",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jack Schaap",
             "_scripture": []
         }
     ]

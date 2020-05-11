@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Moved By The Holy Ghost",
+        "url": "http:\/\/api.sermonindex.net\/SID20564",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 3:22, 2 Peter 1:21, Isaiah 11:1-5",
+        "topic": "Holy Ghost",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20564-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "3"
+            },
+            {
+                "book": "2 Peter",
+                "chapter": "1"
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "11"
+            }
+        ]
+    }
+]

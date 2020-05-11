@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Revelation) The Church At Philadelphia",
+        "url": "http:\/\/api.sermonindex.net\/SID6951",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 3:7-13",
+        "topic": "Philadelphia",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6951-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "The Candlestick - Philadelphia",
+        "url": "http:\/\/api.sermonindex.net\/SID3063",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 3:7-13",
+        "topic": "Philadelphia",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3063-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "3"
+            }
+        ]
+    }
+]

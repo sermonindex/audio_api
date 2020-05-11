@@ -12,9 +12,7 @@
             "topic": "Victory",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21210-download",
-            "preacher_name": "Esther Sutera",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Esther Sutera",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Victorious Living",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19912-download",
-            "preacher_name": "Esther Sutera",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Esther Sutera",
             "_scripture": []
         }
     ]

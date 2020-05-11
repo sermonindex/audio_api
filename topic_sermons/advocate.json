@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(1 John #8) An Advocate with God",
+        "url": "http:\/\/api.sermonindex.net\/SID4809",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Advocate",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4809-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "Christ Our Advocate",
+        "url": "http:\/\/api.sermonindex.net\/SID12428",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 John 2:1-2",
+        "topic": "Advocate",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12428-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "1 John",
+                "chapter": "2"
+            }
+        ]
+    }
+]

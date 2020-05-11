@@ -11,9 +11,7 @@
             "topic": "Super Church",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20588-download",
-            "preacher_name": "Ray Brubaker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Brubaker",
             "_scripture": []
         }
     ]

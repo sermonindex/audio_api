@@ -12,9 +12,7 @@
             "topic": "Lawlessness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19621-download",
-            "preacher_name": "Bob Mumford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Mumford",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Lawlessness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19622-download",
-            "preacher_name": "Bob Mumford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Mumford",
             "_scripture": []
         }
     ]

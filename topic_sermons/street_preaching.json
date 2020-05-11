@@ -1,0 +1,60 @@
+[
+    {
+        "title": "A Reprobate Mind",
+        "url": "http:\/\/api.sermonindex.net\/SID12808",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 1:28",
+        "topic": "Street Preaching",
+        "description": "Preached Saturday, May 27, 2006, at the Fredericton Farmer's Market. No box, no music... this message caused the most people to stop and listen than I have ever seen yet. It seemed the entire section of the market was attentively listening to God's Word being proclaimed. \"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient.\" (Romans 1:28)",
+        "download": "http:\/\/api.sermonindex.net\/SID12808-download",
+        "speaker_name": "Eli Brayley",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Open Air Street Preaching in Spanish",
+        "url": "http:\/\/api.sermonindex.net\/SID18938",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 3:23",
+        "topic": "Street Preaching",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18938-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Parable of the Sower",
+        "url": "http:\/\/api.sermonindex.net\/SID12806",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Street Preaching",
+        "description": "This sermon was preached the morning of October 29, 2005 at the Fredericton downtown market. It deals with man's heart conditions to receiving the Word of God, and the willingness of a life to bear fruit for the Kingdom of God. What is your heart condition?",
+        "download": "http:\/\/api.sermonindex.net\/SID12806-download",
+        "speaker_name": "Eli Brayley",
+        "_scripture": []
+    },
+    {
+        "title": "Repent Frederiction",
+        "url": "http:\/\/api.sermonindex.net\/SID12805",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Street Preaching",
+        "description": "This sermon was birthed from a night of prayer and worship, and was preached on Saturday Nov. 5, 2005 (my 2oth birthday) at the Fredericton market. Hearken unto the Word of God, Fredericton, repent of your idols and of your hatred towards God. Christ has died for this people, will we reject such love as this?",
+        "download": "http:\/\/api.sermonindex.net\/SID12805-download",
+        "speaker_name": "Eli Brayley",
+        "_scripture": []
+    }
+]

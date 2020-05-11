@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Deeper Knowledge",
+        "url": "http:\/\/api.sermonindex.net\/SID27105",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Knowledge",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27105-download",
+        "speaker_name": "Doc Greenway",
+        "_scripture": []
+    },
+    {
+        "title": "God's Knowledge is Perfect",
+        "url": "http:\/\/api.sermonindex.net\/SID25770",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Knowledge",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25770-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Knowledge Puffs",
+        "url": "http:\/\/api.sermonindex.net\/SID25278",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 8:1",
+        "topic": "Knowledge",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25278-download",
+        "speaker_name": "Anton Bosch",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "The Knowledge of God in Actuality",
+        "url": "http:\/\/api.sermonindex.net\/SID23157",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Knowledge",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23157-download",
+        "speaker_name": "Bryan Anthony",
+        "_scripture": []
+    }
+]

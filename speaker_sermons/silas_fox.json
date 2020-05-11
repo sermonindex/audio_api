@@ -1,0 +1,26 @@
+[
+    {
+        "title": "God First",
+        "url": "http:\/\/api.sermonindex.net\/SID28082",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28082-download",
+        "speaker_name": "Silas Fox",
+        "_scripture": []
+    },
+    {
+        "title": "The Axehead",
+        "url": "http:\/\/api.sermonindex.net\/SID28081",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28081-download",
+        "speaker_name": "Silas Fox",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Love Of God",
             "description": "Mike Bullmore expounded the message of Zephaniah, tracing three steps throughout the book: There appears to be no hope;\r\nThere is a glimmer of hope; This glimmer bursts into a great and glorious rejoicing of God\u2019s people. Bullmore concluded by emhasizing that those who receive God's salvation are called to rejoice with all their heart. There is no expereience here on earth which causes us to rejoice that can even come close to comparing with this.",
             "download": "http:\/\/api.sermonindex.net\/SID22535-download",
-            "preacher_name": "Mike Bullmore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Bullmore",
             "_scripture": [
                 {
                     "book": "Zephaniah",
@@ -28,12 +26,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "1 Thessalonians 5:1-6, Zephaniah 1:5-6",
-            "topic": "God's Love",
+            "topic": "Gods Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2573-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Zephaniah",
@@ -54,9 +50,7 @@
             "topic": "Wrath Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25002-download",
-            "preacher_name": "E.A. Johnston",
-            "preacher_image": "",
-            "preacher_description": "E.A. Johnston ( - )\r\nListen to freely downloadable audio sermons by the speaker E.A. Johnston in mp3 format. E. A. Johnston lives in Memphis, Tennessee and is a fellow of the Stephen Olford Institute for Biblical Preaching. He is currently involved in Bible teaching and disciple making, as well as authoring books. Some of his titles include: Realities of Revival (series), Church in Revival (series), Call to Revival (series), Return to Me, No Turning Back, The Master\u2019s Plan, Walking with God, etc.\r\n\"If the Church will not defend His holy Name then the Almighty must. God will either pour out His blessings in revival to defend His holy Name, or He will pour out His wrath upon mankind to avenge His holy Name. It will either be a defending or avenging to show forth His glory and remind mankind He alone is the Sovereign ruler of all.\"",
+            "speaker_name": "E.A. Johnston",
             "_scripture": [
                 {
                     "book": "Zephaniah",

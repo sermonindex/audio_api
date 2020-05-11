@@ -11,9 +11,7 @@
             "topic": "Jabez",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23990-download",
-            "preacher_name": "John Phillips",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Phillips",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Jabez",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24247-download",
-            "preacher_name": "Mary Peckham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mary Peckham",
             "_scripture": []
         }
     ]

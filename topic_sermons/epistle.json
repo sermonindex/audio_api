@@ -1,0 +1,43 @@
+[
+    {
+        "title": "The Epistle to the Torontonians - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID5787",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Epistle",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5787-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "The Epistle to the Torontonians - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID5788",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Epistle",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5788-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "The Writer And The Reader",
+        "url": "http:\/\/api.sermonindex.net\/SID7286",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 1:1-2",
+        "topic": "Epistle",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7286-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "1"
+            }
+        ]
+    }
+]

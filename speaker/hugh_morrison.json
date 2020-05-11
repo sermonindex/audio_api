@@ -12,9 +12,7 @@
             "topic": "Holy Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25162-download",
-            "preacher_name": "Hugh Morrison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hugh Morrison",
             "_scripture": [
                 {
                     "book": "Zechariah",
@@ -31,9 +29,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25161-download",
-            "preacher_name": "Hugh Morrison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hugh Morrison",
             "_scripture": []
         }
     ]

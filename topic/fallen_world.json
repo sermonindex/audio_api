@@ -11,9 +11,7 @@
             "topic": "Fallen World",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22298-download",
-            "preacher_name": "Joe Lee",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joe Lee",
             "_scripture": []
         }
     ]

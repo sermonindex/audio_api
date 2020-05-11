@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(Revelation Thoughts from the Book) 3. The Letters to Pergamos and Thyatira",
+        "url": "http:\/\/api.sermonindex.net\/SID18660",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Thyatira",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18660-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": []
+    },
+    {
+        "title": "(Revelation) The Church At Thyatira",
+        "url": "http:\/\/api.sermonindex.net\/SID6949",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 2:18-29",
+        "topic": "Thyatira",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6949-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "2"
+            }
+        ]
+    }
+]

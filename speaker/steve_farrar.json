@@ -12,9 +12,7 @@
             "topic": "Family",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22270-download",
-            "preacher_name": "Steve Farrar",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Farrar",
             "_scripture": []
         }
     ]

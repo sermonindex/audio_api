@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11982-download",
-            "preacher_name": "Newman Sze",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Newman Sze",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11984-download",
-            "preacher_name": "Newman Sze",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Newman Sze",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11983-download",
-            "preacher_name": "Newman Sze",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Newman Sze",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11985-download",
-            "preacher_name": "Newman Sze",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Newman Sze",
             "_scripture": []
         }
     ]

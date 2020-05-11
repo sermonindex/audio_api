@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The Snare of the Folwer",
+        "url": "http:\/\/api.sermonindex.net\/SID5396",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 124:7, Romans 6:14, Romans 7:5",
+        "topic": "Snare",
+        "description": "This Psalm depicts Israel escaping the snare of the fowler, which is a figure of the redeemed being freed from the entrappings of sin by the gracious hand of the Lord Jesus.  The power of sin over the christian, or anyone, is it's ability to condemn and maintain our guilt before the law of God, we can go on for years under the power of a sin that we may only have commited once, this is the sanre designed by Satan himself and the more we try and work our way free the tighter it becomes and the more condemned we feel trying to live up to the law in order to please God.  But praise God for the Lord Jesus who took upon Himself the wieght of sin and not only that but became my sin and yours for us, He alone could have exhausted the power of sin and the law over us and so He alone can free us from it's grasp.",
+        "download": "http:\/\/api.sermonindex.net\/SID5396-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "7"
+            },
+            {
+                "book": "Romans",
+                "chapter": "6"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "124"
+            }
+        ]
+    }
+]

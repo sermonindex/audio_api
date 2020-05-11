@@ -1,5 +1,5 @@
 {
-    "name": "Pre-Wrath Rapture",
+    "name": "PreWrath Rapture",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Pre-Wrath Rapture",
+            "topic": "PreWrath Rapture",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23090-download",
-            "preacher_name": "Charles Swann",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Swann",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Preaching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19881-download",
-            "preacher_name": "Joe Humrichous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joe Humrichous",
             "_scripture": [
                 {
                     "book": "Psalms",

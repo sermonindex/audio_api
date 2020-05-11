@@ -12,9 +12,7 @@
             "topic": "Soul Winning",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20411-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Eternity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20414-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Humility",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20416-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19993-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "False Conversion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19994-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -87,9 +77,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20418-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "Rock Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19992-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "Suffering Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20413-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": []
         },
         {
@@ -129,9 +113,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19991-download",
-            "preacher_name": "John Musser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Musser",
             "_scripture": [
                 {
                     "book": "Philippians",

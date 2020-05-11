@@ -11,9 +11,7 @@
             "topic": "Partnership",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20838-download",
-            "preacher_name": "Stuart Briscoe",
-            "preacher_image": "\/images\/stuart_briscoe.gif",
-            "preacher_description": "",
+            "speaker_name": "Stuart Briscoe",
             "_scripture": []
         }
     ]

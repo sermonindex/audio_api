@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19257-download",
-            "preacher_name": "Steve Evans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Evans",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19258-download",
-            "preacher_name": "Steve Evans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Evans",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19259-download",
-            "preacher_name": "Steve Evans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Evans",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19260-download",
-            "preacher_name": "Steve Evans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Evans",
             "_scripture": []
         }
     ]

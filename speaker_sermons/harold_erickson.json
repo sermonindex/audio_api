@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Christ Rejection",
+        "url": "http:\/\/api.sermonindex.net\/SID10299",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 19:41",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10299-download",
+        "speaker_name": "Harold Erickson",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "Geography Of The Spirit",
+        "url": "http:\/\/api.sermonindex.net\/SID10300",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 32:28-29",
+        "topic": "Geography",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10300-download",
+        "speaker_name": "Harold Erickson",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "32"
+            }
+        ]
+    },
+    {
+        "title": "Spiritual Vacuums Deut 6;21",
+        "url": "http:\/\/api.sermonindex.net\/",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/-download",
+        "speaker_name": "Harold Erickson",
+        "_scripture": []
+    },
+    {
+        "title": "Understanding Our Salvation",
+        "url": "http:\/\/api.sermonindex.net\/SID10302",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 9:9",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10302-download",
+        "speaker_name": "Harold Erickson",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "9"
+            }
+        ]
+    }
+]

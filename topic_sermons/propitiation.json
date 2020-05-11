@@ -1,0 +1,55 @@
+[
+    {
+        "title": "It Pleased God to Crush Him - For You",
+        "url": "http:\/\/api.sermonindex.net\/SID26672",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 53:8-12",
+        "topic": "Propitiation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26672-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "53"
+            }
+        ]
+    },
+    {
+        "title": "Jesus Took Our Place",
+        "url": "http:\/\/api.sermonindex.net\/SID24123",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Propitiation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24123-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": []
+    },
+    {
+        "title": "Justification, Redemption, and Propitiation",
+        "url": "http:\/\/api.sermonindex.net\/SID21791",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Propitiation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21791-download",
+        "speaker_name": "Brian Brodersen",
+        "_scripture": []
+    },
+    {
+        "title": "Propitiation",
+        "url": "http:\/\/api.sermonindex.net\/SID1464",
+        "size": "3606528",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Propitiation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1464-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Godliness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26007-download",
-            "preacher_name": "Des Evans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Des Evans",
             "_scripture": [
                 {
                     "book": "Genesis",

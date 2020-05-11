@@ -12,9 +12,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13995-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival Praying",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13992-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Intercession",
             "description": "A look at our intercessor: (1) the need of an intercessor, (2) the qualifications of our intercessor, (3) the subjects of his intercession, (4) the results of his intercession, (5) the objects of his intercession.",
             "download": "http:\/\/api.sermonindex.net\/SID13032-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -63,9 +57,7 @@
             "topic": "Besetting Sin",
             "description": "An admonition to lay aside and overcome sin in our life. Bob has a wonderful way of challenging believers to more godliness.",
             "download": "http:\/\/api.sermonindex.net\/SID13033-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -82,9 +74,7 @@
             "topic": "Peace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18622-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -96,9 +86,7 @@
             "topic": "Besetting Sins",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20864-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -110,9 +98,7 @@
             "topic": "Spirit Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28186-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -124,9 +110,7 @@
             "topic": "Faithfulness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18623-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -138,9 +122,7 @@
             "topic": "Pressing On",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18621-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -152,9 +134,7 @@
             "topic": "Prayer",
             "description": "An earnest and true exhortation to pray. Full of reality and grace.",
             "download": "http:\/\/api.sermonindex.net\/SID13052-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -166,9 +146,7 @@
             "topic": "Seeking God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8417-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -180,9 +158,7 @@
             "topic": "Humility",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24694-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -194,9 +170,7 @@
             "topic": "Prayer Meeting",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18624-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         },
         {
@@ -208,9 +182,7 @@
             "topic": "Joy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18620-download",
-            "preacher_name": "Bob Jennings",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Jennings",
             "_scripture": []
         }
     ]

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Rekindling Holy Fire",
+        "url": "http:\/\/api.sermonindex.net\/SID13635",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 19:23-24, Genesis 22:6-7, Revelation 3:16",
+        "topic": "Holy Fire",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13635-download",
+        "speaker_name": "Ralph Sexton",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "3"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "22"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "19"
+            }
+        ]
+    }
+]

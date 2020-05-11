@@ -12,9 +12,7 @@
             "topic": "Rejecting Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24581-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Surrender",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24582-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Carnality",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24583-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Awakening",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27893-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -73,9 +65,7 @@
             "topic": "Deception",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24580-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "Narrow Way",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24579-download",
-            "preacher_name": "Jon Couch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Couch",
             "_scripture": []
         }
     ]

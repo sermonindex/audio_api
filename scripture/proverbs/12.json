@@ -12,9 +12,7 @@
             "topic": "Kindness",
             "description": "January 27, 2008 - It is time for the Church of Jesus Christ to bring honor to His name by manifesting the law of kindness. We, as a church, are called into moral and spiritual excellence through which God is glorified. The law of kindness radiates through the mouth of those who are one in heart and mind with Jesus and whose deep desire is to live a life that is conformed to the cross of Christ. When we speak with the law of kindness we take our Savior and put Him in the gates in a place of honor. Kind speech puts a crown of glory on Jesus and those around us have to take notice. What does your speech reveal to those around you?",
             "download": "http:\/\/api.sermonindex.net\/SID16792-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -35,9 +33,7 @@
             "topic": "Lying",
             "description": "When someone lies, we do not take it seriously, but God's Word says that lying lips are an abomination to the Lord. But the one who speaks truthfully is a joy to the Lord. That is why we must live truthfully at all times, to bring joy to the Most High. When Cain killed his brother, God asked him about his brother, but he answered that he was not his brother's keeper. Deception has many varieties. Lies have many shades of colour. Sometimes lies can be taken so lightly that the liar laughs afterwards about the deception.",
             "download": "http:\/\/api.sermonindex.net\/SID27552-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -54,9 +50,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6000-download",
-            "preacher_name": "Proverbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Proverbs",
             "_scripture": [
                 {
                     "book": "Proverbs",

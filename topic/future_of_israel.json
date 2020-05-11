@@ -11,9 +11,7 @@
             "topic": "Future Of Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22542-download",
-            "preacher_name": "Richard Ganz",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard Ganz",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Future Of Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22541-download",
-            "preacher_name": "Richard Ganz",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard Ganz",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Future Of Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22543-download",
-            "preacher_name": "Richard Ganz",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard Ganz",
             "_scripture": []
         }
     ]

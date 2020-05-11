@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Covering Sin",
+        "url": "http:\/\/api.sermonindex.net\/SID14147",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 59:2",
+        "topic": "Unconfessed Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14147-download",
+        "speaker_name": "Ed Mohr",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "59"
+            }
+        ]
+    },
+    {
+        "title": "The Sacrifice of Praise",
+        "url": "http:\/\/api.sermonindex.net\/SID19831",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 13:15, Ephesians 5:20, 1 Thessalonians 5:18",
+        "topic": "Praise",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19831-download",
+        "speaker_name": "Ed Mohr",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "13"
+            },
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            },
+            {
+                "book": "1 Thessalonians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

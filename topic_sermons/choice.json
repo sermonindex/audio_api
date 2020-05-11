@@ -1,0 +1,69 @@
+[
+    {
+        "title": "(basics) 3. The Power Of Choice",
+        "url": "http:\/\/api.sermonindex.net\/SID8113",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 2-3",
+        "topic": "Choice",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8113-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Caesar or God",
+        "url": "http:\/\/api.sermonindex.net\/SID1403",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 12:13-17",
+        "topic": "Choice",
+        "description": "(preached: March 3, 2003)",
+        "download": "http:\/\/api.sermonindex.net\/SID1403-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "Life Changing Choices",
+        "url": "http:\/\/api.sermonindex.net\/SID19826",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 3:16-19, Joshua 24:14-31",
+        "topic": "Choice",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19826-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "3"
+            },
+            {
+                "book": "Joshua",
+                "chapter": "24"
+            }
+        ]
+    },
+    {
+        "title": "The Reality of Human Action and the Power of Contrary Choice",
+        "url": "http:\/\/api.sermonindex.net\/SID1276",
+        "size": "6217728",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Choice",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1276-download",
+        "speaker_name": "John Murray",
+        "_scripture": []
+    }
+]

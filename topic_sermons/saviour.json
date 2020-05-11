@@ -1,0 +1,72 @@
+[
+    {
+        "title": "(John) An Outstanding Revelation Of The Saviour",
+        "url": "http:\/\/api.sermonindex.net\/SID6861",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 8:12-59",
+        "topic": "Saviour",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6861-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "A Prince And Saviour",
+        "url": "http:\/\/api.sermonindex.net\/SID8015",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Saviour",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8015-download",
+        "speaker_name": "Carl Armerding",
+        "_scripture": []
+    },
+    {
+        "title": "Mark - The Sleeping Saviour & The Stormy Sea",
+        "url": "http:\/\/api.sermonindex.net\/SID26528",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Saviour",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26528-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "Portrait Of The Saviour",
+        "url": "http:\/\/api.sermonindex.net\/SID3207",
+        "size": "10170368",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Saviour",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3207-download",
+        "speaker_name": "J. Sidlow Baxter",
+        "_scripture": []
+    },
+    {
+        "title": "The Church and the Saviour",
+        "url": "http:\/\/api.sermonindex.net\/SID22566",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 2:11-16",
+        "topic": "Saviour",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22566-download",
+        "speaker_name": "Robert Dowie",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "2"
+            }
+        ]
+    }
+]

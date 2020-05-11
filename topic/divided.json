@@ -11,9 +11,7 @@
             "topic": "Divided",
             "description": "Charles Spurgeon said in a 1859 sermon that the main fault with the Church was that it is not only divided \u00e2\u20ac\u0153somewhat\u00e2\u20ac\u009d in its creeds and ordinances, it is also \u00e2\u20ac\u0153somewhat\u00e2\u20ac\u009d divided in its heart. When Christians no longer can love each other unconditionally, when divisions in doctrine become so acid that we cannot cooperate, when we can no longer extend the hand of fellowship to those with whom we disagree, \u00e2\u20ac\u0153then, indeed, is the Church of God found faulty.\u00e2\u20ac\u009d",
             "download": "http:\/\/api.sermonindex.net\/SID1702-download",
-            "preacher_name": "C. H. Spurgeon",
-            "preacher_image": "\/images\/c_h_spurgeon.gif",
-            "preacher_description": "C.H. Spurgeon (1834 - 1892)\r\nListen to freely downloadable audio sermons by the speaker C.H. Spurgeon in mp3 format. Spurgeon quickly became known as one of the most influential preachers of his time. Well known for his biblical powerful expositions of scripture and oratory ability. In modern evangelical circles he is stated to be the \"Prince of Preachers.\" He pastored the Metropolitan Tabernacle in downtown London, England. \r\n\r\nHis church was part of a particular baptist church movement and they defended and preached Christ and Him crucified and the purity of the Gospel message. Spurgeon never gave altar calls but always extended the invitation to come to Christ. He was a faithful minister in his time that glorified God and brought many to the living Christ.",
+            "speaker_name": "C. H. Spurgeon",
             "_scripture": [
                 {
                     "book": "Hosea",

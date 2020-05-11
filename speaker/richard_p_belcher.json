@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2970-download",
-            "preacher_name": "Richard P. Belcher",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard P. Belcher",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2971-download",
-            "preacher_name": "Richard P. Belcher",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard P. Belcher",
             "_scripture": []
         }
     ]

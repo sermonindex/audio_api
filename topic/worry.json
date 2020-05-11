@@ -11,9 +11,7 @@
             "topic": "Worry",
             "description": "But I worry, what is so wrong with that? Are you a professional worrier? God knowing the human nature of worrying about the future, therefore He shared with us what to do when we face situations of worry. Follow Jim Logan as he shares from his own life and the people he has counseled with how prayer is a replacement for worry.",
             "download": "http:\/\/api.sermonindex.net\/SID21997-download",
-            "preacher_name": "Jim Logan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Logan",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24629-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19839-download",
-            "preacher_name": "Charlie Orr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Orr",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -62,9 +56,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16946-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Philippians",
@@ -81,9 +73,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24302-download",
-            "preacher_name": "Steve Mays",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Mays",
             "_scripture": []
         },
         {
@@ -95,9 +85,7 @@
             "topic": "Worry",
             "description": "All of us struggle with worry in this life, yet our legacy as believer is the experience of inner peace. Jim Logan presents practical principles from the Bible for understanding and overcoming worry, and important strategies for building an effective prayer life.",
             "download": "http:\/\/api.sermonindex.net\/SID22012-download",
-            "preacher_name": "Jim Logan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Logan",
             "_scripture": []
         },
         {
@@ -109,9 +97,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19682-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         }
     ]

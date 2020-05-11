@@ -11,9 +11,7 @@
             "topic": "Thinking",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20940-download",
-            "preacher_name": "Dennis Kinlaw",
-            "preacher_image": "",
-            "preacher_description": "Dennis Kinlaw ( - )\r\nListen to freely downloadable audio sermons by the speaker Dennis Kinlaw in mp3 format.  Dennis Franklin Kinlaw was born June 26, 1922, in Lumberton, North Carolina. He attended Asbury College, graduating in 1943, and Asbury Theological Seminary, graduating in 1946. He pursued further studies at Princeton Theological Seminary and University of Edinburgh, Scotland. He received an M.A. and Ph.D. from Brandeis University. On December 31, 1943, Kinlaw married a college classmate, Elsie Blake (Class of 1943). He was ordained in the North Carolina Conference of the United Methodist Church in 1951. (He later transferred to the Kentucky Conference.) In 1959 he served as a visiting professor at Seoul Theological College in South Korea. In 1963 he returned to Asbury Theological Seminary, this time as a professor of Old Testament history, theology, and languages.\r\nIn 1983 Kinlaw founded the Francis Asbury Society, an organization based in Wilmore, Kentucky, whose purpose is to promote the message of Scriptural holiness through evangelism, discipleship, missions outreach, and publications. Kinlaw also served as chairman of the board of the mission organization OMS International. He is an accomplished pastor, professor, administrator, evangelist, teacher, and author.",
+            "speaker_name": "Dennis Kinlaw",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Thinking",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5737-download",
-            "preacher_name": "A.W. Tozer",
-            "preacher_image": "\/images\/aw_tozer.gif",
-            "preacher_description": "A.W. Tozer (1897 - 1963)\r\nListen to freely downloadable audio sermons by the speaker A.W. Tozer in mp3 format. A \"20th-century prophet\" many called him during his lifetime. For 31 years A.W.Tozer was pastor of Southside Alliance Church in Chicago. He was involved in the missionary alliance movement for most of his pulpit life. A.W. Tozer lived in the presence of God he saw clearly and he spoke as a prophet to the church. He sought for God's honor with the zeal of Elijah and mourned with Jeremiah at the apostasy of God's people. \r\n\r\nLeonard Ravenhill was a close friend of pastor and writer A. W. Tozer and spoke of him as one of the most influential voices in the Church in America. A.W. Tozer's materials are a mainstay in Evangelical churches in our day and he is one of the most quoted authors. He was a prophet in his day and his writings are even more influential in our day. One of his books: The Pursuit of God, has had over 1 million copies sold world-wide.",
+            "speaker_name": "A.W. Tozer",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Lukewarm",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25280-download",
-            "preacher_name": "Luauna Stines",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Luauna Stines",
             "_scripture": [
                 {
                     "book": "Revelation",

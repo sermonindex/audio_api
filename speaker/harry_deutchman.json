@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10242-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10243-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10244-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10245-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10246-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10247-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10248-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10249-download",
-            "preacher_name": "Harry Deutchman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Deutchman",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Productivity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20577-download",
-            "preacher_name": "Harley Porter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harley Porter",
             "_scripture": [
                 {
                     "book": "Acts",

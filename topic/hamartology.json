@@ -11,9 +11,7 @@
             "topic": "Hamartology",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1263-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         }
     ]

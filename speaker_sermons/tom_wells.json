@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Priority of Christ\t- Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID13062",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 4:3-6, 2 Timothy 3:15-17",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13062-download",
+        "speaker_name": "Tom Wells",
+        "_scripture": [
+            {
+                "book": "2 Timothy",
+                "chapter": "3"
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "The Priority of Christ\t- Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID13063",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Daniel 7:13-15, Matthew 28:16-20",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13063-download",
+        "speaker_name": "Tom Wells",
+        "_scripture": [
+            {
+                "book": "Daniel",
+                "chapter": "7"
+            },
+            {
+                "book": "Matthew",
+                "chapter": "28"
+            }
+        ]
+    }
+]

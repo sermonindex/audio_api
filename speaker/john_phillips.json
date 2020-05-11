@@ -12,9 +12,7 @@
             "topic": "Jabez",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23990-download",
-            "preacher_name": "John Phillips",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Phillips",
             "_scripture": []
         }
     ]

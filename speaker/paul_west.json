@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16571-download",
-            "preacher_name": "Paul West",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul West",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "A message that explores the primary reason why God allows different fiery trials and temptations to afflict a saint. Learn how to prepare for tests and progress in the school of God. The preacher seeks to communicate the deep practicality of God's refining process in the hearts of His people.",
             "download": "http:\/\/api.sermonindex.net\/SID16246-download",
-            "preacher_name": "Paul West",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul West",
             "_scripture": [
                 {
                     "book": "James",
@@ -53,9 +49,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16570-download",
-            "preacher_name": "Paul West",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul West",
             "_scripture": []
         },
         {
@@ -67,9 +61,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16572-download",
-            "preacher_name": "Paul West",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul West",
             "_scripture": []
         }
     ]

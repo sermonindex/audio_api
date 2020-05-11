@@ -11,9 +11,7 @@
             "topic": "Babel",
             "description": "The tower of Babel: 1-The context of this story 2-The character of this tower 3-The curse of Babel",
             "download": "http:\/\/api.sermonindex.net\/SID27531-download",
-            "preacher_name": "Roger Ellsworth",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roger Ellsworth",
             "_scripture": [
                 {
                     "book": "Genesis",

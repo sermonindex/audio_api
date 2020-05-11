@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Walking Along Wisdom's Way",
+        "url": "http:\/\/api.sermonindex.net\/SID4737",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 1:9-18",
+        "topic": "Wisdoms Way",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4737-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "1"
+            }
+        ]
+    }
+]

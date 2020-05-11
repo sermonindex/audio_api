@@ -12,9 +12,7 @@
             "topic": "False Hope",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9051-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": [
                 {
                     "book": "Ezekiel",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "David Wilkerson preaches this stirring message in a Camp Meeting for the Church of God (Cleveland, Tn.). This is a must hear for every Pastor and leader in every church across the world. God has been sending out clear warnings from many years of the need for the church to be seperate unto him in all holiness. Will we hear the call today?",
             "download": "http:\/\/api.sermonindex.net\/SID1234-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Ezekiel",
@@ -50,9 +46,7 @@
             "topic": "Podcast",
             "description": "David Wilkerson preaches this stirring message in a Camp Meeting for the Church of God (Cleveland, Tn.). This is a must hear for every Pastor and leader in every church across the world. God has been sending out clear warnings from many years of the need for the church to be seperate unto him in all holiness. Will we hear the call today?",
             "download": "http:\/\/api.sermonindex.net\/SID15301-download",
-            "preacher_name": "SermonIndex.net Classics Podcast",
-            "preacher_image": "",
-            "preacher_description": "SermonIndex.net Classics Podcast ( - )\r\nListen to freely downloadable audio sermons by SermonIndex.net Classics Podcast in mp3 format.  The work and ministry of SermonIndex can be encapsulated in this one word: Revival. Concepts such as Holiness, Purity, Christ-Likeness, Self-Denial and Discipleship are hardly the goal of much modern preaching. Thus the main thrust of the speakers and articles on the website encourage us towards a reviving of these missing elements of Christianity\r\nYou can subscribe to this free Christian podcast via iTunes Subscribe or RSS Feed. Download over 100 of the best classical sermons by many speakers from the past and present. This is a great starting place to benefit from the archive of SermonIndex.",
+            "speaker_name": "SermonIndex.net Classics Podcast",
             "_scripture": [
                 {
                     "book": "Ezekiel",

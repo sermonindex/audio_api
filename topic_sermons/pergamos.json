@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Revelation) The Church At Pergamos",
+        "url": "http:\/\/api.sermonindex.net\/SID6948",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 2:12-17",
+        "topic": "Pergamos",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6948-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "The Candlestick - Pergamos",
+        "url": "http:\/\/api.sermonindex.net\/SID2982",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 2:12-17",
+        "topic": "Pergamos",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2982-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "2"
+            }
+        ]
+    }
+]

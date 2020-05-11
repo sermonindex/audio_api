@@ -12,9 +12,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20840-download",
-            "preacher_name": "Mike Wakely",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Wakely",
             "_scripture": []
         }
     ]

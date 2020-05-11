@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Delusional",
+        "url": "http:\/\/api.sermonindex.net\/SID18551",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 1:22-26",
+        "topic": "Delusion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18551-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Strong Delusions",
+        "url": "http:\/\/api.sermonindex.net\/SID23542",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 7:15-17",
+        "topic": "Delusion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23542-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "7"
+            }
+        ]
+    },
+    {
+        "title": "The Dawkind Delusion",
+        "url": "http:\/\/api.sermonindex.net\/SID23618",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Delusion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23618-download",
+        "speaker_name": "Neale Brinkley",
+        "_scripture": []
+    }
+]

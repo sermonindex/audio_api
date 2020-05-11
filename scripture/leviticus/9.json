@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19905-download",
-            "preacher_name": "Ronald Glass",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ronald Glass",
             "_scripture": [
                 {
                     "book": "Leviticus",

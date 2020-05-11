@@ -1,0 +1,36 @@
+[
+    {
+        "title": "The Danger Of Meddling",
+        "url": "http:\/\/api.sermonindex.net\/SID8785",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs 20-21",
+        "topic": "Meddling",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8785-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "20"
+            }
+        ]
+    },
+    {
+        "title": "The Folly Of Meddling",
+        "url": "http:\/\/api.sermonindex.net\/SID9226",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 14:8-14",
+        "topic": "Meddling",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9226-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "2 Kings",
+                "chapter": "14"
+            }
+        ]
+    }
+]

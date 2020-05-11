@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(Spain) The Touch of God",
+        "url": "http:\/\/api.sermonindex.net\/SID15632",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 19:20",
+        "topic": "Touch Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15632-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "19"
+            }
+        ]
+    }
+]

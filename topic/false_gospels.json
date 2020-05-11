@@ -11,9 +11,7 @@
             "topic": "False gospels",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25082-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         }
     ]

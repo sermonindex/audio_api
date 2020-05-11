@@ -12,9 +12,7 @@
             "topic": "Deception",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25953-download",
-            "preacher_name": "Scott Moreau",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Scott Moreau",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Devil",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25954-download",
-            "preacher_name": "Scott Moreau",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Scott Moreau",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "World",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25955-download",
-            "preacher_name": "Scott Moreau",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Scott Moreau",
             "_scripture": []
         }
     ]

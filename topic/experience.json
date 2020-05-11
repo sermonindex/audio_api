@@ -11,9 +11,7 @@
             "topic": "Experience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0371-download",
-            "preacher_name": "Hans Peter Royer",
-            "preacher_image": "\/images\/hans_peter_royer.gif",
-            "preacher_description": "",
+            "speaker_name": "Hans Peter Royer",
             "_scripture": [
                 {
                     "book": "John",
@@ -30,9 +28,7 @@
             "topic": "Experience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19644-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": []
         },
         {
@@ -44,9 +40,7 @@
             "topic": "Experience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26905-download",
-            "preacher_name": "Vance Havner",
-            "preacher_image": "\/images\/vance_havner.gif",
-            "preacher_description": "Vance Havner (1901 - 1986)\r\nListen to freely downloadable audio sermons by the speaker Vance Havner in mp3 format. For over 70 years, the church was blessed and challenged by the prophetic ministry of Vance Havner. His style and burden was prophetic similar to the ministry of A.W. Tozer calling the Church to revival. His influence extended to a national level, but Dr. Havner's approach was always to minister where God directed, regardless of the size of the church.  His appeal and influence transcended denominational lines, and he spoke to many different groups of people.\r\n\r\nThroughout his ministry, Vance Havner lived and preached that a Christian should should exhibit faithfulness to Jesus in all areas of life.  He taught that the Christian should attend to, \"the outliving of the inliving Christ.\"  Havner wrote, \"To some, Christianity is an argument.  To many, it is a performance.  To a few, it is an experience.\"",
+            "speaker_name": "Vance Havner",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18924-download",
-            "preacher_name": "Alan Ives",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Ives",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18925-download",
-            "preacher_name": "Alan Ives",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Ives",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Rock Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18921-download",
-            "preacher_name": "Alan Ives",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Ives",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Rock Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18922-download",
-            "preacher_name": "Alan Ives",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Ives",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18926-download",
-            "preacher_name": "Alan Ives",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Ives",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Purpose",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18923-download",
-            "preacher_name": "Alan Ives",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Ives",
             "_scripture": []
         }
     ]

@@ -11,9 +11,7 @@
             "topic": "Proclaim",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11788-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": []
         }
     ]

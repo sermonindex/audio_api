@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14848-download",
-            "preacher_name": "Aunt Martha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aunt Martha",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14855-download",
-            "preacher_name": "Aunt Martha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aunt Martha",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14854-download",
-            "preacher_name": "Aunt Martha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aunt Martha",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14849-download",
-            "preacher_name": "Aunt Martha",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aunt Martha",
             "_scripture": []
         }
     ]

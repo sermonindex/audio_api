@@ -11,9 +11,7 @@
             "topic": "Priest",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23473-download",
-            "preacher_name": "Art Katz",
-            "preacher_image": "\/images\/art_katz.gif",
-            "preacher_description": "Art Katz (1929 \u00e2\u20ac\u201c 2007)\r\nListen to freely downloadable audio sermons by the speaker Art Katz in mp3 format. He was radically converted by reading the New Testament. God used him to have a powerful prophetic insight into the end-times and the coming suffering of the jewish people before the great accepting of Jesus as Messiah. His eschatological insight is a very needful truth to be realized in the body of Christ. \r\n\r\nArt was a prophetic voice insofar as he called his listeners to purposes in God that would affect both time and eternity, purposes that had to do with the glory of God in the Church.   Frequently, his messages called the Church to an awareness of the Last Days [End-times] in such a way that made that time seem imminent and at the door.",
+            "speaker_name": "Art Katz",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Priest",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2845-download",
-            "preacher_name": "George Warnock",
-            "preacher_image": "\/images\/george_warnock.gif",
-            "preacher_description": "George Warnock (1917 - 2016)\r\nListen to freely downloadable audio sermons by the speaker George Warnock in mp3 format. Brother George Warnock was used of the Lord in the latter rain movement which he had influence in. He wrote some books which were corrections to imbalances in his day. His well known book was: \"The Feast Of Tabernacles\"\r\nHis heart has been to serve the body of Christ and see a last days manifestation of a pure Church that Jesus Christ will redeem as His bride. He tentmaked as a carpenter until well into retirement. He resided in Cranbrook, BC, Canada until his death. You can read a expanded biography of him on his family website.",
+            "speaker_name": "George Warnock",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Priest",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25858-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": []
         }
     ]

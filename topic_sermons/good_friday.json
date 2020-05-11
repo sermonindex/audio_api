@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Good Friday Sermon",
+        "url": "http:\/\/api.sermonindex.net\/SID3633",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Good Friday",
+        "description": "Christ came down to die for us out of his own free will and love for us.",
+        "download": "http:\/\/api.sermonindex.net\/SID3633-download",
+        "speaker_name": "Martin Geehan",
+        "_scripture": []
+    },
+    {
+        "title": "Mark - Good Friday Meditation",
+        "url": "http:\/\/api.sermonindex.net\/SID26557",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Good Friday",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26557-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "The Undoing Of Death - Good Friday 2018",
+        "url": "http:\/\/api.sermonindex.net\/SID28662",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Good Friday",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28662-download",
+        "speaker_name": "Michael Flowers",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Surrender",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28696-download",
-            "preacher_name": "Steven J. Lawson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steven J. Lawson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Eternity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21796-download",
-            "preacher_name": "Steven J. Lawson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steven J. Lawson",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Persecution",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19451-download",
-            "preacher_name": "Steven J. Lawson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steven J. Lawson",
             "_scripture": [
                 {
                     "book": "Mark",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5983-download",
-            "preacher_name": "Ron Ritchie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Ritchie",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

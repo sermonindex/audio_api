@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The Anointed Body of Christ in China",
+        "url": "http:\/\/api.sermonindex.net\/SID12708",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 48, 1 Corinthians 12:27, Philippians 3:17-20",
+        "topic": "Church In China",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12708-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "3"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "12"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "48"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Voice Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16365-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Abimelech",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16371-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Macedonia",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16369-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "False Prophets",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16367-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Miracles",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16368-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Calvinism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16366-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "David",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16370-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         },
         {
@@ -110,9 +96,7 @@
             "topic": "Naaman",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16364-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         }
     ]

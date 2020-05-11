@@ -11,9 +11,7 @@
             "topic": "Satanic Attack",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22098-download",
-            "preacher_name": "Jim Logan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Logan",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Satanic Attack",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22099-download",
-            "preacher_name": "Jim Logan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Logan",
             "_scripture": []
         }
     ]

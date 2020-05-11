@@ -1,0 +1,111 @@
+[
+    {
+        "title": "(Alabama) The Prodigal",
+        "url": "http:\/\/api.sermonindex.net\/SID15637",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prodigal Son",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15637-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": []
+    },
+    {
+        "title": "Father Of The Prodigal Son",
+        "url": "http:\/\/api.sermonindex.net\/SID18345",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11-32",
+        "topic": "Prodigal Son",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18345-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Give Me Mine",
+        "url": "http:\/\/api.sermonindex.net\/SID22515",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11-14",
+        "topic": "Prodigal Son",
+        "description": "The Parable of the Prodigal Son is a story about how idolatry erodes community. We often become guilty of idolatry when we place our ultimate desire in getting things from God rather than in God himself. Only when we are captivated by the beauty of the gospel can we be changed by it in such a way that we love God and other people more than ourselves.",
+        "download": "http:\/\/api.sermonindex.net\/SID22515-download",
+        "speaker_name": "Tim Keller",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "The Father of the Prodigal Son",
+        "url": "http:\/\/api.sermonindex.net\/SID3812",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11-32",
+        "topic": "Prodigal Son",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3812-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "The Other Prodigal",
+        "url": "http:\/\/api.sermonindex.net\/SID0199",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prodigal Son",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0199-download",
+        "speaker_name": "Harold Vaughan",
+        "_scripture": []
+    },
+    {
+        "title": "The Prodigal Son",
+        "url": "http:\/\/api.sermonindex.net\/SID23870",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11-32",
+        "topic": "Prodigal Son",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23870-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "The Prodigal Son",
+        "url": "http:\/\/api.sermonindex.net\/SID10170",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11",
+        "topic": "Prodigal Son",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10170-download",
+        "speaker_name": "Welcome Detweiler",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    }
+]

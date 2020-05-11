@@ -1,0 +1,35 @@
+[
+    {
+        "title": "K-016 The Two Judaisms",
+        "url": "http:\/\/api.sermonindex.net\/SID12281",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Judaism",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12281-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Two Judaisms",
+        "url": "http:\/\/api.sermonindex.net\/SID11559",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 17:5, Genesis 12:1",
+        "topic": "Judaism",
+        "description": "Art Katz speaks with authority and prophetic insight on the 2 religions in the world. The one that originates from men and the one that is from God in heaven. There is such importance in these things towards Israel, the cross, separation and death to self.",
+        "download": "http:\/\/api.sermonindex.net\/SID11559-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "12"
+            },
+            {
+                "book": "Jeremiah",
+                "chapter": "17"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12492-download",
-            "preacher_name": "Tom Orr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Orr",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12493-download",
-            "preacher_name": "Tom Orr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Orr",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12494-download",
-            "preacher_name": "Tom Orr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Orr",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12495-download",
-            "preacher_name": "Tom Orr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Orr",
             "_scripture": []
         }
     ]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Self Control Or Castaways Missions Conf. 1985",
+        "url": "http:\/\/api.sermonindex.net\/SID17532",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Self Control",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17532-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": []
+    },
+    {
+        "title": "Self-Control",
+        "url": "http:\/\/api.sermonindex.net\/SID23876",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Galatians 2:22-23",
+        "topic": "Self Control",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23876-download",
+        "speaker_name": "Richard Sipley",
+        "_scripture": [
+            {
+                "book": "Galatians",
+                "chapter": "2"
+            }
+        ]
+    }
+]

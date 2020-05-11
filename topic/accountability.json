@@ -11,9 +11,7 @@
             "topic": "Accountability",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0481-download",
-            "preacher_name": "Leonard Ravenhill",
-            "preacher_image": "\/images\/leonard_ravenhill.gif",
-            "preacher_description": "Leonard Ravenhill (1907 \u00c2\u2013 1994)\r\nListen to freely downloadable audio sermons by the speaker Leonard Ravenhill in mp3 format. A revivalist and man of God who sought God's will above all else. He was a man of prayer who practiced what he preached. He wrote the book: 'Why Revival Tarries' which has become a classic on revival. His prophetic edge and burden made him to be respected by some and disliked by others. Yet he stayed true to God's call on his life prayed and pleading for true heaven sent revival. \r\n\r\n\"Those who know of Leonard Ravenhill recognize in him the religious specialist, the man sent from God to battle the priests of Baal on their own mountain top, to shame the careless priest at the altar, to face the false prophet, and to warn the people who are being led astray by him. \" - Tozer | \"Leonard Ravenhill was one of the few men I have ever known who was a true prophet.\" - David Wilkerson",
+            "speaker_name": "Leonard Ravenhill",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -30,9 +28,7 @@
             "topic": "Accountability",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0482-download",
-            "preacher_name": "Leonard Ravenhill",
-            "preacher_image": "\/images\/leonard_ravenhill.gif",
-            "preacher_description": "Leonard Ravenhill (1907 \u00c2\u2013 1994)\r\nListen to freely downloadable audio sermons by the speaker Leonard Ravenhill in mp3 format. A revivalist and man of God who sought God's will above all else. He was a man of prayer who practiced what he preached. He wrote the book: 'Why Revival Tarries' which has become a classic on revival. His prophetic edge and burden made him to be respected by some and disliked by others. Yet he stayed true to God's call on his life prayed and pleading for true heaven sent revival. \r\n\r\n\"Those who know of Leonard Ravenhill recognize in him the religious specialist, the man sent from God to battle the priests of Baal on their own mountain top, to shame the careless priest at the altar, to face the false prophet, and to warn the people who are being led astray by him. \" - Tozer | \"Leonard Ravenhill was one of the few men I have ever known who was a true prophet.\" - David Wilkerson",
+            "speaker_name": "Leonard Ravenhill",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -49,9 +45,7 @@
             "topic": "Accountability",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18364-download",
-            "preacher_name": "Bill McLeod",
-            "preacher_image": "\/images\/bill_mcleod.gif",
-            "preacher_description": "Bill McLeod (1919 - 2012)\r\nListen to freely downloadable audio sermons by the speaker Bill McLeod in mp3 format. Bill Mcleod was the pastor of Ebenezer Baptist Church for many years where ultimately God sent revival to that affecting much of Canada. He had a passion to know God and His word. Paul Washer said he was one of the most godly men he met in Canada.\r\n\r\nBill Mcleod had been praying and had his congregation praying for revival for years. On, October 17, 1971, God in His sovereignty came in revival. Without human means or explanation, the revival spread from church to church, community to community, city to city, and not long after from province to province. This has become known as the 1971 Canadian Revival movement.",
+            "speaker_name": "Bill McLeod",
             "_scripture": []
         },
         {
@@ -63,9 +57,7 @@
             "topic": "Accountability",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21968-download",
-            "preacher_name": "Andy Stanley",
-            "preacher_image": "",
-            "preacher_description": "Andy Stanley ( - )\r\nListen to freely downloadable audio sermons by the speaker Andy Stanley in mp3 format.  Is the senior pastor of North Point Community Church, Buckhead Church, Browns Bridge Community Church, Gwinnett Church and Watermarke Church. He also founded North Point Ministries, which is a worldwide Christian organization.\r\nIn January, 2009, Stanley was selected to be the fourth speaker at the National Prayer Service following the inauguration. In addition, Andy Stanley has been a frequent speaker at Willow Creek Association's Global Leadership Summit. The Summit was founded by BIll Hybels in 1995. Stanley now lives in Alpharetta, Georgia with his wife, Sandra, and his three children: Andrew, Garrett, and Allie.",
+            "speaker_name": "Andy Stanley",
             "_scripture": []
         },
         {
@@ -77,9 +69,7 @@
             "topic": "Accountability",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22219-download",
-            "preacher_name": "Michael L. Brown",
-            "preacher_image": "",
-            "preacher_description": "Michael L. Brown ( - )\r\nListen to freely downloadable audio sermons by the speaker Michael L. Brown in mp3 format.  Michael L. Brown is the founder and president of FIRE School of Ministry in Concord, North Carolina, director of the Coalition of Conscience, and host of the daily, nationally, syndicated talk radio show, The Line of Fire, as well as the host of the Jewish-outreach, documentary TV series, Think It Thru, which airs internationally on the INI network. He became a believer in Jesus 1971 as a sixteen year-old, heroin-shooting, LSD-using Jewish rock drummer. Since then, he has preached throughout America and around the world, bringing a message of repentance, revival, reformation, and cultural revolution.\r\nDr. Brown is a national and international speaker on themes of spiritual renewal and cultural reformation, and he has debated Jewish rabbis, agnostic professors, and gay activists on radio, TV, and college campuses. He is widely considered to be the world's foremost Messianic Jewish apologist. He and his wife Nancy, who is also a Jewish believer in Jesus, have been married since 1976. They have two daughters and four grandchildren.",
+            "speaker_name": "Michael L. Brown",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17403-download",
-            "preacher_name": "Sister Charlotte",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sister Charlotte",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17404-download",
-            "preacher_name": "Sister Charlotte",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sister Charlotte",
             "_scripture": []
         }
     ]

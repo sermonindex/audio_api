@@ -12,9 +12,7 @@
             "topic": "Choices",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7920-download",
-            "preacher_name": "Randy Amos",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Amos",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Anticipation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7921-download",
-            "preacher_name": "Randy Amos",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Amos",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7922-download",
-            "preacher_name": "Randy Amos",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randy Amos",
             "_scripture": []
         }
     ]

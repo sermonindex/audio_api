@@ -9,12 +9,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Open-Air Preaching",
+            "topic": "OpenAir Preaching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22599-download",
-            "preacher_name": "Jon Speed",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Speed",
             "_scripture": []
         }
     ]

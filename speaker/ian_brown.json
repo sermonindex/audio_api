@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14195-download",
-            "preacher_name": "Ian Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ian Brown",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14193-download",
-            "preacher_name": "Ian Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ian Brown",
             "_scripture": []
         }
     ]

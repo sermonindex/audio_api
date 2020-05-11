@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17126-download",
-            "preacher_name": "John Metcalfe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Metcalfe",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17125-download",
-            "preacher_name": "John Metcalfe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Metcalfe",
             "_scripture": []
         }
     ]

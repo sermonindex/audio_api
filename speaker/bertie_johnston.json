@@ -12,9 +12,7 @@
             "topic": "Wrath",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23689-download",
-            "preacher_name": "Bertie Johnston",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bertie Johnston",
             "_scripture": []
         }
     ]

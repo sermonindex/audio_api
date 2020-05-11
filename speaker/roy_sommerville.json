@@ -12,9 +12,7 @@
             "topic": "Reproducing Disciples",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25101-download",
-            "preacher_name": "Roy Sommerville",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roy Sommerville",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Discipleship",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25113-download",
-            "preacher_name": "Roy Sommerville",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roy Sommerville",
             "_scripture": [
                 {
                     "book": "Luke",

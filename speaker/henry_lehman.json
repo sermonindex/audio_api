@@ -12,9 +12,7 @@
             "topic": "Anabaptist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28433-download",
-            "preacher_name": "Henry Lehman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Henry Lehman",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Surrender",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28429-download",
-            "preacher_name": "Henry Lehman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Henry Lehman",
             "_scripture": []
         }
     ]

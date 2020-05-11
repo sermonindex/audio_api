@@ -12,9 +12,7 @@
             "topic": "Sardis",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22648-download",
-            "preacher_name": "John Blanchard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Blanchard",
             "_scripture": []
         }
     ]

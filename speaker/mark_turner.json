@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7267-download",
-            "preacher_name": "Mark Turner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Turner",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7129-download",
-            "preacher_name": "Mark Turner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Turner",
             "_scripture": [
                 {
                     "book": "1 Timothy",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7130-download",
-            "preacher_name": "Mark Turner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Turner",
             "_scripture": [
                 {
                     "book": "Hebrews",

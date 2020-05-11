@@ -1,0 +1,31 @@
+[
+    {
+        "title": "How to Be Changed",
+        "url": "http:\/\/api.sermonindex.net\/SID12669",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Change",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12669-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": []
+    },
+    {
+        "title": "The Great Change",
+        "url": "http:\/\/api.sermonindex.net\/SID18694",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 16:19\u00e2\u20ac\u201c31",
+        "topic": "Change",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18694-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "16"
+            }
+        ]
+    }
+]

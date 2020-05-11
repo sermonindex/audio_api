@@ -12,9 +12,7 @@
             "topic": "Solomon",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22635-download",
-            "preacher_name": "Paul Cook",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Cook",
             "_scripture": []
         }
     ]

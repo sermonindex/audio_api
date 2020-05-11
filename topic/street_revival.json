@@ -11,9 +11,7 @@
             "topic": "Street Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19747-download",
-            "preacher_name": "Andrew Strom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Strom",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Street Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19742-download",
-            "preacher_name": "Andrew Strom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Strom",
             "_scripture": []
         }
     ]

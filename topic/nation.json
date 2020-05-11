@@ -11,9 +11,7 @@
             "topic": "Nation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13691-download",
-            "preacher_name": "Jack Hibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jack Hibbs",
             "_scripture": [
                 {
                     "book": "2 Chronicles",

@@ -11,9 +11,7 @@
             "topic": "Calvinism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7960-download",
-            "preacher_name": "Colin Anderson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Colin Anderson",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -30,9 +28,7 @@
             "topic": "Calvinism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16366-download",
-            "preacher_name": "Charles Alexander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles Alexander",
             "_scripture": []
         }
     ]

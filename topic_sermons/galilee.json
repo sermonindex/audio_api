@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Following The Footsteps Of Christ) Back To Galilee",
+        "url": "http:\/\/api.sermonindex.net\/SID8370",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 4:13-15",
+        "topic": "Galilee",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8370-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "(Following The Footsteps Of Christ) The Stranger Of Galilee",
+        "url": "http:\/\/api.sermonindex.net\/SID8382",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 4:1-11",
+        "topic": "Galilee",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8382-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "4"
+            }
+        ]
+    }
+]

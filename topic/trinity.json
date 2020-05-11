@@ -11,9 +11,7 @@
             "topic": "Trinity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28645-download",
-            "preacher_name": "Michael Flowers",
-            "preacher_image": "",
-            "preacher_description": "Michael Flowers ( - )\r\nListen to freely downloadable audio sermons by the speaker Michael Flowers in mp3 format. Michael serves as the founding Rector (the lead pastor \/ priest) of St. Aidan\u00e2\u20ac\u2122s Anglican Church in Kansas City, MO. He received his Masters in Theology from Fuller Theological Seminary, Pasadena, CA. \r\n\r\nFor over 20 years, he served as a pastor in the Vineyard and a network of house churches around the San Francisco Bay Area. While on Sabbatical in KC, he answered his initial calling to become an Anglican priest and planted St. Aidan\u00e2\u20ac\u2122s, a member of the Anglican Church of North America. Michael is married to Liz, his beloved.",
+            "speaker_name": "Michael Flowers",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Trinity",
             "description": "New Testament writers often mention together the three persons of the Godhead; prayer is preeminently but not exclusively to be addressed to the Father; fatherhood in the realm of deity is the pattern for fatherhood in the human realm; the greatest gifts to us from the Father are not things but the gift of His Son and His Spirit; we must honor the Spirit in his role of giving insight into the glory of Christ; the Spirit is already given to God's people as the first installment of the glory which is coming to them; we experience the discrepancy between what we are and the inestimable gift of the Spirit; a great deal of our ineffectiveness and unfaithfulness in the church is because we have not taken hold of this promise of the Spirit's operation.",
             "download": "http:\/\/api.sermonindex.net\/SID0304-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Trinity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9381-download",
-            "preacher_name": "Ernest Barker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernest Barker",
             "_scripture": [
                 {
                     "book": "John",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14156-download",
-            "preacher_name": "Rich Tozour",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rich Tozour",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14157-download",
-            "preacher_name": "Rich Tozour",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rich Tozour",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14158-download",
-            "preacher_name": "Rich Tozour",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rich Tozour",
             "_scripture": []
         }
     ]

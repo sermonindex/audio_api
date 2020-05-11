@@ -11,9 +11,7 @@
             "topic": "Darkness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26707-download",
-            "preacher_name": "Mariano Di Gangi",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mariano Di Gangi",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Darkness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12435-download",
-            "preacher_name": "William MacDonald",
-            "preacher_image": "\/images\/william_macdonald.gif",
-            "preacher_description": "William MacDonald (1917 - 2007)\r\nListen to freely downloadable audio sermons by the speaker William MacDonald in mp3 format. Was President of Emmaus Bible College, teacher, Plymouth Brethren theologian and a prolific author of over 84 published books. MacDonald refused to accept royalties for his books but established a fund for translating his work Believers Bible Commentary into foreign languages.\r\n\r\n   Bill will be not only be remembered for the thousands upon thousands of lives he touched through his books, teaching and many personal letters, but for his Christ-like character and gentleness, yet powerful life lived by faith in Christ. One of his most impact-ful books is the small booklet called: \"True Discipleship\" it is recommended reading for every serious disciple of Christ.",
+            "speaker_name": "William MacDonald",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -44,9 +40,7 @@
             "topic": "Darkness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26654-download",
-            "preacher_name": "John Vissers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Vissers",
             "_scripture": []
         },
         {
@@ -58,9 +52,7 @@
             "topic": "Darkness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28399-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": []
         },
         {
@@ -72,9 +64,7 @@
             "topic": "Darkness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17281-download",
-            "preacher_name": "Steve Gallagher",
-            "preacher_image": "",
-            "preacher_description": "Steve Gallagher ( - )\r\nListen to freely downloadable audio sermons by the speaker Steve Gallagher in mp3 format. Steve Gallagher holds an Associates of Arts degree from Sacramento City College and a Master\u2019s Degree in Pastoral Ministry from Master\u2019s International School of Divinity. He is also a certified Biblical Counselor through the International Association of Biblical Counselors (IABC) in Denver, CO. He is the founder of Pure Life Ministries.\r\nHe has also authored 14 books, including the best-selling At the Altar of Sexual Idolatry, Intoxicated with Babylon, Standing Firm Through the Great Apostasy, and his latest work, The Time of Our Lives in Light of Eternity. The new mission God has called Steve Gallagher to became the Eternal Weight of Glory website which exposes the great apostasy, calls people to repentance and leads Christians into an eternal perspective.",
+            "speaker_name": "Steve Gallagher",
             "_scripture": []
         },
         {
@@ -86,9 +76,7 @@
             "topic": "Darkness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21121-download",
-            "preacher_name": "Alan Redpath",
-            "preacher_image": "\/images\/alan_redpath.gif",
-            "preacher_description": "Alan Redpath (1907 - 1989)\r\nListen to freely downloadable audio sermons by the speaker Alan Redpath in mp3 format. Redpath was a well-known preacher from England who pastored the famous Moody church in chicago for 7 years. He ministered at Keswick conventions and also deeper life meetings on the subject of revival, prayer, full-surrender. He spent the later years of his life ministering Capernwray bible school movement founded by Major Ian Thomas.\r\n\r\nDr. Redpath authored six books; the first one, Victorious Christian Living, was published in 1955. Others were Victorious Prayer (1956), Victorious Christian Service (1958), The Royal Route to Heaven (1960), Blessings Out of Buffettings (1965), The Making of a Man of God (1962), and Law and Liberty and Captivity to Conquest (1978).",
+            "speaker_name": "Alan Redpath",
             "_scripture": []
         }
     ]

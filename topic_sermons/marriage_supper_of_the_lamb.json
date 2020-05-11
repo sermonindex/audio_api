@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Revelation) The Marriage Supper of the Lamb - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID7086",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 19:7-10",
+        "topic": "Marriage Supper of the Lamb",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7086-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "(Revelation) The Marriage Supper of the Lamb - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID7087",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 19:11-16",
+        "topic": "Marriage Supper of the Lamb",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7087-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "19"
+            }
+        ]
+    }
+]

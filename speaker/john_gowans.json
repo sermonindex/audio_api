@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "John Gowans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Gowans",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12335-download",
-            "preacher_name": "John Gowans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Gowans",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12339-download",
-            "preacher_name": "John Gowans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Gowans",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12336-download",
-            "preacher_name": "John Gowans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Gowans",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12337-download",
-            "preacher_name": "John Gowans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Gowans",
             "_scripture": []
         }
     ]

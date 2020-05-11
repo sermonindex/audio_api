@@ -11,9 +11,7 @@
             "topic": "Open Heaven",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22202-download",
-            "preacher_name": "James A. Stewart",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James A. Stewart",
             "_scripture": []
         }
     ]

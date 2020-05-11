@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Trial of Your Faith",
+        "url": "http:\/\/api.sermonindex.net\/SID25576",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 1:1-9",
+        "topic": "Trial",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25576-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "1"
+            }
+        ]
+    }
+]

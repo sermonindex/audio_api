@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12011-download",
-            "preacher_name": "William McCrea",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William McCrea",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12012-download",
-            "preacher_name": "William McCrea",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William McCrea",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12010-download",
-            "preacher_name": "William McCrea",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William McCrea",
             "_scripture": [
                 {
                     "book": "Jeremiah",

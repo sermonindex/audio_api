@@ -12,9 +12,7 @@
             "topic": "Materialism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19604-download",
-            "preacher_name": "Roger Hertzler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roger Hertzler",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Witnessing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25935-download",
-            "preacher_name": "Roger Hertzler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roger Hertzler",
             "_scripture": []
         }
     ]

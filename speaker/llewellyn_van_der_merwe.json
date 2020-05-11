@@ -12,9 +12,7 @@
             "topic": "Born Again",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20475-download",
-            "preacher_name": "Llewellyn Van Der Merwe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Llewellyn Van Der Merwe",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20474-download",
-            "preacher_name": "Llewellyn Van Der Merwe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Llewellyn Van Der Merwe",
             "_scripture": []
         }
     ]

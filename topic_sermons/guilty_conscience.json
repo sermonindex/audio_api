@@ -1,0 +1,53 @@
+[
+    {
+        "title": "(Genesis) 58 - The Persistent Power of a Guilty Conscience",
+        "url": "http:\/\/api.sermonindex.net\/SID13101",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 42:1-38",
+        "topic": "Guilty Conscience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13101-download",
+        "speaker_name": "S. Lewis Johnson",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "42"
+            }
+        ]
+    },
+    {
+        "title": "Blood On Your Hands",
+        "url": "http:\/\/api.sermonindex.net\/SID9043",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ezekiel 3:18-21",
+        "topic": "Guilty Conscience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9043-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Ezekiel",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Plagued by a Guilty Conscience",
+        "url": "http:\/\/api.sermonindex.net\/SID12990",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 2:2-12",
+        "topic": "Guilty Conscience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12990-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(John) The Childness Of The Critics",
+        "url": "http:\/\/api.sermonindex.net\/SID6863",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 9:13-41",
+        "topic": "Criticism",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6863-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "9"
+            }
+        ]
+    },
+    {
+        "title": "Handling Criticism",
+        "url": "http:\/\/api.sermonindex.net\/SID25940",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Criticism",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25940-download",
+        "speaker_name": "Neil T. Anderson",
+        "_scripture": []
+    }
+]

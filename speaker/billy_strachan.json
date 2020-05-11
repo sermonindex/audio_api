@@ -12,9 +12,7 @@
             "topic": "Prayer Meeting",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20356-download",
-            "preacher_name": "Billy Strachan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Billy Strachan",
             "_scripture": []
         }
     ]

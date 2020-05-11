@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22393-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -35,9 +33,7 @@
             "topic": "",
             "description": "One of the most astonishing statements in the Bible describing the possibility of being physically alive and yet virtually dead in the soul. Why would this be true of us? Here are the reasons, and what may be done to find life, through the measures God has taken.",
             "download": "http:\/\/api.sermonindex.net\/SID16714-download",
-            "preacher_name": "Peter Masters",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Masters",
             "_scripture": [
                 {
                     "book": "Deuteronomy",

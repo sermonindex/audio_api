@@ -1,0 +1,44 @@
+[
+    {
+        "title": "I Am Thy Strength and Shield - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID20748",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 12:1, Genesis 13:1-18",
+        "topic": "Provision Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20748-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "12"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "I Am Thy Strength and Shield - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID20745",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 12:1, Genesis 13:1-18",
+        "topic": "Provision Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20745-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "12"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "13"
+            }
+        ]
+    }
+]

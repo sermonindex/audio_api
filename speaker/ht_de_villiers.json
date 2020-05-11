@@ -12,9 +12,7 @@
             "topic": "Personal Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18521-download",
-            "preacher_name": "H.T. De Villiers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H.T. De Villiers",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20805-download",
-            "preacher_name": "H.T. De Villiers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H.T. De Villiers",
             "_scripture": [
                 {
                     "book": "Joel",

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "(Fury of Fire) 07 - Close to Being Cursed",
+        "url": "http:\/\/api.sermonindex.net\/SID12181",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 7",
+        "topic": "Cursed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12181-download",
+        "speaker_name": "Milton Green",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "7"
+            }
+        ]
+    },
+    {
+        "title": "(Fury of Fire) 08 - Close to Being Cursed",
+        "url": "http:\/\/api.sermonindex.net\/SID12182",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 5",
+        "topic": "Cursed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12182-download",
+        "speaker_name": "Milton Green",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "(Fury of Fire) 09 - Close to Being Cursed",
+        "url": "http:\/\/api.sermonindex.net\/SID12183",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians  5:5",
+        "topic": "Cursed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12183-download",
+        "speaker_name": "Milton Green",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

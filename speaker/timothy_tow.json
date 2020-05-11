@@ -12,9 +12,7 @@
             "topic": "Parental Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21708-download",
-            "preacher_name": "Timothy Tow",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Tow",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12100-download",
-            "preacher_name": "Timothy Tow",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Tow",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12106-download",
-            "preacher_name": "Timothy Tow",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Tow",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Cremation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21707-download",
-            "preacher_name": "Timothy Tow",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Tow",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Pleasing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21709-download",
-            "preacher_name": "Timothy Tow",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Tow",
             "_scripture": []
         }
     ]

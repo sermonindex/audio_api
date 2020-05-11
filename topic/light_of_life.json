@@ -11,9 +11,7 @@
             "topic": "Light Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1176-download",
-            "preacher_name": "Danny Bond",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Danny Bond",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Light Of Life",
             "description": "December 31, 2006 - God is light and in Him there is no darkness. God wants a testimony of this light working in us to be a clear display that God cares for us and no matter what we have to go through He is carrying us and His presence is sufficient to sustain us. The power source of this light is Jesus Christ and His life burning in us. This light is not kindled by man and cannot be put out by man. There is a process of brokenness and crushing that God will allow in our lives that will produce a cry that will say, \"Father into your hands I commit my spirit.\" It is a crushing that produces a cry and a commitment that we will be a flame of fire burning for Jesus Christ.",
             "download": "http:\/\/api.sermonindex.net\/SID14468-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -44,9 +40,7 @@
             "topic": "Light Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6714-download",
-            "preacher_name": "Oswald J. Smith",
-            "preacher_image": "\/images\/oswald_j_smith.gif",
-            "preacher_description": "Oswald J. Smith (1889 - 1986)\r\nListen to freely downloadable audio sermons by the speaker Oswald J. Smith in mp3 format. Was a Canadian pastor, author, and missions advocate. He founded The People's Church in Toronto in 1928. Over the course of eighty years he preached more than 12,000 sermons in 80 countries, wrote thirty-five books (with translations into 128 languages), as well as 1,200 poems, of which 100 have been set to music, including \"Deeper and Deeper\" (first line \"Into the heart of Jesus\").\r\nThe great burden of Oswald J. Smith's Christian life was to see the lost come to the Lord. He was well known for the motto: \"We talk of the Second Coming; half the world has never heard of the first.\" and \"No one has the right to hear the gospel twice, while there remains someone who has not heard it once.\"",
+            "speaker_name": "Oswald J. Smith",
             "_scripture": []
         }
     ]

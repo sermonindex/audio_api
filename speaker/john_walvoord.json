@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13686-download",
-            "preacher_name": "John Walvoord",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Walvoord",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13687-download",
-            "preacher_name": "John Walvoord",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Walvoord",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13688-download",
-            "preacher_name": "John Walvoord",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Walvoord",
             "_scripture": []
         }
     ]

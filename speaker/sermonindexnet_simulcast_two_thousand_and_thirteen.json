@@ -12,9 +12,7 @@
             "topic": "Revival In China",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25080-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "America",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25081-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "False gospels",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25082-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Foolish Virgins",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25083-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Persecution",
             "description": "Brother Edgar shares an important message that is prophetic for the body of Christ in North America. He speaks of a coming persecution that we must prepare for now. We must be in obedience now and simply follow the Lord in His revival for North America. The time is now to go and witness and be the body of Christ to others.",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -87,9 +77,7 @@
             "topic": "Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25085-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "Law of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25078-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "Evangelism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25086-download",
-            "preacher_name": "SermonIndex.net Simulcast 2013",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "SermonIndex.net Simulcast 2013",
             "_scripture": []
         }
     ]

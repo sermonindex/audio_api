@@ -12,9 +12,7 @@
             "topic": "Freedom",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19804-download",
-            "preacher_name": "Jon Appleton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jon Appleton",
             "_scripture": []
         }
     ]

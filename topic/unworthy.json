@@ -11,9 +11,7 @@
             "topic": "Unworthy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24003-download",
-            "preacher_name": "David Wong",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Wong",
             "_scripture": [
                 {
                     "book": "Isaiah",

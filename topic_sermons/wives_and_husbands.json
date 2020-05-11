@@ -1,0 +1,36 @@
+[
+    {
+        "title": "1 Peter 3:1",
+        "url": "http:\/\/api.sermonindex.net\/SID2193",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 3:1",
+        "topic": "Wives and Husbands",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2193-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "1 Peter 3:1b",
+        "url": "http:\/\/api.sermonindex.net\/SID2194",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 3:1",
+        "topic": "Wives and Husbands",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2194-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "3"
+            }
+        ]
+    }
+]

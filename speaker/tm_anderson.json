@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16594-download",
-            "preacher_name": "T.M. Anderson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "T.M. Anderson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16593-download",
-            "preacher_name": "T.M. Anderson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "T.M. Anderson",
             "_scripture": []
         }
     ]

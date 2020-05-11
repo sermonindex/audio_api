@@ -12,9 +12,7 @@
             "topic": "Satan",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27452-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27453-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Facts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27455-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Discernment",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27456-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Devil",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27457-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Protection",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27458-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Righteousness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27459-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -110,9 +96,7 @@
             "topic": "Protection",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27460-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "Prodigal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27454-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -138,9 +120,7 @@
             "topic": "Love Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27461-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         },
         {
@@ -152,9 +132,7 @@
             "topic": "Heart",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27462-download",
-            "preacher_name": "Ray Greenly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Greenly",
             "_scripture": []
         }
     ]

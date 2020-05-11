@@ -11,9 +11,7 @@
             "topic": "Apologetics",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17566-download",
-            "preacher_name": "Francis Schaefer",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Francis Schaefer",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Apologetics",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13704-download",
-            "preacher_name": "Charlie Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Campbell",
             "_scripture": []
         }
     ]

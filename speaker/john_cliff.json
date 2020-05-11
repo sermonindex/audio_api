@@ -12,9 +12,7 @@
             "topic": "Anniversary",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9953-download",
-            "preacher_name": "John Cliff",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Cliff",
             "_scripture": []
         }
     ]

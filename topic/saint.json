@@ -11,9 +11,7 @@
             "topic": "Saint",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28726-download",
-            "preacher_name": "Keith Hartsell",
-            "preacher_image": "",
-            "preacher_description": "Keith Hartsell\r\nListen to freely downloadable audio sermons by the speaker Keith Hartsell in mp3 format. God has called Fr. Keith to be the senior pastor in the parish and the pastor of catechists and leaders, building the church and multiplying churches to bring hope and healing into every life at Redeemer Anglican Church.\r\n\r\nOur service at Redeemer Anglican is traditional Anglican worship that unites us with our fellow believers around the world. Liturgical elements include singing, reading of scripture, a sermon, prayer, communal time of confession, giving, and the Eucharist.",
+            "speaker_name": "Keith Hartsell",
             "_scripture": []
         }
     ]

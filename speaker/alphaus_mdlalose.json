@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17117-download",
-            "preacher_name": "Alphaus Mdlalose",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alphaus Mdlalose",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17123-download",
-            "preacher_name": "Alphaus Mdlalose",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alphaus Mdlalose",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3993-download",
-            "preacher_name": "Alphaus Mdlalose",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alphaus Mdlalose",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Grace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22344-download",
-            "preacher_name": "Paul D. Tripp",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul D. Tripp",
             "_scripture": [
                 {
                     "book": "Romans",

@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22439-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -35,9 +33,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22444-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -58,9 +54,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5996-download",
-            "preacher_name": "Proverbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Proverbs",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -77,9 +71,7 @@
             "topic": "",
             "description": "Stephen continues the series on returning to Christ with this discussion of the results of returning to Christ. These results can be summarized as: Fulfill the eternal purpose of God, Christ begins to transform us, We are ready for Christ, We are prepared for our reward.",
             "download": "http:\/\/api.sermonindex.net\/SID13826-download",
-            "preacher_name": "Stephen  Kaung",
-            "preacher_image": "\/images\/stephen_kaung.gif",
-            "preacher_description": "Stephen Kaung ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Stephen Kaung in mp3 format. Stephen Kaung is a Chinese Chrisitan speaker and writer, and now living in Richmond, Virgina. At an early age was converted to Christianity and was active in the Methodist Church in China, with home his father was a minister. He first met watchman need in the early 1930's and joined Nee's indigenous christian work full-time, working with him until 1949 when he left China and became involved with Christian work in other ares of the Far East.\r\n\r\nStephen Kaung worked very closely with T Austin-Sparks until his death in 1972. His burden has been to allow a testimony of the Lord in the local assembly, and to help the saints see the great importance of the Church as God intended it. Stephen Kaung's major work has been to translate the writings of Watchman Nee into English, over 50 titles which have been published by his own organisation, Christian Fellowship Publishers (CFP), In Richmond, Virgina.",
+            "speaker_name": "Stephen  Kaung",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -104,9 +96,7 @@
             "topic": "Wisdom",
             "description": "Wisdom cries out and utters her voice in the streets. Wisdom cries out to the simple ones so that men would turn from their evil ways and be filled with God\u2019s presence. Wisdom has built a perfect house and this perfect house is the body of Christ. This house send forth messengers who have the same cry as does the heart of Christ for men that were created in the image of God. Wisdom is demonstrated in godly passion for the lost. If the wisdom of God has been planted in us then the passion in the heart of God becomes our passion.",
             "download": "http:\/\/api.sermonindex.net\/SID11930-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Proverbs",

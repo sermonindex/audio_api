@@ -11,9 +11,7 @@
             "topic": "Remedy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9774-download",
-            "preacher_name": "J. Henry Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Henry Brown",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -30,9 +28,7 @@
             "topic": "Remedy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9773-download",
-            "preacher_name": "J. Henry Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Henry Brown",
             "_scripture": [
                 {
                     "book": "Genesis",

@@ -12,9 +12,7 @@
             "topic": "Cross Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8045-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -31,9 +29,7 @@
             "topic": "Approval",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8011-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -45,9 +41,7 @@
             "topic": "Saviour",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8015-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -56,12 +50,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Voice",
+            "topic": "Gods Voice",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8026-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "Apollos",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8040-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -92,9 +82,7 @@
             "topic": "Apollos",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8020-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -106,9 +94,7 @@
             "topic": "Ascension",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8009-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -120,9 +106,7 @@
             "topic": "Revelation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8022-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -134,9 +118,7 @@
             "topic": "Bible Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8043-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -148,9 +130,7 @@
             "topic": "Election",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8027-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -162,9 +142,7 @@
             "topic": "Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8054-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -181,9 +159,7 @@
             "topic": "Power Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8024-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -195,9 +171,7 @@
             "topic": "Jesus Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8055-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -214,9 +188,7 @@
             "topic": "Calling Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8018-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -228,9 +200,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8021-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -242,9 +212,7 @@
             "topic": "Rest",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8044-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -261,9 +229,7 @@
             "topic": "Melchizedek",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8038-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -275,9 +241,7 @@
             "topic": "Mighty Men",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8053-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "1 Samuel",
@@ -294,9 +258,7 @@
             "topic": "Name Of The Lord",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8013-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -308,9 +270,7 @@
             "topic": "Vessel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8017-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -322,9 +282,7 @@
             "topic": "Jesus Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8012-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -336,9 +294,7 @@
             "topic": "Blessedness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8028-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -355,9 +311,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8046-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -374,9 +328,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8034-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -393,9 +345,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8033-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -412,9 +362,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8041-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -431,9 +379,7 @@
             "topic": "Shepard",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8048-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -450,9 +396,7 @@
             "topic": "Restoration",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8049-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -469,9 +413,7 @@
             "topic": "Protection",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8050-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -488,9 +430,7 @@
             "topic": "Mercy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8051-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -507,9 +447,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8029-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -526,9 +464,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8036-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -545,9 +481,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8037-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -564,9 +498,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8030-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -583,9 +515,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8035-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -602,9 +532,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8031-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -621,9 +549,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8032-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -640,9 +566,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8047-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -659,9 +583,7 @@
             "topic": "Revelation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8008-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -673,9 +595,7 @@
             "topic": "Deliverance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8019-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -687,9 +607,7 @@
             "topic": "",
             "description": "Carl Amerding continues his verse by verse expository on the book of Isaiah, discussing man's search for security and how it should be grounded in the One who is entirely secure in Himself.",
             "download": "http:\/\/api.sermonindex.net\/SID8025-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -706,9 +624,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8039-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "2 Kings",
@@ -725,9 +641,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8042-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -744,9 +658,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8014-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -758,9 +670,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8016-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -772,9 +682,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8052-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -791,9 +699,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8023-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         },
         {
@@ -805,9 +711,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8010-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         }
     ]

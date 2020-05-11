@@ -1,0 +1,61 @@
+[
+    {
+        "title": "The Body Life - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID17205",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 1:15-23",
+        "topic": "Body Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17205-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "The Body Life - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID17206",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 4:15-16, Colossians 2:19, Romans 12:3-5",
+        "topic": "Body Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17206-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "4"
+            },
+            {
+                "book": "Colossians",
+                "chapter": "2"
+            },
+            {
+                "book": "Romans",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "The Body Life - Part 3",
+        "url": "http:\/\/api.sermonindex.net\/SID17207",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 2:42",
+        "topic": "Body Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17207-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "2"
+            }
+        ]
+    }
+]

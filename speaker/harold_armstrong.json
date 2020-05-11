@@ -12,9 +12,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19805-download",
-            "preacher_name": "Harold Armstrong",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Armstrong",
             "_scripture": []
         }
     ]

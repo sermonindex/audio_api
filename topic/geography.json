@@ -11,9 +11,7 @@
             "topic": "Geography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10300-download",
-            "preacher_name": "Harold Erickson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Erickson",
             "_scripture": [
                 {
                     "book": "Genesis",

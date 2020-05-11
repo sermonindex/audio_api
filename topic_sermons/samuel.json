@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Background on First Samuel",
+        "url": "http:\/\/api.sermonindex.net\/SID25645",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Samuel",
+        "topic": "Samuel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25645-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "FREN-07 Samuel the Prophet",
+        "url": "http:\/\/api.sermonindex.net\/SID14175",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Samuel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14175-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Call of Samuel",
+        "url": "http:\/\/api.sermonindex.net\/SID25810",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Samuel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25810-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "The Child Samuel",
+        "url": "http:\/\/api.sermonindex.net\/SID28089",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Samuel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28089-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": []
+    }
+]

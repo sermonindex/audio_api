@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Signs And Wonders",
+        "url": "http:\/\/api.sermonindex.net\/SID23540",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 13:50-51",
+        "topic": "Signs And Wonders",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23540-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "13"
+            }
+        ]
+    }
+]

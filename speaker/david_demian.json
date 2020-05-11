@@ -12,9 +12,7 @@
             "topic": "China",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25450-download",
-            "preacher_name": "David Demian",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Demian",
             "_scripture": []
         }
     ]

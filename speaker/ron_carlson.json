@@ -12,9 +12,7 @@
             "topic": "Freemasonary",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19850-download",
-            "preacher_name": "Ron Carlson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Carlson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Mormonism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19849-download",
-            "preacher_name": "Ron Carlson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Carlson",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Cults",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19848-download",
-            "preacher_name": "Ron Carlson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Carlson",
             "_scripture": []
         }
     ]

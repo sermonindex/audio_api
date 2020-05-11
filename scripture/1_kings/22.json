@@ -12,9 +12,7 @@
             "topic": "Laughing Revival",
             "description": "This message powerfully rebukes the \"laughing revival\" as well as the other movements. Based on the story of Jehoshaphat and Ahab in 1 Kings chapter 22, where the many prophets were prophesying \"go up and prosper\" while one, a true prophet of the Lord prophesied in truth.",
             "download": "http:\/\/api.sermonindex.net\/SID1754-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "1 Kings",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "There is great attack against those on the \"front lines\" in ministry. The devil is aiming all of his amunition toward those who \"love God and are the called according to His purpose.\" This is a message about the war with the principalities, a war that true Christian\u2019s fight each and every day.  This spiritual war was declared in the Garden of Eden but in these last days Satan is changing his plans.  Time is near and Satan knows that his time is short.  Since the cross, Satan has approached this spiritual warfare in a different way for those that are covered by the blood of Jesus Christ.",
             "download": "http:\/\/api.sermonindex.net\/SID1043-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Revelation",

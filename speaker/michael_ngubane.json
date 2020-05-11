@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3282-download",
-            "preacher_name": "Michael Ngubane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Ngubane",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3268-download",
-            "preacher_name": "Michael Ngubane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Ngubane",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7614-download",
-            "preacher_name": "Michael Ngubane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Ngubane",
             "_scripture": []
         }
     ]

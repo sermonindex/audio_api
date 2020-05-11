@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16131-download",
-            "preacher_name": "George Plante",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "George Plante",
             "_scripture": [
                 {
                     "book": "Psalms",

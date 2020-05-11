@@ -1,0 +1,43 @@
+[
+    {
+        "title": "NOR-01 A True Apostle",
+        "url": "http:\/\/api.sermonindex.net\/SID14252",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apostle",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14252-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Formation of an Apostle",
+        "url": "http:\/\/api.sermonindex.net\/SID10877",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apostle",
+        "description": "God's way is timeless in the preparation of those who are called to His own purposes. An episode out of the life of Moses that would give him the ability to lead Israel through the wilderness, namely, the ability to communicate God as God.",
+        "download": "http:\/\/api.sermonindex.net\/SID10877-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Making of an Apostle",
+        "url": "http:\/\/api.sermonindex.net\/SID10876",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Galatians 1:1-5",
+        "topic": "Apostle",
+        "description": "The church is called to the \"glory of God forever.\" An apostle lives and moves and has his being in this realm. An insight into the apostle Paul's life as is recorded in the first chapter of Galatians.",
+        "download": "http:\/\/api.sermonindex.net\/SID10876-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Galatians",
+                "chapter": "1"
+            }
+        ]
+    }
+]

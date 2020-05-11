@@ -11,9 +11,7 @@
             "topic": "Probation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12417-download",
-            "preacher_name": "S. Lewis Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S. Lewis Johnson",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -30,9 +28,7 @@
             "topic": "Probation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1261-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         }
     ]

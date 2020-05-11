@@ -12,9 +12,7 @@
             "topic": "Lukewarmness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19344-download",
-            "preacher_name": "Stanley Fox",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stanley Fox",
             "_scripture": []
         }
     ]

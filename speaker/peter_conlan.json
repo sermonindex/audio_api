@@ -12,9 +12,7 @@
             "topic": "Commitment",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23631-download",
-            "preacher_name": "Peter Conlan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Conlan",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20827-download",
-            "preacher_name": "Peter Conlan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Conlan",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18205-download",
-            "preacher_name": "Peter Conlan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Conlan",
             "_scripture": []
         }
     ]

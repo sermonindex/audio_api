@@ -11,9 +11,7 @@
             "topic": "Adoption",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28636-download",
-            "preacher_name": "Michael Flowers",
-            "preacher_image": "",
-            "preacher_description": "Michael Flowers ( - )\r\nListen to freely downloadable audio sermons by the speaker Michael Flowers in mp3 format. Michael serves as the founding Rector (the lead pastor \/ priest) of St. Aidan\u00e2\u20ac\u2122s Anglican Church in Kansas City, MO. He received his Masters in Theology from Fuller Theological Seminary, Pasadena, CA. \r\n\r\nFor over 20 years, he served as a pastor in the Vineyard and a network of house churches around the San Francisco Bay Area. While on Sabbatical in KC, he answered his initial calling to become an Anglican priest and planted St. Aidan\u00e2\u20ac\u2122s, a member of the Anglican Church of North America. Michael is married to Liz, his beloved.",
+            "speaker_name": "Michael Flowers",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Adoption",
             "description": "Bro. Wilkerson explains how you become a part of the family of God when you are born again and all the rights and inheritance you obtain as a child of God. He contrasts the vast difference in the inheritance the devil's family has waiting and the Lord's family. \u00a0God's people desperately need to know of a surety their position in Christ. This will defeat much of the work of the enemy in trying to hinder your walk with God. A must hear for every Christian.",
             "download": "http:\/\/api.sermonindex.net\/SID4296-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -48,9 +44,7 @@
             "topic": "Adoption",
             "description": "Having begun in the Spirit.  Part 4 of 4; Adoption, a change of relationship.  Delivered at a conference in Devon UK.  \u201cSession 4\u201d examines the neglected Bible truth of \u2018adoption\u2019 and its connection with the truth of being \u2018sealed with the Spirit\u2019 It unpacks Romans 8 to discover the possibility of an entirely new way of life as we to trust God to enable us to \u2018walk in the Spirit.\u2019  This is personal revival, available now.",
             "download": "http:\/\/api.sermonindex.net\/SID1834-download",
-            "preacher_name": "Ron Bailey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Bailey",
             "_scripture": []
         }
     ]

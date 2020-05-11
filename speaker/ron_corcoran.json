@@ -12,9 +12,7 @@
             "topic": "Renewal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20426-download",
-            "preacher_name": "Ron Corcoran",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Corcoran",
             "_scripture": [
                 {
                     "book": "Matthew",

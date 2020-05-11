@@ -11,9 +11,7 @@
             "topic": "Temperament",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21961-download",
-            "preacher_name": "Tim LaHaye",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tim LaHaye",
             "_scripture": []
         }
     ]

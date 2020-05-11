@@ -11,9 +11,7 @@
             "topic": "Well Of Sychar",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1443-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         }
     ]

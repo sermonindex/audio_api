@@ -11,9 +11,7 @@
             "topic": "Ephesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18659-download",
-            "preacher_name": "Roy Hession",
-            "preacher_image": "\/images\/roy_hession.gif",
-            "preacher_description": "Roy Hession (1908 - 1992)\r\nListen to freely downloadable audio sermons by the speaker Rolfe Barnard in mp3 format. Roy Hession was a famous post-war evangelist. He wrote many famous Christian classics including \"The Calvary Road.\" Which is currently have currently sold over 1 million copies world-wide. Although a British evangelist, Dr. Hession has spent considerable time ministering in the States under the sponsorship of Worldwide Evangelization Crusade (Ft. Washington, Pa.). This missionary organization was founded in 1914 by C.T Studd, and was directed for many years by his son-in-law, Norman Grubb.\r\n\r\nIn 1947 Hession met leaders of the East African Church which was then experiencing a sweeping revival, and recognized his deep personal need. It was like starting the Christian life over as he came humbly to the Cross. The principles which the Lord taught him were first published in 1950 as The Calvary Road and are now available in over 70 languages! Hession's other titles include We Would See Jesus and Be Filled Now.",
+            "speaker_name": "Roy Hession",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Ephesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6946-download",
-            "preacher_name": "Willie Mullan",
-            "preacher_image": "",
-            "preacher_description": "Willie Mullan (1911 - 1980)\r\nListen to freely downloadable audio sermons by the speaker Willie Mullan in mp3 format. Was a Northern Irish Evangelist. He was born in Newtownards, County Down, Ireland in 1911. In his book Tramp after God, he tells of living for more than three years as a tramp abusing alcohol and involved in crime. Willie Mullan had a religious conversion and from that time forward he decided he would strive to serve God.\r\n\r\n In 1953 Willie Mullan was called to Lurgan Baptist church, and in August of that year he commenced the work in Lurgan. One of his great accomplishments during this time was the Tuesday night Bible class. Every Tuesday night hundreds attended to hear the exposition of the Word. In 1957 William Hewitt and a team of helpers commenced the tape recordings of the Bible class. At least 1500 of these recordings remain until this day.",
+            "speaker_name": "Willie Mullan",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -44,9 +40,7 @@
             "topic": "Ephesus",
             "description": "Pastor Conlon illustrates how losing our love for the Lord will cost us, and what it will cost us. If you ave lost the loev for Christ you will not serve him joyfully, but out of duty or habit. This is a must hear message for those who have let their love grow cold in these last days.",
             "download": "http:\/\/api.sermonindex.net\/SID2878-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -71,9 +65,7 @@
             "topic": "Ephesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21984-download",
-            "preacher_name": "Alex Wiseman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alex Wiseman",
             "_scripture": []
         },
         {
@@ -85,9 +77,7 @@
             "topic": "Ephesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12695-download",
-            "preacher_name": "Denny Kenaston",
-            "preacher_image": "\/images\/denny_kenaston.gif",
-            "preacher_description": "Denny Kenaston (1949 - 2012)\r\nListen to freely downloadable audio sermons by the speaker Denny Kenaston in mp3 format. Denny were saved in 1972 out of the \u201cHippy culture.\u201d The Lord Jesus delivered them from drugs, drinking, and many other things that go along with that life style. They felt the Lord call them to help establish Charity Christian Fellowship in Lancaster county.\r\nBro Denny served as an elder in his church for many years. He also traveled extensively in a church planting, and preaching ministry. God has placed an anointing upon him to call the church back to a burden for the family. Tens of thousands of tape set have been sent out all over the world in the last twelve years. Many families have fallen on their faces in repentance, and received a new vision for a Godly Home.",
+            "speaker_name": "Denny Kenaston",
             "_scripture": []
         }
     ]

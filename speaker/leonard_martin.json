@@ -12,9 +12,7 @@
             "topic": "Greatness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19638-download",
-            "preacher_name": "Leonard Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Leonard Martin",
             "_scripture": []
         }
     ]

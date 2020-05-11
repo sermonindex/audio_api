@@ -12,9 +12,7 @@
             "topic": "Keith Green",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0527-download",
-            "preacher_name": "Melody Green",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Melody Green",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Keith Green",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0528-download",
-            "preacher_name": "Melody Green",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Melody Green",
             "_scripture": []
         }
     ]

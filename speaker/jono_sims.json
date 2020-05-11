@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17704-download",
-            "preacher_name": "Jono Sims",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jono Sims",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17702-download",
-            "preacher_name": "Jono Sims",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jono Sims",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17703-download",
-            "preacher_name": "Jono Sims",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jono Sims",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17705-download",
-            "preacher_name": "Jono Sims",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jono Sims",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17701-download",
-            "preacher_name": "Jono Sims",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jono Sims",
             "_scripture": []
         }
     ]

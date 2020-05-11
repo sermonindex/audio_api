@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27584-download",
-            "preacher_name": "J. Frank Norris",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Frank Norris",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -31,9 +29,7 @@
             "topic": "Resurrection",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27583-download",
-            "preacher_name": "J. Frank Norris",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Frank Norris",
             "_scripture": []
         }
     ]

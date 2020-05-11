@@ -12,9 +12,7 @@
             "topic": "Following Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22661-download",
-            "preacher_name": "Dan Augsburger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dan Augsburger",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Baptism Of The Holy Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22660-download",
-            "preacher_name": "Dan Augsburger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dan Augsburger",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Abundant Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22658-download",
-            "preacher_name": "Dan Augsburger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dan Augsburger",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Baptism Of The Holy Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22659-download",
-            "preacher_name": "Dan Augsburger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dan Augsburger",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Abundant Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22657-download",
-            "preacher_name": "Dan Augsburger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dan Augsburger",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Abundant Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22656-download",
-            "preacher_name": "Dan Augsburger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dan Augsburger",
             "_scripture": []
         }
     ]

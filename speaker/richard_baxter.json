@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14999-download",
-            "preacher_name": "Richard Baxter",
-            "preacher_image": "",
-            "preacher_description": "Richard Baxter (1615 - 1691)\r\nListen to freely downloadable audio sermons by the speaker Richard Baxter in mp3 format.  Was an English Puritan church leader, poet, hymn-writer,[1] theologian, and controversialist. Dean Stanley called him \"the chief of English Protestant Schoolmen\". After some false starts, he made his reputation by his ministry at Kidderminster, and at around the same time began a long and prolific career as theological writer. After the Restoration he refused preferment, while retaining a non-separatist Presbyterian approach, and became one of the most influential leaders of the nonconformists, spending time in prison.\r\n  He wrote 168 or so separate works -- such treatises as the Christian Directory, the Methodus Theologiae Christianae, and the Catholic Theology, might each have represented the life's work of an ordinary man. His Breviate of the Life of Mrs Margaret Baxter records the virtues of his wife, and reveals Baxter's tenderness of nature. Without doubt, however, his most famous and enduring contribution to Christian literature was a devotional work published in 1658 under the title Call to the Unconverted to Turn and Live. This slim volume was credited with the conversion of thousands and formed one of the core extra-biblical texts of evangelicalism until at least the middle of the nineteenth century.",
+            "speaker_name": "Richard Baxter",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15000-download",
-            "preacher_name": "Richard Baxter",
-            "preacher_image": "",
-            "preacher_description": "Richard Baxter (1615 - 1691)\r\nListen to freely downloadable audio sermons by the speaker Richard Baxter in mp3 format.  Was an English Puritan church leader, poet, hymn-writer,[1] theologian, and controversialist. Dean Stanley called him \"the chief of English Protestant Schoolmen\". After some false starts, he made his reputation by his ministry at Kidderminster, and at around the same time began a long and prolific career as theological writer. After the Restoration he refused preferment, while retaining a non-separatist Presbyterian approach, and became one of the most influential leaders of the nonconformists, spending time in prison.\r\n  He wrote 168 or so separate works -- such treatises as the Christian Directory, the Methodus Theologiae Christianae, and the Catholic Theology, might each have represented the life's work of an ordinary man. His Breviate of the Life of Mrs Margaret Baxter records the virtues of his wife, and reveals Baxter's tenderness of nature. Without doubt, however, his most famous and enduring contribution to Christian literature was a devotional work published in 1658 under the title Call to the Unconverted to Turn and Live. This slim volume was credited with the conversion of thousands and formed one of the core extra-biblical texts of evangelicalism until at least the middle of the nineteenth century.",
+            "speaker_name": "Richard Baxter",
             "_scripture": []
         }
     ]

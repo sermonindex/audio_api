@@ -12,9 +12,7 @@
             "topic": "Repentance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1484-download",
-            "preacher_name": "E.W. Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "E.W. Johnson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Election",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1485-download",
-            "preacher_name": "E.W. Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "E.W. Johnson",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Knowledge Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1486-download",
-            "preacher_name": "E.W. Johnson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "E.W. Johnson",
             "_scripture": []
         }
     ]

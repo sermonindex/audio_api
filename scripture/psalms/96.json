@@ -12,9 +12,7 @@
             "topic": "Glory Of God",
             "description": "This is a message of getting past living for ourselves, and learning to live for the Glory of God. If I am living a life centered on \"me\", one day I will lose it all. The way to real life, is through death of self - John 12:25",
             "download": "http:\/\/api.sermonindex.net\/SID3829-download",
-            "preacher_name": "David Smith",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Smith",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -31,9 +29,7 @@
             "topic": "Psalms",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21977-download",
-            "preacher_name": "Theron Young",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Theron Young",
             "_scripture": [
                 {
                     "book": "Psalms",

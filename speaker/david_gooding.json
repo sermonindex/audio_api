@@ -12,9 +12,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23678-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Death",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23594-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23595-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": [
                 {
                     "book": "John",
@@ -59,9 +53,7 @@
             "topic": "Holy Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23593-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "Lords Supper",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23596-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "Person Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23680-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23597-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -120,9 +106,7 @@
             "topic": "Servanthood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23679-download",
-            "preacher_name": "David Gooding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Gooding",
             "_scripture": []
         }
     ]

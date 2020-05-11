@@ -11,9 +11,7 @@
             "topic": "Tribute",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0919-download",
-            "preacher_name": "Kathryn Kuhlman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kathryn Kuhlman",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Tribute",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0920-download",
-            "preacher_name": "Kathryn Kuhlman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kathryn Kuhlman",
             "_scripture": []
         }
     ]

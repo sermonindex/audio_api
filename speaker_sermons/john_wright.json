@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Incarnation Of Christ ",
+        "url": "http:\/\/api.sermonindex.net\/SID21978",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 1",
+        "topic": "Incarnation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21978-download",
+        "speaker_name": "John Wright",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "1"
+            }
+        ]
+    }
+]

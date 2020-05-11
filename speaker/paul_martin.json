@@ -12,9 +12,7 @@
             "topic": "Biography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21689-download",
-            "preacher_name": "Paul Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Martin",
             "_scripture": []
         }
     ]

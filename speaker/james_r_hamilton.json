@@ -12,9 +12,7 @@
             "topic": "Clergymen",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22574-download",
-            "preacher_name": "James R. Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Hamilton",
             "_scripture": []
         }
     ]

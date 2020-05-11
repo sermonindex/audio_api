@@ -1,5 +1,5 @@
 {
-    "name": "God's House",
+    "name": "Gods House",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's House",
+            "topic": "Gods House",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3896-download",
-            "preacher_name": "Hoseah Wu",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hoseah Wu",
             "_scripture": []
         }
     ]

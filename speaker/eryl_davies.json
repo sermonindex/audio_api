@@ -12,9 +12,7 @@
             "topic": "Glory Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2480-download",
-            "preacher_name": "Eryl Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Eryl Davies",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Glory Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2482-download",
-            "preacher_name": "Eryl Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Eryl Davies",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Glory Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2483-download",
-            "preacher_name": "Eryl Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Eryl Davies",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2481-download",
-            "preacher_name": "Eryl Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Eryl Davies",
             "_scripture": []
         }
     ]

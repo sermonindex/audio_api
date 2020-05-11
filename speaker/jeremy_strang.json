@@ -12,9 +12,7 @@
             "topic": "Holiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24867-download",
-            "preacher_name": "Jeremy Strang",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeremy Strang",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Vision",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28285-download",
-            "preacher_name": "Jeremy Strang",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeremy Strang",
             "_scripture": []
         }
     ]

@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Another Gospel",
+        "url": "http:\/\/api.sermonindex.net\/SID0228",
+        "size": "1170000",
+        "format": "mp3",
+        "scripture": "2 Corinthians 11:14, 1 Timothy 6:5",
+        "topic": "Prosperity Gospel",
+        "description": "David Wilkerson gives a strong message with \"prophetic urgency.\" He clearly shows that the \"prosperity gospel\" teaching that gain is godliness is unscriptural and a lie from hell. Surely this is a word from God to a generation of Christians in America that have swallowed this ear tickling teaching up to their demise.",
+        "download": "http:\/\/api.sermonindex.net\/SID0228-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "1 Timothy",
+                "chapter": "6"
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "Putting an End to the Prosperity Message",
+        "url": "http:\/\/api.sermonindex.net\/SID26392",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prosperity Gospel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26392-download",
+        "speaker_name": "Miki Hardy",
+        "_scripture": []
+    }
+]

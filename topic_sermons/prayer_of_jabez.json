@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Prayer Of Jabez",
+        "url": "http:\/\/api.sermonindex.net\/SID9229",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Chronicles 4:9-10",
+        "topic": "Prayer Of Jabez",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9229-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "1 Chronicles",
+                "chapter": "4"
+            }
+        ]
+    }
+]

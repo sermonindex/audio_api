@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7435-download",
-            "preacher_name": "Kenneth Wuest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kenneth Wuest",
             "_scripture": [
                 {
                     "book": "1 John",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7436-download",
-            "preacher_name": "Kenneth Wuest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kenneth Wuest",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7434-download",
-            "preacher_name": "Kenneth Wuest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kenneth Wuest",
             "_scripture": []
         },
         {
@@ -64,9 +58,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7437-download",
-            "preacher_name": "Kenneth Wuest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kenneth Wuest",
             "_scripture": [
                 {
                     "book": "Romans",

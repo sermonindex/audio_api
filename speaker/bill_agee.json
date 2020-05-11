@@ -12,9 +12,7 @@
             "topic": "Valley Times",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19789-download",
-            "preacher_name": "Bill Agee",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Agee",
             "_scripture": []
         }
     ]

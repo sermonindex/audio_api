@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22634-download",
-            "preacher_name": "John Marshall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Marshall",
             "_scripture": [
                 {
                     "book": "Isaiah",

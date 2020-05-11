@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The True And False Seed",
+        "url": "http:\/\/api.sermonindex.net\/SID17247",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 16",
+        "topic": "Seed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17247-download",
+        "speaker_name": "Bill Randles",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "16"
+            }
+        ]
+    }
+]

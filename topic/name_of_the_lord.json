@@ -11,9 +11,7 @@
             "topic": "Name Of The Lord",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6943-download",
-            "preacher_name": "Miles DeBenedictis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Miles DeBenedictis",
             "_scripture": [
                 {
                     "book": "1 John",
@@ -30,9 +28,7 @@
             "topic": "Name Of The Lord",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8013-download",
-            "preacher_name": "Carl Armerding",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Carl Armerding",
             "_scripture": []
         }
     ]

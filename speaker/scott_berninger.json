@@ -12,9 +12,7 @@
             "topic": "Danger",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21282-download",
-            "preacher_name": "Scott Berninger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Scott Berninger",
             "_scripture": []
         }
     ]

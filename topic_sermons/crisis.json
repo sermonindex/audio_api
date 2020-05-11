@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Crisis",
+        "url": "http:\/\/api.sermonindex.net\/SID21082",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Crisis",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21082-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "GWH-Ladies Missionary Seminar-1985 Verses To Cope With Crises",
+        "url": "http:\/\/api.sermonindex.net\/SID11842",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 2:12",
+        "topic": "Crisis",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11842-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Kingdom In Crisis - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID28430",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Crisis",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28430-download",
+        "speaker_name": "Dean Taylor",
+        "_scripture": []
+    },
+    {
+        "title": "When Your In a Crisis - How to Hear from God",
+        "url": "http:\/\/api.sermonindex.net\/SID20361",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Crisis",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20361-download",
+        "speaker_name": "Bayless Conley",
+        "_scripture": []
+    }
+]

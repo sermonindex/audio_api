@@ -12,9 +12,7 @@
             "topic": "Pride",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19337-download",
-            "preacher_name": "Dwight Steven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dwight Steven",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Surrender",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21480-download",
-            "preacher_name": "Dwight Steven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dwight Steven",
             "_scripture": []
         }
     ]

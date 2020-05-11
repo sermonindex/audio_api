@@ -12,9 +12,7 @@
             "topic": "Offering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12030-download",
-            "preacher_name": "Jacob Prasch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jacob Prasch",
             "_scripture": [
                 {
                     "book": "Leviticus",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18315-download",
-            "preacher_name": "T.V. Thomas",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "T.V. Thomas",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18316-download",
-            "preacher_name": "T.V. Thomas",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "T.V. Thomas",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18314-download",
-            "preacher_name": "T.V. Thomas",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "T.V. Thomas",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18317-download",
-            "preacher_name": "T.V. Thomas",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "T.V. Thomas",
             "_scripture": []
         }
     ]

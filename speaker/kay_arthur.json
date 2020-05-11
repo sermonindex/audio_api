@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17978-download",
-            "preacher_name": "Kay Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kay Arthur",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17979-download",
-            "preacher_name": "Kay Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kay Arthur",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3681-download",
-            "preacher_name": "Kay Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kay Arthur",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Wasting Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14143-download",
-            "preacher_name": "Will Galkin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Will Galkin",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "King",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14142-download",
-            "preacher_name": "Will Galkin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Will Galkin",
             "_scripture": []
         }
     ]

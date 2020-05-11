@@ -1,0 +1,113 @@
+[
+    {
+        "title": "A Series of Proverbs Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID25628",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25628-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "A Series of Proverbs Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID25629",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25629-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Avoid The Trap",
+        "url": "http:\/\/api.sermonindex.net\/SID8782",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs 28-29",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8782-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "28"
+            }
+        ]
+    },
+    {
+        "title": "Four Little Wise Creatures",
+        "url": "http:\/\/api.sermonindex.net\/SID8781",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs 30-31",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8781-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "30"
+            }
+        ]
+    },
+    {
+        "title": "GV on Proverbs",
+        "url": "http:\/\/api.sermonindex.net\/SID21433",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21433-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "Introduction to the Book of Proverbs",
+        "url": "http:\/\/api.sermonindex.net\/SID25781",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25781-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Proverbs",
+        "url": "http:\/\/api.sermonindex.net\/SID2254",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2254-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": []
+    },
+    {
+        "title": "Proverbs 10-11",
+        "url": "http:\/\/api.sermonindex.net\/SID3420",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs 10-11",
+        "topic": "Proverbs",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3420-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "10"
+            }
+        ]
+    }
+]

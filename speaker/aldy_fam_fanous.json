@@ -12,9 +12,7 @@
             "topic": "Easter",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10321-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Easter",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10322-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": [
                 {
                     "book": "Joshua",
@@ -45,9 +41,7 @@
             "topic": "Easter",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10323-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10309-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10310-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10311-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10312-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10313-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -129,9 +113,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10314-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -143,9 +125,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10315-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -157,9 +137,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10316-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -171,9 +149,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10317-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -185,9 +161,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10318-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -199,9 +173,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10319-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -213,9 +185,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10320-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -227,9 +197,7 @@
             "topic": "Colossians",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10303-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": [
                 {
                     "book": "Colossians",
@@ -246,9 +214,7 @@
             "topic": "Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10304-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -260,9 +226,7 @@
             "topic": "Victorious Living",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10305-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -274,9 +238,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10306-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -288,9 +250,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10307-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         },
         {
@@ -302,9 +262,7 @@
             "topic": "Mideast",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10308-download",
-            "preacher_name": "Aldy Fam Fanous",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aldy Fam Fanous",
             "_scripture": []
         }
     ]

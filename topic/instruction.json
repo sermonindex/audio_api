@@ -11,9 +11,7 @@
             "topic": "Instruction",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3979-download",
-            "preacher_name": "Arno Stegen",
-            "preacher_image": "",
-            "preacher_description": "Arno Stegen ( - )\r\nListen to freely downloadable audio sermons by the speaker Arno Stegen in mp3 format. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church.\r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit.",
+            "speaker_name": "Arno Stegen",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Instruction",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17121-download",
-            "preacher_name": "Arno Stegen",
-            "preacher_image": "",
-            "preacher_description": "Arno Stegen ( - )\r\nListen to freely downloadable audio sermons by the speaker Arno Stegen in mp3 format. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church.\r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit.",
+            "speaker_name": "Arno Stegen",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26040-download",
-            "preacher_name": "Mark D. Partin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark D. Partin",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26041-download",
-            "preacher_name": "Mark D. Partin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark D. Partin",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Unconfessed Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14147-download",
-            "preacher_name": "Ed Mohr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ed Mohr",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -31,9 +29,7 @@
             "topic": "Praise",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19831-download",
-            "preacher_name": "Ed Mohr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ed Mohr",
             "_scripture": [
                 {
                     "book": "Hebrews",

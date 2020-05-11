@@ -11,9 +11,7 @@
             "topic": "Falsehood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22228-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",
@@ -30,9 +28,7 @@
             "topic": "Falsehood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22227-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",

@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Being Inter-Denominational",
+        "url": "http:\/\/api.sermonindex.net\/SID17504",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Denominations",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17504-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "Man's Petty Kingdom",
+        "url": "http:\/\/api.sermonindex.net\/SID12301",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 1:19-34, Joshua 3:3-17",
+        "topic": "Denominations",
+        "description": "Art Katz gives a solemn message to a denomination that is going towards establishing a earthly kingdom void of the power of God and the things of God. This is a warning to the Church in our day to be a part of God's eternal heavenly spiritual kingdom.",
+        "download": "http:\/\/api.sermonindex.net\/SID12301-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "1"
+            },
+            {
+                "book": "Joshua",
+                "chapter": "3"
+            }
+        ]
+    }
+]

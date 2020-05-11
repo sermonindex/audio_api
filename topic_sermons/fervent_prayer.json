@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Effectual Fervent Prayer",
+        "url": "http:\/\/api.sermonindex.net\/SID3790",
+        "size": "12107776",
+        "format": "mp3",
+        "scripture": "Philippians 4:6-7, James 5:16, John 17:20",
+        "topic": "Fervent Prayer",
+        "description": "Corrie Ten Boom shares some testimony on putting her burden's and cares on the Lord. Also she shares how she had burdens of impatience that she left with the Lord. \"There is nothing too great for God's power and nothing to small for His love.\" This is a excellent teaching on many aspects of prayer.",
+        "download": "http:\/\/api.sermonindex.net\/SID3790-download",
+        "speaker_name": "Corrie Ten Boom",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "17"
+            },
+            {
+                "book": "James",
+                "chapter": "5"
+            },
+            {
+                "book": "Philippians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Give Me Souls Or I'll Die - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID3798",
+        "size": "21159936",
+        "format": "mp3",
+        "scripture": "1 Samuel 1, Genesis 30:1",
+        "topic": "Fervent Prayer",
+        "description": "Leonard Ravenhill's opening prayer says it all: \"Take us out of the nursery to the armory.\"  He calls upon the church to awake to fervent prayer, salting our appetites by the example of others: people he had met personally (Duncan Campbell, Smith Wigglesworth, Jonathan Goforth's daughter) and people whose lifestyle of agonizing intercession had impacted him (David Brainerd, Praying Payson of Portland, John Hyde, Susanna Wesley and others).",
+        "download": "http:\/\/api.sermonindex.net\/SID3798-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "30"
+            },
+            {
+                "book": "1 Samuel",
+                "chapter": "1"
+            }
+        ]
+    }
+]

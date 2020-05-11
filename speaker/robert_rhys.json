@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16897-download",
-            "preacher_name": "Robert Rhys",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Rhys",
             "_scripture": [
                 {
                     "book": "Song of Solomon",

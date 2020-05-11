@@ -1,0 +1,19 @@
+[
+    {
+        "title": "American Church Buffet\t",
+        "url": "http:\/\/api.sermonindex.net\/SID25030",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hosea 4:17",
+        "topic": "American Church",
+        "description": "When somebody is searching for a church today, they usually ask the following questions to the church secretary or Pastor: Do you have a youth program? How many ball fields do you have? Do you have a fitness center and does it have basketball courts? Do you have a contemporary music program at your church and a good worship band? Do you have recovery groups for the divorced and drug-dependent? Do you have yoga classes? Do you have Zumba dance classes? In other words, a typical American family looking for a typical American church today approaches it like they do a buffet line in a restaurant with a smorgasbord of choices. In essence, they are saying, \u201cBefore I join your church let me see a menu and look over it to see if you can service my family the way I want you to.\u201d",
+        "download": "http:\/\/api.sermonindex.net\/SID25030-download",
+        "speaker_name": "E.A. Johnston",
+        "_scripture": [
+            {
+                "book": "Hosea",
+                "chapter": "4"
+            }
+        ]
+    }
+]

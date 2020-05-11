@@ -12,9 +12,7 @@
             "topic": "Great Commission",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17555-download",
-            "preacher_name": "Bill Bright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Bright",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Walk In The Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17554-download",
-            "preacher_name": "Bill Bright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Bright",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23577-download",
-            "preacher_name": "Bill Bright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Bright",
             "_scripture": []
         }
     ]

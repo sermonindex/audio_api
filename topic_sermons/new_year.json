@@ -1,0 +1,52 @@
+[
+    {
+        "title": "A Better New Year",
+        "url": "http:\/\/api.sermonindex.net\/SID28277",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "New Year",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28277-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "Psalm 92:1 (New Year\u2019s Talk)",
+        "url": "http:\/\/api.sermonindex.net\/SID23020",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 92:1",
+        "topic": "New Year",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23020-download",
+        "speaker_name": "Hans R. Waldvogel",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "92"
+            }
+        ]
+    },
+    {
+        "title": "The Key To A Happy New Year",
+        "url": "http:\/\/api.sermonindex.net\/SID24055",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5:1-3, Isaiah 66:2",
+        "topic": "New Year",
+        "description": "The posture for our happiest days is to be empty of ourselves so that God can fill us with whatever He has for us. Matthew 5:1-3; Isaiah 66:2",
+        "download": "http:\/\/api.sermonindex.net\/SID24055-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "66"
+            }
+        ]
+    }
+]

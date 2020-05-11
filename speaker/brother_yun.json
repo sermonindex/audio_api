@@ -12,9 +12,7 @@
             "topic": "Underground Church",
             "description": "Brother Yun speaking at Great St Mary's Church, Cambridge. His account of persecution, escape but most of all his faith inspires obedience to following God. On 26th February 2004, 1500 people packed out Great St Mary's Church to hear the remarkable testimony of Brother Yun and Brother Peter Xu. Brother Yun is one of China's house church leaders, a man who despite his relative youth has suffered prolonged torture and imprisionment for his faith. Instead of focusing on the many miracles or experiences of suffering, however, Yun prefers to emphasize the character and beauty of Jesus. His story was told in the best selling Christian book of 2003 - The Heavenly Man by Paul Hattaway. Accompanying Brother Yun was Peter Xu, a house church leader who was imprisoned with Brother Yun in 1997 in Zhengzhou Number One maximum security prison, when Brother Yun had a miraculous escape.",
             "download": "http:\/\/api.sermonindex.net\/SID3723-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Fear",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25489-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11978-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "New Thing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25490-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Testimony",
             "description": "Setting the scene for Brother Yun and Brother Xu, their interpreter introduces the Back to Jerusalem mission - sending thousands of Chinese missions across the world to fulfill the great commission.",
             "download": "http:\/\/api.sermonindex.net\/SID3721-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Underground Church",
             "description": "Peter Xu is a leader in China's underground church. Imprisoned with Brother Yun, he has a powerful story to share.",
             "download": "http:\/\/api.sermonindex.net\/SID3722-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25491-download",
-            "preacher_name": "Brother Yun",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Yun",
             "_scripture": []
         }
     ]

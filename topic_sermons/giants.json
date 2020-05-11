@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Giant Ungainted",
+        "url": "http:\/\/api.sermonindex.net\/SID4625",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 16:20-22",
+        "topic": "Giants",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4625-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "16"
+            }
+        ]
+    }
+]

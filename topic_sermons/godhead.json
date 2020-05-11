@@ -1,0 +1,43 @@
+[
+    {
+        "title": "(Revelation) The Godhead",
+        "url": "http:\/\/api.sermonindex.net\/SID7051",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 5:1-5",
+        "topic": "Godhead",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7051-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "Godhead of the Eternal Son",
+        "url": "http:\/\/api.sermonindex.net\/SID0230",
+        "size": "3845183",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Godhead",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0230-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "Peters Insight\/Godhead",
+        "url": "http:\/\/api.sermonindex.net\/SID7933",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Godhead",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7933-download",
+        "speaker_name": "Charles Anderson",
+        "_scripture": []
+    }
+]

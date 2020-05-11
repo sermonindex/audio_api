@@ -1,0 +1,108 @@
+[
+    {
+        "title": "A Letter from the Devil",
+        "url": "http:\/\/api.sermonindex.net\/SID16332",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16332-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": []
+    },
+    {
+        "title": "Our Adversary The Devil And His Angels",
+        "url": "http:\/\/api.sermonindex.net\/SID21276",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21276-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": []
+    },
+    {
+        "title": "The Devil In Your Tent",
+        "url": "http:\/\/api.sermonindex.net\/SID27926",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27926-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": []
+    },
+    {
+        "title": "The Devil's Afterclap",
+        "url": "http:\/\/api.sermonindex.net\/SID27457",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27457-download",
+        "speaker_name": "Ray Greenly",
+        "_scripture": []
+    },
+    {
+        "title": "The Enemy The Devil",
+        "url": "http:\/\/api.sermonindex.net\/SID4636",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 5:8-9",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4636-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "The Gospel Of The Devil! Believe It Not",
+        "url": "http:\/\/api.sermonindex.net\/SID14477",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 3:4",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14477-download",
+        "speaker_name": "Ian Paisley",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Three Battlefronts: The Devil",
+        "url": "http:\/\/api.sermonindex.net\/SID25954",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25954-download",
+        "speaker_name": "Scott Moreau",
+        "_scripture": []
+    },
+    {
+        "title": "Why The Devil Hates You",
+        "url": "http:\/\/api.sermonindex.net\/SID19851",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devil",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19851-download",
+        "speaker_name": "Dana Carpenter",
+        "_scripture": []
+    }
+]

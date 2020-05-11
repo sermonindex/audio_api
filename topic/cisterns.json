@@ -11,9 +11,7 @@
             "topic": "Cisterns",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23135-download",
-            "preacher_name": "Arnold Cook",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arnold Cook",
             "_scripture": []
         }
     ]

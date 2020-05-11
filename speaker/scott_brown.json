@@ -12,9 +12,7 @@
             "topic": "Modesty",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23082-download",
-            "preacher_name": "Scott Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Scott Brown",
             "_scripture": []
         }
     ]

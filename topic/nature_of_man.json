@@ -11,9 +11,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26230-download",
-            "preacher_name": "Manley Beasley",
-            "preacher_image": "\/images\/manley_beasley.gif",
-            "preacher_description": "Manley Beasley (1932 - 1990)\r\nListen to freely downloadable audio sermons by the speaker Manley Beasley in mp3 format. Brother Beasley was a powerful preacher of the Word of God who ministered mostly in southern Baptist churches in America. The Lord gave him a gift of faith to trust the Lord in impossible circumstances for God's glory. Even though Manley Beasley was not very old as we measure a life's span, he left behind a legacy of faith that was rarely seen in his generation. We pray that he will be honored and the Lord glorified by this attempt to share this legacy with all who would live a life of faith that is truly pleasing to God.\r\nThere came a time when Manley believed the Lord gave him a choice of complete healing or daily healing. Manley chose daily healing because for him it was an act of faith that each day the Lord had to heal him to the point that he could get out of bed. During those years there were more confinements in the hospital, as well as trips to Europe and revivals all over the United States. He led Bible Conferences, revivals, and shared his personal testimony with others dealing with illness.",
+            "speaker_name": "Manley Beasley",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1242-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1241-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1247-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -67,9 +59,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1243-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -81,9 +71,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1244-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -95,9 +83,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1245-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -109,9 +95,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1246-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -123,9 +107,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23385-download",
-            "preacher_name": "Bertha Smith",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bertha Smith",
             "_scripture": []
         },
         {
@@ -137,9 +119,7 @@
             "topic": "Nature Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23401-download",
-            "preacher_name": "Bertha Smith",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bertha Smith",
             "_scripture": []
         }
     ]

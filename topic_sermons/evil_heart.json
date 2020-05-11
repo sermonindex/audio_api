@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Cure For An Evil Heart",
+        "url": "http:\/\/api.sermonindex.net\/SID8094",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 6-7",
+        "topic": "Evil Heart",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8094-download",
+        "speaker_name": "Ernest ONeill",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "6"
+            }
+        ]
+    }
+]

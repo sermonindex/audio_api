@@ -12,9 +12,7 @@
             "topic": "Challenge",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18913-download",
-            "preacher_name": "Hamp Sirmans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hamp Sirmans",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Challenge",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18914-download",
-            "preacher_name": "Hamp Sirmans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hamp Sirmans",
             "_scripture": []
         }
     ]

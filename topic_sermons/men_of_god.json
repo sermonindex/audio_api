@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Holy Man of God",
+        "url": "http:\/\/api.sermonindex.net\/SID4027",
+        "size": "5011456",
+        "format": "mp3",
+        "scripture": "Genesis 5:24",
+        "topic": "Men Of God",
+        "description": "In this sermon Havner shows his hearts desire that when he walks by people who say: \"a man of God passes by\". Are we living in a way that we are reconized as a Holy man of God? He shows the balance of not being frozen or fryed but being alive in God living a holy life. There is always extremes but surely no matter what extremes are out there we need to seek God with all of our hearts.",
+        "download": "http:\/\/api.sermonindex.net\/SID4027-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "Men of Another Sort",
+        "url": "http:\/\/api.sermonindex.net\/SID1025",
+        "size": "5605376",
+        "format": "mp3",
+        "scripture": "Ezra 7:10, Psalm 119:11, Ezra 8:31",
+        "topic": "Men Of God",
+        "description": "Wilkerson speaks of the great men of the Bible.  Men who had a passion and true zeal for God.  Men that God has given to us as examples.  These men were able to do great exploits and they had the heart of God.  Men who were able to give a message with such an anointing that they would bring a whole nation to their knees in repentance.",
+        "download": "http:\/\/api.sermonindex.net\/SID1025-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Ezra",
+                "chapter": "8"
+            },
+            {
+                "book": "Ezra",
+                "chapter": "7"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "119"
+            }
+        ]
+    }
+]

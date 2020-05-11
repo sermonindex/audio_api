@@ -12,9 +12,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23991-download",
-            "preacher_name": "Harry Foster",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry Foster",
             "_scripture": []
         }
     ]

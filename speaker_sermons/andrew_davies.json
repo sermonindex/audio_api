@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Job-Faith Facing Facts",
+        "url": "http:\/\/api.sermonindex.net\/SID22640",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Job",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22640-download",
+        "speaker_name": "Andrew Davies",
+        "_scripture": []
+    },
+    {
+        "title": "The Moravian Revival",
+        "url": "http:\/\/api.sermonindex.net\/SID20591",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 1:8",
+        "topic": "Moravian Revival",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20591-download",
+        "speaker_name": "Andrew Davies",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "1"
+            }
+        ]
+    }
+]

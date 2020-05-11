@@ -12,9 +12,7 @@
             "topic": "Impossibilities",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19825-download",
-            "preacher_name": "Don Higgins",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Higgins",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19814-download",
-            "preacher_name": "Don Higgins",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Higgins",
             "_scripture": [
                 {
                     "book": "Romans",

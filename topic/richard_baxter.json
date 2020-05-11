@@ -11,9 +11,7 @@
             "topic": "Richard Baxter",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2987-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9411-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9409-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9392-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -64,9 +58,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9393-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -78,9 +70,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9394-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -92,9 +82,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9395-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -106,9 +94,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9396-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -120,9 +106,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9397-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -134,9 +118,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9398-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -148,9 +130,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9399-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -162,9 +142,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9400-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -176,9 +154,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9401-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -190,9 +166,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9402-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -204,9 +178,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9403-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -218,9 +190,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9404-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -232,9 +202,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9405-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -246,9 +214,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9406-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -260,9 +226,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9407-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -274,9 +238,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9408-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": []
         },
         {
@@ -288,9 +250,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9410-download",
-            "preacher_name": "James Booker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Booker",
             "_scripture": [
                 {
                     "book": "Psalms",

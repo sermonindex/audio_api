@@ -1,0 +1,48 @@
+[
+    {
+        "title": "(Awake! Series): Take Heed how Ye Hear",
+        "url": "http:\/\/api.sermonindex.net\/SID1987",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 8:16-18",
+        "topic": "Take Heed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1987-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "Take Heed to Yourself",
+        "url": "http:\/\/api.sermonindex.net\/SID0120",
+        "size": "4272640",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Take Heed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0120-download",
+        "speaker_name": "J. Oswald Sanders",
+        "_scripture": []
+    },
+    {
+        "title": "Take Heed, Lest You Fall",
+        "url": "http:\/\/api.sermonindex.net\/SID20765",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 16:13-16",
+        "topic": "Take Heed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20765-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "16"
+            }
+        ]
+    }
+]

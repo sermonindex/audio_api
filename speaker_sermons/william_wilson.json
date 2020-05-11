@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Matthew 6",
+        "url": "http:\/\/api.sermonindex.net\/SID21986",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21986-download",
+        "speaker_name": "William Wilson",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    }
+]

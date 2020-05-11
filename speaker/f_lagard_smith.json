@@ -12,9 +12,7 @@
             "topic": "Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24216-download",
-            "preacher_name": "F. LaGard Smith",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. LaGard Smith",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24215-download",
-            "preacher_name": "F. LaGard Smith",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. LaGard Smith",
             "_scripture": []
         }
     ]

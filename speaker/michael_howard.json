@@ -12,9 +12,7 @@
             "topic": "Renewal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24015-download",
-            "preacher_name": "Michael Howard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Howard",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Priesthood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24014-download",
-            "preacher_name": "Michael Howard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Howard",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Freedom",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24017-download",
-            "preacher_name": "Michael Howard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Howard",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Knowing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24013-download",
-            "preacher_name": "Michael Howard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Howard",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Gods Will",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24016-download",
-            "preacher_name": "Michael Howard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Michael Howard",
             "_scripture": []
         }
     ]

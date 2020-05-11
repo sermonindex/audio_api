@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Sons of Korah #1: Lesson of Hope: Psalms 42",
+        "url": "http:\/\/api.sermonindex.net\/SID1790",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 42",
+        "topic": "Sons of Korah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1790-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "42"
+            }
+        ]
+    },
+    {
+        "title": "Sons of Korah #2: Lesson of Faith: Psalms 44",
+        "url": "http:\/\/api.sermonindex.net\/SID1791",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 44",
+        "topic": "Sons of Korah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1791-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "44"
+            }
+        ]
+    },
+    {
+        "title": "Sons of Korah #3: Lesson of Love: Psalms 45",
+        "url": "http:\/\/api.sermonindex.net\/SID1792",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 45",
+        "topic": "Sons of Korah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1792-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "45"
+            }
+        ]
+    },
+    {
+        "title": "Sons of Korah #4: Victory: Psalms 46",
+        "url": "http:\/\/api.sermonindex.net\/SID1793",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 46",
+        "topic": "Sons of Korah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1793-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "46"
+            }
+        ]
+    }
+]

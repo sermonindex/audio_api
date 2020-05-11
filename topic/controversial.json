@@ -11,9 +11,7 @@
             "topic": "Controversial",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19740-download",
-            "preacher_name": "Andrew Strom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Strom",
             "_scripture": []
         }
     ]

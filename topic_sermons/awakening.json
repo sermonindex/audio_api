@@ -1,0 +1,72 @@
+[
+    {
+        "title": "(So Great A Salvation) Awakening",
+        "url": "http:\/\/api.sermonindex.net\/SID16693",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 2:1-3",
+        "topic": "Awakening",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16693-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Awakening - Exhorting - Comforting, in Our Apostate Days",
+        "url": "http:\/\/api.sermonindex.net\/SID27735",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Awakening",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27735-download",
+        "speaker_name": "Rolfe Barnard",
+        "_scripture": []
+    },
+    {
+        "title": "Awakening Is From the Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID27736",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Awakening",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27736-download",
+        "speaker_name": "Rolfe Barnard",
+        "_scripture": []
+    },
+    {
+        "title": "Awakening to My Need",
+        "url": "http:\/\/api.sermonindex.net\/SID25514",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Awakening",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25514-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": []
+    },
+    {
+        "title": "The Clock is Ticking",
+        "url": "http:\/\/api.sermonindex.net\/SID27893",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 13:11-14",
+        "topic": "Awakening",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27893-download",
+        "speaker_name": "Jon Couch",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "13"
+            }
+        ]
+    }
+]

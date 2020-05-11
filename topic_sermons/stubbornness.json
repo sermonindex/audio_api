@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Stubbornness",
+        "url": "http:\/\/api.sermonindex.net\/SID26907",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Stubbornness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26907-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": []
+    },
+    {
+        "title": "Stubbornness",
+        "url": "http:\/\/api.sermonindex.net\/SID15704",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 16:26-28, Psalms 32:9, 1 Samuel 15:23",
+        "topic": "Stubbornness",
+        "description": "May 27, 2007 - A stubborn person is a person who is fixed in purpose or condition, resistant to change and unreasonably obstinate. A stubborn person has an inner flaw and this inner flaw doesn't show until they are called to put all they are in the hands of God and walk in obedience. A stubborn person can appear humble, zealous and even excercise spiritual gifts, but there comes a certain point they can't get passed. They can't lay down their inner thoughts of the way things should be done and surrender to God's ways. God will allow a sense of emptiness come into our souls to get our attention. He is looking for a sincere heart to submit to the authority of His Word. When we choose to obey Him the power of sin and decay is cancelled in our lives. The only way out of stubbornness is to HUMBLE ourselves before God.",
+        "download": "http:\/\/api.sermonindex.net\/SID15704-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "15"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "32"
+            },
+            {
+                "book": "Exodus",
+                "chapter": "16"
+            }
+        ]
+    }
+]

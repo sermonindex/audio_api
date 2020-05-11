@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Building For Revival",
+        "url": "http:\/\/api.sermonindex.net\/SID19776",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Nehemiah 8",
+        "topic": "Revival",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19776-download",
+        "speaker_name": "Robin Wood",
+        "_scripture": [
+            {
+                "book": "Nehemiah",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "David And Bathsheba",
+        "url": "http:\/\/api.sermonindex.net\/SID19587",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19587-download",
+        "speaker_name": "Robin Wood",
+        "_scripture": []
+    }
+]

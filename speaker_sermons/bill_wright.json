@@ -1,0 +1,47 @@
+[
+    {
+        "title": "A Two-Edged Sword",
+        "url": "http:\/\/api.sermonindex.net\/SID19880",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs 29:8, Ephesians 4:1",
+        "topic": "Word Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19880-download",
+        "speaker_name": "Bill Wright",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "29"
+            },
+            {
+                "book": "Ephesians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "God - No Absentee Landlord",
+        "url": "http:\/\/api.sermonindex.net\/SID21209",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Love Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21209-download",
+        "speaker_name": "Bill Wright",
+        "_scripture": []
+    },
+    {
+        "title": "What Revival Taught Me About God and His Church",
+        "url": "http:\/\/api.sermonindex.net\/SID19998",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Revival",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19998-download",
+        "speaker_name": "Bill Wright",
+        "_scripture": []
+    }
+]

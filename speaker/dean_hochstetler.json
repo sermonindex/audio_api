@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15280-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "Job",
@@ -39,9 +37,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15281-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -58,9 +54,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15282-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -81,9 +75,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15283-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -104,9 +96,7 @@
             "topic": "Demons",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15284-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -131,9 +121,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15285-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "1 Kings",

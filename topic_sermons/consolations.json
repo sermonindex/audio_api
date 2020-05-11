@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(Romans) Christian Consolations",
+        "url": "http:\/\/api.sermonindex.net\/SID6907",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 8:2-27",
+        "topic": "Consolations",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6907-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "8"
+            }
+        ]
+    }
+]

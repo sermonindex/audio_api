@@ -12,9 +12,7 @@
             "topic": "Occult",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3683-download",
-            "preacher_name": "William Henry",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William Henry",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Occult",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3684-download",
-            "preacher_name": "William Henry",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William Henry",
             "_scripture": []
         }
     ]

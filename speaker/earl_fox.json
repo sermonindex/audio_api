@@ -12,9 +12,7 @@
             "topic": "Worship",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14846-download",
-            "preacher_name": "Earl Fox",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Earl Fox",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14845-download",
-            "preacher_name": "Earl Fox",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Earl Fox",
             "_scripture": []
         }
     ]

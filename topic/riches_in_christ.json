@@ -11,9 +11,7 @@
             "topic": "Riches In Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12463-download",
-            "preacher_name": "Charles E. Fuller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles E. Fuller",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Riches In Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19251-download",
-            "preacher_name": "Alan Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Martin",
             "_scripture": []
         }
     ]

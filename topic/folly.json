@@ -11,9 +11,7 @@
             "topic": "Folly",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25618-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Folly",
             "description": "Ahaz was faced with decisions of enormous import when he took office. Assyria was growing in power and belligerence to the north. To the immediate north, Syria and Israel had formed a confederacy and were pressuring the young king of Judah to join. The Philistines to the southwest and the Edomites to the southeast were overrunning the Judean countryside. As Ahaz grappled with how to lead his nation through these difficult times, the prophet Isaiah implored him to put his trust in Jehovah. The decision he made would affect the country for the next 30 years.",
             "download": "http:\/\/api.sermonindex.net\/SID23953-download",
-            "preacher_name": "Steve Gallagher",
-            "preacher_image": "",
-            "preacher_description": "Steve Gallagher ( - )\r\nListen to freely downloadable audio sermons by the speaker Steve Gallagher in mp3 format. Steve Gallagher holds an Associates of Arts degree from Sacramento City College and a Master\u2019s Degree in Pastoral Ministry from Master\u2019s International School of Divinity. He is also a certified Biblical Counselor through the International Association of Biblical Counselors (IABC) in Denver, CO. He is the founder of Pure Life Ministries.\r\nHe has also authored 14 books, including the best-selling At the Altar of Sexual Idolatry, Intoxicated with Babylon, Standing Firm Through the Great Apostasy, and his latest work, The Time of Our Lives in Light of Eternity. The new mission God has called Steve Gallagher to became the Eternal Weight of Glory website which exposes the great apostasy, calls people to repentance and leads Christians into an eternal perspective.",
+            "speaker_name": "Steve Gallagher",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -44,9 +40,7 @@
             "topic": "Folly",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8769-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": [
                 {
                     "book": "Isaiah",

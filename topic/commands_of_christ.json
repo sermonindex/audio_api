@@ -11,9 +11,7 @@
             "topic": "Commands Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15984-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "John",
@@ -34,9 +32,7 @@
             "topic": "Commands Of Christ",
             "description": "Keith Daniel preaches this convicting message in america and its not a sermon to a local congregation but its God given aim is to the entire body of Christ in North America. He reads the entire Sermon on the mount and then focuses soley on the verse Matthew 5:13 which he believes would be the verse that Christ would want to bring to his church in our day. He gives the direct call for us to become the salt in the earth once again. You will [b]not[\/b] be the same again after you hear this message, harden not your hearts.",
             "download": "http:\/\/api.sermonindex.net\/SID1545-download",
-            "preacher_name": "Keith Daniel",
-            "preacher_image": "\/images\/keith_daniel.gif",
-            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "speaker_name": "Keith Daniel",
             "_scripture": [
                 {
                     "book": "Matthew",

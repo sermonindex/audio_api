@@ -12,9 +12,7 @@
             "topic": "Discipline",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19784-download",
-            "preacher_name": "Gordon Adams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gordon Adams",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Home Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19918-download",
-            "preacher_name": "Faith Cosby",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Faith Cosby",
             "_scripture": []
         }
     ]

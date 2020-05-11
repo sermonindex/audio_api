@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14148-download",
-            "preacher_name": "Paul Negrut",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Negrut",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14149-download",
-            "preacher_name": "Paul Negrut",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Negrut",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14150-download",
-            "preacher_name": "Paul Negrut",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Negrut",
             "_scripture": []
         }
     ]

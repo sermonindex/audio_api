@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11302-download",
-            "preacher_name": "Brian Brodersen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brian Brodersen",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -31,9 +29,7 @@
             "topic": "Book Of Acts",
             "description": "The Book of Acts records the events of the early Christian Church. Paul exemplified the Christian life by showing poise under pressure because Paul lived his life in light of the cross and preached that Jesus is alive. Acts 24:10- 27; Acts 25:7-19",
             "download": "http:\/\/api.sermonindex.net\/SID25686-download",
-            "preacher_name": "Jim Cymbala",
-            "preacher_image": "\/images\/jim_cymbala.gif",
-            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "speaker_name": "Jim Cymbala",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17616-download",
-            "preacher_name": "Warren Wiersbe",
-            "preacher_image": "\/images\/warren_wiersbe.gif",
-            "preacher_description": "Warren Wiersbe (1929 - Present)\r\nListen to freely downloadable audio sermons by the speaker Warren Wiersbe in mp3 format. Warren W. Wiersbe is best known as a Bible teacher, author, and conference speaker. He has ministered in churches and conferences in Canada, Central and South America, Europe, and the United States. He has published more than 150 books and was awarded the Gold Medallion Lifetime Achievement Award by the Evangelical Christian Publishers Association.\r\n\r\n   He is known as a \"pastors' pastor,\" and his speaking,writing and radio ministries have brought new understanding of the truths of God's Word to people around the world. Wiersbe is perhaps best known for his series of 50 books in the \"BE\" series: Be Real, Be Rich, Be Obedient, Be Mature, Be Joyful, etc. and other theological works.",
+            "speaker_name": "Warren Wiersbe",
             "_scripture": [
                 {
                     "book": "Acts",

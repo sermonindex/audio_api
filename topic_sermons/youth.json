@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Problems Of Youth",
+        "url": "http:\/\/api.sermonindex.net\/SID7932",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Youth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7932-download",
+        "speaker_name": "Charles Anderson",
+        "_scripture": []
+    },
+    {
+        "title": "Youth",
+        "url": "http:\/\/api.sermonindex.net\/SID22537",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ecclesiastes 11:9",
+        "topic": "Youth",
+        "description": "Chandler began by sharing about trials at the Village Church and in his own walk through brain cancer. The Book of Ecclesiastes speaks into the reality of life and gives a message we need to hear. God constantly calls us back to remember\u2014remember who he is, what he\u2019s done, and his commands intended for our joy. Remembering God\u2019s work on our behalf rightly redeems our rejoicing in him. Revisiting the Ecclesiastes 11:9 command to rejoice, Chandler explains that by remembering God, we get beneath our rejoicing in mere youth to rejoice in what God has done for us in Christ.",
+        "download": "http:\/\/api.sermonindex.net\/SID22537-download",
+        "speaker_name": "Matt Chandler",
+        "_scripture": [
+            {
+                "book": "Ecclesiastes",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "Youth: Anointed Disciples of Jesus Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID12650",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Youth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12650-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": []
+    }
+]

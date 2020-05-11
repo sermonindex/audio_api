@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16599-download",
-            "preacher_name": "R.G. Flexon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "R.G. Flexon",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16606-download",
-            "preacher_name": "R.G. Flexon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "R.G. Flexon",
             "_scripture": []
         }
     ]

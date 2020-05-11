@@ -1,0 +1,47 @@
+[
+    {
+        "title": "(Romans) Wonders And Wealth",
+        "url": "http:\/\/api.sermonindex.net\/SID6899",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 4:23-25,Romans 5:1-5",
+        "topic": "Wealth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6899-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "5"
+            },
+            {
+                "book": "Romans",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Fake Wealth",
+        "url": "http:\/\/api.sermonindex.net\/SID28371",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Wealth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28371-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "Our World and Our Wealth",
+        "url": "http:\/\/api.sermonindex.net\/SID25992",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Wealth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25992-download",
+        "speaker_name": "John D. Martin",
+        "_scripture": []
+    }
+]

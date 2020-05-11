@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Satan Found A Whisperer",
+        "url": "http:\/\/api.sermonindex.net\/SID5369",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Galatians 5:15",
+        "topic": "Gossip",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5369-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Galatians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

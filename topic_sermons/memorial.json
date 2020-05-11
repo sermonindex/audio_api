@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Fifty Years Of The People's Church",
+        "url": "http:\/\/api.sermonindex.net\/",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Memorial",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/-download",
+        "speaker_name": "Oswald J. Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Living Memorials",
+        "url": "http:\/\/api.sermonindex.net\/SID20104",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Joshua 4:1-24",
+        "topic": "Memorial",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20104-download",
+        "speaker_name": "Don Courville",
+        "_scripture": [
+            {
+                "book": "Joshua",
+                "chapter": "4"
+            }
+        ]
+    }
+]

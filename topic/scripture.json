@@ -11,9 +11,7 @@
             "topic": "Scripture",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27968-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "Daniel",
@@ -30,9 +28,7 @@
             "topic": "Scripture",
             "description": "All Scripture is God's mouth, his living voice; Scripture is as if we heard God speaking from heaven in an audible voice, but is more certain because it is a permanent deposit available to all; Scripture addresses three of the most important things in our lives: truth, error and right; Scripture corrects, because it is for our redemption; those who think biblical doctrine is cold and dead are themselves dead; if we are not interested in God's will for us, we are godless; if preaching is not negative, it is not the gospel, which is against evil and wrong; we must be alert to resist wrong; many would appeal to the happiness of children rather than to what is right, but Paul based his exhortation to children on a consideration of what is right; the only happiness worthy of the name is the fruit of righteousness; the man of God is one who lives for God; Scripture is sufficient to guide us in any situation we face.",
             "download": "http:\/\/api.sermonindex.net\/SID1252-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         }
     ]

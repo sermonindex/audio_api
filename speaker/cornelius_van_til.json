@@ -12,9 +12,7 @@
             "topic": "Church",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13702-download",
-            "preacher_name": "Cornelius Van Til",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Cornelius Van Til",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Discernment",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13703-download",
-            "preacher_name": "Cornelius Van Til",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Cornelius Van Til",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13701-download",
-            "preacher_name": "Cornelius Van Til",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Cornelius Van Til",
             "_scripture": []
         }
     ]

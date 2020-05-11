@@ -11,9 +11,7 @@
             "topic": "Bible Study",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23780-download",
-            "preacher_name": "Walter Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter Wilson",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Bible Study",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28039-download",
-            "preacher_name": "Alfred P. Gibbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alfred P. Gibbs",
             "_scripture": []
         }
     ]

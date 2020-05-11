@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Ever Increasing Light",
+        "url": "http:\/\/api.sermonindex.net\/SID1176",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Light Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1176-download",
+        "speaker_name": "Danny Bond",
+        "_scripture": []
+    },
+    {
+        "title": "Oil Beaten for the Light",
+        "url": "http:\/\/api.sermonindex.net\/SID14468",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 27:20-21",
+        "topic": "Light Of Life",
+        "description": "December 31, 2006 - God is light and in Him there is no darkness. God wants a testimony of this light working in us to be a clear display that God cares for us and no matter what we have to go through He is carrying us and His presence is sufficient to sustain us. The power source of this light is Jesus Christ and His life burning in us. This light is not kindled by man and cannot be put out by man. There is a process of brokenness and crushing that God will allow in our lives that will produce a cry that will say, \"Father into your hands I commit my spirit.\" It is a crushing that produces a cry and a commitment that we will be a flame of fire burning for Jesus Christ.",
+        "download": "http:\/\/api.sermonindex.net\/SID14468-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "27"
+            }
+        ]
+    },
+    {
+        "title": "Walking in the Light",
+        "url": "http:\/\/api.sermonindex.net\/SID6714",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Light Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6714-download",
+        "speaker_name": "Oswald J. Smith",
+        "_scripture": []
+    }
+]

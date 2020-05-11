@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Now Do You Believe God?",
+        "url": "http:\/\/api.sermonindex.net\/SID13627",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 1:1, Revelation 6:12-17",
+        "topic": "Believe",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13627-download",
+        "speaker_name": "Ralph Sexton",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "6"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Only Believe",
+        "url": "http:\/\/api.sermonindex.net\/SID28350",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Believe",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28350-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    }
+]

@@ -11,9 +11,7 @@
             "topic": "Pulpit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17025-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": []
         }
     ]

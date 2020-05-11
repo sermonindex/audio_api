@@ -1,0 +1,130 @@
+[
+    {
+        "title": "Highest Priority",
+        "url": "http:\/\/api.sermonindex.net\/SID28038",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28038-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "Our Top Priority",
+        "url": "http:\/\/api.sermonindex.net\/SID25134",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25134-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "Priorities",
+        "url": "http:\/\/api.sermonindex.net\/SID15899",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15899-download",
+        "speaker_name": "Gareth Evans",
+        "_scripture": []
+    },
+    {
+        "title": "Priorities 01 Matt 6:33",
+        "url": "http:\/\/api.sermonindex.net\/SID23731",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6:33",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23731-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "Priorities 01 Subject Studies",
+        "url": "http:\/\/api.sermonindex.net\/SID13374",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13374-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": []
+    },
+    {
+        "title": "Priorities 02 Eph 4",
+        "url": "http:\/\/api.sermonindex.net\/SID23732",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 4",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23732-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Priorities-03 Matt 6",
+        "url": "http:\/\/api.sermonindex.net\/SID23733",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23733-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "Priorities-04 Dan 9",
+        "url": "http:\/\/api.sermonindex.net\/SID23734",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Daniel 9",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23734-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Daniel",
+                "chapter": "9"
+            }
+        ]
+    },
+    {
+        "title": "Two Priorities in 2013",
+        "url": "http:\/\/api.sermonindex.net\/SID24691",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Priorities",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24691-download",
+        "speaker_name": "Ken Miller",
+        "_scripture": []
+    }
+]

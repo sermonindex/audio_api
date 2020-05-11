@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Praise For the Redeemed Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID25863",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Redeemed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25863-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Praise For the Redeemed Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID25864",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Redeemed",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25864-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "The Voice of the Saved",
+        "url": "http:\/\/api.sermonindex.net\/SID2206",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 12:1-2",
+        "topic": "Redeemed",
+        "description": "What is the difference between being lost and being damned? Though the answer may surprise you, it is nevertheless obvious. And who are the voices of the saved? They are the voices of the redeemed \u2013 the victorious and the faithful \u2013 who cry out to all who will listen: \u201cBe ye reconciled to God.\u201d Heeding their voice keeps the lost \u2013 who are still redeemable -- from suffering the irreversibility of damnation.",
+        "download": "http:\/\/api.sermonindex.net\/SID2206-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "12"
+            }
+        ]
+    }
+]

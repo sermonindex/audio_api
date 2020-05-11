@@ -12,9 +12,7 @@
             "topic": "Bible",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21963-download",
-            "preacher_name": "Tim LaHaye",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tim LaHaye",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Temperament",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21961-download",
-            "preacher_name": "Tim LaHaye",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tim LaHaye",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Family Living",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21962-download",
-            "preacher_name": "Tim LaHaye",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tim LaHaye",
             "_scripture": []
         }
     ]

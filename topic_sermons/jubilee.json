@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Golden Jubilee",
+        "url": "http:\/\/api.sermonindex.net\/SID6760",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jubilee",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6760-download",
+        "speaker_name": "Oswald J. Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Jubilee - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID1813",
+        "size": "5566464",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jubilee",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1813-download",
+        "speaker_name": "G.W. North",
+        "_scripture": []
+    },
+    {
+        "title": "Jubilee - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID1814",
+        "size": "3747840",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jubilee",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1814-download",
+        "speaker_name": "G.W. North",
+        "_scripture": []
+    }
+]

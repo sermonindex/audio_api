@@ -12,9 +12,7 @@
             "topic": "Idol",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28691-download",
-            "preacher_name": "Richard E. Bieber",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard E. Bieber",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Faithfulness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28692-download",
-            "preacher_name": "Richard E. Bieber",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard E. Bieber",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28693-download",
-            "preacher_name": "Richard E. Bieber",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard E. Bieber",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Abiding",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28694-download",
-            "preacher_name": "Richard E. Bieber",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard E. Bieber",
             "_scripture": []
         }
     ]

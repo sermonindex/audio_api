@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Making of a Man of God",
+        "url": "http:\/\/api.sermonindex.net\/SID8505",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 2",
+        "topic": "Man Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8505-download",
+        "speaker_name": "Robert Arthur",
+        "_scripture": [
+            {
+                "book": "2 Kings",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Question of the World to a Man of God",
+        "url": "http:\/\/api.sermonindex.net\/SID20574",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 16:6",
+        "topic": "Man Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20574-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "16"
+            }
+        ]
+    },
+    {
+        "title": "Questions Of The World To A Man Of God",
+        "url": "http:\/\/api.sermonindex.net\/SID20553",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Man Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20553-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": []
+    },
+    {
+        "title": "The Man of God - 1 Kings 13",
+        "url": "http:\/\/api.sermonindex.net\/SID19132",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Kings 13",
+        "topic": "Man of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19132-download",
+        "speaker_name": "John Hunter",
+        "_scripture": [
+            {
+                "book": "1 Kings",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "What makes a man of God",
+        "url": "http:\/\/api.sermonindex.net\/SID21157",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Man Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21157-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    }
+]

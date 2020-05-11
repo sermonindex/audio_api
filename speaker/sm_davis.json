@@ -12,9 +12,7 @@
             "topic": "",
             "description": "Do you have a rebel in your home? Do you have the makings of a future rebel in your home? This message very clearly details how to win the heart of a rebel and also how to keep from developing rebels in the home. This is a life changing message.",
             "download": "http:\/\/api.sermonindex.net\/SID9419-download",
-            "preacher_name": "S.M. Davis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S.M. Davis",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Anger",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19913-download",
-            "preacher_name": "S.M. Davis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "S.M. Davis",
             "_scripture": []
         }
     ]

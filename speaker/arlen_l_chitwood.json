@@ -12,9 +12,7 @@
             "topic": "Worldliness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13070-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Worldliness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13071-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Worldliness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13072-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13068-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Damnation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13073-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Overcoming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13069-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Tribulation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13067-download",
-            "preacher_name": "Arlen L. Chitwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Arlen L. Chitwood",
             "_scripture": []
         }
     ]

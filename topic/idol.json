@@ -11,9 +11,7 @@
             "topic": "Idol",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28691-download",
-            "preacher_name": "Richard E. Bieber",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Richard E. Bieber",
             "_scripture": []
         }
     ]

@@ -1,0 +1,70 @@
+[
+    {
+        "title": "01 Golden Age Conference",
+        "url": "http:\/\/api.sermonindex.net\/SID9387",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 23",
+        "topic": "Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9387-download",
+        "speaker_name": "Bob Beers",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "23"
+            }
+        ]
+    },
+    {
+        "title": "02 Golden Age Conference",
+        "url": "http:\/\/api.sermonindex.net\/SID9388",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 23",
+        "topic": "Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9388-download",
+        "speaker_name": "Bob Beers",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "23"
+            }
+        ]
+    },
+    {
+        "title": "03 Golden Age Conference",
+        "url": "http:\/\/api.sermonindex.net\/SID9389",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 23",
+        "topic": "Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9389-download",
+        "speaker_name": "Bob Beers",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "23"
+            }
+        ]
+    },
+    {
+        "title": "04 Golden Age Conference",
+        "url": "http:\/\/api.sermonindex.net\/SID9390",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 23",
+        "topic": "Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9390-download",
+        "speaker_name": "Bob Beers",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "23"
+            }
+        ]
+    }
+]

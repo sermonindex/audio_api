@@ -11,9 +11,7 @@
             "topic": "Adamic",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1259-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Adamic",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1262-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         }
     ]

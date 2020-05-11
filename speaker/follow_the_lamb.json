@@ -12,9 +12,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22295-download",
-            "preacher_name": "Follow The Lamb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Follow The Lamb",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23279-download",
-            "preacher_name": "Follow The Lamb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Follow The Lamb",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23080-download",
-            "preacher_name": "Follow The Lamb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Follow The Lamb",
             "_scripture": []
         }
     ]

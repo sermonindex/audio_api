@@ -11,9 +11,7 @@
             "topic": "Propitiation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26672-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -30,9 +28,7 @@
             "topic": "Propitiation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24123-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": []
         },
         {
@@ -44,9 +40,7 @@
             "topic": "Propitiation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21791-download",
-            "preacher_name": "Brian Brodersen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brian Brodersen",
             "_scripture": []
         },
         {
@@ -58,9 +52,7 @@
             "topic": "Propitiation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1464-download",
-            "preacher_name": "Ron Bailey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Bailey",
             "_scripture": []
         }
     ]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(Mount Vernon) My Godly Father in-law",
+        "url": "http:\/\/api.sermonindex.net\/SID8287",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Godly Heritage",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8287-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": []
+    },
+    {
+        "title": "Don't Forsake Your Godly Heritage",
+        "url": "http:\/\/api.sermonindex.net\/SID16324",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Malachi 2:14-16, Ephesians 5:18-6:4",
+        "topic": "Godly Heritage",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16324-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Malachi",
+                "chapter": "2"
+            }
+        ]
+    }
+]

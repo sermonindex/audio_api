@@ -12,9 +12,7 @@
             "topic": "Calling Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14140-download",
-            "preacher_name": "Jim Binney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Binney",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Gethsemane",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14141-download",
-            "preacher_name": "Jim Binney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Binney",
             "_scripture": []
         }
     ]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Communication with God",
+        "url": "http:\/\/api.sermonindex.net\/SID0371",
+        "size": "8228864",
+        "format": "mp3",
+        "scripture": "John 17:3",
+        "topic": "Experience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0371-download",
+        "speaker_name": "Hans Peter Royer",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "17"
+            }
+        ]
+    },
+    {
+        "title": "O Taste And See That The Lord Is Good ",
+        "url": "http:\/\/api.sermonindex.net\/SID19644",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Experience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19644-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": []
+    },
+    {
+        "title": "The Supreme Experience",
+        "url": "http:\/\/api.sermonindex.net\/SID26905",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Experience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26905-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": []
+    }
+]

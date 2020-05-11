@@ -1,0 +1,70 @@
+[
+    {
+        "title": "I Press Toward The Mark",
+        "url": "http:\/\/api.sermonindex.net\/SID9879",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Philippians 3",
+        "topic": "Calling",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9879-download",
+        "speaker_name": "Earl R. Clark",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "The Beatitudes",
+        "url": "http:\/\/api.sermonindex.net\/SID9880",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5",
+        "topic": "Beatitudes",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9880-download",
+        "speaker_name": "Earl R. Clark",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "The Foolish Virgins",
+        "url": "http:\/\/api.sermonindex.net\/SID9881",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 25",
+        "topic": "Foolish Virgins",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9881-download",
+        "speaker_name": "Earl R. Clark",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "25"
+            }
+        ]
+    },
+    {
+        "title": "When I Consider The Heavens",
+        "url": "http:\/\/api.sermonindex.net\/SID9882",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 8",
+        "topic": "Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9882-download",
+        "speaker_name": "Earl R. Clark",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "8"
+            }
+        ]
+    }
+]

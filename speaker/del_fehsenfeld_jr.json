@@ -12,9 +12,7 @@
             "topic": "Joy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20415-download",
-            "preacher_name": "Del Fehsenfeld Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Del Fehsenfeld Jr",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19779-download",
-            "preacher_name": "Del Fehsenfeld Jr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Del Fehsenfeld Jr",
             "_scripture": [
                 {
                     "book": "Exodus",

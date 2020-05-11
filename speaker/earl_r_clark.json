@@ -12,9 +12,7 @@
             "topic": "Calling",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9879-download",
-            "preacher_name": "Earl R. Clark",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Earl R. Clark",
             "_scripture": [
                 {
                     "book": "Philippians",
@@ -31,9 +29,7 @@
             "topic": "Beatitudes",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9880-download",
-            "preacher_name": "Earl R. Clark",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Earl R. Clark",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -50,9 +46,7 @@
             "topic": "Foolish Virgins",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9881-download",
-            "preacher_name": "Earl R. Clark",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Earl R. Clark",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -69,9 +63,7 @@
             "topic": "Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9882-download",
-            "preacher_name": "Earl R. Clark",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Earl R. Clark",
             "_scripture": [
                 {
                     "book": "Psalms",

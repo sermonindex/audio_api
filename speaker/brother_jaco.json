@@ -12,9 +12,7 @@
             "topic": "Money",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20476-download",
-            "preacher_name": "Brother Jaco",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brother Jaco",
             "_scripture": []
         }
     ]

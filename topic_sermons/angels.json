@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Angels",
+        "url": "http:\/\/api.sermonindex.net\/SID20289",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Angels",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20289-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": []
+    },
+    {
+        "title": "Availability and Angels",
+        "url": "http:\/\/api.sermonindex.net\/SID25009",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Angels",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25009-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": []
+    },
+    {
+        "title": "Judging Angels",
+        "url": "http:\/\/api.sermonindex.net\/SID17215",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 28:10-19",
+        "topic": "Angels",
+        "description": "June 1, 2008 - This is a message for those who are seeking the life and the blessing of God. The blessing is not something to be consumed among ourselves. Our life is to be an extension of the love and mercy of God and to give of ourselves unselfishly. When we choose to go this way with God we will be lead on a journey into hard places. In these hard places God will visit us. We will find wisdom and compassion for every dreadful place God allows us to go through. Heaven will open to the person who is willing to be poured out for the good and betterment of others.",
+        "download": "http:\/\/api.sermonindex.net\/SID17215-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "28"
+            }
+        ]
+    }
+]

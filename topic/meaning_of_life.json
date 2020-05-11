@@ -11,9 +11,7 @@
             "topic": "Meaning Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4986-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Meaning Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4987-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Meaning Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5110-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Meaning Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5111-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -67,9 +59,7 @@
             "topic": "Meaning Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5112-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -90,9 +80,7 @@
             "topic": "Meaning Of Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5113-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         }
     ]

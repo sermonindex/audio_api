@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Parent Abuse Faith Bible Church 28",
+        "url": "http:\/\/api.sermonindex.net\/SID21631",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Parent Abuse",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21631-download",
+        "speaker_name": "Daniel Peters",
+        "_scripture": []
+    },
+    {
+        "title": "Was the Flood worldwide  ",
+        "url": "http:\/\/api.sermonindex.net\/SID21635",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 7",
+        "topic": "Flood",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21635-download",
+        "speaker_name": "Daniel Peters",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "7"
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "title": "FREN-12 Apostolic Foundations - Paul at Athens",
+        "url": "http:\/\/api.sermonindex.net\/SID14180",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apostle Paul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14180-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "Paul Questions Twelve Men",
+        "url": "http:\/\/api.sermonindex.net\/SID25062",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 19:1-12",
+        "topic": "Apostle Paul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25062-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "Paul's Goal",
+        "url": "http:\/\/api.sermonindex.net\/SID20509",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apostle Paul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20509-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": []
+    },
+    {
+        "title": "Paul, a Pattern of Conversion and Service",
+        "url": "http:\/\/api.sermonindex.net\/SID26894",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apostle Paul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26894-download",
+        "speaker_name": "Rolfe Barnard",
+        "_scripture": []
+    },
+    {
+        "title": "Reason for His Passion",
+        "url": "http:\/\/api.sermonindex.net\/SID20953",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apostle Paul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20953-download",
+        "speaker_name": "Dennis Kinlaw",
+        "_scripture": []
+    }
+]

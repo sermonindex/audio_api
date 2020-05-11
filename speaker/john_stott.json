@@ -12,9 +12,7 @@
             "topic": "Great Commission",
             "description": "According to Stott, Luke's commission makes clear that the primary task of the Church is to be gospel heralds, not social reformers nor faith healers. There are five aspects: 1. forgiveness of sin (crucified Savior, the gift of grace alone). 2. upon the name of Christ. 3. on condition of repentance (risen Lord, the obedience of faith alone). 4. to all the nations. 5. in the power of the Holy Spirit (ever fresh, convicting, converting).",
             "download": "http:\/\/api.sermonindex.net\/SID11784-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -35,9 +33,7 @@
             "topic": "Great Commission",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11785-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -54,9 +50,7 @@
             "topic": "Great Commission",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11786-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -73,9 +67,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11787-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": []
         },
         {
@@ -87,9 +79,7 @@
             "topic": "Proclaim",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11788-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": []
         },
         {
@@ -101,9 +91,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11789-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": []
         },
         {
@@ -115,9 +103,7 @@
             "topic": "Suffering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11790-download",
-            "preacher_name": "John Stott",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Stott",
             "_scripture": []
         }
     ]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Share the News",
+        "url": "http:\/\/api.sermonindex.net\/SID0333",
+        "size": "508448",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sharing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0333-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "Sharing",
+        "url": "http:\/\/api.sermonindex.net\/SID23539",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 14",
+        "topic": "Sharing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23539-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "14"
+            }
+        ]
+    }
+]

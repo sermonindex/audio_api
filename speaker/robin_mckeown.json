@@ -12,9 +12,7 @@
             "topic": "Situation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23564-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Warning",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23560-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23563-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Agrippa",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23562-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23561-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23635-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23636-download",
-            "preacher_name": "Robin McKeown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin McKeown",
             "_scripture": []
         }
     ]

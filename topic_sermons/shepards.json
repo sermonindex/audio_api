@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Dangerous Shepards",
+        "url": "http:\/\/api.sermonindex.net\/SID2466",
+        "size": "10522624",
+        "format": "mp3",
+        "scripture": "Ezekiel 34:1-16,Jeremiah 23:18,John 10",
+        "topic": "Shepards",
+        "description": "This message is best described as how to identify dangerous, self-seeking shepherds, as the Bible describes in the scriptures. Where is the recognition of the seriousness and soberness of the high calling of being a shepherd to the sheep of God? Too many take it lightly and the sheep are scattered and wounded as a result, and often destroyed.",
+        "download": "http:\/\/api.sermonindex.net\/SID2466-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "10"
+            },
+            {
+                "book": "Jeremiah",
+                "chapter": "23"
+            },
+            {
+                "book": "Ezekiel",
+                "chapter": "34"
+            }
+        ]
+    }
+]

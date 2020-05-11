@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13621-download",
-            "preacher_name": "Ralph Sexton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Sexton",
             "_scripture": [
                 {
                     "book": "Job",

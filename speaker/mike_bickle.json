@@ -12,9 +12,7 @@
             "topic": "Bridegroom King",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22582-download",
-            "preacher_name": "Mike Bickle",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Bickle",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "End Times",
             "description": "In this stirring message, Mike explains from Psalm 2 what the world will look like before the return of Christ, with the leaders and governments of the earth resisting the Lord and trying to throw off His \"chains.\"",
             "download": "http:\/\/api.sermonindex.net\/SID26063-download",
-            "preacher_name": "Mike Bickle",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Bickle",
             "_scripture": [
                 {
                     "book": "Psalms",

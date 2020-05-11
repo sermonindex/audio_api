@@ -12,9 +12,7 @@
             "topic": "Forgiveness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23575-download",
-            "preacher_name": "Fred Whitmore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Whitmore",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Refusing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23574-download",
-            "preacher_name": "Fred Whitmore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Whitmore",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Freedom",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23573-download",
-            "preacher_name": "Fred Whitmore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Whitmore",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Foundation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23572-download",
-            "preacher_name": "Fred Whitmore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Whitmore",
             "_scripture": []
         }
     ]

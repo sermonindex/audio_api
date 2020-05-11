@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Spiritual Ascendancy",
+        "url": "http:\/\/api.sermonindex.net\/SID0098",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 125:1-5",
+        "topic": "Ascendancy",
+        "description": "This message was delivered on 07\/01\/1958.",
+        "download": "http:\/\/api.sermonindex.net\/SID0098-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "125"
+            }
+        ]
+    }
+]

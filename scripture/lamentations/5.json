@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15283-download",
-            "preacher_name": "Dean Hochstetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dean Hochstetler",
             "_scripture": [
                 {
                     "book": "Deuteronomy",

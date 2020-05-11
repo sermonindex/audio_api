@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Facts From The Past",
+        "url": "http:\/\/api.sermonindex.net\/SID7306",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 3:18-22",
+        "topic": "Facts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7306-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Stand by the Facts",
+        "url": "http:\/\/api.sermonindex.net\/SID27455",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Facts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27455-download",
+        "speaker_name": "Ray Greenly",
+        "_scripture": []
+    }
+]

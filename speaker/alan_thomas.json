@@ -12,9 +12,7 @@
             "topic": "Godly Music",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22222-download",
-            "preacher_name": "Alan Thomas",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Thomas",
             "_scripture": []
         }
     ]

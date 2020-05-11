@@ -12,9 +12,7 @@
             "topic": "Judgment Day",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12189-download",
-            "preacher_name": "Dave Hunt",
-            "preacher_image": "",
-            "preacher_description": "Dave Hunt (1926 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Dave Hunt in mp3 format.  Was a Christian apologist, speaker, radio commentator and author. He was in full-time ministry from 1973 until his death. The Berean Call, which highlights Hunt's material, was started in 1992. Hunt has traveled to the Near East, lived in Egypt, and written numerous books on theology, prophecy, cults, and other religions, including critiques of Catholicism, Islam, Mormonism, and Calvinism, among others. Hunt's Christian theology was evangelical dispensational and he was associated with the Plymouth Brethren movement. Although he was not a Calvinist, he did hold to eternal security.\r\nHunt believed occult or pagan influences are pervasive in modern culture - this includes evolution, as well as all forms of psychology, some forms of entertainment, all forms of science-fiction or fantasy[citation needed] - especially Harry Potter - yoga, some forms of medicine, environmental concern or conservation and much of public education. His book Occult Invasion is dedicated to this area, while several other books mention it in part.",
+            "speaker_name": "Dave Hunt",
             "_scripture": []
         }
     ]

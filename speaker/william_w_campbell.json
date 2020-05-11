@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9793-download",
-            "preacher_name": "William W. Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William W. Campbell",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9794-download",
-            "preacher_name": "William W. Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William W. Campbell",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9795-download",
-            "preacher_name": "William W. Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William W. Campbell",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "Episode 1: The Experiences of a Chinese Pastor in Prison [*] Chinese Judge Astounded by Christian's Love [*] Going the Extra Mile in Henan [*] The Obediance of Sister Chang [*] Sister Yuen of Shanghai [*] When God Would Not Let His Name Be Defamed [*] \"We Just Prayed\" Learn more at: http:\/\/www.asiaharvest.com",
             "download": "http:\/\/api.sermonindex.net\/SID25503-download",
-            "preacher_name": "Asia Harvest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Asia Harvest",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Audio Books",
             "description": "Episode 2: Radio Revival Among the Hmong in Laos - 1950s [*] Radio Revival Among the White Hmong in China - 1990s [*] The Titanic's Last Hero [*] David Livingstone - Far More Than Just an Explorer. Learn more at: http:\/\/www.asiaharvest.com",
             "download": "http:\/\/api.sermonindex.net\/SID25498-download",
-            "preacher_name": "Asia Harvest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Asia Harvest",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Audio Books",
             "description": "Episode 3: Saved for His Glory - A Testimony from the Himalayas [*] A Great Miracle in the Midst of India Disaster [*] Sister Li and the Earthquake. Learn more at: http:\/\/www.asiaharvest.com",
             "download": "http:\/\/api.sermonindex.net\/SID25499-download",
-            "preacher_name": "Asia Harvest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Asia Harvest",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Audio Books",
             "description": "Episode 4: Henan China - Testimonies from the House Churches: God's Wrath Leads Many to Repentance. [*] Nagaland, India: When Heaven Came Down (part 1). Learn more at: http:\/\/www.asiaharvest.com",
             "download": "http:\/\/api.sermonindex.net\/SID25500-download",
-            "preacher_name": "Asia Harvest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Asia Harvest",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Audio Books",
             "description": "Episode 5: Nagaland, India: When Heaven Came Down (part 2) [*] About Asia Harvest. Learn more at: http:\/\/www.asiaharvest.com",
             "download": "http:\/\/api.sermonindex.net\/SID25501-download",
-            "preacher_name": "Asia Harvest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Asia Harvest",
             "_scripture": []
         }
     ]

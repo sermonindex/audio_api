@@ -11,9 +11,7 @@
             "topic": "Nigeria",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19746-download",
-            "preacher_name": "Andrew Strom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Strom",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Nigeria",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19745-download",
-            "preacher_name": "Andrew Strom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Strom",
             "_scripture": []
         }
     ]

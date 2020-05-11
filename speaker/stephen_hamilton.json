@@ -12,9 +12,7 @@
             "topic": "J.C. Ryle",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2988-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "David Brainerd",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2985-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "John G. Paton",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2986-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Mormonism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16127-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": [
                 {
                     "book": "2 Thessalonians",
@@ -73,9 +65,7 @@
             "topic": "Mormonism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16129-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": [
                 {
                     "book": "1 Timothy",
@@ -92,9 +82,7 @@
             "topic": "Mormonism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16130-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -111,9 +99,7 @@
             "topic": "Mormonism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16128-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -130,9 +116,7 @@
             "topic": "Pentecost",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14372-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -144,9 +128,7 @@
             "topic": "John Newton",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2989-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -158,9 +140,7 @@
             "topic": "Richard Baxter",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2987-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -172,9 +152,7 @@
             "topic": "Robert Murray McCheyne",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2984-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         },
         {
@@ -186,9 +164,7 @@
             "topic": "Secret Rapture",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23089-download",
-            "preacher_name": "Stephen Hamilton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Hamilton",
             "_scripture": []
         }
     ]

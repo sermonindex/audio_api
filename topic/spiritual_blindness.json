@@ -11,9 +11,7 @@
             "topic": "Spiritual Blindness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18989-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Spiritual Blindness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20911-download",
-            "preacher_name": "Dennis Kinlaw",
-            "preacher_image": "",
-            "preacher_description": "Dennis Kinlaw ( - )\r\nListen to freely downloadable audio sermons by the speaker Dennis Kinlaw in mp3 format.  Dennis Franklin Kinlaw was born June 26, 1922, in Lumberton, North Carolina. He attended Asbury College, graduating in 1943, and Asbury Theological Seminary, graduating in 1946. He pursued further studies at Princeton Theological Seminary and University of Edinburgh, Scotland. He received an M.A. and Ph.D. from Brandeis University. On December 31, 1943, Kinlaw married a college classmate, Elsie Blake (Class of 1943). He was ordained in the North Carolina Conference of the United Methodist Church in 1951. (He later transferred to the Kentucky Conference.) In 1959 he served as a visiting professor at Seoul Theological College in South Korea. In 1963 he returned to Asbury Theological Seminary, this time as a professor of Old Testament history, theology, and languages.\r\nIn 1983 Kinlaw founded the Francis Asbury Society, an organization based in Wilmore, Kentucky, whose purpose is to promote the message of Scriptural holiness through evangelism, discipleship, missions outreach, and publications. Kinlaw also served as chairman of the board of the mission organization OMS International. He is an accomplished pastor, professor, administrator, evangelist, teacher, and author.",
+            "speaker_name": "Dennis Kinlaw",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Spiritual Blindness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12194-download",
-            "preacher_name": "John Rhys Watkins",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Rhys Watkins",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Spiritual Blindness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25040-download",
-            "preacher_name": "Richard Langworthy",
-            "preacher_image": "",
-            "preacher_description": "Richard Langworthy ( - )\r\nListen to freely downloadable audio sermons by the speaker Richard Langworthy in mp3 format.  Richard began pastoring his first church in Bulawayo in 1978. Today he is the Pastor of Selbourne Park Christian Church, which is one of the most respected multiracial churches in the country. Richard is part of a team of pastors who have been responsible for the planting of churches in both the cites and rural communities of Zimbabwe.\r\n\r\nIn 1990 these men became a part of a group of pastors within Africa who saw the need to join together in fellowship for the purposes of preaching an uncompromising gospel of Christ and Him crucified. This led to the formation of 'Church Team Ministries International', which today has been able to touch the lives of pastors and Christians across the continent of Africa, by challenging them to turn from the modern doctrines of humanism and tradition and to embrace the pure doctrines of Christ.",
+            "speaker_name": "Richard Langworthy",
             "_scripture": []
         }
     ]

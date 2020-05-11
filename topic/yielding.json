@@ -11,9 +11,7 @@
             "topic": "Yielding",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23052-download",
-            "preacher_name": "Hans R. Waldvogel",
-            "preacher_image": "\/images\/hans_r_waldvogel.gif",
-            "preacher_description": "Hans R. Waldvogel (1893 - 1969)\r\nListen to freely downloadable audio sermons by the speaker Hans R. Waldvogel in mp3 format. A powerful preacher who ministered as a pentecostal minister. He did not believe in sectarian groups but rather saw the Church as a whole who have the person of Christ in them.  Brother Waldvogel gleamed from many different men of God including A.B. Simpson.\r\n\r\nHis preaching was centred around the very person of Jesus Christ and the work of the Holy Spirit. He spoke much of the rest of the Lord in Christian work and experience and the Spirit-filled life.",
+            "speaker_name": "Hans R. Waldvogel",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Yielding",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24195-download",
-            "preacher_name": "Michael L. Brown",
-            "preacher_image": "",
-            "preacher_description": "Michael L. Brown ( - )\r\nListen to freely downloadable audio sermons by the speaker Michael L. Brown in mp3 format.  Michael L. Brown is the founder and president of FIRE School of Ministry in Concord, North Carolina, director of the Coalition of Conscience, and host of the daily, nationally, syndicated talk radio show, The Line of Fire, as well as the host of the Jewish-outreach, documentary TV series, Think It Thru, which airs internationally on the INI network. He became a believer in Jesus 1971 as a sixteen year-old, heroin-shooting, LSD-using Jewish rock drummer. Since then, he has preached throughout America and around the world, bringing a message of repentance, revival, reformation, and cultural revolution.\r\nDr. Brown is a national and international speaker on themes of spiritual renewal and cultural reformation, and he has debated Jewish rabbis, agnostic professors, and gay activists on radio, TV, and college campuses. He is widely considered to be the world's foremost Messianic Jewish apologist. He and his wife Nancy, who is also a Jewish believer in Jesus, have been married since 1976. They have two daughters and four grandchildren.",
+            "speaker_name": "Michael L. Brown",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Yielding",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12248-download",
-            "preacher_name": "Alan Redpath",
-            "preacher_image": "\/images\/alan_redpath.gif",
-            "preacher_description": "Alan Redpath (1907 - 1989)\r\nListen to freely downloadable audio sermons by the speaker Alan Redpath in mp3 format. Redpath was a well-known preacher from England who pastored the famous Moody church in chicago for 7 years. He ministered at Keswick conventions and also deeper life meetings on the subject of revival, prayer, full-surrender. He spent the later years of his life ministering Capernwray bible school movement founded by Major Ian Thomas.\r\n\r\nDr. Redpath authored six books; the first one, Victorious Christian Living, was published in 1955. Others were Victorious Prayer (1956), Victorious Christian Service (1958), The Royal Route to Heaven (1960), Blessings Out of Buffettings (1965), The Making of a Man of God (1962), and Law and Liberty and Captivity to Conquest (1978).",
+            "speaker_name": "Alan Redpath",
             "_scripture": [
                 {
                     "book": "1 Chronicles",
@@ -58,9 +52,7 @@
             "topic": "Yielding",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23878-download",
-            "preacher_name": "Lou Sutera",
-            "preacher_image": "",
-            "preacher_description": "Lou Sutera ( - )\r\nListen to freely downloadable audio sermons by the speaker Lou Sutera in mp3 format. Twin brothers Used of God in revival since 1971. Single and joint church revival ministries usually two and one-half weeks in length. Characterized by straight-forward preaching, visual presentations, follow-through teaching, personal counselling by lay-team workers, etc. Crusades include sessions for men, ladies, youth, children, church leaders and pastoral staffs.",
+            "speaker_name": "Lou Sutera",
             "_scripture": [
                 {
                     "book": "Philippians",

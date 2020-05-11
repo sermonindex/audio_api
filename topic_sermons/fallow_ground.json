@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Break Up The Fallow Ground",
+        "url": "http:\/\/api.sermonindex.net\/SID18374",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Fallow Ground",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18374-download",
+        "speaker_name": "Bill McLeod",
+        "_scripture": []
+    },
+    {
+        "title": "Breaking Up Fallow Ground",
+        "url": "http:\/\/api.sermonindex.net\/SID0345",
+        "size": "4874234",
+        "format": "mp3",
+        "scripture": "Revelation 2:4",
+        "topic": "Fallow Ground",
+        "description": "According to A.W. Tozer, new churches are usually more spiritual than established churches. Older congregations may have become complacent in their success and community status, and have cooled down on their First Love. That \"First Love,\" of course, is Jesus Christ. This was pointed out as a shortcoming of the long-established Ephesian church (Revelation 2:4) at the end of the Apostolic Age. Have you cooled off? Do you love Jesus as much as you did when you were first converted? In his message, Dr. Tozer examines his own congregation on that question.",
+        "download": "http:\/\/api.sermonindex.net\/SID0345-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "2"
+            }
+        ]
+    }
+]

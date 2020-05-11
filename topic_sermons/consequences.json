@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Better Late Than Never",
+        "url": "http:\/\/api.sermonindex.net\/SID24071",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 3:9-19",
+        "topic": "Consequences",
+        "description": "There's a consequence for every decision. Let's explore what happens when we hold off trusting in Jesus. 2Kings 3:9-19",
+        "download": "http:\/\/api.sermonindex.net\/SID24071-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "2 Kings",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Choices, Deeds & Consequences",
+        "url": "http:\/\/api.sermonindex.net\/SID0343",
+        "size": "5121485",
+        "format": "mp3",
+        "scripture": "Haggai 1:5, Haggai 1:7",
+        "topic": "Consequences",
+        "description": "Dr. Tozer says that considering your ways (your moral ways, that is) is the most important thing that anyone can consider. It is important because everything a person does today -- no matter how slight -- will have consequences tomorrow. God emphasizes this in Haggi 1:5, 7. Pastor Tozer points out that the Pharisees were classic examples of knowing everyone else's ways but their own. They, who should have known better, ignored God's command to examine themselves, so they remained ignorant of their own actions and were spiritually stagnant.",
+        "download": "http:\/\/api.sermonindex.net\/SID0343-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Haggai",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "The Consequences of Not Trusting God",
+        "url": "http:\/\/api.sermonindex.net\/SID4326",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 12:1, Hebrews 10:38, Jude 1:20",
+        "topic": "Consequences",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4326-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Jude",
+                "chapter": "1"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "10"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "12"
+            }
+        ]
+    }
+]

@@ -11,9 +11,7 @@
             "topic": "Motives",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23669-download",
-            "preacher_name": "George Verwer",
-            "preacher_image": "\/images\/george_verwer.gif",
-            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "speaker_name": "George Verwer",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Motives",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27754-download",
-            "preacher_name": "Rolfe Barnard",
-            "preacher_image": "\/images\/rolfe_barnard.gif",
-            "preacher_description": "Rolfe Barnard (1904 - 1969)\r\nListen to freely downloadable audio sermons by the speaker Rolfe Barnard in mp3 format. Was evidently a prophet from God for the 20th Century. With a profound sense of the absolute sovereignty and glory of Jesus Christ, he was able to preach a message that produced conviction of sin. He maintained through all his ministry what he himself called a \"sweetheart love for the Lord Jesus,\" and it is most surely apparent in his messages.\r\n\r\nHe was an acclaimed preacher of primarily the 1940's and 1950's.About 100,000 professed faith in Christ during his decades of preaching. He was initially associated with John R.Rice in the 1940's. However,after giving a scripturally based message on John 6 Before rice and some other fundamentalist leaders he was kicked out of the Fundamentalist camp. He then went on the independent circuit. His preaching tours as an evangelist were mainly in the American south.But he also ministered in the mid-west and Canada as well.",
+            "speaker_name": "Rolfe Barnard",
             "_scripture": []
         }
     ]

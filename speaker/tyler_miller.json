@@ -12,9 +12,7 @@
             "topic": "Deception",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "Tyler Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tyler Miller",
             "_scripture": []
         }
     ]

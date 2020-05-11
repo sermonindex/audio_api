@@ -11,9 +11,7 @@
             "topic": "Modern Christianity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23767-download",
-            "preacher_name": "Zacharias Tanee Fomum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Zacharias Tanee Fomum",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Modern Christianity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23768-download",
-            "preacher_name": "Zacharias Tanee Fomum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Zacharias Tanee Fomum",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Modern Christianity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23769-download",
-            "preacher_name": "Zacharias Tanee Fomum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Zacharias Tanee Fomum",
             "_scripture": []
         }
     ]

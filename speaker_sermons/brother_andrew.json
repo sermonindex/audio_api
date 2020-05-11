@@ -1,0 +1,163 @@
+[
+    {
+        "title": "A Special Message (1st service)",
+        "url": "http:\/\/api.sermonindex.net\/SID2592",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Special Message",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2592-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Brother Andrew and Dan Wooding Interview",
+        "url": "http:\/\/api.sermonindex.net\/SID6129",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Interview",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6129-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "God's Smuggler",
+        "url": "http:\/\/api.sermonindex.net\/SID3938",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Missions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3938-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Human Rights",
+        "url": "http:\/\/api.sermonindex.net\/SID0262",
+        "size": "9127936",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Human Rights",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0262-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "People God Can Use - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID1911",
+        "size": "26727936",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Consecration",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1911-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "People God Can Use - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID1912",
+        "size": "17769472",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Consecration",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1912-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "The Lordship of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID23585",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23585-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Things God Wants Us To Know - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID1229",
+        "size": "9166336",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Revelation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1229-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Things God Wants Us To Know - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID1230",
+        "size": "8393728",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Revelation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1230-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Unhindered",
+        "url": "http:\/\/api.sermonindex.net\/SID0261",
+        "size": "6013952",
+        "format": "mp3",
+        "scripture": "Acts 28:30-31",
+        "topic": "Missions",
+        "description": "Brother Andrew says there are no \"doors\" in this world that are closed to prevent the proclaiming of the Good News of Jesus Christ. Though the messenger may be bound in chains, the message still gets through. Brother Andrew cites Paul's situation in Acts 28:30-31. Even as a prisoner of Rome, the Apostle continued to deliver the message. But once through the \"door,\" could a believer return if he wanted to and still be true to Christ? Could Paul? Could Peter? Could Stephen? Could the martyrs?",
+        "download": "http:\/\/api.sermonindex.net\/SID0261-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "28"
+            }
+        ]
+    },
+    {
+        "title": "What is a Missionary - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID1913",
+        "size": "30998528",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Missions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1913-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "What is a Missionary - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID1914",
+        "size": "30115328",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Missions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1914-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Who has Authority today",
+        "url": "http:\/\/api.sermonindex.net\/SID23586",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Authority",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23586-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "Recording of Colonel John Lawley singing coruses dating back to February 12, 1898.",
             "download": "http:\/\/api.sermonindex.net\/SID3661-download",
-            "preacher_name": "John Lawley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Lawley",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "Recording of Colonel John Lawley singing coruses dating back to February 12, 1898.",
             "download": "http:\/\/api.sermonindex.net\/SID3660-download",
-            "preacher_name": "John Lawley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Lawley",
             "_scripture": []
         }
     ]

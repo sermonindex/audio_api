@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15001-download",
-            "preacher_name": "John Wagner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Wagner",
             "_scripture": []
         }
     ]

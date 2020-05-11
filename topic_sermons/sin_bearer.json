@@ -1,0 +1,43 @@
+[
+    {
+        "title": "He by Himself purged our Sins",
+        "url": "http:\/\/api.sermonindex.net\/SID0231",
+        "size": "4015710",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sin Bearer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0231-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "John the Baptist's Introduction of Jesus as the Sin Bearer",
+        "url": "http:\/\/api.sermonindex.net\/SID7143",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sin Bearer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7143-download",
+        "speaker_name": "Ron Bailey",
+        "_scripture": []
+    },
+    {
+        "title": "The Solitary Sin Bearer",
+        "url": "http:\/\/api.sermonindex.net\/SID4736",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 2:24-25",
+        "topic": "Sin Bearer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4736-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "2"
+            }
+        ]
+    }
+]

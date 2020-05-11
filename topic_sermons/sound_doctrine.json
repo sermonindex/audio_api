@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Sound Doctrine vs \"Spiritualizing\"",
+        "url": "http:\/\/api.sermonindex.net\/SID3123",
+        "size": "12906496",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sound Doctrine",
+        "description": "Art challenges the error of a whole movement that had elevated the spiritualization of scripture over and above the apostolic tradition of sound biblical doctrine.",
+        "download": "http:\/\/api.sermonindex.net\/SID3123-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "Test Of Sound Doctrine",
+        "url": "http:\/\/api.sermonindex.net\/SID13377",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 John 5:1-12",
+        "topic": "Sound Doctrine",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13377-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "1 John",
+                "chapter": "5"
+            }
+        ]
+    }
+]

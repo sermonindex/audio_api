@@ -12,9 +12,7 @@
             "topic": "Goal",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12171-download",
-            "preacher_name": "Rick Hagans",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Hagans",
             "_scripture": []
         }
     ]

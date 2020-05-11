@@ -12,9 +12,7 @@
             "topic": "Modest Dress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19342-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Modest Dress",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19341-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Selfish",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25962-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18239-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Fatherhood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28478-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18518-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Child Training",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19640-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -110,9 +96,7 @@
             "topic": "Authority",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28477-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "Authority",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28476-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         },
         {
@@ -138,9 +120,7 @@
             "topic": "Authority",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28474-download",
-            "preacher_name": "Paul Lloyd",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Lloyd",
             "_scripture": []
         }
     ]

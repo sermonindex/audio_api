@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Fullness of Life",
+        "url": "http:\/\/api.sermonindex.net\/SID12259",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 5:1",
+        "topic": "Fullness of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12259-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "5"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15084-download",
-            "preacher_name": "Henry Mahan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Henry Mahan",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15086-download",
-            "preacher_name": "Henry Mahan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Henry Mahan",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Apostasy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19380-download",
-            "preacher_name": "Henry Mahan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Henry Mahan",
             "_scripture": []
         }
     ]

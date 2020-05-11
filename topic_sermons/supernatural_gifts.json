@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Supernatural Gifts - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID25057",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 4:11-16",
+        "topic": "Supernatural Gifts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25057-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Supernatural Gifts - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID25056",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 12, 1 Corinthians 14",
+        "topic": "Supernatural Gifts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25056-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "12"
+            }
+        ]
+    }
+]

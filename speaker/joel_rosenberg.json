@@ -12,9 +12,7 @@
             "topic": "Last Days",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19870-download",
-            "preacher_name": "Joel Rosenberg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joel Rosenberg",
             "_scripture": []
         }
     ]

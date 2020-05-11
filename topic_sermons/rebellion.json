@@ -1,0 +1,72 @@
+[
+    {
+        "title": "(Genesis #4) Thunder-Peals In Paradise",
+        "url": "http:\/\/api.sermonindex.net\/SID4834",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Rebellion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4834-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "Forsaking God",
+        "url": "http:\/\/api.sermonindex.net\/SID10227",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hosea 4:6",
+        "topic": "Rebellion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10227-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Hosea",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Jude - Korah & Rebellion",
+        "url": "http:\/\/api.sermonindex.net\/SID3626",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jude",
+        "topic": "Rebellion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3626-download",
+        "speaker_name": "Martin Geehan",
+        "_scripture": []
+    },
+    {
+        "title": "Lessons Learned From Korah's Rebellion",
+        "url": "http:\/\/api.sermonindex.net\/SID19228",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jude 1:11",
+        "topic": "Rebellion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19228-download",
+        "speaker_name": "Alan Martin",
+        "_scripture": [
+            {
+                "book": "Jude",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Warning Against Rebellion",
+        "url": "http:\/\/api.sermonindex.net\/SID20065",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Rebellion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20065-download",
+        "speaker_name": "Rolfe Barnard",
+        "_scripture": []
+    }
+]

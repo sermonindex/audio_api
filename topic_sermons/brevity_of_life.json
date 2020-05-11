@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Here's My Life",
+        "url": "http:\/\/api.sermonindex.net\/SID20563",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:14",
+        "topic": "Brevity Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20563-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "If I Had Six Months To Live",
+        "url": "http:\/\/api.sermonindex.net\/SID22076",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Brevity Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22076-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": []
+    },
+    {
+        "title": "Numbering Our Days",
+        "url": "http:\/\/api.sermonindex.net\/SID15290",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 90:1-12",
+        "topic": "Brevity Of Life",
+        "description": "Life is a vapor, which vanishes away. We don\u2019t know when our time is up. Therefore, it is important that we pray along with Moses that the Lord would teach us to number our days. We need to break down our lives into small allotments. Number your days, not as though they are ending, but rather beginning.",
+        "download": "http:\/\/api.sermonindex.net\/SID15290-download",
+        "speaker_name": "Dean Stump",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "90"
+            }
+        ]
+    },
+    {
+        "title": "The Vanity of Life",
+        "url": "http:\/\/api.sermonindex.net\/SID1541",
+        "size": "10084352",
+        "format": "mp3",
+        "scripture": "Ecclesiastes 12:7, Hebrews 9:27",
+        "topic": "Brevity Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1541-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "9"
+            },
+            {
+                "book": "Ecclesiastes",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "Time is Short\u2026 Don't Waste Your Life",
+        "url": "http:\/\/api.sermonindex.net\/SID19318",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Brevity Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19318-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": []
+    },
+    {
+        "title": "What is your Life?",
+        "url": "http:\/\/api.sermonindex.net\/SID6799",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:14",
+        "topic": "Brevity Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6799-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "What is your Life? (cd quality)",
+        "url": "http:\/\/api.sermonindex.net\/SID6800",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:14",
+        "topic": "Brevity Of Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6800-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    }
+]

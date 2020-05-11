@@ -11,9 +11,7 @@
             "topic": "Temple",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6130-download",
-            "preacher_name": "Ray Lowe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Lowe",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -30,9 +28,7 @@
             "topic": "Temple",
             "description": "Have you come to the place of realizing that it is humanly impossible to live this Christian life?  Ed Miller shares the first of four reasons why our temple (our advance in the Christian life) may be incomplete, and shows how the Holy Spirit is God's solution.",
             "download": "http:\/\/api.sermonindex.net\/SID11391-download",
-            "preacher_name": "Ed Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ed Miller",
             "_scripture": [
                 {
                     "book": "Zechariah",
@@ -57,9 +53,7 @@
             "topic": "Temple",
             "description": "What is God's perfect cure to an incomplete temple?  Ed continues to discuss the external reasons for why we may abandon the building of the temple and contrasts those with the real reason why we give up on building the temple.",
             "download": "http:\/\/api.sermonindex.net\/SID11392-download",
-            "preacher_name": "Ed Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ed Miller",
             "_scripture": [
                 {
                     "book": "Zechariah",
@@ -84,9 +78,7 @@
             "topic": "Temple",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25807-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": []
         },
         {
@@ -98,9 +90,7 @@
             "topic": "Temple",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25804-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": []
         },
         {
@@ -112,9 +102,7 @@
             "topic": "Temple",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25805-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": []
         }
     ]

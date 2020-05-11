@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Devotional",
+        "url": "http:\/\/api.sermonindex.net\/SID18394",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devotional",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18394-download",
+        "speaker_name": "Bill McLeod",
+        "_scripture": []
+    },
+    {
+        "title": "Devotional Life",
+        "url": "http:\/\/api.sermonindex.net\/SID18343",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 50:4-5",
+        "topic": "Devotional",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18343-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "50"
+            }
+        ]
+    },
+    {
+        "title": "Psalm 119 Devotion ",
+        "url": "http:\/\/api.sermonindex.net\/SID20420",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 119",
+        "topic": "Devotional",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20420-download",
+        "speaker_name": "Dan Biser",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "119"
+            }
+        ]
+    },
+    {
+        "title": "The Christian And His Devotional Life",
+        "url": "http:\/\/api.sermonindex.net\/SID14857",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Devotional",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14857-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": []
+    }
+]

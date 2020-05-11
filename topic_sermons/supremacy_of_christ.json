@@ -1,0 +1,31 @@
+[
+    {
+        "title": "The Supremacy of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID20763",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Colossians 1:9-19",
+        "topic": "Supremacy of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20763-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Colossians",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "The Supremacy of Christ in Suffering",
+        "url": "http:\/\/api.sermonindex.net\/SID20114",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Supremacy Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20114-download",
+        "speaker_name": "John Piper",
+        "_scripture": []
+    }
+]

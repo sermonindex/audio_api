@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5399-download",
-            "preacher_name": "F. Crossley Morgan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. Crossley Morgan",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5401-download",
-            "preacher_name": "F. Crossley Morgan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. Crossley Morgan",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5398-download",
-            "preacher_name": "F. Crossley Morgan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. Crossley Morgan",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5400-download",
-            "preacher_name": "F. Crossley Morgan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. Crossley Morgan",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5423-download",
-            "preacher_name": "F. Crossley Morgan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "F. Crossley Morgan",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Philosophy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22633-download",
-            "preacher_name": "Dennis Jenkins",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dennis Jenkins",
             "_scripture": []
         }
     ]

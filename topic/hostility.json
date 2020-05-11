@@ -11,9 +11,7 @@
             "topic": "Hostility",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24301-download",
-            "preacher_name": "Steve Mays",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Mays",
             "_scripture": []
         }
     ]

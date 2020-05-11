@@ -12,9 +12,7 @@
             "topic": "Bitterness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17343-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Bitterness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19683-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         },
         {
@@ -37,12 +33,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Self-Esteem",
+            "topic": "SelfEsteem",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19681-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Joy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17344-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19682-download",
-            "preacher_name": "Jim Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Wilson",
             "_scripture": []
         }
     ]

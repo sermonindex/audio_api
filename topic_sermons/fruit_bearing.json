@@ -1,0 +1,72 @@
+[
+    {
+        "title": "(John) Fruit Bearing",
+        "url": "http:\/\/api.sermonindex.net\/SID6876",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 15:1-8",
+        "topic": "Fruit Bearing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6876-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Fruit Bearing Discipleship",
+        "url": "http:\/\/api.sermonindex.net\/SID20937",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 15",
+        "topic": "Fruit Bearing",
+        "description": "Paul Washer teaches through John 15 on what it means to be a disciple of Christ. Believers cannot bear fruit on their own, just as the vine cannot bear fruit without the branch. In this brief session, Paul Washer explains what the \"fruit\" of the believer is, and what it means to \"bear\" this fruit.",
+        "download": "http:\/\/api.sermonindex.net\/SID20937-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Fruit Bearing Palm Tree 1968 - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID26119",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Fruit Bearing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26119-download",
+        "speaker_name": "Bakht Singh",
+        "_scripture": []
+    },
+    {
+        "title": "Fruit Bearing Palm Tree 1968 - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID26120",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Fruit Bearing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26120-download",
+        "speaker_name": "Bakht Singh",
+        "_scripture": []
+    },
+    {
+        "title": "Fruit Bearing Palm Tree 1968 - Part 3",
+        "url": "http:\/\/api.sermonindex.net\/SID26121",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Fruit Bearing",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26121-download",
+        "speaker_name": "Bakht Singh",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13058-download",
-            "preacher_name": "John G. Reisinger",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John G. Reisinger",
             "_scripture": [
                 {
                     "book": "2 Peter",

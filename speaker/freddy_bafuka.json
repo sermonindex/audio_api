@@ -12,9 +12,7 @@
             "topic": "King Saul",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23755-download",
-            "preacher_name": "Freddy Bafuka",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Freddy Bafuka",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "King Saul",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23756-download",
-            "preacher_name": "Freddy Bafuka",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Freddy Bafuka",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Babylon",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23757-download",
-            "preacher_name": "Freddy Bafuka",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Freddy Bafuka",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Babylon",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23758-download",
-            "preacher_name": "Freddy Bafuka",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Freddy Bafuka",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23754-download",
-            "preacher_name": "Freddy Bafuka",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Freddy Bafuka",
             "_scripture": []
         }
     ]

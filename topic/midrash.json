@@ -11,9 +11,7 @@
             "topic": "Midrash",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12037-download",
-            "preacher_name": "Jacob Prasch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jacob Prasch",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Midrash",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12034-download",
-            "preacher_name": "Jacob Prasch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jacob Prasch",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Midrash",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12035-download",
-            "preacher_name": "Jacob Prasch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jacob Prasch",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Midrash",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12036-download",
-            "preacher_name": "Jacob Prasch",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jacob Prasch",
             "_scripture": []
         }
     ]

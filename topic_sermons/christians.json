@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Disciples Called Christians",
+        "url": "http:\/\/api.sermonindex.net\/SID25526",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 11:19-26",
+        "topic": "Christians",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25526-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "Saints Alive",
+        "url": "http:\/\/api.sermonindex.net\/SID25485",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christians",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25485-download",
+        "speaker_name": "Warren Wiersbe",
+        "_scripture": []
+    },
+    {
+        "title": "Sign Christians",
+        "url": "http:\/\/api.sermonindex.net\/SID22208",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christians",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22208-download",
+        "speaker_name": "James A. Stewart",
+        "_scripture": []
+    }
+]

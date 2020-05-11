@@ -1,0 +1,36 @@
+[
+    {
+        "title": "In Understanding Be Men",
+        "url": "http:\/\/api.sermonindex.net\/SID23516",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 14:20-40",
+        "topic": "Understanding",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23516-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "14"
+            }
+        ]
+    },
+    {
+        "title": "The Eyes of Your Understanding",
+        "url": "http:\/\/api.sermonindex.net\/SID25561",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 1",
+        "topic": "Understanding",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25561-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "1"
+            }
+        ]
+    }
+]

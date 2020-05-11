@@ -12,9 +12,7 @@
             "topic": "Prayer Meeting",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23620-download",
-            "preacher_name": "Gary Witherall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gary Witherall",
             "_scripture": []
         }
     ]

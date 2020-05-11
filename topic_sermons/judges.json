@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Judges 18 vs 24",
+        "url": "http:\/\/api.sermonindex.net\/SID20749",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Judges 18:24",
+        "topic": "Judges",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20749-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Judges",
+                "chapter": "18"
+            }
+        ]
+    },
+    {
+        "title": "Judges, Ruth",
+        "url": "http:\/\/api.sermonindex.net\/SID2243",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Judges",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2243-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": []
+    },
+    {
+        "title": "Thoughts In The Book Of Judges",
+        "url": "http:\/\/api.sermonindex.net\/SID19965",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Judges",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19965-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    }
+]

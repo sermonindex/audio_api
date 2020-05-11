@@ -1,0 +1,19 @@
+[
+    {
+        "title": "What Child Is This? The Benedictus",
+        "url": "http:\/\/api.sermonindex.net\/SID4744",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 1:67-69",
+        "topic": "Benedictus",
+        "description": "J. Glyn Owen speaks on the wonderful words of Zacharias that the Lord has come to redeem the people. The beginning of light is shining in the advent season, John the Baptist is showing the way to our Saviour.  The Benedictus was the song of thanksgiving uttered by Zechariah on the occasion of the circumcision of his son, John the Baptist. The canticle received its name from its first words in Latin (Benedictus Dominus Deus Israel, \u00e2\u20ac\u0153Blessed be the Lord God of Israel\u00e2\u20ac\u009d).",
+        "download": "http:\/\/api.sermonindex.net\/SID4744-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "1"
+            }
+        ]
+    }
+]

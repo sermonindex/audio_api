@@ -12,9 +12,7 @@
             "topic": "",
             "description": "Mordecai F. Ham preached his first sermon in 1901 and through church evangelism and citywide crusades left hundreds of thousands of converts for Jesus Christ, his most famous being Billy Graham.",
             "download": "http:\/\/api.sermonindex.net\/SID0629-download",
-            "preacher_name": "Mordecai Ham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mordecai Ham",
             "_scripture": []
         }
     ]

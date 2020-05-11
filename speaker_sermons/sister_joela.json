@@ -1,0 +1,43 @@
+[
+    {
+        "title": "(Pdf Book) From Ridicule to Respect",
+        "url": "http:\/\/api.sermonindex.net\/SID26318.pdf",
+        "size": "0",
+        "format": "pdf",
+        "scripture": "Luke 22:70",
+        "topic": "Ebooks",
+        "description": "Is there still hope for our Church? Only on one condition. We must be willing to take a fresh look at our 2000 year heritage and the beginnings of Christianity. A unusual and thought-provoking perspective",
+        "download": "http:\/\/api.sermonindex.net\/SID26318.pdf-download",
+        "speaker_name": "Sister Joela",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "22"
+            }
+        ]
+    },
+    {
+        "title": "(Pdf Book) The Cross in the Crossfire",
+        "url": "http:\/\/api.sermonindex.net\/SID25909.pdf",
+        "size": "0",
+        "format": "pdf",
+        "scripture": "",
+        "topic": "Ebooks",
+        "description": "\"Is the cross becoming an undesirable symbol even in Christian circles? ... As we draw near to the time of Jesus' second coming, it is His cross that will unite or divide us ... How do we prepare and become fireproof Christians?\"",
+        "download": "http:\/\/api.sermonindex.net\/SID25909.pdf-download",
+        "speaker_name": "Sister Joela",
+        "_scripture": []
+    },
+    {
+        "title": "(Pdf Book) inTolerance",
+        "url": "http:\/\/api.sermonindex.net\/SID25908.pdf",
+        "size": "0",
+        "format": "pdf",
+        "scripture": "",
+        "topic": "Ebooks",
+        "description": "This booklet by Sister Joela Krueger challenges us to be bold and open about our faith in God and what He says, though the price in the future may be very high.  The booklet encourages us to stand up for God and His commandments, yet with a love and compassion that issues from truth and not subjective and deceptive feelings.",
+        "download": "http:\/\/api.sermonindex.net\/SID25908.pdf-download",
+        "speaker_name": "Sister Joela",
+        "_scripture": []
+    }
+]

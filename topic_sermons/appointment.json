@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(John) The Appointment Of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID6852",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 4:1-30",
+        "topic": "Appointment",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6852-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "4"
+            }
+        ]
+    }
+]

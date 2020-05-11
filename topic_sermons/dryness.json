@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Dryness",
+        "url": "http:\/\/api.sermonindex.net\/SID5393",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 7:37-39, John 4:7, 9-14",
+        "topic": "Dryness",
+        "description": "Roy Hession tackles the question, \"Why is it we get dry?\"  He contrasts the power of self-effort, defeat and barrenness in the Christian life up against believing in Jesus as the One who daily satisfies.",
+        "download": "http:\/\/api.sermonindex.net\/SID5393-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "4"
+            },
+            {
+                "book": "John",
+                "chapter": "7"
+            }
+        ]
+    }
+]

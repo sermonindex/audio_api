@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The God Of Elijah",
+        "url": "http:\/\/api.sermonindex.net\/SID9222",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 2:14",
+        "topic": "God Of Elijah",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9222-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "2 Kings",
+                "chapter": "2"
+            }
+        ]
+    }
+]

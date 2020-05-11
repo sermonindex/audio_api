@@ -12,9 +12,7 @@
             "topic": "Pharisee",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19811-download",
-            "preacher_name": "Ken Bailey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Bailey",
             "_scripture": []
         }
     ]

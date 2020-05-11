@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13062-download",
-            "preacher_name": "Tom Wells",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Wells",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -35,9 +33,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13063-download",
-            "preacher_name": "Tom Wells",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Wells",
             "_scripture": [
                 {
                     "book": "Daniel",

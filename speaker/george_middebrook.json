@@ -12,9 +12,7 @@
             "topic": "Revival History",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25100-download",
-            "preacher_name": "George Middebrook",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "George Middebrook",
             "_scripture": []
         }
     ]

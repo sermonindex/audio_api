@@ -12,9 +12,7 @@
             "topic": "Islam",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13725-download",
-            "preacher_name": "Avi Lipkin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Avi Lipkin",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Islam",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13728-download",
-            "preacher_name": "Avi Lipkin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Avi Lipkin",
             "_scripture": []
         }
     ]

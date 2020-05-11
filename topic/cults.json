@@ -11,9 +11,7 @@
             "topic": "Cults",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19862-download",
-            "preacher_name": "Walter Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter Martin",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Cults",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19848-download",
-            "preacher_name": "Ron Carlson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ron Carlson",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21976-download",
-            "preacher_name": "William Yuille",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William Yuille",
             "_scripture": []
         }
     ]

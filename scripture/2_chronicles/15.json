@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19884-download",
-            "preacher_name": "Ronald Glass",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ronald Glass",
             "_scripture": [
                 {
                     "book": "2 Chronicles",
@@ -31,9 +29,7 @@
             "topic": "Holiness",
             "description": "It is possible for a person to live a life of holiness, full of the blessings of God and yet come to some point in your life when you commit a shocking sin even though before this time you possessed a perfect heart.  Using King Asa as an example, Wilkerson takes teaches us a lesson of caution.",
             "download": "http:\/\/api.sermonindex.net\/SID3668-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "2 Chronicles",

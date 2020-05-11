@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Genuine Or Fake",
+        "url": "http:\/\/api.sermonindex.net\/SID8756",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 3:10",
+        "topic": "Genuineness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8756-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Jeremiah",
+                "chapter": "3"
+            }
+        ]
+    }
+]

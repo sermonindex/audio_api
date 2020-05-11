@@ -1,5 +1,5 @@
 {
-    "name": "God's Work",
+    "name": "Gods Work",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21565-download",
-            "preacher_name": "George Verwer",
-            "preacher_image": "\/images\/george_verwer.gif",
-            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "speaker_name": "George Verwer",
             "_scripture": []
         },
         {
@@ -22,12 +20,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24732-download",
-            "preacher_name": "Ben Torrey",
-            "preacher_image": "",
-            "preacher_description": "Ben Torrey ( - )\r\nListen to freely downloadable audio sermons by the speaker Ben Torrey in mp3 format. Executive director of The Fourth River Project, Inc which is an organization that is preparing for the opening of North Korea. Their intercession and practical preparations are helping the body of Christ to be spiritually prepared to share the Good News of Christ effectively with North Korea.\r\nJesus Abbey is an intentional community and house of intercessory prayer founded by Jane and Archer Torrey, in 1965 by faith in God's provision. Currently Ben Torrey serves as chairman of the Jesus Abbey board of trustees. As he travels to America yearly he serves as the Archdeacon in the Evangelical Apostolic Church of North America which is in the tradition of the Church of the East. All 53 of the recordings below were recorded for the Far East Broadcasting company in 2007.",
+            "speaker_name": "Ben Torrey",
             "_scripture": []
         },
         {
@@ -36,12 +32,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24760-download",
-            "preacher_name": "Ben Torrey",
-            "preacher_image": "",
-            "preacher_description": "Ben Torrey ( - )\r\nListen to freely downloadable audio sermons by the speaker Ben Torrey in mp3 format. Executive director of The Fourth River Project, Inc which is an organization that is preparing for the opening of North Korea. Their intercession and practical preparations are helping the body of Christ to be spiritually prepared to share the Good News of Christ effectively with North Korea.\r\nJesus Abbey is an intentional community and house of intercessory prayer founded by Jane and Archer Torrey, in 1965 by faith in God's provision. Currently Ben Torrey serves as chairman of the Jesus Abbey board of trustees. As he travels to America yearly he serves as the Archdeacon in the Evangelical Apostolic Church of North America which is in the tradition of the Church of the East. All 53 of the recordings below were recorded for the Far East Broadcasting company in 2007.",
+            "speaker_name": "Ben Torrey",
             "_scripture": []
         },
         {
@@ -50,12 +44,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Jeremiah 17:5-8",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24676-download",
-            "preacher_name": "Glenn Meldrum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Glenn Meldrum",
             "_scripture": [
                 {
                     "book": "Jeremiah",
@@ -69,12 +61,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Nehemiah 2:17- 20",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "The matter we find here is not directly related to the Christmas story but nevertheless contains and essential part of the Gospel for Jesus came into this world to \"save His people from their sins\" and set them on fire for Him and make them truly diligent in His work. Nehemiah had a cushy job in Persia. His position meant that the King's life was in His hands and he was also an advisor to him. Yet, his concern was for the condition of God's work in Jerusalem. As distant as he was Nehemiah still felt godly zeal for the Lord and His people. We find that he was able to inspire the Lord's people to work so zealously that they completed the rebuilding of the walls in 52 days - humanly impossible but with God, all things are possible. They both defended God's work and built, at the same time, despite all opposition.",
             "download": "http:\/\/api.sermonindex.net\/SID14339-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "Nehemiah",
@@ -88,12 +78,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7618-download",
-            "preacher_name": "Friedel Stegen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Friedel Stegen",
             "_scripture": []
         },
         {
@@ -105,9 +93,7 @@
             "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28709-download",
-            "preacher_name": "Santosh Poonen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Santosh Poonen",
             "_scripture": []
         },
         {
@@ -116,12 +102,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20974-download",
-            "preacher_name": "Leonard Ravenhill",
-            "preacher_image": "\/images\/leonard_ravenhill.gif",
-            "preacher_description": "Leonard Ravenhill (1907 \u00c2\u2013 1994)\r\nListen to freely downloadable audio sermons by the speaker Leonard Ravenhill in mp3 format. A revivalist and man of God who sought God's will above all else. He was a man of prayer who practiced what he preached. He wrote the book: 'Why Revival Tarries' which has become a classic on revival. His prophetic edge and burden made him to be respected by some and disliked by others. Yet he stayed true to God's call on his life prayed and pleading for true heaven sent revival. \r\n\r\n\"Those who know of Leonard Ravenhill recognize in him the religious specialist, the man sent from God to battle the priests of Baal on their own mountain top, to shame the careless priest at the altar, to face the false prophet, and to warn the people who are being led astray by him. \" - Tozer | \"Leonard Ravenhill was one of the few men I have ever known who was a true prophet.\" - David Wilkerson",
+            "speaker_name": "Leonard Ravenhill",
             "_scripture": []
         },
         {
@@ -130,12 +114,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Habakkuk 3:1, Habakkuk 3:17-19",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20816-download",
-            "preacher_name": "Leonard Ravenhill",
-            "preacher_image": "\/images\/leonard_ravenhill.gif",
-            "preacher_description": "Leonard Ravenhill (1907 \u00c2\u2013 1994)\r\nListen to freely downloadable audio sermons by the speaker Leonard Ravenhill in mp3 format. A revivalist and man of God who sought God's will above all else. He was a man of prayer who practiced what he preached. He wrote the book: 'Why Revival Tarries' which has become a classic on revival. His prophetic edge and burden made him to be respected by some and disliked by others. Yet he stayed true to God's call on his life prayed and pleading for true heaven sent revival. \r\n\r\n\"Those who know of Leonard Ravenhill recognize in him the religious specialist, the man sent from God to battle the priests of Baal on their own mountain top, to shame the careless priest at the altar, to face the false prophet, and to warn the people who are being led astray by him. \" - Tozer | \"Leonard Ravenhill was one of the few men I have ever known who was a true prophet.\" - David Wilkerson",
+            "speaker_name": "Leonard Ravenhill",
             "_scripture": [
                 {
                     "book": "Habakkuk",
@@ -149,12 +131,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24400-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": []
         },
         {
@@ -163,12 +143,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21526-download",
-            "preacher_name": "Ian Paisley",
-            "preacher_image": "",
-            "preacher_description": "Ian Paisley (1926 - 2014)\r\nListen to freely downloadable audio sermons by the speaker Ian Paisley in mp3 format. Founder of the Free Presbyterian Movement with over 100 churches world-wide and bible colleges. This presbyterian renewal movement was started in light of compromise and apostasy in existing churches in Ireland, Scotland and England. These churches are clear biblical churches with a clear emphasis on preaching the Gospel of Jesus Christ and His death for sinners.\r\nIan Paisley also has been active in politics for many years and a leader of a political party. Leonard Ravenhill commented once that the Lord could have used paisley in a powerful way like Whitfield if he stayed away from politics. His preaching is expositional and biblical from a burdened heart to represent His Lord well.",
+            "speaker_name": "Ian Paisley",
             "_scripture": []
         },
         {
@@ -177,12 +155,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21173-download",
-            "preacher_name": "George Verwer",
-            "preacher_image": "\/images\/george_verwer.gif",
-            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "speaker_name": "George Verwer",
             "_scripture": []
         },
         {
@@ -191,12 +167,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19935-download",
-            "preacher_name": "George Verwer",
-            "preacher_image": "\/images\/george_verwer.gif",
-            "preacher_description": "George Verwer (1938 - Present)\r\nListen to freely downloadable audio sermons by the speaker George Verwer in mp3 format. Founder of Operation Mobilization an missions organization that sends out full-time and part-time missionaries to many countries in the world. One of the burdens of brother George has been to distribute powerful literature to Christians such as: \"The Calvary Road by Roy Hession,\" and many others. \r\n\r\nGeorge Verwer has written many books including the powerful book: \"Come, Live, Die!\" He has mobilized and encouraged thousands of Christian workers to fulfill their calling in the Lord to reach the lost world with the Gospel of Jesus Christ.",
+            "speaker_name": "George Verwer",
             "_scripture": []
         },
         {
@@ -205,12 +179,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0100-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -224,12 +196,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 61:1-11",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0109-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -243,12 +213,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0110-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -262,12 +230,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0101-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -281,12 +247,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0102-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -300,12 +264,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0103-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -319,12 +281,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 52:13,Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0104-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -342,12 +302,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1-12,Isaiah 54:1-17",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0105-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -365,12 +323,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Revelation 1:4",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0106-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -384,12 +340,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Revelation 1:8,Revelation 21:15,Revelation 22:13",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0107-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -411,12 +365,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 53:1",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "This message was delivered on 04\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0108-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -430,12 +382,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21120-download",
-            "preacher_name": "Alan Redpath",
-            "preacher_image": "\/images\/alan_redpath.gif",
-            "preacher_description": "Alan Redpath (1907 - 1989)\r\nListen to freely downloadable audio sermons by the speaker Alan Redpath in mp3 format. Redpath was a well-known preacher from England who pastored the famous Moody church in chicago for 7 years. He ministered at Keswick conventions and also deeper life meetings on the subject of revival, prayer, full-surrender. He spent the later years of his life ministering Capernwray bible school movement founded by Major Ian Thomas.\r\n\r\nDr. Redpath authored six books; the first one, Victorious Christian Living, was published in 1955. Others were Victorious Prayer (1956), Victorious Christian Service (1958), The Royal Route to Heaven (1960), Blessings Out of Buffettings (1965), The Making of a Man of God (1962), and Law and Liberty and Captivity to Conquest (1978).",
+            "speaker_name": "Alan Redpath",
             "_scripture": []
         },
         {
@@ -444,12 +394,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Habakkuk 1:16",
-            "topic": "God's Work",
+            "topic": "Gods Work",
             "description": "Jim Cymbala shares about how it is very dangerous and grieving to the Lord to trust in our own means and methods in the Church. He clearly shows that we must trust in the work of the Holy Spirit, no method works except God. God works in many ways and desires to get all the glory. May we in North America look towards God afresh for His Spirit's leading in the work of His Gospel and Church.",
             "download": "http:\/\/api.sermonindex.net\/SID25132-download",
-            "preacher_name": "Jim Cymbala",
-            "preacher_image": "\/images\/jim_cymbala.gif",
-            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "speaker_name": "Jim Cymbala",
             "_scripture": [
                 {
                     "book": "Habakkuk",

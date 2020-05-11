@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23192-download",
-            "preacher_name": "George Whitefield",
-            "preacher_image": "",
-            "preacher_description": "George Whitefield (1714 - 1770)\r\nListen to freely downloadable audio sermons by the speaker George Whitefield in mp3 format.  Also known as George Whitfield, was an English Anglican preacher who helped spread the Great Awakening in Britain, and especially in the British North American colonies. He was one of the founders of Methodism and of the evangelical movement generally. He became perhaps the best-known preacher in Britain and America in the 18th century, and because he traveled through all of the American colonies and drew great crowds and media coverage, he was one of the most widely recognized public figures in colonial America.\r\n\r\nWhitefield was an astounding preacher from the beginning. Though he was slender in build, he stormed in the pulpit as if he were a giant. Within a year it was said that \"his voice startled England like a trumpet blast.\" At a time when London had a population of less than 700,000, he could hold spellbound 20,000 people at a time at Moorfields and Kennington Common. For thirty-four years his preaching resounded throughout England and America. In his preaching ministry he crossed the Atlantic thirteen times and became known as the 'apostle of the British empire.' He was a firm Calvinist in his theology yet unrivaled as an aggressive evangelist. Though a clergyman of the Church of England, he cooperated with and had a profound impact on people and churches of many traditions, including Presbyterians, Congregationalists, and Baptists. Whitefield, along with the Wesleys, inspired the movement that became known as the Methodists. Whitefield preached more than 18,000 sermons in his lifetime, an average of 500 a year or ten a week. Many of them were given over and over again. Fewer than 90 have survived in any form.",
+            "speaker_name": "George Whitefield",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Audio Books",
             "description": "Sermon Reading by T. Sullivan",
             "download": "http:\/\/api.sermonindex.net\/SID2996-download",
-            "preacher_name": "George Whitefield",
-            "preacher_image": "",
-            "preacher_description": "George Whitefield (1714 - 1770)\r\nListen to freely downloadable audio sermons by the speaker George Whitefield in mp3 format.  Also known as George Whitfield, was an English Anglican preacher who helped spread the Great Awakening in Britain, and especially in the British North American colonies. He was one of the founders of Methodism and of the evangelical movement generally. He became perhaps the best-known preacher in Britain and America in the 18th century, and because he traveled through all of the American colonies and drew great crowds and media coverage, he was one of the most widely recognized public figures in colonial America.\r\n\r\nWhitefield was an astounding preacher from the beginning. Though he was slender in build, he stormed in the pulpit as if he were a giant. Within a year it was said that \"his voice startled England like a trumpet blast.\" At a time when London had a population of less than 700,000, he could hold spellbound 20,000 people at a time at Moorfields and Kennington Common. For thirty-four years his preaching resounded throughout England and America. In his preaching ministry he crossed the Atlantic thirteen times and became known as the 'apostle of the British empire.' He was a firm Calvinist in his theology yet unrivaled as an aggressive evangelist. Though a clergyman of the Church of England, he cooperated with and had a profound impact on people and churches of many traditions, including Presbyterians, Congregationalists, and Baptists. Whitefield, along with the Wesleys, inspired the movement that became known as the Methodists. Whitefield preached more than 18,000 sermons in his lifetime, an average of 500 a year or ten a week. Many of them were given over and over again. Fewer than 90 have survived in any form.",
+            "speaker_name": "George Whitefield",
             "_scripture": []
         }
     ]

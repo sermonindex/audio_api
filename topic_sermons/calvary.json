@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Sin And Calvary The Need And The Solution",
+        "url": "http:\/\/api.sermonindex.net\/SID12587",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Calvary",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12587-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": []
+    },
+    {
+        "title": "The Logic Of Calvary",
+        "url": "http:\/\/api.sermonindex.net\/SID7809",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Calvary",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7809-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": []
+    },
+    {
+        "title": "The Wonder Of Calvary ",
+        "url": "http:\/\/api.sermonindex.net\/SID12777",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 20:28",
+        "topic": "Calvary",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12777-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "20"
+            }
+        ]
+    }
+]

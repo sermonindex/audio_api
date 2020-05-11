@@ -1,0 +1,87 @@
+[
+    {
+        "title": "John 4:11",
+        "url": "http:\/\/api.sermonindex.net\/SID9386",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 4:11",
+        "topic": "Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9386-download",
+        "speaker_name": "Morgan Bartlett",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Week Of Meetings 01",
+        "url": "http:\/\/api.sermonindex.net\/SID9382",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Deuteronomy 4:30",
+        "topic": "Bible Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9382-download",
+        "speaker_name": "Morgan Bartlett",
+        "_scripture": [
+            {
+                "book": "Deuteronomy",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Week Of Meetings 02",
+        "url": "http:\/\/api.sermonindex.net\/SID9383",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 5",
+        "topic": "Bible Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9383-download",
+        "speaker_name": "Morgan Bartlett",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "Week Of Meetings 03",
+        "url": "http:\/\/api.sermonindex.net\/SID9384",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 13",
+        "topic": "Bible Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9384-download",
+        "speaker_name": "Morgan Bartlett",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "Week Of Meetings 04",
+        "url": "http:\/\/api.sermonindex.net\/SID9385",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 10",
+        "topic": "Bible Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9385-download",
+        "speaker_name": "Morgan Bartlett",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "10"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25159-download",
-            "preacher_name": "Bob Sorge",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Sorge",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Blood Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25158-download",
-            "preacher_name": "Bob Sorge",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Sorge",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Levites",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25157-download",
-            "preacher_name": "Bob Sorge",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Sorge",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Priesthood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24196-download",
-            "preacher_name": "Samuel Whitefield",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Samuel Whitefield",
             "_scripture": []
         }
     ]

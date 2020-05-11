@@ -1,0 +1,31 @@
+[
+    {
+        "title": "My Happy Plenty",
+        "url": "http:\/\/api.sermonindex.net\/SID18860",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Happiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18860-download",
+        "speaker_name": "Jack Hyles",
+        "_scripture": []
+    },
+    {
+        "title": "The Pursuit of Happiness",
+        "url": "http:\/\/api.sermonindex.net\/SID11920",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 20:20-24",
+        "topic": "Happiness",
+        "description": "September 4, 2005 - Jesus will come in His compassion and turn our feet around to walk in all His ways. As we begin to serve Jesus we will share His burden for the lost and gird ourselves with a towel that will reach out to a fallen humanity and point their feet to the only path of life that leads to true happiness. There is no other way to happiness but through the fullness of Jesus Christ.",
+        "download": "http:\/\/api.sermonindex.net\/SID11920-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "20"
+            }
+        ]
+    }
+]

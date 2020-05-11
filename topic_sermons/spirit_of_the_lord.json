@@ -1,0 +1,60 @@
+[
+    {
+        "title": "K-018A The Spirit of the Lord 1 of 2",
+        "url": "http:\/\/api.sermonindex.net\/SID12282",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spirit Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12282-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "K-018B The Spirit of the Lord 2 of 2",
+        "url": "http:\/\/api.sermonindex.net\/SID12283",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spirit Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12283-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Spirit of the Lord 1 of 2",
+        "url": "http:\/\/api.sermonindex.net\/SID11560",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 61:1",
+        "topic": "Spirit Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11560-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "61"
+            }
+        ]
+    },
+    {
+        "title": "The Spirit of the Lord 2 of 2",
+        "url": "http:\/\/api.sermonindex.net\/SID11561",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 16:14-34",
+        "topic": "Spirit Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11561-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "16"
+            }
+        ]
+    }
+]

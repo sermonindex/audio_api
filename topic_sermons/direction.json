@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Directions for Your Life",
+        "url": "http:\/\/api.sermonindex.net\/SID26178",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Direction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26178-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "God Directs our Lives",
+        "url": "http:\/\/api.sermonindex.net\/SID1231",
+        "size": "2830848",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Direction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1231-download",
+        "speaker_name": "Kathryn Kuhlman",
+        "_scripture": []
+    },
+    {
+        "title": "Running the Wrong Way",
+        "url": "http:\/\/api.sermonindex.net\/SID28103",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Direction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28103-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "What Should I Do?",
+        "url": "http:\/\/api.sermonindex.net\/SID24613",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Direction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24613-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "Where Have We Come From?",
+        "url": "http:\/\/api.sermonindex.net\/SID28732",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Direction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28732-download",
+        "speaker_name": "Todd Atkinson",
+        "_scripture": []
+    },
+    {
+        "title": "Where To Go? What To Do?",
+        "url": "http:\/\/api.sermonindex.net\/SID24045",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 42:1-22, Jeremiah 43:1-7",
+        "topic": "Direction",
+        "description": "We all need direction from the Lord to know His plan for our lives. When we ask Him, will we go God's way?  Let's hear an obscure story about that defining moment. Jeremiah 42:1-43:7",
+        "download": "http:\/\/api.sermonindex.net\/SID24045-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "Jeremiah",
+                "chapter": "42"
+            },
+            {
+                "book": "Jeremiah",
+                "chapter": "43"
+            }
+        ]
+    }
+]

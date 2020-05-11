@@ -12,9 +12,7 @@
             "topic": "Ministry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20823-download",
-            "preacher_name": "Matthew Little",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Matthew Little",
             "_scripture": []
         }
     ]

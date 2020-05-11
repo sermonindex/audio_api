@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Love Of Christ Constraineth Me",
+        "url": "http:\/\/api.sermonindex.net\/SID7684",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 5:13",
+        "topic": "Love Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7684-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "The Love of Christ Constrains",
+        "url": "http:\/\/api.sermonindex.net\/SID5360",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Love Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5360-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Manhood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19214-download",
-            "preacher_name": "Ken Graves",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Graves",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Manhood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19215-download",
-            "preacher_name": "Ken Graves",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Graves",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Manhood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19216-download",
-            "preacher_name": "Ken Graves",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Graves",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Medicine",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19217-download",
-            "preacher_name": "Ken Graves",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Graves",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19211-download",
-            "preacher_name": "Ken Graves",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Graves",
             "_scripture": []
         }
     ]

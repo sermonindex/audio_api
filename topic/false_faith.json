@@ -11,9 +11,7 @@
             "topic": "False Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22244-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",

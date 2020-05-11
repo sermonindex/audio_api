@@ -11,9 +11,7 @@
             "topic": "Stubbornness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26907-download",
-            "preacher_name": "Vance Havner",
-            "preacher_image": "\/images\/vance_havner.gif",
-            "preacher_description": "Vance Havner (1901 - 1986)\r\nListen to freely downloadable audio sermons by the speaker Vance Havner in mp3 format. For over 70 years, the church was blessed and challenged by the prophetic ministry of Vance Havner. His style and burden was prophetic similar to the ministry of A.W. Tozer calling the Church to revival. His influence extended to a national level, but Dr. Havner's approach was always to minister where God directed, regardless of the size of the church.  His appeal and influence transcended denominational lines, and he spoke to many different groups of people.\r\n\r\nThroughout his ministry, Vance Havner lived and preached that a Christian should should exhibit faithfulness to Jesus in all areas of life.  He taught that the Christian should attend to, \"the outliving of the inliving Christ.\"  Havner wrote, \"To some, Christianity is an argument.  To many, it is a performance.  To a few, it is an experience.\"",
+            "speaker_name": "Vance Havner",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Stubbornness",
             "description": "May 27, 2007 - A stubborn person is a person who is fixed in purpose or condition, resistant to change and unreasonably obstinate. A stubborn person has an inner flaw and this inner flaw doesn't show until they are called to put all they are in the hands of God and walk in obedience. A stubborn person can appear humble, zealous and even excercise spiritual gifts, but there comes a certain point they can't get passed. They can't lay down their inner thoughts of the way things should be done and surrender to God's ways. God will allow a sense of emptiness come into our souls to get our attention. He is looking for a sincere heart to submit to the authority of His Word. When we choose to obey Him the power of sin and decay is cancelled in our lives. The only way out of stubbornness is to HUMBLE ourselves before God.",
             "download": "http:\/\/api.sermonindex.net\/SID15704-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "1 Samuel",

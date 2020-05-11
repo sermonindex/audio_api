@@ -12,9 +12,7 @@
             "topic": "Family",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23808-download",
-            "preacher_name": "David Dalton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Dalton",
             "_scripture": []
         }
     ]

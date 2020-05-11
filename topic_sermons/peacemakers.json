@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Peacemakers",
+        "url": "http:\/\/api.sermonindex.net\/SID21606",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Peacemakers",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21606-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "Peacemakers",
+        "url": "http:\/\/api.sermonindex.net\/SID25197",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Peacemakers",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25197-download",
+        "speaker_name": "Anton Bosch",
+        "_scripture": []
+    },
+    {
+        "title": "Persecuted Peacemakers and Promises, Promises",
+        "url": "http:\/\/api.sermonindex.net\/SID28304",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5:10",
+        "topic": "Peacemakers",
+        "description": "There is a reason the beatitude about peacemakers is followed by a beatitude about persecution. Those who become ministers of reconciliation often suffer painful consequences because they have identified themselves with Jesus Christ. Being a peacemaker may put Jesus\u00c2\u2019 disciples in the middle of dangerous fighting. Sometimes they even lose their lives. The disciple who has the\u00c2\u201cbeautiful attitudes\u00c2\u201d confronts people with a model of what they should be. When people in theworld are confronted with a true disciple, they can acknowledge that this is how they should live, or they can attack the disciple who is like Jesus. Very often, they do the latter.",
+        "download": "http:\/\/api.sermonindex.net\/SID28304-download",
+        "speaker_name": "Dick Woodward",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            }
+        ]
+    }
+]

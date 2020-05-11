@@ -11,9 +11,7 @@
             "topic": "Need",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2753-download",
-            "preacher_name": "Morris Gleiser",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morris Gleiser",
             "_scripture": []
         }
     ]

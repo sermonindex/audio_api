@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Christian Ethics",
+        "url": "http:\/\/api.sermonindex.net\/SID23491",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 8",
+        "topic": "Ethics",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23491-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "Christians and Law Courts",
+        "url": "http:\/\/api.sermonindex.net\/SID23492",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 6:1-8",
+        "topic": "Ethics",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23492-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "K-020 The Inadequacy of Ethics",
+        "url": "http:\/\/api.sermonindex.net\/SID12285",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Ethics",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12285-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Inadequacy of Ethics",
+        "url": "http:\/\/api.sermonindex.net\/SID11563",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Ethics",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11563-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    }
+]

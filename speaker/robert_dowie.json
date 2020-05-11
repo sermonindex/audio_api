@@ -12,9 +12,7 @@
             "topic": "Jesus Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22564-download",
-            "preacher_name": "Robert Dowie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Dowie",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -31,9 +29,7 @@
             "topic": "Saviour",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22566-download",
-            "preacher_name": "Robert Dowie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Dowie",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -50,9 +46,7 @@
             "topic": "Warning",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22565-download",
-            "preacher_name": "Robert Dowie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Dowie",
             "_scripture": [
                 {
                     "book": "Hebrews",

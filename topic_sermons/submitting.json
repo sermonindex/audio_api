@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Submitting To God - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID22235",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:7",
+        "topic": "Submitting",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22235-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Submitting To God - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID22234",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:7",
+        "topic": "Submitting",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22234-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    }
+]

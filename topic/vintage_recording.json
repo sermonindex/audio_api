@@ -11,9 +11,7 @@
             "topic": "Vintage Recording",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20558-download",
-            "preacher_name": "Samuel Logan Brengle",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Samuel Logan Brengle",
             "_scripture": []
         }
     ]

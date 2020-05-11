@@ -12,9 +12,7 @@
             "topic": "Ministry",
             "description": "This message was delivered on 10\/01\/1957.",
             "download": "http:\/\/api.sermonindex.net\/SID0053-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "1 Chronicles",
@@ -39,9 +37,7 @@
             "topic": "",
             "description": "God only visits a prepared people who come into his sanctuary and his presence with a heart prepared to hear from him, with grateful reverence for who He is and readily acknowledging the authority of his word. They are prepared to receive and obey his word. How do you make\u00a0sure you are prepared? Bro. Wilkerson gives a very simple but necessary answer to this. A\u00a0must hear message for every Christian before you go to church again, listen, and let the Holy Spirit examine you. \u00a0",
             "download": "http:\/\/api.sermonindex.net\/SID4188-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "1 Chronicles",

@@ -12,9 +12,7 @@
             "topic": "Worry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24629-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Experiencing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24631-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Experiencing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24632-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Experiencing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24633-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24627-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Fear",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19874-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Growth In Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20592-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -107,12 +93,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Grace",
+            "topic": "Gods Grace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24630-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "Book Of Acts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24628-download",
-            "preacher_name": "Gisela Yohannan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gisela Yohannan",
             "_scripture": []
         }
     ]

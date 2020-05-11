@@ -1,0 +1,60 @@
+[
+    {
+        "title": "(Genesis) 41 - Esau's Profane Act",
+        "url": "http:\/\/api.sermonindex.net\/SID13030",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 25:27-34",
+        "topic": "Esau",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13030-download",
+        "speaker_name": "S. Lewis Johnson",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "25"
+            }
+        ]
+    },
+    {
+        "title": "(Genesis) 52 - Lessons from the Generations of Esau",
+        "url": "http:\/\/api.sermonindex.net\/SID13095",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 36:1-43",
+        "topic": "Esau",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13095-download",
+        "speaker_name": "S. Lewis Johnson",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "36"
+            }
+        ]
+    },
+    {
+        "title": "Esau Lost His Birthright",
+        "url": "http:\/\/api.sermonindex.net\/SID25722",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Esau",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25722-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "From The Hands Of Esau",
+        "url": "http:\/\/api.sermonindex.net\/SID1534",
+        "size": "3350528",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Esau",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1534-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    }
+]

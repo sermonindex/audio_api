@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13059-download",
-            "preacher_name": "Russell Moore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Russell Moore",
             "_scripture": [
                 {
                     "book": "1 Peter",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13061-download",
-            "preacher_name": "Russell Moore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Russell Moore",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13060-download",
-            "preacher_name": "Russell Moore",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Russell Moore",
             "_scripture": [
                 {
                     "book": "Jonah",

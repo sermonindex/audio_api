@@ -12,9 +12,7 @@
             "topic": "Persecution",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26027-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -31,9 +29,7 @@
             "topic": "Antichrist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26024-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -50,9 +46,7 @@
             "topic": "Antichrist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26023-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": [
                 {
                     "book": "2 Thessalonians",
@@ -69,9 +63,7 @@
             "topic": "Propaganda",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26028-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -88,9 +80,7 @@
             "topic": "North Korea",
             "description": "To look at the North Korea of our day may well be a preview of the coming Tribulation period.",
             "download": "http:\/\/api.sermonindex.net\/SID26026-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": []
         },
         {
@@ -102,9 +92,7 @@
             "topic": "Antichrist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26022-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": [
                 {
                     "book": "Mark",
@@ -121,9 +109,7 @@
             "topic": "Antichrist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26025-download",
-            "preacher_name": "Bob Faulkner",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Faulkner",
             "_scripture": [
                 {
                     "book": "Matthew",

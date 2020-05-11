@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Following Living Suffering For Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID7307",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 4:1-7",
+        "topic": "Suffering For Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7307-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "The Saviours Sufferings The Saints Theirs",
+        "url": "http:\/\/api.sermonindex.net\/SID7302",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 2:18-25",
+        "topic": "Suffering For Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7302-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "2"
+            }
+        ]
+    }
+]

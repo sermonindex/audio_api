@@ -11,9 +11,7 @@
             "topic": "Moravians",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24168-download",
-            "preacher_name": "Kevin Horton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kevin Horton",
             "_scripture": [
                 {
                     "book": "Nehemiah",

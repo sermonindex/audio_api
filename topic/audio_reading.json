@@ -11,9 +11,7 @@
             "topic": "Audio Reading",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID11966-download",
-            "preacher_name": "John Flavel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Flavel",
             "_scripture": [
                 {
                     "book": "Acts",

@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "The Didache is the common name of a brief early Christian treatise (dated by most scholars to the late first or early second century), containing instructions for Christian communities. The text, parts of which may have constituted the first written catechism, has three main sections dealing with Christian lessons, rituals such as baptism and eucharist, and Church organization. It was considered by some of the Church Fathers as part of the New Testament but rejected as spurious or non-canonical by others, eventually not accepted into the New Testament canon with the exception of the Ethiopian Orthodox Church \"broader canon.\" The Roman Catholic Church has accepted it as part of the collection of Apostolic Fathers. The Didache, or Teaching of the Twelve Apostles, is an early Christian text. Scholars knew of the Didache through references in other texts, but the text itself had been lost. It was rediscovered in 1873 by Philotheos Bryennios. (Summary by Wikipedia, modified by Sam Stinson)",
             "download": "http:\/\/api.sermonindex.net\/SID26382-download",
-            "preacher_name": "The Teaching of the Twelve Apostles",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "The Teaching of the Twelve Apostles",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Audio Books",
             "description": "The Didache is the common name of a brief early Christian treatise (dated by most scholars to the late first or early second century), containing instructions for Christian communities. The text, parts of which may have constituted the first written catechism, has three main sections dealing with Christian lessons, rituals such as baptism and eucharist, and Church organization. It was considered by some of the Church Fathers as part of the New Testament but rejected as spurious or non-canonical by others, eventually not accepted into the New Testament canon with the exception of the Ethiopian Orthodox Church \"broader canon.\" The Roman Catholic Church has accepted it as part of the collection of Apostolic Fathers. The Didache, or Teaching of the Twelve Apostles, is an early Christian text. Scholars knew of the Didache through references in other texts, but the text itself had been lost. It was rediscovered in 1873 by Philotheos Bryennios. (Summary by Wikipedia, modified by Sam Stinson)",
             "download": "http:\/\/api.sermonindex.net\/SID26384-download",
-            "preacher_name": "The Teaching of the Twelve Apostles",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "The Teaching of the Twelve Apostles",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Audio Books",
             "description": "The Didache is the common name of a brief early Christian treatise (dated by most scholars to the late first or early second century), containing instructions for Christian communities. The text, parts of which may have constituted the first written catechism, has three main sections dealing with Christian lessons, rituals such as baptism and eucharist, and Church organization. It was considered by some of the Church Fathers as part of the New Testament but rejected as spurious or non-canonical by others, eventually not accepted into the New Testament canon with the exception of the Ethiopian Orthodox Church \"broader canon.\" The Roman Catholic Church has accepted it as part of the collection of Apostolic Fathers. The Didache, or Teaching of the Twelve Apostles, is an early Christian text. Scholars knew of the Didache through references in other texts, but the text itself had been lost. It was rediscovered in 1873 by Philotheos Bryennios. (Summary by Wikipedia, modified by Sam Stinson)",
             "download": "http:\/\/api.sermonindex.net\/SID26383-download",
-            "preacher_name": "The Teaching of the Twelve Apostles",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "The Teaching of the Twelve Apostles",
             "_scripture": []
         }
     ]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "When God Answers No More",
+        "url": "http:\/\/api.sermonindex.net\/SID18866",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Silence Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18866-download",
+        "speaker_name": "Jack Hyles",
+        "_scripture": []
+    },
+    {
+        "title": "When God Hides His Face From The Righteous",
+        "url": "http:\/\/api.sermonindex.net\/SID18842",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Silence Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18842-download",
+        "speaker_name": "Jack Hyles",
+        "_scripture": []
+    },
+    {
+        "title": "When God Quits Speaking",
+        "url": "http:\/\/api.sermonindex.net\/SID9205",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Samuel 28:6",
+        "topic": "Silence Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9205-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "28"
+            }
+        ]
+    }
+]

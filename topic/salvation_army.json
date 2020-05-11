@@ -11,9 +11,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12353-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12351-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12355-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12352-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -67,9 +59,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12356-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -81,9 +71,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12354-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -95,9 +83,7 @@
             "topic": "Salvation Army",
             "description": "1898 audio recording of Colonel John Lawley leading worship in a salvation army meeting.",
             "download": "http:\/\/api.sermonindex.net\/SID7749-download",
-            "preacher_name": "Colonel John Lawley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Colonel John Lawley",
             "_scripture": []
         },
         {
@@ -109,9 +95,7 @@
             "topic": "Salvation Army",
             "description": "1898 audio recording of Colonel John Lawley leading worship in a salvation army meeting.",
             "download": "http:\/\/api.sermonindex.net\/SID7748-download",
-            "preacher_name": "Colonel John Lawley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Colonel John Lawley",
             "_scripture": []
         }
     ]

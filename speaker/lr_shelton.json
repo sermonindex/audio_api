@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0311-download",
-            "preacher_name": "L.R. Shelton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0312-download",
-            "preacher_name": "L.R. Shelton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0313-download",
-            "preacher_name": "L.R. Shelton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "L.R. Shelton",
             "_scripture": []
         }
     ]

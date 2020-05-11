@@ -12,9 +12,7 @@
             "topic": "Influence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21776-download",
-            "preacher_name": "John White",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John White",
             "_scripture": []
         }
     ]

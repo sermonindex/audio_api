@@ -12,9 +12,7 @@
             "topic": "Redemption",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15877-download",
-            "preacher_name": "B.H. Clendennen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "B.H. Clendennen",
             "_scripture": [
                 {
                     "book": "Numbers",

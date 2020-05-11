@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Luther Rice Seminary",
+        "url": "http:\/\/api.sermonindex.net\/SID16895",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Convention",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16895-download",
+        "speaker_name": "Al Whittinghill",
+        "_scripture": []
+    },
+    {
+        "title": "Promise keepers",
+        "url": "http:\/\/api.sermonindex.net\/SID21547",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Convention",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21547-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "Saturday Luncheon",
+        "url": "http:\/\/api.sermonindex.net\/SID19929",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Convention",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19929-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "YFC National Meeting 1960",
+        "url": "http:\/\/api.sermonindex.net\/SID2867",
+        "size": "6275072",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Convention",
+        "description": "[i]*old tape, sound is low at points.[\/i]",
+        "download": "http:\/\/api.sermonindex.net\/SID2867-download",
+        "speaker_name": "Torrey M. Johnson",
+        "_scripture": []
+    }
+]

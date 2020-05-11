@@ -1,0 +1,40 @@
+[
+    {
+        "title": "(Fury of Fire) 01 - A Fury of Fire & the Vengeance of God",
+        "url": "http:\/\/api.sermonindex.net\/SID12174",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 5:17, 1 Timothy 1:10-11",
+        "topic": "Vengeance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12174-download",
+        "speaker_name": "Milton Green",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            },
+            {
+                "book": "1 Timothy",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "(Fury of Fire) 02 - A Fury of Fire & the Vengeance of God",
+        "url": "http:\/\/api.sermonindex.net\/SID12175",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Lamentations 2",
+        "topic": "Vengeance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12175-download",
+        "speaker_name": "Milton Green",
+        "_scripture": [
+            {
+                "book": "Lamentations",
+                "chapter": "2"
+            }
+        ]
+    }
+]

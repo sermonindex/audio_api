@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Divine Appointments - 01 Marvels Of Redemption",
+        "url": "http:\/\/api.sermonindex.net\/SID12438",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6:26-30",
+        "topic": "Divine Appointment",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12438-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "Divine Appointments - 02 Marvels Of Redemption",
+        "url": "http:\/\/api.sermonindex.net\/SID12439",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6:26-30",
+        "topic": "Divine Appointment",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12439-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    }
+]

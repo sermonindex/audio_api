@@ -12,9 +12,7 @@
             "topic": "Mercy",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22340-download",
-            "preacher_name": "Bruce Waltke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bruce Waltke",
             "_scripture": []
         }
     ]

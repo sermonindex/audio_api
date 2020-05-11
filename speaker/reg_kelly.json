@@ -12,9 +12,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14206-download",
-            "preacher_name": "Reg Kelly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Reg Kelly",
             "_scripture": []
         }
     ]

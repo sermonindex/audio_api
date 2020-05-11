@@ -12,9 +12,7 @@
             "topic": "Repentance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22221-download",
-            "preacher_name": "John Mulinde",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Mulinde",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Travail",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22185-download",
-            "preacher_name": "John Mulinde",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Mulinde",
             "_scripture": []
         }
     ]

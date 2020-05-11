@@ -12,9 +12,7 @@
             "topic": "Cults",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19862-download",
-            "preacher_name": "Walter Martin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter Martin",
             "_scripture": []
         }
     ]

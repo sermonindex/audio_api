@@ -1,0 +1,55 @@
+[
+    {
+        "title": "(February 1987) 09 - Woe To Jerusalem",
+        "url": "http:\/\/api.sermonindex.net\/SID6138",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Zephaniah 3",
+        "topic": "Jerusalem",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6138-download",
+        "speaker_name": "Ray Lowe",
+        "_scripture": [
+            {
+                "book": "Zephaniah",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Ezra's Return to Jerusalem",
+        "url": "http:\/\/api.sermonindex.net\/SID25725",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jerusalem",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25725-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "He Set His Face to Go to Jerusalem",
+        "url": "http:\/\/api.sermonindex.net\/SID22479",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jerusalem",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22479-download",
+        "speaker_name": "John Piper",
+        "_scripture": []
+    },
+    {
+        "title": "Jerusalem Conference Address",
+        "url": "http:\/\/api.sermonindex.net\/SID2438",
+        "size": "14999552",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jerusalem",
+        "description": "A powerful rhema word that speaks of the ministry of Elijah which must precede the return of the Lord\u2014a whole body of people bearing Elijah\u2019s prophetic anointing. Given in Jerusalem in 1974.",
+        "download": "http:\/\/api.sermonindex.net\/SID2438-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    }
+]

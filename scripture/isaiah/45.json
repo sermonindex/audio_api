@@ -12,9 +12,7 @@
             "topic": "Biography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24567-download",
-            "preacher_name": "E.A. Johnston",
-            "preacher_image": "",
-            "preacher_description": "E.A. Johnston ( - )\r\nListen to freely downloadable audio sermons by the speaker E.A. Johnston in mp3 format. E. A. Johnston lives in Memphis, Tennessee and is a fellow of the Stephen Olford Institute for Biblical Preaching. He is currently involved in Bible teaching and disciple making, as well as authoring books. Some of his titles include: Realities of Revival (series), Church in Revival (series), Call to Revival (series), Return to Me, No Turning Back, The Master\u2019s Plan, Walking with God, etc.\r\n\"If the Church will not defend His holy Name then the Almighty must. God will either pour out His blessings in revival to defend His holy Name, or He will pour out His wrath upon mankind to avenge His holy Name. It will either be a defending or avenging to show forth His glory and remind mankind He alone is the Sovereign ruler of all.\"",
+            "speaker_name": "E.A. Johnston",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14669-download",
-            "preacher_name": "Paul Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul Ravenhill",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -50,9 +46,7 @@
             "topic": "Expository",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27913-download",
-            "preacher_name": "Harry A. Ironside",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harry A. Ironside",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -69,9 +63,7 @@
             "topic": "Radio Show",
             "description": "Perhaps you've often longed to experience His miracles in your life. Perhaps you've even prayed about it - but nothing happened. You wonder what's wrong. Did you perhaps not pray right? Why didn't God hear or when does He hear us? Kanaan is the home of the Evangelical Sisterhood of Mary, an international, interdenominational organization founded in 1947 within the framework of the German Evangelical (Protestant) Church. Website: www.kanaan.org",
             "download": "http:\/\/api.sermonindex.net\/SID21265-download",
-            "preacher_name": "Basilea Schlink",
-            "preacher_image": "\/images\/basilea_schlink.gif",
-            "preacher_description": "Basilea Schlink (1904 \u2013 2001)\r\nListen to freely downloadable audio sermons by the speaker Basilea Schlink in mp3 format. She was used of the Lord to help found the Evangelical Sisterhood of Mary. The Lord has used her writings powerfully to help encourage the greater body of Christ of future sufferings for the Lord and how to endure them. Also one of the burdens of her ministry was to share in the sufferings of the Lord and share the sorrow that Jesus has for a lost world and a backslidden church.\r\n\r\n\"In heaven we will say, \u2018Do you remember the time we celebrated a festival of heaven on earth with Mother Basilea?'\" - Corrie ten Boom. \"To visit one of the Kanaan sanctuaries that they have assembled around the world is to visit a taste of the kingdom on earth.\" - Greg Gordon",
+            "speaker_name": "Basilea Schlink",
             "_scripture": [
                 {
                     "book": "Isaiah",

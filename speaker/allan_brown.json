@@ -12,9 +12,7 @@
             "topic": "Filled With The Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16578-download",
-            "preacher_name": "Allan Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Allan Brown",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Filled With The Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16579-download",
-            "preacher_name": "Allan Brown",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Allan Brown",
             "_scripture": []
         }
     ]

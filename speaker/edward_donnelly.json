@@ -12,9 +12,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22333-download",
-            "preacher_name": "Edward Donnelly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edward Donnelly",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22334-download",
-            "preacher_name": "Edward Donnelly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edward Donnelly",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22335-download",
-            "preacher_name": "Edward Donnelly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edward Donnelly",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22336-download",
-            "preacher_name": "Edward Donnelly",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edward Donnelly",
             "_scripture": []
         }
     ]

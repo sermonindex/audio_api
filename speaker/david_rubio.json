@@ -12,9 +12,7 @@
             "topic": "Sleepiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19686-download",
-            "preacher_name": "David Rubio",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Rubio",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Exposing False Doctrines",
             "description": "In this sermon, several misunderstandings, misconceptions, falsehoods and outright lies concerning problems and difficulties in the life of a Christian or comments from those observing the life of a Christian are exposed and addressed.",
             "download": "http:\/\/api.sermonindex.net\/SID20477-download",
-            "preacher_name": "David Rubio",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Rubio",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "Are you overwhelmed by life\u2019s circumstances? Perhaps you are not overwhelmed today, but what about tomorrow? The psalmist David went to God Almighty when in distress and trouble. God hears the softest whisper in prayer. We need to purpose to trust in the Lord in times of troubles. There is light at both ends of life\u2019s tunnels. He will see you through for His glory.",
             "download": "http:\/\/api.sermonindex.net\/SID16727-download",
-            "preacher_name": "David Rubio",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Rubio",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18300-download",
-            "preacher_name": "David Rubio",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Rubio",
             "_scripture": []
         }
     ]

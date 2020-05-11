@@ -11,9 +11,7 @@
             "topic": "Headcovering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27849-download",
-            "preacher_name": "Joel Walters",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joel Walters",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Headcovering",
             "description": "Reasons are given why the practice of wearing a headcovering is for all generations. Specific attention is given to the God-ordained order of authority, and the results that occur if this is not followed.",
             "download": "http:\/\/api.sermonindex.net\/SID13425-download",
-            "preacher_name": "Emanuel Esh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Emanuel Esh",
             "_scripture": [
                 {
                     "book": "1 Corinthians",

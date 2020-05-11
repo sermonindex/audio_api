@@ -1,5 +1,5 @@
 {
-    "name": "God's Existence",
+    "name": "Gods Existence",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Existence",
+            "topic": "Gods Existence",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20580-download",
-            "preacher_name": "Ray Brubaker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Brubaker",
             "_scripture": []
         }
     ]

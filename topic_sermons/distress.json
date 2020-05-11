@@ -1,0 +1,43 @@
+[
+    {
+        "title": "David's Prayer of Distress",
+        "url": "http:\/\/api.sermonindex.net\/SID25705",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Distress",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25705-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Deliverance From Distress",
+        "url": "http:\/\/api.sermonindex.net\/SID4674",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 40:1-3",
+        "topic": "Distress",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4674-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "40"
+            }
+        ]
+    },
+    {
+        "title": "God\u2019s Help in Times of Distress",
+        "url": "http:\/\/api.sermonindex.net\/SID23945",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Distress",
+        "description": "Steve begins this message by presenting a terribly gloomy picture of what we can expect in the days ahead: earthquakes, tornadoes, financial devastation and so on. But he doesn\u2019t stay there very long because the great message of Psalm 46 is that Almighty God is on His throne and He is watching His people very closely.",
+        "download": "http:\/\/api.sermonindex.net\/SID23945-download",
+        "speaker_name": "Steve Gallagher",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Atheism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19847-download",
-            "preacher_name": "Charlie Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Campbell",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Apologetics",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13704-download",
-            "preacher_name": "Charlie Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Campbell",
             "_scripture": []
         }
     ]

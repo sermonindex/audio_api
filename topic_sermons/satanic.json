@@ -1,0 +1,48 @@
+[
+    {
+        "title": "All that is in the World",
+        "url": "http:\/\/api.sermonindex.net\/SID7241",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Satanic",
+        "description": "The essential character of the world is satanic. It is at enmity with God. How do we, therefore, find our way through such an inhospitable environment? Art answers this dilemma from an episode in the life of Abraham.",
+        "download": "http:\/\/api.sermonindex.net\/SID7241-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "Satanic Seduction In The Last Days",
+        "url": "http:\/\/api.sermonindex.net\/SID2779",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Timothy 4:1-6",
+        "topic": "Satanic",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2779-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "1 Timothy",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Satanic Strategy",
+        "url": "http:\/\/api.sermonindex.net\/SID23535",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 16:13-27",
+        "topic": "Satanic",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23535-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "16"
+            }
+        ]
+    }
+]

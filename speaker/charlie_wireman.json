@@ -12,9 +12,7 @@
             "topic": "Religion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16583-download",
-            "preacher_name": "Charlie Wireman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Wireman",
             "_scripture": []
         }
     ]

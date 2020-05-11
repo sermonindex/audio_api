@@ -11,9 +11,7 @@
             "topic": "Fresh Oil",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21710-download",
-            "preacher_name": "David Davis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Davis",
             "_scripture": []
         }
     ]

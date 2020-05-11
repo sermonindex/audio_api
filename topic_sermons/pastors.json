@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Pastor's Library",
+        "url": "http:\/\/api.sermonindex.net\/SID24560",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Timothy 4:13",
+        "topic": "Pastors",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24560-download",
+        "speaker_name": "E.A. Johnston",
+        "_scripture": [
+            {
+                "book": "1 Timothy",
+                "chapter": "4"
+            }
+        ]
+    }
+]

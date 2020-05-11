@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(1 Thessalonians) Practical Results Of Christianity",
+        "url": "http:\/\/api.sermonindex.net\/SID7140",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Thessalonians 4",
+        "topic": "Practical Christianity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7140-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Thessalonians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Practical Christian Living",
+        "url": "http:\/\/api.sermonindex.net\/SID17569",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Practical Christianity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17569-download",
+        "speaker_name": "Francis Schaefer",
+        "_scripture": []
+    }
+]

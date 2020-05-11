@@ -1,0 +1,100 @@
+[
+    {
+        "title": "(Men Who Saw God) 4. Joshua",
+        "url": "http:\/\/api.sermonindex.net\/SID18642",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18642-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": []
+    },
+    {
+        "title": "Giant Joshua",
+        "url": "http:\/\/api.sermonindex.net\/SID14716",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14716-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": []
+    },
+    {
+        "title": "Houston Colonial Hills Conference 1995-05 Joshua 24:14",
+        "url": "http:\/\/api.sermonindex.net\/SID11854",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Joshua 24:14",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11854-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Joshua",
+                "chapter": "24"
+            }
+        ]
+    },
+    {
+        "title": "Joshua",
+        "url": "http:\/\/api.sermonindex.net\/SID23520",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Deuteronomy 34:1-12, Joshua 1:1-13",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23520-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Deuteronomy",
+                "chapter": "34"
+            },
+            {
+                "book": "Joshua",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Studies In Joshua 02 - Entering The Land",
+        "url": "http:\/\/api.sermonindex.net\/SID10612",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10612-download",
+        "speaker_name": "Alden Gannett",
+        "_scripture": []
+    },
+    {
+        "title": "Studies In Joshua 03 - Conquering The Land",
+        "url": "http:\/\/api.sermonindex.net\/SID10613",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10613-download",
+        "speaker_name": "Alden Gannett",
+        "_scripture": []
+    },
+    {
+        "title": "Studies In Joshua 04 - Dividing The Land",
+        "url": "http:\/\/api.sermonindex.net\/SID10614",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Joshua",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10614-download",
+        "speaker_name": "Alden Gannett",
+        "_scripture": []
+    }
+]

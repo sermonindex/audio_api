@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16623-download",
-            "preacher_name": "Sinclair Ferguson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sinclair Ferguson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16622-download",
-            "preacher_name": "Sinclair Ferguson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sinclair Ferguson",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Wrath",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23674-download",
-            "preacher_name": "Sinclair Ferguson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sinclair Ferguson",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Wrath",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23673-download",
-            "preacher_name": "Sinclair Ferguson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sinclair Ferguson",
             "_scripture": []
         }
     ]

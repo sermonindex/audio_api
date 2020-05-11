@@ -12,9 +12,7 @@
             "topic": "John The Baptist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9378-download",
-            "preacher_name": "Ernest Barker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernest Barker",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "Scriptures",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9380-download",
-            "preacher_name": "Ernest Barker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernest Barker",
             "_scripture": [
                 {
                     "book": "2 Timothy",
@@ -50,9 +46,7 @@
             "topic": "Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9379-download",
-            "preacher_name": "Ernest Barker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernest Barker",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -69,9 +63,7 @@
             "topic": "Trinity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9381-download",
-            "preacher_name": "Ernest Barker",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernest Barker",
             "_scripture": [
                 {
                     "book": "John",

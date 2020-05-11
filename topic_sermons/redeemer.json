@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Kinsman Redeemer",
+        "url": "http:\/\/api.sermonindex.net\/SID25566",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Leviticus 25:25-55",
+        "topic": "Redeemer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25566-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Leviticus",
+                "chapter": "25"
+            }
+        ]
+    }
+]

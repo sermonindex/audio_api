@@ -1,0 +1,19 @@
+[
+    {
+        "title": "True Treasure",
+        "url": "http:\/\/api.sermonindex.net\/SID7678",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6:19",
+        "topic": "Treasure In Heaven",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7678-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    }
+]

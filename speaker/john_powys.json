@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3999-download",
-            "preacher_name": "John Powys",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Powys",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3276-download",
-            "preacher_name": "John Powys",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Powys",
             "_scripture": []
         }
     ]

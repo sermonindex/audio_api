@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8551-download",
-            "preacher_name": "Ken Baird",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Baird",
             "_scripture": [
                 {
                     "book": "Jeremiah",

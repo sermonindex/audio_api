@@ -1,0 +1,31 @@
+[
+    {
+        "title": "The Rise and Fall of God's House",
+        "url": "http:\/\/api.sermonindex.net\/SID12704",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Declension",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12704-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": []
+    },
+    {
+        "title": "The State of the Church...Pray Ye Therefore",
+        "url": "http:\/\/api.sermonindex.net\/SID18528",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 9:38",
+        "topic": "Declension",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18528-download",
+        "speaker_name": "Aaron Dunlop",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "9"
+            }
+        ]
+    }
+]

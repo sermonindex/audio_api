@@ -1,0 +1,19 @@
+[
+    {
+        "title": "One Thing",
+        "url": "http:\/\/api.sermonindex.net\/SID17531",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 18",
+        "topic": "Seeking The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17531-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "18"
+            }
+        ]
+    }
+]

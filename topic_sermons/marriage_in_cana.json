@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(John) The Marriage In Cana",
+        "url": "http:\/\/api.sermonindex.net\/SID6850",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 2:1-12",
+        "topic": "Marriage In Cana",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6850-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "2"
+            }
+        ]
+    }
+]

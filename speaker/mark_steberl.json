@@ -12,9 +12,7 @@
             "topic": "Building",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20697-download",
-            "preacher_name": "Mark Steberl",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Steberl",
             "_scripture": []
         }
     ]

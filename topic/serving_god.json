@@ -11,9 +11,7 @@
             "topic": "Serving God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21296-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Serving God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20526-download",
-            "preacher_name": "Vance Havner",
-            "preacher_image": "\/images\/vance_havner.gif",
-            "preacher_description": "Vance Havner (1901 - 1986)\r\nListen to freely downloadable audio sermons by the speaker Vance Havner in mp3 format. For over 70 years, the church was blessed and challenged by the prophetic ministry of Vance Havner. His style and burden was prophetic similar to the ministry of A.W. Tozer calling the Church to revival. His influence extended to a national level, but Dr. Havner's approach was always to minister where God directed, regardless of the size of the church.  His appeal and influence transcended denominational lines, and he spoke to many different groups of people.\r\n\r\nThroughout his ministry, Vance Havner lived and preached that a Christian should should exhibit faithfulness to Jesus in all areas of life.  He taught that the Christian should attend to, \"the outliving of the inliving Christ.\"  Havner wrote, \"To some, Christianity is an argument.  To many, it is a performance.  To a few, it is an experience.\"",
+            "speaker_name": "Vance Havner",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Serving God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18844-download",
-            "preacher_name": "Jack Hyles",
-            "preacher_image": "",
-            "preacher_description": "Jack Hyles (1926 - 2001)\r\nListen to freely downloadable audio sermons by the speaker Jack Hyles in mp3 format. Dr. Hyles was Pastor of First Baptist Church from August, 1959 until his death in February, 2001.  In the last five years of his ministry, this church had an average weekly attendance of over 15,000 with approximately 10,000 baptisms each year.  For many years, the church has been acclaimed to have the \"World's Largest Sunday School.\"\r\nDr. Hyles is the author of 49 books and pamphlets.  Many of his sermons are available on audio and video tape.  Dr. Hyles' experience covers numerous evangelistic campaigns, Bible conferences, etc.  He preached in virtually every state of the Union and in many foreign countries.  He hosted 37 annual Pastors' Schools, which have attracted thousands of preachers from all over the world.",
+            "speaker_name": "Jack Hyles",
             "_scripture": []
         }
     ]

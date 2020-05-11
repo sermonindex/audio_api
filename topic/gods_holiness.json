@@ -1,5 +1,5 @@
 {
-    "name": "God's Holiness",
+    "name": "Gods Holiness",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "God's Holiness",
+            "topic": "Gods Holiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4805-download",
-            "preacher_name": "J. Glyn Owen",
-            "preacher_image": "\/images\/j_glyn_owen.gif",
-            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "speaker_name": "J. Glyn Owen",
             "_scripture": []
         },
         {
@@ -22,12 +20,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Isaiah 6:1-4",
-            "topic": "God's Holiness",
+            "topic": "Gods Holiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14319-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "Isaiah",

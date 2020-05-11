@@ -12,9 +12,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12353-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12351-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12355-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12352-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12356-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Salvation Army",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12354-download",
-            "preacher_name": "H. Scotney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "H. Scotney",
             "_scripture": []
         }
     ]

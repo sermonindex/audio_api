@@ -1,0 +1,31 @@
+[
+    {
+        "title": "So Panteth My Soul",
+        "url": "http:\/\/api.sermonindex.net\/SID20555",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 42:1-3",
+        "topic": "Desiring God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20555-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "42"
+            }
+        ]
+    },
+    {
+        "title": "The Power of a Master Ambition",
+        "url": "http:\/\/api.sermonindex.net\/SID0148",
+        "size": "4054016",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Desiring God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0148-download",
+        "speaker_name": "J. Oswald Sanders",
+        "_scripture": []
+    }
+]

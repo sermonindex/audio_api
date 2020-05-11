@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7119-download",
-            "preacher_name": "Edward Panosian",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edward Panosian",
             "_scripture": [
                 {
                     "book": "1 Samuel",

@@ -11,9 +11,7 @@
             "topic": "Death Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14112-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Death Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16625-download",
-            "preacher_name": "William MacDonald",
-            "preacher_image": "\/images\/william_macdonald.gif",
-            "preacher_description": "William MacDonald (1917 - 2007)\r\nListen to freely downloadable audio sermons by the speaker William MacDonald in mp3 format. Was President of Emmaus Bible College, teacher, Plymouth Brethren theologian and a prolific author of over 84 published books. MacDonald refused to accept royalties for his books but established a fund for translating his work Believers Bible Commentary into foreign languages.\r\n\r\n   Bill will be not only be remembered for the thousands upon thousands of lives he touched through his books, teaching and many personal letters, but for his Christ-like character and gentleness, yet powerful life lived by faith in Christ. One of his most impact-ful books is the small booklet called: \"True Discipleship\" it is recommended reading for every serious disciple of Christ.",
+            "speaker_name": "William MacDonald",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Death Of Christ",
             "description": "Paul Washer shares on the gospel message of Christ taking on the wrath of God for the lost world. This is a clear message of the Gospel and its focus and elevation of Christ alone. Amidst the shallow presentations of the gospel this message elevates the true Gospel.",
             "download": "http:\/\/api.sermonindex.net\/SID22317-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": []
         }
     ]

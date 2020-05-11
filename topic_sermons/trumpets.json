@@ -1,0 +1,53 @@
+[
+    {
+        "title": "(Revelation) The Seventh Angel Sounded",
+        "url": "http:\/\/api.sermonindex.net\/SID7062",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 11:15-19",
+        "topic": "Trumpets",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7062-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "(Revelation) The Sounding Of The 5th Trumpet",
+        "url": "http:\/\/api.sermonindex.net\/SID7058",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 9:1-12",
+        "topic": "Trumpets",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7058-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "9"
+            }
+        ]
+    },
+    {
+        "title": "(Revelation) The Sounding Of The 6th Trumpet",
+        "url": "http:\/\/api.sermonindex.net\/SID7059",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 9:13-21",
+        "topic": "Trumpets",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7059-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "9"
+            }
+        ]
+    }
+]

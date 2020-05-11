@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22455-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -35,9 +33,7 @@
             "topic": "Blessing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19388-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -54,9 +50,7 @@
             "topic": "Peace",
             "description": "June 25, 2006 \u2013 There is a deep abiding inner peace that only comes from Jesus. This peace is deep within those who know and understan Christ and trust that God has everything under control. When God's word is intwined in our heart and mind we will be led down a pathway of peace. This peace is the mark of the work of God. However, when we begin to leave the single pursuit of gloriying God and begin to find pleasure in this world your heart will turn from truth. You wil find yourself being led away form the will of God , led away by a lust to satisfy self, and you will lose the desire to be a servant.",
             "download": "http:\/\/api.sermonindex.net\/SID12821-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Psalms",

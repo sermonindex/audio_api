@@ -11,9 +11,7 @@
             "topic": "Bethany",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23773-download",
-            "preacher_name": "Walter Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter Wilson",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Bethany",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10004-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         }
     ]

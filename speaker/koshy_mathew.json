@@ -12,9 +12,7 @@
             "topic": "Suffering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22028-download",
-            "preacher_name": "Koshy Mathew",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Koshy Mathew",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Holy Living",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22059-download",
-            "preacher_name": "Koshy Mathew",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Koshy Mathew",
             "_scripture": []
         }
     ]

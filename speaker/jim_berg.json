@@ -12,9 +12,7 @@
             "topic": "Anxiety",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2583-download",
-            "preacher_name": "Jim Berg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Berg",
             "_scripture": []
         }
     ]

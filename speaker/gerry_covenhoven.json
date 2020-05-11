@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10055-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10056-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10058-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -69,9 +63,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10057-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -88,9 +80,7 @@
             "topic": "Genesis",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10060-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -107,9 +97,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10061-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": []
         },
         {
@@ -121,9 +109,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10062-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -140,9 +126,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10065-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -159,9 +143,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10063-download",
-            "preacher_name": "Gerry Covenhoven",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gerry Covenhoven",
             "_scripture": []
         }
     ]

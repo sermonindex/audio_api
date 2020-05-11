@@ -11,9 +11,7 @@
             "topic": "Balaam",
             "description": "Part of a study in the book of Jude. Excellent message to young people regarding the importance of who they marry. How Satan tries to defeat the Christian.",
             "download": "http:\/\/api.sermonindex.net\/SID3628-download",
-            "preacher_name": "Martin Geehan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Martin Geehan",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Balaam",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3629-download",
-            "preacher_name": "Martin Geehan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Martin Geehan",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Balaam",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3630-download",
-            "preacher_name": "Martin Geehan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Martin Geehan",
             "_scripture": []
         }
     ]

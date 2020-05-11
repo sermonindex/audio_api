@@ -12,9 +12,7 @@
             "topic": "Corporate Prayer",
             "description": "It's a sad statement about affairs of the church when a crippled man lays near the gate outside the sanctuary, expecting only spare change. When you know the heart of God, why he came to die for sinners, you will boldly be able to speak the truth, with real spiritual authority into the lives of others. The world around us is lost and dying, and we as the church need to pray the power of God down into the homes and hearts of people who so desperately need God.",
             "download": "http:\/\/api.sermonindex.net\/SID3388-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -39,9 +37,7 @@
             "topic": "Exalted",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26368-download",
-            "preacher_name": "Paul Washer",
-            "preacher_image": "\/images\/paul_washer.gif",
-            "preacher_description": "Paul Washer (1961 - Present)\r\nListen to freely downloadable audio sermons by the speaker Paul Washer in mp3 format. Brother Washer is the founder of Heart Cry Missionary society that funds and supports indigenous missionaries all across the world. He served as a missionary personally in Peru for many years. He has a passion for the glory of God and the preaching of the Gospel of Jesus Christ.\r\n\r\nWell-known on the internet for the audio and video message: \"Shocking Message to Youth\" he has been an in-demand speaker for many conventions and gatherings. He has recently published a new book: \"The Gospel's Power and Message\" that is highly recommended by many.",
+            "speaker_name": "Paul Washer",
             "_scripture": [
                 {
                     "book": "Psalms",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10758-download",
-            "preacher_name": "David Guzik",
-            "preacher_image": "",
-            "preacher_description": "David Guzik ( - )\r\nListen to freely downloadable audio sermons by the speaker David Guzik in mp3 format.  David Guzik is the pastor of Calvary Chapel Santa Barbara, having come to serve that congregation in July 2010. For 7 years before that, David was the director of Calvary Chapel Bible College Germany, near Siegen, Germany. David took this position in January of 2003, after serving for 14 years as the founding and Senior Pastor of Calvary Chapel of Simi Valley. He has been in pastoral ministry since 1982.\r\nDavid has no formal Bible College or seminary training, but does have a Bachelors of Arts degree from the University of California, Santa Barbara. David, his wife Inga-Lill, live in Santa Barbara, California. Their three children are grown; Aan-Sofie serves as a missionary in Ireland, Nathan lives in Los Angeles, and Jonathan lives in Santa Barbara.",
+            "speaker_name": "David Guzik",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -31,9 +29,7 @@
             "topic": "Expositional",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9899-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -50,9 +46,7 @@
             "topic": "Expositional",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9901-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -69,9 +63,7 @@
             "topic": "Expositional",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9900-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -88,9 +80,7 @@
             "topic": "Word Of God",
             "description": "Far worse than a nation despising the Word of God is a professing believer who lightly esteems the Word of God and refuses to submit to it, not bothering to read it much. They leave themselves open to deception. Brokenness and trembling at the Word of God will lead to healing. This he will honor and draw near to in any heart.",
             "download": "http:\/\/api.sermonindex.net\/SID4302-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -115,9 +105,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9621-download",
-            "preacher_name": "James K. Boswell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James K. Boswell",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -134,9 +122,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9622-download",
-            "preacher_name": "James K. Boswell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James K. Boswell",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -153,9 +139,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9623-download",
-            "preacher_name": "James K. Boswell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James K. Boswell",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -172,9 +156,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9624-download",
-            "preacher_name": "James K. Boswell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James K. Boswell",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -191,9 +173,7 @@
             "topic": "Isaiah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1564-download",
-            "preacher_name": "Stephen  Kaung",
-            "preacher_image": "\/images\/stephen_kaung.gif",
-            "preacher_description": "Stephen Kaung ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Stephen Kaung in mp3 format. Stephen Kaung is a Chinese Chrisitan speaker and writer, and now living in Richmond, Virgina. At an early age was converted to Christianity and was active in the Methodist Church in China, with home his father was a minister. He first met watchman need in the early 1930's and joined Nee's indigenous christian work full-time, working with him until 1949 when he left China and became involved with Christian work in other ares of the Far East.\r\n\r\nStephen Kaung worked very closely with T Austin-Sparks until his death in 1972. His burden has been to allow a testimony of the Lord in the local assembly, and to help the saints see the great importance of the Church as God intended it. Stephen Kaung's major work has been to translate the writings of Watchman Nee into English, over 50 titles which have been published by his own organisation, Christian Fellowship Publishers (CFP), In Richmond, Virgina.",
+            "speaker_name": "Stephen  Kaung",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -210,9 +190,7 @@
             "topic": "Will Of God",
             "description": "In this study, Pastor Cymbala gives Biblical illustrations of how God led King David and the Apostle Paul in their decisions. God provides the same leading today as we face forks in the road of life. As you listen allow God to speak to your heart and open your heart to depend on Him more to guide you in every decision in life.",
             "download": "http:\/\/api.sermonindex.net\/SID25912-download",
-            "preacher_name": "Jim Cymbala",
-            "preacher_image": "\/images\/jim_cymbala.gif",
-            "preacher_description": "Jim Cymbala (1949 - Present)\r\nListen to freely downloadable audio sermons by the speaker Jim Cymbala in mp3 format. Brother Jim Cymbala was called into ministry without formal training in Brooklyn, New York to pastor a small gathering. God showed him the great need of prayer and depending on the work of the Holy Spirit in the ministry. God blessed and grew the brooklyn tabernacle to a large church of thousands because of this reliance.\r\n\r\nThe burden of his ministry is to show the vital need for prayer, deependence on God and that God uses the weak and lowly to build His kingdom. He has written many books including the best-selling: \"Fresh Wind, Fresh Fire\" and his newer book \"Spirit Rising\" speaking of the neglected work of the Holy Spirit in our churches these days.",
+            "speaker_name": "Jim Cymbala",
             "_scripture": [
                 {
                     "book": "1 Samuel",
@@ -241,9 +219,7 @@
             "topic": "Servanthood",
             "description": "This message was delivered on 04\/01\/1958.",
             "download": "http:\/\/api.sermonindex.net\/SID0091-download",
-            "preacher_name": "T. Austin Sparks",
-            "preacher_image": "\/images\/t_austin_sparks.gif",
-            "preacher_description": "T. Austin Sparks (1888 \u00e2\u20ac\u201c 1971)\r\nListen to freely downloadable audio sermons by the speaker T. Austin Sparks in mp3 format. He was ordained as a Baptist pastor at the age of 24, and from 1912 to 1926 led three congregations in Greater London. During these years, he was also closely related to Jessie Penn-Lewis and her publication and speaking ministry, the \"Overcomer Testimony.\"\r\n\r\nAmong the many books that he wrote, at least three are regarded as Christian classics: The School of Christ, The Centrality and Supremacy of the Lord Jesus Christ and We Beheld His Glory. The primary theme of Sparks' books is the exaltation of the Lord Jesus Christ. He mentored Watchman Nee for many years and was very influential in his understanding of the Church Life.",
+            "speaker_name": "T. Austin Sparks",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -264,9 +240,7 @@
             "topic": "",
             "description": "Stephen continues the series on returning to Christ with this discussion of the results of returning to Christ. These results can be summarized as: Fulfill the eternal purpose of God, Christ begins to transform us, We are ready for Christ, We are prepared for our reward.",
             "download": "http:\/\/api.sermonindex.net\/SID13826-download",
-            "preacher_name": "Stephen  Kaung",
-            "preacher_image": "\/images\/stephen_kaung.gif",
-            "preacher_description": "Stephen Kaung ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Stephen Kaung in mp3 format. Stephen Kaung is a Chinese Chrisitan speaker and writer, and now living in Richmond, Virgina. At an early age was converted to Christianity and was active in the Methodist Church in China, with home his father was a minister. He first met watchman need in the early 1930's and joined Nee's indigenous christian work full-time, working with him until 1949 when he left China and became involved with Christian work in other ares of the Far East.\r\n\r\nStephen Kaung worked very closely with T Austin-Sparks until his death in 1972. His burden has been to allow a testimony of the Lord in the local assembly, and to help the saints see the great importance of the Church as God intended it. Stephen Kaung's major work has been to translate the writings of Watchman Nee into English, over 50 titles which have been published by his own organisation, Christian Fellowship Publishers (CFP), In Richmond, Virgina.",
+            "speaker_name": "Stephen  Kaung",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -291,9 +265,7 @@
             "topic": "Theocratic Kingdom",
             "description": "With all the emphasis on \u2018revival\u2019 presently occurring, Art examines what true revival should lead to, namely, a mode of apostolic understanding that identifies with and embraces the imminent coming Kingdom\u2014the rule of God in the earth.  The message touches on the subject of spiritual authority and sonship.",
             "download": "http:\/\/api.sermonindex.net\/SID3103-download",
-            "preacher_name": "Art Katz",
-            "preacher_image": "\/images\/art_katz.gif",
-            "preacher_description": "Art Katz (1929 \u00e2\u20ac\u201c 2007)\r\nListen to freely downloadable audio sermons by the speaker Art Katz in mp3 format. He was radically converted by reading the New Testament. God used him to have a powerful prophetic insight into the end-times and the coming suffering of the jewish people before the great accepting of Jesus as Messiah. His eschatological insight is a very needful truth to be realized in the body of Christ. \r\n\r\nArt was a prophetic voice insofar as he called his listeners to purposes in God that would affect both time and eternity, purposes that had to do with the glory of God in the Church.   Frequently, his messages called the Church to an awareness of the Last Days [End-times] in such a way that made that time seem imminent and at the door.",
+            "speaker_name": "Art Katz",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -310,9 +282,7 @@
             "topic": "",
             "description": "Delivered after 9\/11.",
             "download": "http:\/\/api.sermonindex.net\/SID4014-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -333,9 +303,7 @@
             "topic": "Readiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13835-download",
-            "preacher_name": "Stephen  Kaung",
-            "preacher_image": "\/images\/stephen_kaung.gif",
-            "preacher_description": "Stephen Kaung ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Stephen Kaung in mp3 format. Stephen Kaung is a Chinese Chrisitan speaker and writer, and now living in Richmond, Virgina. At an early age was converted to Christianity and was active in the Methodist Church in China, with home his father was a minister. He first met watchman need in the early 1930's and joined Nee's indigenous christian work full-time, working with him until 1949 when he left China and became involved with Christian work in other ares of the Far East.\r\n\r\nStephen Kaung worked very closely with T Austin-Sparks until his death in 1972. His burden has been to allow a testimony of the Lord in the local assembly, and to help the saints see the great importance of the Church as God intended it. Stephen Kaung's major work has been to translate the writings of Watchman Nee into English, over 50 titles which have been published by his own organisation, Christian Fellowship Publishers (CFP), In Richmond, Virgina.",
+            "speaker_name": "Stephen  Kaung",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -360,9 +328,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9886-download",
-            "preacher_name": "Phil Clarkson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Phil Clarkson",
             "_scripture": [
                 {
                     "book": "Isaiah",

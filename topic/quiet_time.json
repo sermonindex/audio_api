@@ -11,9 +11,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18147-download",
-            "preacher_name": "Gerhard Du Toit",
-            "preacher_image": "",
-            "preacher_description": "Gerhard Du Toit ( - )\r\nListen to freely downloadable audio sermons by the speaker Gerhard Du Toit in mp3 format. Originally from South Africa, Gerhard was brought up in the Dutch Reformed Church and trained as an evangelist there. He has had extensive evangelistic experience in South Africa, where his ministry is greatly appreciated. He has also been engaged in convention and evangelistic ministry in the British Isles.\r\nGerhard has resided in Canada, with his wife and daughter, since 1987. He is a coveted speaker in conferences around the world. His powerful preaching and authoritative, biblical message greatly bless and move the hearts of those who hear him. He also has a deep burden to see a revival of praying men. Like the prophet Jeremiah, his heart burns for an elevated standard of godliness in our day. He know is part of Life Action in Canada serving with that ministry.",
+            "speaker_name": "Gerhard Du Toit",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17641-download",
-            "preacher_name": "Gerhard Du Toit",
-            "preacher_image": "",
-            "preacher_description": "Gerhard Du Toit ( - )\r\nListen to freely downloadable audio sermons by the speaker Gerhard Du Toit in mp3 format. Originally from South Africa, Gerhard was brought up in the Dutch Reformed Church and trained as an evangelist there. He has had extensive evangelistic experience in South Africa, where his ministry is greatly appreciated. He has also been engaged in convention and evangelistic ministry in the British Isles.\r\nGerhard has resided in Canada, with his wife and daughter, since 1987. He is a coveted speaker in conferences around the world. His powerful preaching and authoritative, biblical message greatly bless and move the hearts of those who hear him. He also has a deep burden to see a revival of praying men. Like the prophet Jeremiah, his heart burns for an elevated standard of godliness in our day. He know is part of Life Action in Canada serving with that ministry.",
+            "speaker_name": "Gerhard Du Toit",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24527-download",
-            "preacher_name": "E.A. Johnston",
-            "preacher_image": "",
-            "preacher_description": "E.A. Johnston ( - )\r\nListen to freely downloadable audio sermons by the speaker E.A. Johnston in mp3 format. E. A. Johnston lives in Memphis, Tennessee and is a fellow of the Stephen Olford Institute for Biblical Preaching. He is currently involved in Bible teaching and disciple making, as well as authoring books. Some of his titles include: Realities of Revival (series), Church in Revival (series), Call to Revival (series), Return to Me, No Turning Back, The Master\u2019s Plan, Walking with God, etc.\r\n\"If the Church will not defend His holy Name then the Almighty must. God will either pour out His blessings in revival to defend His holy Name, or He will pour out His wrath upon mankind to avenge His holy Name. It will either be a defending or avenging to show forth His glory and remind mankind He alone is the Sovereign ruler of all.\"",
+            "speaker_name": "E.A. Johnston",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -58,9 +52,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7371-download",
-            "preacher_name": "Keith Daniel",
-            "preacher_image": "\/images\/keith_daniel.gif",
-            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "speaker_name": "Keith Daniel",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -85,9 +77,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18356-download",
-            "preacher_name": "Gerhard Du Toit",
-            "preacher_image": "",
-            "preacher_description": "Gerhard Du Toit ( - )\r\nListen to freely downloadable audio sermons by the speaker Gerhard Du Toit in mp3 format. Originally from South Africa, Gerhard was brought up in the Dutch Reformed Church and trained as an evangelist there. He has had extensive evangelistic experience in South Africa, where his ministry is greatly appreciated. He has also been engaged in convention and evangelistic ministry in the British Isles.\r\nGerhard has resided in Canada, with his wife and daughter, since 1987. He is a coveted speaker in conferences around the world. His powerful preaching and authoritative, biblical message greatly bless and move the hearts of those who hear him. He also has a deep burden to see a revival of praying men. Like the prophet Jeremiah, his heart burns for an elevated standard of godliness in our day. He know is part of Life Action in Canada serving with that ministry.",
+            "speaker_name": "Gerhard Du Toit",
             "_scripture": []
         },
         {
@@ -99,9 +89,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19805-download",
-            "preacher_name": "Harold Armstrong",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Armstrong",
             "_scripture": []
         },
         {
@@ -113,9 +101,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19808-download",
-            "preacher_name": "Herb Atwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Herb Atwood",
             "_scripture": []
         },
         {
@@ -127,9 +113,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19809-download",
-            "preacher_name": "Peter Axup",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Axup",
             "_scripture": []
         }
     ]

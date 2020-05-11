@@ -12,9 +12,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21974-download",
-            "preacher_name": "Ian Affleck",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ian Affleck",
             "_scripture": []
         }
     ]

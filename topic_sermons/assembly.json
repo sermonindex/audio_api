@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Importance Of The Assembly",
+        "url": "http:\/\/api.sermonindex.net\/SID7674",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 3",
+        "topic": "Assembly",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7674-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "The Assemblies 1 Cor.3;17",
+        "url": "http:\/\/api.sermonindex.net\/SID10080",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 3:17",
+        "topic": "Assembly",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10080-download",
+        "speaker_name": "J.M. Davies",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "3"
+            }
+        ]
+    }
+]

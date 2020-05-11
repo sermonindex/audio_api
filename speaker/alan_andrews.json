@@ -12,9 +12,7 @@
             "topic": "Brokenness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19800-download",
-            "preacher_name": "Alan Andrews",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Andrews",
             "_scripture": []
         }
     ]

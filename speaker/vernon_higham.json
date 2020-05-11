@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22646-download",
-            "preacher_name": "Vernon Higham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Vernon Higham",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22645-download",
-            "preacher_name": "Vernon Higham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Vernon Higham",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22641-download",
-            "preacher_name": "Vernon Higham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Vernon Higham",
             "_scripture": []
         }
     ]

@@ -11,9 +11,7 @@
             "topic": "Missionary Service",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21988-download",
-            "preacher_name": "Tom Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Wilson",
             "_scripture": []
         }
     ]

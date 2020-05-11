@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Four Gospels ",
+        "url": "http:\/\/api.sermonindex.net\/SID12758",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 21:25",
+        "topic": "Gospels",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12758-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "21"
+            }
+        ]
+    }
+]

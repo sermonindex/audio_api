@@ -12,9 +12,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10077-download",
-            "preacher_name": "J.M. Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.M. Davies",
             "_scripture": [
                 {
                     "book": "Job",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "Man commonly focus on the parts rather than the whole. As such, there is a tendency for Christians to over-emphasize a particular truth rather than the whole counsel of God. All these truths are found in the Person of the Lord Jesus Christ. The thing that sets us apart from the world is the Presence of God in our midst, and it is His Presence that we should seek after. Let it not be said of us as it is in Job 26:14 that \"these are parts of his ways: but how little a portion is heard of him?\"",
             "download": "http:\/\/api.sermonindex.net\/SID11981-download",
-            "preacher_name": "David Ravenhill",
-            "preacher_image": "",
-            "preacher_description": "David Ravenhill ( - )\r\nListen to freely downloadable audio sermons by the speaker David Ravenhill in mp3 format. David Ravenhill was born in England in 1942. He graduated from Bethany Fellowship BibleCollege in Minneapolis where he met and married his wife Nancy. In their early years, David and Nancy served with David Wilkerson\u00c2\u2019s first Teen Challenge Center in New York City. Following that, they worked with YWAM (Youth With A Mission) for six years which included two years in Port Moresby, Papua, New Guinea.\r\nFrom 1993 David served as the senior pastor of a thriving church in Gig Harbor, Washington. He resigned in 1997 to commence a full time itinerant ministry throughout the United States and overseas. David also taught in the Brownsville Revival School of Ministry in Pensacola, Florida as well as maintaining a busy itinerant ministry. During and following their time in Pensacola David traveled with Evangelist Steve Hill and the Awake America Crusades. You can find our more about his speaking and request him for your Church as this ministry website DavidRavenhill.com",
+            "speaker_name": "David Ravenhill",
             "_scripture": [
                 {
                     "book": "Job",

@@ -1,0 +1,633 @@
+[
+    {
+        "title": "(Europe 2008) Session 1 - A Man sent from God",
+        "url": "http:\/\/api.sermonindex.net\/SID18495",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Calling",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18495-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 2 - Cleansing the Temple",
+        "url": "http:\/\/api.sermonindex.net\/SID18496",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Purity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18496-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 3 - The Spirit of Life",
+        "url": "http:\/\/api.sermonindex.net\/SID18497",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18497-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 4 - Assuming the Ministry of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID18498",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Ministry",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18498-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 5 - Establishing the Kingdom",
+        "url": "http:\/\/api.sermonindex.net\/SID18499",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Kingdom Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18499-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 6 - The Revelation of God in man",
+        "url": "http:\/\/api.sermonindex.net\/SID18500",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Revelation Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18500-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 7 - As He is, so are we",
+        "url": "http:\/\/api.sermonindex.net\/SID18501",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Holiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18501-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 8 - When Truth is in the house",
+        "url": "http:\/\/api.sermonindex.net\/SID18502",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Truth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18502-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Europe 2008) Session 9 - A Closed Book",
+        "url": "http:\/\/api.sermonindex.net\/SID18503",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Scriptures",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18503-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "(Forging the Vessel of Recovery) 1- The Success of the First Century Church",
+        "url": "http:\/\/api.sermonindex.net\/SID10236",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 1:8, Ephesians 5:18",
+        "topic": "Apostolic",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10236-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            },
+            {
+                "book": "Acts",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "(Forging the Vessel of Recovery) 2- The New Cruse",
+        "url": "http:\/\/api.sermonindex.net\/SID10237",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 2:19-22",
+        "topic": "Recovery",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10237-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "2 Kings",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "(Forging the Vessel of Recovery) 3- A New Beginning",
+        "url": "http:\/\/api.sermonindex.net\/SID10238",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Samuel 1:15-20",
+        "topic": "Recovery",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10238-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "(Forging the Vessel of Recovery) 4- Features of the vessel",
+        "url": "http:\/\/api.sermonindex.net\/SID10239",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Kings 2:19-20, 1 Samuel 1:15-20",
+        "topic": "Recovery",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10239-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "1"
+            },
+            {
+                "book": "2 Kings",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "(Forging the Vessel of Recovery) 5- A Vessel Of Glory",
+        "url": "http:\/\/api.sermonindex.net\/SID10240",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 5:27, Zechariah 4:1-6",
+        "topic": "Recovery",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10240-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Zechariah",
+                "chapter": "4"
+            },
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "(Forging the Vessel of Recovery) 6- Recovery of Real Faith",
+        "url": "http:\/\/api.sermonindex.net\/SID10241",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 11:6",
+        "topic": "Recovery",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10241-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "A Bride for Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID10225",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 24:1-6",
+        "topic": "Bride Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10225-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "24"
+            }
+        ]
+    },
+    {
+        "title": "A Distinct Culture",
+        "url": "http:\/\/api.sermonindex.net\/SID10226",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 4:1, Romans 8:14",
+        "topic": "Kingdom Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10226-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "8"
+            },
+            {
+                "book": "Luke",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Forsaking God",
+        "url": "http:\/\/api.sermonindex.net\/SID10227",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hosea 4:6",
+        "topic": "Rebellion",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10227-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Hosea",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "God has spoken",
+        "url": "http:\/\/api.sermonindex.net\/SID10228",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 3:7-11",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10228-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "God's Provision For Holiness",
+        "url": "http:\/\/api.sermonindex.net\/SID15477",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 1:1-2, Philippians 1:1, Philippians 4:21",
+        "topic": "Holiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15477-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "4"
+            },
+            {
+                "book": "Philippians",
+                "chapter": "1"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Hearing His voice",
+        "url": "http:\/\/api.sermonindex.net\/SID10229",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 3:7-11",
+        "topic": "Voice Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10229-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Holiness And Revelation",
+        "url": "http:\/\/api.sermonindex.net\/SID15478",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 3:4-5",
+        "topic": "Holiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15478-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Holiness and Obedience",
+        "url": "http:\/\/api.sermonindex.net\/SID10230",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 19:4-6",
+        "topic": "Obedience",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10230-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "Holiness and Redemption",
+        "url": "http:\/\/api.sermonindex.net\/SID15877",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Numbers 3:13",
+        "topic": "Redemption",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15877-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Numbers",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Holy In Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID15876",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 15:11-17",
+        "topic": "Holiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15876-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "It is finished",
+        "url": "http:\/\/api.sermonindex.net\/SID10231",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 21:1-11, Galatians 4:22-31",
+        "topic": "Cross of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10231-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Galatians",
+                "chapter": "4"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "21"
+            }
+        ]
+    },
+    {
+        "title": "Prayer Is a Warfare",
+        "url": "http:\/\/api.sermonindex.net\/SID18809",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prevailing Prayer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18809-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "Prodigal Church",
+        "url": "http:\/\/api.sermonindex.net\/SID5104",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11-24",
+        "topic": "Lukewarmness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5104-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Soldier",
+        "url": "http:\/\/api.sermonindex.net\/SID12059",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Timothy 2:3",
+        "topic": "Spiritual Warfare",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12059-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "2 Timothy",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers",
+        "url": "http:\/\/api.sermonindex.net\/SID5105",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Timothy 2:3",
+        "topic": "Spiritual Warfare",
+        "description": "Preaching with great unction this brother calls the Church to righteousness and holy living. Using illustrations concerning his former life in the military, he describes the warfare we experience as Christians, and the life that we should be living. Do we realize Who it is we take orders from? Do we realize who the real enemy is? Do we understand that if we love the world we are God's enemies? Listen to this message.",
+        "download": "http:\/\/api.sermonindex.net\/SID5105-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "2 Timothy",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers Hymn",
+        "url": "http:\/\/api.sermonindex.net\/SID10232",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spiritual Warfare",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10232-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": []
+    },
+    {
+        "title": "The Bride Hath Made Herself Ready",
+        "url": "http:\/\/api.sermonindex.net\/SID5106",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6:33, John 3:3, Matthew 5:5",
+        "topic": "Bride Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5106-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            },
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            },
+            {
+                "book": "John",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "The Dreamer",
+        "url": "http:\/\/api.sermonindex.net\/SID13787",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 37:19",
+        "topic": "Joseph",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13787-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "37"
+            }
+        ]
+    },
+    {
+        "title": "The Early and Latter Rain",
+        "url": "http:\/\/api.sermonindex.net\/SID5107",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Joel 2:23, Acts 2:19-20",
+        "topic": "Spiritual Awakening",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5107-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "2"
+            },
+            {
+                "book": "Joel",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "The Overcoming saint",
+        "url": "http:\/\/api.sermonindex.net\/SID10233",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 12:11",
+        "topic": "Overcoming",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10233-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "The word of God searches the heart",
+        "url": "http:\/\/api.sermonindex.net\/SID10234",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 4:12-13",
+        "topic": "Scriptures",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10234-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "What it Means to Pray Through",
+        "url": "http:\/\/api.sermonindex.net\/SID5103",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 6:1-7",
+        "topic": "Prevailing Prayer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5103-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "Without Spot or Wrinkle",
+        "url": "http:\/\/api.sermonindex.net\/SID5108",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ephesians 5:27",
+        "topic": "Holiness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5108-download",
+        "speaker_name": "B.H. Clendennen",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

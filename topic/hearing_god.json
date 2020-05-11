@@ -11,9 +11,7 @@
             "topic": "Hearing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25189-download",
-            "preacher_name": "Anton Bosch",
-            "preacher_image": "",
-            "preacher_description": "Anton Bosch ( - )\r\nListen to freely downloadable audio sermons by the speaker Anton Bosch in mp3 format.  Privileged to be born into a long line of preachers, Anton Bosch met the Lord Jesus Christ as his Saviour in 1968. In 1971 he entered the Theological College of South Africa for two years, completed the third year by correspondence and was awarded the Diploma in Theology. In 2005 he was awarded the degree Master in Theology cum laude. The title of his dissertation was \u00e2\u20ac\u0153The pastoral and practical principles on which the churches in the New Testament are based\u00e2\u20ac\u009d. He is currently working on his Ph.D. in Biblical Studies. \r\n\r\nIn 2003 he was elected to the board of the International Fellowship of Christian Believers (formerly OFFI) with responsibility for the African continent and in 2004 was asked to serve as its international president. At the end of 2003 he was called to assist Burbank Community Church (Los Angeles, California) as it\u00e2\u20ac\u2122s senior pastor.. In 2009 the church moved to new premises in Sun Valley and us now known as Sun Valley Community Church (SVCC). Anton continues to teach at SVCC. It has been his life-long quest to rediscover New Testament Christianity and to call Christians and churches back to knowing, believing and living the Bible. He has planted a number of churches that are based on these principles. He is passionate about a correct exegesis of the Word and specialises in expository preaching and teaching.",
+            "speaker_name": "Anton Bosch",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Hearing God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25730-download",
-            "preacher_name": "Shane Idleman",
-            "preacher_image": "",
-            "preacher_description": "Shane Idleman ( - )\r\nListen to freely downloadable audio sermons by the speaker Shane Idleman in mp3 format. Shane Idleman is the founder and lead pastor of Westside Christian Fellowship, in Lancaster, Ca. His sermons, books, articles, and radio program have sparked change in the lives of many. Today, as we continually drift away in a current of moral decline and relativism, many believe that the battle is too advanced and that we cannot make a difference. Shane, however, believes that we can, and offers his books as contributions to that commitment.\r\nShane\u2019s ministry has sparked change in the lives of many. He\u2019s calling families, marriages, and the country back to the biblical principles that once made America prized among nations. His bold stance has led to speaking engagements at some of the largest churches in the nation.",
+            "speaker_name": "Shane Idleman",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Hearing God",
             "description": "\u00e2\u20ac\u0153TODAY, IF YOU HEAR HIS VOICE, DO NOT HARDEN YOUR HEARTS\u00e2\u20ac\u009d (Hebrews 3:15). In this sermon, Mike explains why God says \u00e2\u20ac\u0153TODAY,\u00e2\u20ac\u009d instead of tomorrow or next year. He explains four facts that cause God to say that today is the day to give your life to Him.",
             "download": "http:\/\/api.sermonindex.net\/SID16679-download",
-            "preacher_name": "Mike Gilchrist",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Gilchrist",
             "_scripture": [
                 {
                     "book": "Hebrews",

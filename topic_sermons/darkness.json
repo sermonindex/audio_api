@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Colossians: Kingdom of Darkness",
+        "url": "http:\/\/api.sermonindex.net\/SID26707",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Darkness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26707-download",
+        "speaker_name": "Mariano Di Gangi",
+        "_scripture": []
+    },
+    {
+        "title": "Darkness",
+        "url": "http:\/\/api.sermonindex.net\/SID12435",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 1:1-18",
+        "topic": "Darkness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12435-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "John's Gospel - Lighten Our Darkness",
+        "url": "http:\/\/api.sermonindex.net\/SID26654",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Darkness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26654-download",
+        "speaker_name": "John Vissers",
+        "_scripture": []
+    },
+    {
+        "title": "Push Back The Darkness",
+        "url": "http:\/\/api.sermonindex.net\/SID28399",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Darkness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28399-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": []
+    },
+    {
+        "title": "The Voice of Darkness",
+        "url": "http:\/\/api.sermonindex.net\/SID17281",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Darkness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17281-download",
+        "speaker_name": "Steve Gallagher",
+        "_scripture": []
+    },
+    {
+        "title": "Treasures of Darkness",
+        "url": "http:\/\/api.sermonindex.net\/SID21121",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Darkness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21121-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Wrath",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23558-download",
-            "preacher_name": "Stanley Voke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stanley Voke",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Lamb Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23559-download",
-            "preacher_name": "Stanley Voke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stanley Voke",
             "_scripture": []
         }
     ]

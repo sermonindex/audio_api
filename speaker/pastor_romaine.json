@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2500-download",
-            "preacher_name": "Pastor Romaine",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pastor Romaine",
             "_scripture": []
         }
     ]

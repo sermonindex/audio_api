@@ -12,9 +12,7 @@
             "topic": "Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12101-download",
-            "preacher_name": "Prabhudas Koshy",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Prabhudas Koshy",
             "_scripture": []
         }
     ]

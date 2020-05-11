@@ -12,9 +12,7 @@
             "topic": "Example",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28214-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28210-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": [
                 {
                     "book": "Ecclesiastes",
@@ -45,9 +41,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28212-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -64,9 +58,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28211-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": [
                 {
                     "book": "Jeremiah",
@@ -83,9 +75,7 @@
             "topic": "John The Baptist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28209-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": []
         },
         {
@@ -97,9 +87,7 @@
             "topic": "John The Baptist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28213-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": []
         },
         {
@@ -111,9 +99,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28208-download",
-            "preacher_name": "Conrad Murrell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Conrad Murrell",
             "_scripture": []
         }
     ]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Breaking New Ground: Capernaum and Beyond",
+        "url": "http:\/\/api.sermonindex.net\/SID18611",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 4:31-44",
+        "topic": "Venture Of Faith",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18611-download",
+        "speaker_name": "Clayton Dougan",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "The Lord's Prayer",
+        "url": "http:\/\/api.sermonindex.net\/SID18612",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 6",
+        "topic": "Lords Prayer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18612-download",
+        "speaker_name": "Clayton Dougan",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "6"
+            }
+        ]
+    }
+]

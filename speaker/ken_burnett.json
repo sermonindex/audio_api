@@ -12,9 +12,7 @@
             "topic": "Comfort",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23624-download",
-            "preacher_name": "Ken Burnett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Burnett",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Gentiles",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23625-download",
-            "preacher_name": "Ken Burnett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Burnett",
             "_scripture": []
         }
     ]

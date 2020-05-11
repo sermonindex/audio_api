@@ -12,9 +12,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23804-download",
-            "preacher_name": "Brian York",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Brian York",
             "_scripture": []
         }
     ]

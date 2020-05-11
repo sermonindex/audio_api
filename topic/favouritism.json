@@ -11,9 +11,7 @@
             "topic": "Favouritism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22247-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",
@@ -30,9 +28,7 @@
             "topic": "Favouritism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22246-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",
@@ -49,9 +45,7 @@
             "topic": "Favouritism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22245-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",

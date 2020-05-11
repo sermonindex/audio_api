@@ -12,9 +12,7 @@
             "topic": "Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19919-download",
-            "preacher_name": "Curtis Hutson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Curtis Hutson",
             "_scripture": [
                 {
                     "book": "Colossians",

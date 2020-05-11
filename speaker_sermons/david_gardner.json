@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Giants in the Land",
+        "url": "http:\/\/api.sermonindex.net\/SID23997",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23997-download",
+        "speaker_name": "David Gardner",
+        "_scripture": []
+    },
+    {
+        "title": "Moral Collapse",
+        "url": "http:\/\/api.sermonindex.net\/SID23996",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Morality",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23996-download",
+        "speaker_name": "David Gardner",
+        "_scripture": []
+    },
+    {
+        "title": "Thy Kingdom Come",
+        "url": "http:\/\/api.sermonindex.net\/SID23995",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Kingdom Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23995-download",
+        "speaker_name": "David Gardner",
+        "_scripture": []
+    }
+]

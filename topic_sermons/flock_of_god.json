@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Feed The Flock Of God",
+        "url": "http:\/\/api.sermonindex.net\/SID7311",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 5:1-16",
+        "topic": "Flock Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7311-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "5"
+            }
+        ]
+    }
+]

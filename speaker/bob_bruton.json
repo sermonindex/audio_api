@@ -12,9 +12,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9781-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": [
                 {
                     "book": "1 Peter",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9782-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": [
                 {
                     "book": "Haggai",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9783-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -69,9 +63,7 @@
             "topic": "Gifts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9784-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": []
         },
         {
@@ -83,9 +75,7 @@
             "topic": "Holy Spirit",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9785-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -102,9 +92,7 @@
             "topic": "Renunciation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9786-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": [
                 {
                     "book": "Philippians",
@@ -121,9 +109,7 @@
             "topic": "Unpardonable Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9787-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": [
                 {
                     "book": "2 Peter",
@@ -140,9 +126,7 @@
             "topic": "Gaius",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9788-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": []
         },
         {
@@ -154,9 +138,7 @@
             "topic": "Elect Lady",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9789-download",
-            "preacher_name": "Bob Bruton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Bruton",
             "_scripture": []
         }
     ]

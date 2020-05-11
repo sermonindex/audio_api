@@ -12,9 +12,7 @@
             "topic": "Condemnation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21012-download",
-            "preacher_name": "Albert Zehr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Zehr",
             "_scripture": []
         }
     ]

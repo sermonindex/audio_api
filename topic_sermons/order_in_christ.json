@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Gods Order in Christ - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID0024",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 01\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0024-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": []
+    },
+    {
+        "title": "Gods Order in Christ - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID0025",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0025-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": []
+    },
+    {
+        "title": "Gods Order in Christ - Part 3",
+        "url": "http:\/\/api.sermonindex.net\/SID0026",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 15:1-47",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0026-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Gods Order in Christ - Part 4",
+        "url": "http:\/\/api.sermonindex.net\/SID0027",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 12:38",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0027-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "Gods Order in Christ - Part 6",
+        "url": "http:\/\/api.sermonindex.net\/SID0028",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 3:14,John 8:28,John 12:31",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0028-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "12"
+            },
+            {
+                "book": "John",
+                "chapter": "8"
+            },
+            {
+                "book": "John",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Gods Order in Christ - Part 7",
+        "url": "http:\/\/api.sermonindex.net\/SID0029",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0029-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": []
+    },
+    {
+        "title": "Gods Order in Christ - Part 8",
+        "url": "http:\/\/api.sermonindex.net\/SID0030",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0030-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": []
+    },
+    {
+        "title": "Gods Order in Christ - Part 9",
+        "url": "http:\/\/api.sermonindex.net\/SID0031",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Order In Christ",
+        "description": "This message was delivered on 04\/01\/1959.",
+        "download": "http:\/\/api.sermonindex.net\/SID0031-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": []
+    }
+]

@@ -1,5 +1,5 @@
 {
-    "name": "Co-Worker",
+    "name": "CoWorker",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Co-Worker",
+            "topic": "CoWorker",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23759-download",
-            "preacher_name": "Theodore Andoseh",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Theodore Andoseh",
             "_scripture": []
         }
     ]

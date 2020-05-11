@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26849-download",
-            "preacher_name": "Polycarp of Smyrna",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Polycarp of Smyrna",
             "_scripture": []
         }
     ]

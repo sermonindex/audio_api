@@ -12,9 +12,7 @@
             "topic": "Rest Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16581-download",
-            "preacher_name": "Dale Yocum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dale Yocum",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Confession",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16580-download",
-            "preacher_name": "Dale Yocum",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dale Yocum",
             "_scripture": []
         }
     ]

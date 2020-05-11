@@ -9,12 +9,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "",
-            "topic": "Open-Air Preaching",
+            "topic": "OpenAir Preaching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22598-download",
-            "preacher_name": "Jeff Rose",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeff Rose",
             "_scripture": []
         }
     ]

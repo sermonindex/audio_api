@@ -1,5 +1,5 @@
 {
-    "name": "Lord's Coming",
+    "name": "Lords Coming",
     "description": "",
     "sermons": [
         {
@@ -8,12 +8,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "James 5:7",
-            "topic": "Lord's Coming",
+            "topic": "Lords Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22226-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",
@@ -27,12 +25,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "James 5:7",
-            "topic": "Lord's Coming",
+            "topic": "Lords Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22225-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",

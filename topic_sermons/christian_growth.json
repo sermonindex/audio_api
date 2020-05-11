@@ -1,0 +1,88 @@
+[
+    {
+        "title": "Christian Growth - Part 6",
+        "url": "http:\/\/api.sermonindex.net\/SID5357",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5357-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Christian Growth 2",
+        "url": "http:\/\/api.sermonindex.net\/SID5409",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5409-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Christian Growth 3",
+        "url": "http:\/\/api.sermonindex.net\/SID5407",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5407-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Christian Growth 7",
+        "url": "http:\/\/api.sermonindex.net\/SID5411",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5411-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "In The School of God",
+        "url": "http:\/\/api.sermonindex.net\/SID4431",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 3:1-18",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4431-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Time To Grow Up",
+        "url": "http:\/\/api.sermonindex.net\/SID19844",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 5:11-14, Hebrews 6:1",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19844-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "5"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "6"
+            }
+        ]
+    }
+]

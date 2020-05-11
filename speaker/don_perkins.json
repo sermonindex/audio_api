@@ -12,9 +12,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20362-download",
-            "preacher_name": "Don Perkins",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Perkins",
             "_scripture": []
         }
     ]

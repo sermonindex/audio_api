@@ -12,9 +12,7 @@
             "topic": "Secret Place",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22187-download",
-            "preacher_name": "Dwayne Roberts",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dwayne Roberts",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Gods Voice",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24004-download",
-            "preacher_name": "David Wang",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Wang",
             "_scripture": []
         }
     ]

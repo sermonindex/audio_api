@@ -1,0 +1,43 @@
+[
+    {
+        "title": "COL - (1) Jesus Our Savior - God Our Heavenly Father",
+        "url": "http:\/\/api.sermonindex.net\/SID24131",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Heavenly Father",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24131-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": []
+    },
+    {
+        "title": "COL - (2) Jesus Reveals The Father",
+        "url": "http:\/\/api.sermonindex.net\/SID24130",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Heavenly Father",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24130-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": []
+    },
+    {
+        "title": "Have You Seen the Father Yet",
+        "url": "http:\/\/api.sermonindex.net\/SID4252",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 5:19-23, John 5:30",
+        "topic": "Heavenly Father",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4252-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "5"
+            }
+        ]
+    }
+]

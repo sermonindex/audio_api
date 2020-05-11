@@ -12,9 +12,7 @@
             "topic": "God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28082-download",
-            "preacher_name": "Silas Fox",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Silas Fox",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28081-download",
-            "preacher_name": "Silas Fox",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Silas Fox",
             "_scripture": []
         }
     ]

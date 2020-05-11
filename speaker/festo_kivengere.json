@@ -12,9 +12,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28062-download",
-            "preacher_name": "Festo Kivengere",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Festo Kivengere",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28063-download",
-            "preacher_name": "Festo Kivengere",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Festo Kivengere",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Glory Of God",
             "description": "Festo Kivengere, a Ugandan Anglican bishop converted during the East African revival, speaks passionately about the glory of Jesus Christ and what that glory really means.  \"This is Jesus praying to His Father,\" says Kivengere, \"almost lifting ordinary, simple people into an unspeakable, incredible kind of experience.\"  He contrasts the formidable, unapproachable glory of the Old Testament through the experiences of Abraham, Moses and Isaiah with the glorious triumph of Christ's death and resurrection that has passed the glory (the radiant character of the living God) on to each child of God!",
             "download": "http:\/\/api.sermonindex.net\/SID10921-download",
-            "preacher_name": "Festo Kivengere",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Festo Kivengere",
             "_scripture": [
                 {
                     "book": "John",

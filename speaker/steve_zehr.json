@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17812-download",
-            "preacher_name": "Steve Zehr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Zehr",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Story",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24644-download",
-            "preacher_name": "Steve Zehr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Zehr",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17811-download",
-            "preacher_name": "Steve Zehr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Zehr",
             "_scripture": []
         }
     ]

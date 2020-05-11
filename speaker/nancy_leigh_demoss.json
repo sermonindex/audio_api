@@ -12,9 +12,7 @@
             "topic": "Brokenness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25950-download",
-            "preacher_name": "Nancy Leigh DeMoss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Nancy Leigh DeMoss",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Women",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25951-download",
-            "preacher_name": "Nancy Leigh DeMoss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Nancy Leigh DeMoss",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Ministry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25949-download",
-            "preacher_name": "Nancy Leigh DeMoss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Nancy Leigh DeMoss",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Praise",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19996-download",
-            "preacher_name": "Nancy Leigh DeMoss",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Nancy Leigh DeMoss",
             "_scripture": []
         }
     ]

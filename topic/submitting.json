@@ -11,9 +11,7 @@
             "topic": "Submitting",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22235-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",
@@ -30,9 +28,7 @@
             "topic": "Submitting",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22234-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",

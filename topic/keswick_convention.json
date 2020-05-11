@@ -11,9 +11,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1795-download",
-            "preacher_name": "Charles Price",
-            "preacher_image": "\/images\/charles_price.gif",
-            "preacher_description": "Charles Price ( - )\r\nListen to freely downloadable audio sermons by the speaker Charles Price in mp3 format.  Charles Price has been the Senior Pastor of The Peoples Church in Toronto, Ontario, Canada since September 2001, with a weekly congregation of 3500 people.   He has a weekly hour-long television programme, Living Truth, which is broadcast coast to coast in Canada each week, as well as in the United Kingdom, Europe, India, Australia, New Zealand, Indonesia, Korea and Japan.\r\nHe has preached in over 75 countries on 5 continents around the World and is the author of 7 books, some of which have been translated into German, Dutch, French, Spanish, Italian, Portuguese, Hindi, Malayalam, Farsi, Korean and Latvian. Charles has been married to Hilary since 1980.  They have three children: Hannah, Laura and Matthew.",
+            "speaker_name": "Charles Price",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1796-download",
-            "preacher_name": "Charles Price",
-            "preacher_image": "\/images\/charles_price.gif",
-            "preacher_description": "Charles Price ( - )\r\nListen to freely downloadable audio sermons by the speaker Charles Price in mp3 format.  Charles Price has been the Senior Pastor of The Peoples Church in Toronto, Ontario, Canada since September 2001, with a weekly congregation of 3500 people.   He has a weekly hour-long television programme, Living Truth, which is broadcast coast to coast in Canada each week, as well as in the United Kingdom, Europe, India, Australia, New Zealand, Indonesia, Korea and Japan.\r\nHe has preached in over 75 countries on 5 continents around the World and is the author of 7 books, some of which have been translated into German, Dutch, French, Spanish, Italian, Portuguese, Hindi, Malayalam, Farsi, Korean and Latvian. Charles has been married to Hilary since 1980.  They have three children: Hannah, Laura and Matthew.",
+            "speaker_name": "Charles Price",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1797-download",
-            "preacher_name": "Charles Price",
-            "preacher_image": "\/images\/charles_price.gif",
-            "preacher_description": "Charles Price ( - )\r\nListen to freely downloadable audio sermons by the speaker Charles Price in mp3 format.  Charles Price has been the Senior Pastor of The Peoples Church in Toronto, Ontario, Canada since September 2001, with a weekly congregation of 3500 people.   He has a weekly hour-long television programme, Living Truth, which is broadcast coast to coast in Canada each week, as well as in the United Kingdom, Europe, India, Australia, New Zealand, Indonesia, Korea and Japan.\r\nHe has preached in over 75 countries on 5 continents around the World and is the author of 7 books, some of which have been translated into German, Dutch, French, Spanish, Italian, Portuguese, Hindi, Malayalam, Farsi, Korean and Latvian. Charles has been married to Hilary since 1980.  They have three children: Hannah, Laura and Matthew.",
+            "speaker_name": "Charles Price",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28057-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -67,9 +59,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28058-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -81,9 +71,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28059-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -95,9 +83,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28060-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -109,9 +95,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28061-download",
-            "preacher_name": "Paul S. Rees",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul S. Rees",
             "_scripture": []
         },
         {
@@ -123,9 +107,7 @@
             "topic": "Keswick Convention",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28062-download",
-            "preacher_name": "Festo Kivengere",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Festo Kivengere",
             "_scripture": []
         }
     ]

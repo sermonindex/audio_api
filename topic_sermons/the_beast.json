@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Beast",
+        "url": "http:\/\/api.sermonindex.net\/SID25559",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 13:1-18",
+        "topic": "The Beast",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25559-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "13"
+            }
+        ]
+    }
+]

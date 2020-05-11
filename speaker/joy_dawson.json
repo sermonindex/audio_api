@@ -12,9 +12,7 @@
             "topic": "Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22667-download",
-            "preacher_name": "Joy Dawson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joy Dawson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22668-download",
-            "preacher_name": "Joy Dawson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joy Dawson",
             "_scripture": []
         }
     ]

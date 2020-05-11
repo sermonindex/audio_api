@@ -12,9 +12,7 @@
             "topic": "Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9386-download",
-            "preacher_name": "Morgan Bartlett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morgan Bartlett",
             "_scripture": [
                 {
                     "book": "John",
@@ -31,9 +29,7 @@
             "topic": "Bible Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9382-download",
-            "preacher_name": "Morgan Bartlett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morgan Bartlett",
             "_scripture": [
                 {
                     "book": "Deuteronomy",
@@ -50,9 +46,7 @@
             "topic": "Bible Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9383-download",
-            "preacher_name": "Morgan Bartlett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morgan Bartlett",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -69,9 +63,7 @@
             "topic": "Bible Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9384-download",
-            "preacher_name": "Morgan Bartlett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morgan Bartlett",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -88,9 +80,7 @@
             "topic": "Bible Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9385-download",
-            "preacher_name": "Morgan Bartlett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Morgan Bartlett",
             "_scripture": [
                 {
                     "book": "Romans",

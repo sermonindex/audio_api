@@ -12,9 +12,7 @@
             "topic": "Shepherds",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23801-download",
-            "preacher_name": "Dave Dugan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dave Dugan",
             "_scripture": []
         }
     ]

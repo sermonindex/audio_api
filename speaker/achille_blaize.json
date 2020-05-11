@@ -12,9 +12,7 @@
             "topic": "Death",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2474-download",
-            "preacher_name": "Achille Blaize",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Achille Blaize",
             "_scripture": [
                 {
                     "book": "Ezekiel",

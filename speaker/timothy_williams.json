@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18915-download",
-            "preacher_name": "Timothy Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Williams",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18916-download",
-            "preacher_name": "Timothy Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Williams",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18909-download",
-            "preacher_name": "Timothy Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Williams",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18910-download",
-            "preacher_name": "Timothy Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Williams",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18912-download",
-            "preacher_name": "Timothy Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Williams",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18911-download",
-            "preacher_name": "Timothy Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Timothy Williams",
             "_scripture": []
         }
     ]

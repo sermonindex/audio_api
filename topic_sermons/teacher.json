@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Peter The Teacher",
+        "url": "http:\/\/api.sermonindex.net\/SID7305",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 3:10-17",
+        "topic": "Teacher",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7305-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Studies In The Gospel Of John 06 - Spirit As A Teacher",
+        "url": "http:\/\/api.sermonindex.net\/SID10610",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Teacher",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10610-download",
+        "speaker_name": "Alden Gannett",
+        "_scripture": []
+    }
+]

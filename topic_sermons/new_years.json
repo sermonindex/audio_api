@@ -1,0 +1,39 @@
+[
+    {
+        "title": "53 - A New Years reflection",
+        "url": "http:\/\/api.sermonindex.net\/SID24762",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "New Years",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24762-download",
+        "speaker_name": "Ben Torrey",
+        "_scripture": []
+    },
+    {
+        "title": "The New Year as God Sees It",
+        "url": "http:\/\/api.sermonindex.net\/SID5794",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Job 23:6, Psalm 85:8, Matthew 24:4-14",
+        "topic": "New Years",
+        "description": "A. W. Tozer discusses the end of the world, the end of civilization, the difference between the two, and why so many accuse Jesus of failing to keep a promise of world peace. \u201cThey create a Christianity of their own, and then they try to make Christ conform to their own, homemade Christianity. \u2026 It may surprise some of you to know that our Lord Jesus Christ never promised peace\u2014world peace, peace among the nations\u2014during this age.\u201d Christians shouldn\u2019t blame the church, either. The pastor addresses a range of other vital issues in this excellent sermon, reading from Job 23:6, Psalm 85:8, and Matthew 24:4-14. \u201cThe New Year As God Sees It\u201d was preached the night of New Year\u2019s Eve, 1961, in Toronto, Ontario. The length of the recording is 41 minutes and 7 seconds.",
+        "download": "http:\/\/api.sermonindex.net\/SID5794-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "24"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "85"
+            },
+            {
+                "book": "Job",
+                "chapter": "23"
+            }
+        ]
+    }
+]

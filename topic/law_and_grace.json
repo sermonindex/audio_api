@@ -11,9 +11,7 @@
             "topic": "Law And Grace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17352-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Law And Grace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17351-download",
-            "preacher_name": "Norman Grubb",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Grubb",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Law And Grace",
             "description": "A review of the Abrahamic Covenant and the New Covenant clarifies the need and completeness of this New Covenant. Jesus is our High Priest, One who mediates between God and man. He does so with the power of an endless life, and is able to intercede for man at the throne of grace and mercy.",
             "download": "http:\/\/api.sermonindex.net\/SID20479-download",
-            "preacher_name": "David Cooper",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Cooper",
             "_scripture": []
         }
     ]

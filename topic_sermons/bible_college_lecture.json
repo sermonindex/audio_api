@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Capernway Pt. 2",
+        "url": "http:\/\/api.sermonindex.net\/SID12239",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Bible College Lecture",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12239-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Capernwray Bible School 1",
+        "url": "http:\/\/api.sermonindex.net\/SID5408",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Bible College Lecture",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5408-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Capernwray Bible School 2",
+        "url": "http:\/\/api.sermonindex.net\/SID5354",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Bible College Lecture",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5354-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    }
+]

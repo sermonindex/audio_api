@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14144-download",
-            "preacher_name": "Jackie Hughes",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jackie Hughes",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14145-download",
-            "preacher_name": "Jackie Hughes",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jackie Hughes",
             "_scripture": []
         }
     ]

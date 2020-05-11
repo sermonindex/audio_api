@@ -1,0 +1,69 @@
+[
+    {
+        "title": "09 - Falling away from the Church and Divisions",
+        "url": "http:\/\/api.sermonindex.net\/SID24718",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Divisions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24718-download",
+        "speaker_name": "Ben Torrey",
+        "_scripture": []
+    },
+    {
+        "title": "Divisions",
+        "url": "http:\/\/api.sermonindex.net\/SID10283",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 15:2",
+        "topic": "Divisions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10283-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Divisions In The Church",
+        "url": "http:\/\/api.sermonindex.net\/SID3819",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 40:31, John 20:21",
+        "topic": "Divisions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3819-download",
+        "speaker_name": "Gerhard Du Toit",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "40"
+            },
+            {
+                "book": "John",
+                "chapter": "20"
+            }
+        ]
+    },
+    {
+        "title": "Necessary Divisions",
+        "url": "http:\/\/api.sermonindex.net\/SID15482",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 12:51-52",
+        "topic": "Divisions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15482-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "12"
+            }
+        ]
+    }
+]

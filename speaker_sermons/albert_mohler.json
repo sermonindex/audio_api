@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Discern Your Culture",
+        "url": "http:\/\/api.sermonindex.net\/SID22338",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Culture",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22338-download",
+        "speaker_name": "Albert Mohler",
+        "_scripture": []
+    },
+    {
+        "title": "Evangelical Hymnody And American Christianity",
+        "url": "http:\/\/api.sermonindex.net\/SID22337",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Hymnody",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22337-download",
+        "speaker_name": "Albert Mohler",
+        "_scripture": []
+    },
+    {
+        "title": "Studying the Scriptures And Finding Jesus",
+        "url": "http:\/\/api.sermonindex.net\/SID22533",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 5:30-47",
+        "topic": "Christ",
+        "description": "Mohler began by describing the current landscape of the American church\u2014we need a recovery of understanding the Scriptures in their totality. He expounded Jesus\u2019 dialogue with the Pharisees in John 5 with specific application for us. The Pharisees\u2019 rejection of Jesus was a refusal to recognize God\u2019s witness of him. The takeaway for us is important: one can study the Scriptures extensively and not get it.",
+        "download": "http:\/\/api.sermonindex.net\/SID22533-download",
+        "speaker_name": "Albert Mohler",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "5"
+            }
+        ]
+    }
+]

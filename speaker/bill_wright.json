@@ -12,9 +12,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19880-download",
-            "preacher_name": "Bill Wright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Wright",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -35,9 +33,7 @@
             "topic": "Love Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21209-download",
-            "preacher_name": "Bill Wright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Wright",
             "_scripture": []
         },
         {
@@ -49,9 +45,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19998-download",
-            "preacher_name": "Bill Wright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Wright",
             "_scripture": []
         }
     ]

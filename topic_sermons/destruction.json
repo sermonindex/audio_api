@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Sudden Destruction",
+        "url": "http:\/\/api.sermonindex.net\/SID16005",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Thessalonians 5:1-3",
+        "topic": "Destruction",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16005-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "1 Thessalonians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

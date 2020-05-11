@@ -11,9 +11,7 @@
             "topic": "Soul Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19810-download",
-            "preacher_name": "Debbie Bailey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Debbie Bailey",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Soul Of Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21729-download",
-            "preacher_name": "Stephen Olford",
-            "preacher_image": "",
-            "preacher_description": "Stephen Olford (1918 - 2004)\r\nListen to freely downloadable audio sermons by the speaker Stephen Olford in mp3 format. Was a 20th-century Christian leader. Dr. Billy Graham called him \"the man who most influenced my ministry.\" He was a personal confidant of Graham. Olford was also a role model and friend to prominent pastors such as Charles Stanley and Adrian Rogers. He was a pioneer in Christian television programming with his show, Encounter, in New York. His Sunday morning sermons were also broadcast around the world on radio.[1] He was the Founder and Chairman of the Board of Olford Ministries International in Memphis, Tennessee which became The Stephen Olford Center at Union University. His authorized biography, Only One Life, was written by John Philipps.\r\nIn 1953, Dr. Stephen F. Olford's years of pastoral ministry began by serving the Duke Street Baptist Church in Richmond, Surrey England (1953\u20131959) and then the Calvary Baptist Church in New York City (1959\u20131973).[1] Olford systematized his method of expository preaching and formed a curriculum used to train preachers at the Olford Institute for Biblical Preaching in Memphis, Tennessee. Pastors and scholars migrated to the institute for inspiration and instruction that often resulted in upgraded pulpit ministries.",
+            "speaker_name": "Stephen Olford",
             "_scripture": []
         }
     ]

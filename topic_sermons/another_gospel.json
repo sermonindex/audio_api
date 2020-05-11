@@ -1,0 +1,44 @@
+[
+    {
+        "title": "(Australia) Another Gospel",
+        "url": "http:\/\/api.sermonindex.net\/SID14611",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 11:14, Titus 6:5",
+        "topic": "Another Gospel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14611-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Titus",
+                "chapter": "6"
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "(Costa Rica) Another Gospel",
+        "url": "http:\/\/api.sermonindex.net\/SID14602",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 11:14, Titus 6:5",
+        "topic": "Another Gospel",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14602-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Titus",
+                "chapter": "6"
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "11"
+            }
+        ]
+    }
+]

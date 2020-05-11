@@ -11,9 +11,7 @@
             "topic": "Savior",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0522-download",
-            "preacher_name": "Max Lucado",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Max Lucado",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Savior",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0523-download",
-            "preacher_name": "Max Lucado",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Max Lucado",
             "_scripture": []
         }
     ]

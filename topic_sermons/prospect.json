@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(John) The Beliver's Prospect",
+        "url": "http:\/\/api.sermonindex.net\/SID6877",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 15:9-47",
+        "topic": "Prospect",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6877-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "15"
+            }
+        ]
+    }
+]

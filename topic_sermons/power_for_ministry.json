@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Power for Ministry Pt 2",
+        "url": "http:\/\/api.sermonindex.net\/SID12240",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ezekiel 47",
+        "topic": "Power for Ministry",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12240-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "Ezekiel",
+                "chapter": "47"
+            }
+        ]
+    },
+    {
+        "title": "Power of the Ministry Pt 1",
+        "url": "http:\/\/api.sermonindex.net\/SID12250",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Ezekiel 47",
+        "topic": "Power for Ministry",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12250-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "Ezekiel",
+                "chapter": "47"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Jacob",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23992-download",
-            "preacher_name": "Eric Hughes",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Eric Hughes",
             "_scripture": []
         }
     ]

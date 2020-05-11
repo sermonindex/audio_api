@@ -12,9 +12,7 @@
             "topic": "Offering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23605-download",
-            "preacher_name": "Albert Leckie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Leckie",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Offering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23604-download",
-            "preacher_name": "Albert Leckie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Leckie",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Offering",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23603-download",
-            "preacher_name": "Albert Leckie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Leckie",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Parables",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23602-download",
-            "preacher_name": "Albert Leckie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Leckie",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Consummation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23601-download",
-            "preacher_name": "Albert Leckie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Leckie",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23600-download",
-            "preacher_name": "Albert Leckie",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Albert Leckie",
             "_scripture": []
         }
     ]

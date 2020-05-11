@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Be Patient, The Lord Is Coming - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID22226",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 5:7",
+        "topic": "Lords Coming",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22226-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "Be Patient, The Lord Is Coming - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID22225",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 5:7",
+        "topic": "Lords Coming",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22225-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "5"
+            }
+        ]
+    }
+]

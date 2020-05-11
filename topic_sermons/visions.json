@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(Revelation) Visions And Voices part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID7067",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 14:1-5",
+        "topic": "Visions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7067-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "14"
+            }
+        ]
+    },
+    {
+        "title": "(Revelation) Visions And Voices part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID7068",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 14:6-20",
+        "topic": "Visions",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7068-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "14"
+            }
+        ]
+    }
+]

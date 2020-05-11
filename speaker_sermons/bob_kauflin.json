@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Living Before the King of Glory",
+        "url": "http:\/\/api.sermonindex.net\/SID22605",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 24:1-10",
+        "topic": "Sovereignty",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22605-download",
+        "speaker_name": "Bob Kauflin",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "24"
+            }
+        ]
+    },
+    {
+        "title": "Spiritual Gifts - Pitfalls to Avoid and Paths to Pursue",
+        "url": "http:\/\/api.sermonindex.net\/SID22301",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Spiritual Gifts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22301-download",
+        "speaker_name": "Bob Kauflin",
+        "_scripture": []
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Poor, Blind, Beggarly Believer",
+        "url": "http:\/\/api.sermonindex.net\/SID3618",
+        "size": "69810688",
+        "format": "mp3",
+        "scripture": "John 12:23, John 7:30, Romans 10 ",
+        "topic": "Spiritual Need",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3618-download",
+        "speaker_name": "Major Ian Thomas",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "12"
+            },
+            {
+                "book": "John",
+                "chapter": "7"
+            },
+            {
+                "book": "Romans",
+                "chapter": "10"
+            }
+        ]
+    }
+]

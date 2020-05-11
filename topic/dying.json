@@ -11,9 +11,7 @@
             "topic": "Dying",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27981-download",
-            "preacher_name": "Robert Ketcham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Ketcham",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

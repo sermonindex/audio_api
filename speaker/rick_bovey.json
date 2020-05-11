@@ -12,9 +12,7 @@
             "topic": "Abraham",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9697-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Abraham",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9698-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Humanism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9696-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "New Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9690-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "New Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9691-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "New Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9692-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "New Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9693-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -110,9 +96,7 @@
             "topic": "New Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9694-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "New Man",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9695-download",
-            "preacher_name": "Rick Bovey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Rick Bovey",
             "_scripture": []
         }
     ]

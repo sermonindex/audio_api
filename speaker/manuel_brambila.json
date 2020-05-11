@@ -12,9 +12,7 @@
             "topic": "French",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24252-download",
-            "preacher_name": "Manuel Brambila",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Manuel Brambila",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Repentance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24251-download",
-            "preacher_name": "Manuel Brambila",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Manuel Brambila",
             "_scripture": []
         }
     ]

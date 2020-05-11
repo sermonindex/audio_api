@@ -12,9 +12,7 @@
             "topic": "New Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8503-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": [
                 {
                     "book": "2 Corinthians",
@@ -31,9 +29,7 @@
             "topic": "Elijah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8502-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": [
                 {
                     "book": "1 Kings",
@@ -50,9 +46,7 @@
             "topic": "Abram",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8504-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -69,9 +63,7 @@
             "topic": "Man Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8505-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": [
                 {
                     "book": "2 Kings",
@@ -88,9 +80,7 @@
             "topic": "Church",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8506-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": []
         },
         {
@@ -102,9 +92,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8507-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": [
                 {
                     "book": "Numbers",
@@ -121,9 +109,7 @@
             "topic": "Nazarite",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8508-download",
-            "preacher_name": "Robert Arthur",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Arthur",
             "_scripture": []
         }
     ]

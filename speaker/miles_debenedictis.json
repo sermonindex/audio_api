@@ -12,9 +12,7 @@
             "topic": "Beatitudes",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7048-download",
-            "preacher_name": "Miles DeBenedictis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Miles DeBenedictis",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -31,9 +29,7 @@
             "topic": "Name Of The Lord",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6943-download",
-            "preacher_name": "Miles DeBenedictis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Miles DeBenedictis",
             "_scripture": [
                 {
                     "book": "1 John",
@@ -50,9 +46,7 @@
             "topic": "Revive",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13466-download",
-            "preacher_name": "Miles DeBenedictis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Miles DeBenedictis",
             "_scripture": []
         },
         {
@@ -64,9 +58,7 @@
             "topic": "Self Denial",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21808-download",
-            "preacher_name": "Miles DeBenedictis",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Miles DeBenedictis",
             "_scripture": []
         }
     ]

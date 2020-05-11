@@ -12,9 +12,7 @@
             "topic": "New Birth",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24253-download",
-            "preacher_name": "Kris McDaniel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kris McDaniel",
             "_scripture": [
                 {
                     "book": "John",

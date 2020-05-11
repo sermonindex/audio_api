@@ -12,9 +12,7 @@
             "topic": "Glory",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22351-download",
-            "preacher_name": "Peter Jensen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Jensen",
             "_scripture": []
         }
     ]

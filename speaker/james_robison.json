@@ -12,9 +12,7 @@
             "topic": "Bondage",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25910-download",
-            "preacher_name": "James Robison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Robison",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Reprobate",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21000-download",
-            "preacher_name": "James Robison",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James Robison",
             "_scripture": []
         }
     ]

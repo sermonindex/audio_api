@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Lord's Table",
+        "url": "http:\/\/api.sermonindex.net\/SID1218",
+        "size": "3851264",
+        "format": "mp3",
+        "scripture": "Exodus 25:31-40,Revelation 1:12-20",
+        "topic": "Lords Table",
+        "description": "This message was delivered on 11\/01\/1957.",
+        "download": "http:\/\/api.sermonindex.net\/SID1218-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "1"
+            },
+            {
+                "book": "Exodus",
+                "chapter": "25"
+            }
+        ]
+    }
+]

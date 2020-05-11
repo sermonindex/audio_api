@@ -12,9 +12,7 @@
             "topic": "Truth",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24768-download",
-            "preacher_name": "Wong Chin Meng",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wong Chin Meng",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "City Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24767-download",
-            "preacher_name": "Wong Chin Meng",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wong Chin Meng",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24769-download",
-            "preacher_name": "Wong Chin Meng",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wong Chin Meng",
             "_scripture": []
         }
     ]

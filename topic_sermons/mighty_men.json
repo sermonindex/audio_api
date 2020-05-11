@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Mighty Men",
+        "url": "http:\/\/api.sermonindex.net\/SID8053",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Samuel 23",
+        "topic": "Mighty Men",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8053-download",
+        "speaker_name": "Carl Armerding",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "23"
+            }
+        ]
+    }
+]

@@ -12,9 +12,7 @@
             "topic": "Herod",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10345-download",
-            "preacher_name": "Edwin Fesche",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edwin Fesche",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10346-download",
-            "preacher_name": "Edwin Fesche",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Edwin Fesche",
             "_scripture": [
                 {
                     "book": "Proverbs",

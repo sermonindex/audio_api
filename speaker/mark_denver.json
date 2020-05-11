@@ -12,9 +12,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "Mark Denver",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Denver",
             "_scripture": []
         }
     ]

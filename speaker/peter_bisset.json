@@ -12,9 +12,7 @@
             "topic": "Daniel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23612-download",
-            "preacher_name": "Peter Bisset",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Bisset",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Dreams",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23611-download",
-            "preacher_name": "Peter Bisset",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Bisset",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Resurrection",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23610-download",
-            "preacher_name": "Peter Bisset",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Bisset",
             "_scripture": []
         }
     ]

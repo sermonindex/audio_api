@@ -12,9 +12,7 @@
             "topic": "Persecution",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22299-download",
-            "preacher_name": "Robin Boisvert",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin Boisvert",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22303-download",
-            "preacher_name": "Robin Boisvert",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robin Boisvert",
             "_scripture": []
         }
     ]

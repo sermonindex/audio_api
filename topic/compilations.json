@@ -11,9 +11,7 @@
             "topic": "Compilations",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23860-download",
-            "preacher_name": "Compilations",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Compilations",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Compilations",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23291-download",
-            "preacher_name": "Compilations",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Compilations",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Compilations",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22724-download",
-            "preacher_name": "Compilations",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Compilations",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21672-download",
-            "preacher_name": "Wagdi Iskander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wagdi Iskander",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Islam",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21199-download",
-            "preacher_name": "Wagdi Iskander",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wagdi Iskander",
             "_scripture": []
         }
     ]

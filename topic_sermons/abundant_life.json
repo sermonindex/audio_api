@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Abundant Life",
+        "url": "http:\/\/api.sermonindex.net\/SID12260",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 10",
+        "topic": "Abundant Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12260-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "10"
+            }
+        ]
+    },
+    {
+        "title": "Road to Reality - To Live Is Christ - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID11224",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Abundant Life",
+        "description": "Using examples from his own life, K.P. exposes the reasons that so many of us struggle with sin and miss the abundant life Jesus promises.",
+        "download": "http:\/\/api.sermonindex.net\/SID11224-download",
+        "speaker_name": "K.P. Yohannan",
+        "_scripture": []
+    },
+    {
+        "title": "Road to Reality - To Live Is Christ - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID11225",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Abundant Life",
+        "description": "Continuing his message, \"To Live is Christ,\" K.P. uncovers reasons that so many of us struggle with sin, and miss the abundant life Jesus promises.",
+        "download": "http:\/\/api.sermonindex.net\/SID11225-download",
+        "speaker_name": "K.P. Yohannan",
+        "_scripture": []
+    },
+    {
+        "title": "The Cost of a More Abundant Life",
+        "url": "http:\/\/api.sermonindex.net\/SID22658",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Abundant Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22658-download",
+        "speaker_name": "Dan Augsburger",
+        "_scripture": []
+    },
+    {
+        "title": "The Need for More Abundant Life",
+        "url": "http:\/\/api.sermonindex.net\/SID22657",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Abundant Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22657-download",
+        "speaker_name": "Dan Augsburger",
+        "_scripture": []
+    },
+    {
+        "title": "The Provision of a More Abundant Life",
+        "url": "http:\/\/api.sermonindex.net\/SID22656",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Abundant Life",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22656-download",
+        "speaker_name": "Dan Augsburger",
+        "_scripture": []
+    }
+]

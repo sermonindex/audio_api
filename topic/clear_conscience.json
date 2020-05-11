@@ -11,9 +11,7 @@
             "topic": "Clear Conscience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14153-download",
-            "preacher_name": "Tom Palmer",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tom Palmer",
             "_scripture": [
                 {
                     "book": "1 Timothy",

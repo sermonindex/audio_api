@@ -11,9 +11,7 @@
             "topic": "Terror",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13639-download",
-            "preacher_name": "Ralph Sexton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Sexton",
             "_scripture": [
                 {
                     "book": "Genesis",

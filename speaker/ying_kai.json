@@ -12,9 +12,7 @@
             "topic": "Multiplication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27826-download",
-            "preacher_name": "Ying Kai",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ying Kai",
             "_scripture": [
                 {
                     "book": "2 Timothy",

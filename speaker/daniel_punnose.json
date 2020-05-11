@@ -12,9 +12,7 @@
             "topic": "Missions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24170-download",
-            "preacher_name": "Daniel Punnose",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Daniel Punnose",
             "_scripture": []
         }
     ]

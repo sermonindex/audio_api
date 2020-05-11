@@ -1,0 +1,59 @@
+[
+    {
+        "title": "28 - Vision of Development for youth training centre",
+        "url": "http:\/\/api.sermonindex.net\/SID24737",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Training",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24737-download",
+        "speaker_name": "Ben Torrey",
+        "_scripture": []
+    },
+    {
+        "title": "David In Training For Kingship",
+        "url": "http:\/\/api.sermonindex.net\/SID27786",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Training",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27786-download",
+        "speaker_name": "R. Edward Miller",
+        "_scripture": []
+    },
+    {
+        "title": "Training Young Men for Ministry (Midwest Center for Theological Studies)",
+        "url": "http:\/\/api.sermonindex.net\/SID19300",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Timothy 2:2, 2 Timothy 3:16",
+        "topic": "Training",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19300-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": [
+            {
+                "book": "2 Timothy",
+                "chapter": "2"
+            },
+            {
+                "book": "2 Timothy",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Training for Rulership",
+        "url": "http:\/\/api.sermonindex.net\/SID27785",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Training",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27785-download",
+        "speaker_name": "R. Edward Miller",
+        "_scripture": []
+    }
+]

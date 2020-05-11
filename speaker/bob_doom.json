@@ -12,9 +12,7 @@
             "topic": "Revival History",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14827-download",
-            "preacher_name": "Bob Doom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Doom",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival History",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14828-download",
-            "preacher_name": "Bob Doom",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Doom",
             "_scripture": []
         }
     ]

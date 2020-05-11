@@ -1,0 +1,79 @@
+[
+    {
+        "title": "A Rich Young Man",
+        "url": "http:\/\/api.sermonindex.net\/SID23399",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Riches",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23399-download",
+        "speaker_name": "Bertha Smith",
+        "_scripture": []
+    },
+    {
+        "title": "A Truly Wealthy Man",
+        "url": "http:\/\/api.sermonindex.net\/SID4102",
+        "size": "13767680",
+        "format": "mp3",
+        "scripture": "Proverbs 13:7",
+        "topic": "Riches",
+        "description": "This message looks in the book of proverbs and gives a clear picture of what really a truly wealthy man is. This is more of a teaching rather than preaching session, I really appreciated alot of the bible study hints brother daniel gives.",
+        "download": "http:\/\/api.sermonindex.net\/SID4102-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "Riches that Bring No Sorrow",
+        "url": "http:\/\/api.sermonindex.net\/SID0236",
+        "size": "4982241",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Riches",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0236-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "The Eye Of the Needle",
+        "url": "http:\/\/api.sermonindex.net\/SID27175",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Riches",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27175-download",
+        "speaker_name": "G.W. North",
+        "_scripture": []
+    },
+    {
+        "title": "The Foolish and How Riches Cannot Redeem",
+        "url": "http:\/\/api.sermonindex.net\/SID26194",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Riches",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26194-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "The Sorrow Of Riches",
+        "url": "http:\/\/api.sermonindex.net\/SID13505",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Riches",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13505-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    }
+]

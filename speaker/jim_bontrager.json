@@ -12,9 +12,7 @@
             "topic": "Trials",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16385-download",
-            "preacher_name": "Jim Bontrager",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Bontrager",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10051-download",
-            "preacher_name": "J. Vernon McGee",
-            "preacher_image": "\/images\/j_vernon_mcgee.gif",
-            "preacher_description": "J. Vernon McGee (1904 - 1988)\r\nListen to freely downloadable audio sermons by the speaker J. Vernon McGee in mp3 format. Brother McGee pastored an inter-denominational church, Church Of The Open Door in California. In 1967 he started the now famous \"Through The Bible\" radio program that airs on thousands of stations world-wide.\r\n\r\nHis burden has been to do systematic simple bible teaching to equip believers, protect them against false doctrines and share the whole counsel of God. He also has been a guest lecturer at the Dallas Theological Seminary.",
+            "speaker_name": "J. Vernon McGee",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -31,9 +29,7 @@
             "topic": "Expositional",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10330-download",
-            "preacher_name": "J. Vernon McGee",
-            "preacher_image": "\/images\/j_vernon_mcgee.gif",
-            "preacher_description": "J. Vernon McGee (1904 - 1988)\r\nListen to freely downloadable audio sermons by the speaker J. Vernon McGee in mp3 format. Brother McGee pastored an inter-denominational church, Church Of The Open Door in California. In 1967 he started the now famous \"Through The Bible\" radio program that airs on thousands of stations world-wide.\r\n\r\nHis burden has been to do systematic simple bible teaching to equip believers, protect them against false doctrines and share the whole counsel of God. He also has been a guest lecturer at the Dallas Theological Seminary.",
+            "speaker_name": "J. Vernon McGee",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -50,9 +46,7 @@
             "topic": "Desert Survival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20028-download",
-            "preacher_name": "Don Courville",
-            "preacher_image": "",
-            "preacher_description": "Don Courville ( - )\r\nListen to freely downloadable audio sermons by the speaker Don Courville in mp3 format. Brother Don has been involved in the work of revival for many years. He was involved in the Nebraska revival in the 1980's and had a radio program that aired in the mid-western United States. He has been involved in church plants and works of the Lord where great unity of faith was expressed.\r\nCurrently he is pastoring the Maranatha Baptist Church in Missouri and running a annual Family Camp where Keith Daniel is the keynote speaker. He also arranges Keith Daniels annual tour of the USA. Brother Don has been a moderator for many SermonIndex Revival Conferences across the world and has a great heart for genuine revival in our day.",
+            "speaker_name": "Don Courville",
             "_scripture": [
                 {
                     "book": "Exodus",
@@ -73,9 +67,7 @@
             "topic": "Disappointments",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4152-download",
-            "preacher_name": "David Wilkerson",
-            "preacher_image": "\/images\/david_wilkerson.gif",
-            "preacher_description": "David Wilkerson (1931 \u2013 2011)\r\nListen to freely downloadable audio sermons by the speaker David Wilkerson in mp3 format. Founder of Times Square Church in New York City with over 100 different languages spoken in the congregation. Wilkerson wrote many powerful books such as: The Vision and Cross and the Switchblade. His ministry was prophetic as God called him to be a watchman to the Church in North America. He gave clear messages on repentance to the Church. \r\n\r\nWilkerson also founded Teen Challenge where there are hundreds of centres for Christ-centered drug recovery and addiction recovery. He also organized and spoke at pastors gatherings in many countries where he gave prophetic strong messages to encourage pastors and leaders.",
+            "speaker_name": "David Wilkerson",
             "_scripture": [
                 {
                     "book": "Exodus",

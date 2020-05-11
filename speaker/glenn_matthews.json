@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4390-download",
-            "preacher_name": "Glenn Matthews",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Glenn Matthews",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4391-download",
-            "preacher_name": "Glenn Matthews",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Glenn Matthews",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4392-download",
-            "preacher_name": "Glenn Matthews",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Glenn Matthews",
             "_scripture": []
         }
     ]

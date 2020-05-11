@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20046-download",
-            "preacher_name": "Sam Ketcher",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sam Ketcher",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20047-download",
-            "preacher_name": "Sam Ketcher",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sam Ketcher",
             "_scripture": []
         }
     ]

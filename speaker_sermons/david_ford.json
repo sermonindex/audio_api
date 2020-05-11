@@ -1,0 +1,72 @@
+[
+    {
+        "title": "America Back to God - Prayer",
+        "url": "http:\/\/api.sermonindex.net\/SID25904",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "America",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25904-download",
+        "speaker_name": "David Ford",
+        "_scripture": []
+    },
+    {
+        "title": "Have you Seen Jesus Lately",
+        "url": "http:\/\/api.sermonindex.net\/SID19030",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jesus Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19030-download",
+        "speaker_name": "David Ford",
+        "_scripture": []
+    },
+    {
+        "title": "Praying The Scriptures - Volume 1",
+        "url": "http:\/\/api.sermonindex.net\/SID25903",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 4:17",
+        "topic": "Scripture Praying",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25903-download",
+        "speaker_name": "David Ford",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Prevailing Prayer",
+        "url": "http:\/\/api.sermonindex.net\/SID19005",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prevailing Prayer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19005-download",
+        "speaker_name": "David Ford",
+        "_scripture": []
+    },
+    {
+        "title": "The Lord Is My Shepherd",
+        "url": "http:\/\/api.sermonindex.net\/SID24511",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 23",
+        "topic": "Love Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24511-download",
+        "speaker_name": "David Ford",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "23"
+            }
+        ]
+    }
+]

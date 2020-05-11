@@ -12,9 +12,7 @@
             "topic": "Belief",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19591-download",
-            "preacher_name": "Philip Yoder",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Philip Yoder",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Purpose",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19593-download",
-            "preacher_name": "Philip Yoder",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Philip Yoder",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Kingdom Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19592-download",
-            "preacher_name": "Philip Yoder",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Philip Yoder",
             "_scripture": []
         }
     ]

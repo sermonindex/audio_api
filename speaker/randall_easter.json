@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID8418-download",
-            "preacher_name": "Randall Easter",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Randall Easter",
             "_scripture": [
                 {
                     "book": "Hebrews",

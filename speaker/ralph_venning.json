@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "(Excerpts from Ralph Venning\u2019s book - The Sinfulness of Sin (Printed in 1669), read by Ryan Martin. Seeing that sin is so sinful, it is evil even to be a thinking sinner, or a sinner though only in thought. It is too commonly said that thoughts are free. They are indeed free in respect of men, who cannot judge us for them, but God can and will. Many people who seem to be modest and sparing as to evil words and deeds will still make bold with thoughts and, as the saying is, pay it with thinking. Such are speculative, contemplative sinners.",
             "download": "http:\/\/api.sermonindex.net\/SID16926-download",
-            "preacher_name": "Ralph Venning",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Venning",
             "_scripture": [
                 {
                     "book": "Matthew",

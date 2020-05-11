@@ -12,9 +12,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3900-download",
-            "preacher_name": "G.B. Duncan",
-            "preacher_image": "\/images\/gb_duncan.gif",
-            "preacher_description": "",
+            "speaker_name": "G.B. Duncan",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Complacency",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3901-download",
-            "preacher_name": "G.B. Duncan",
-            "preacher_image": "\/images\/gb_duncan.gif",
-            "preacher_description": "",
+            "speaker_name": "G.B. Duncan",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3902-download",
-            "preacher_name": "G.B. Duncan",
-            "preacher_image": "\/images\/gb_duncan.gif",
-            "preacher_description": "",
+            "speaker_name": "G.B. Duncan",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Calling",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3762-download",
-            "preacher_name": "G.B. Duncan",
-            "preacher_image": "\/images\/gb_duncan.gif",
-            "preacher_description": "",
+            "speaker_name": "G.B. Duncan",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3904-download",
-            "preacher_name": "G.B. Duncan",
-            "preacher_image": "\/images\/gb_duncan.gif",
-            "preacher_description": "",
+            "speaker_name": "G.B. Duncan",
             "_scripture": []
         }
     ]

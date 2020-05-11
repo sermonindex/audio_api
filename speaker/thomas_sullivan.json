@@ -12,9 +12,7 @@
             "topic": "Biography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23466-download",
-            "preacher_name": "Thomas Sullivan",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Thomas Sullivan",
             "_scripture": []
         }
     ]

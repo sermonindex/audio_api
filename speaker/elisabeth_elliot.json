@@ -12,9 +12,7 @@
             "topic": "Discipline",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26445-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Crucified With Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19853-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": [
                 {
                     "book": "Galatians",
@@ -45,9 +41,7 @@
             "topic": "Working",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23576-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         },
         {
@@ -59,9 +53,7 @@
             "topic": "Pilgrimage",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26446-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "Unity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17556-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -92,9 +82,7 @@
             "topic": "Unity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17557-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": [
                 {
                     "book": "1 Samuel",
@@ -111,9 +99,7 @@
             "topic": "Unity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17558-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -130,9 +116,7 @@
             "topic": "Rest",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26448-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         },
         {
@@ -144,9 +128,7 @@
             "topic": "Quietness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26447-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         },
         {
@@ -158,9 +140,7 @@
             "topic": "Crucified With Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19854-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": [
                 {
                     "book": "Galatians",
@@ -177,9 +157,7 @@
             "topic": "Servanthood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26444-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         },
         {
@@ -191,9 +169,7 @@
             "topic": "Women",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25611-download",
-            "preacher_name": "Elisabeth Elliot",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Elisabeth Elliot",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16677-download",
-            "preacher_name": "Raymond Beasley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Raymond Beasley",
             "_scripture": []
         }
     ]

@@ -11,9 +11,7 @@
             "topic": "Free Masonry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3691-download",
-            "preacher_name": "John Daniel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Daniel",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Free Masonry",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3692-download",
-            "preacher_name": "John Daniel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Daniel",
             "_scripture": []
         }
     ]

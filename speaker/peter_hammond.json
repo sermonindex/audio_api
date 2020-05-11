@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26967-download",
-            "preacher_name": "Peter Hammond",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Hammond",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Persecution",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24277-download",
-            "preacher_name": "Peter Hammond",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Hammond",
             "_scripture": []
         }
     ]

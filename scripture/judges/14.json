@@ -12,9 +12,7 @@
             "topic": "Samson",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24152-download",
-            "preacher_name": "Andrew Foster",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Foster",
             "_scripture": [
                 {
                     "book": "Judges",

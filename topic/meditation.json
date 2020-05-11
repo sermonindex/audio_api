@@ -11,9 +11,7 @@
             "topic": "Meditation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23785-download",
-            "preacher_name": "Walter Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Walter Wilson",
             "_scripture": []
         }
     ]

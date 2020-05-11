@@ -12,9 +12,7 @@
             "topic": "Born Again",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25163-download",
-            "preacher_name": "Alan Barr",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Barr",
             "_scripture": []
         }
     ]

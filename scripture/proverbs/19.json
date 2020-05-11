@@ -12,9 +12,7 @@
             "topic": "Audio Books",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22432-download",
-            "preacher_name": "Westminster Shorter Catechism",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Westminster Shorter Catechism",
             "_scripture": [
                 {
                     "book": "Proverbs",
@@ -35,9 +33,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6007-download",
-            "preacher_name": "Proverbs",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Proverbs",
             "_scripture": [
                 {
                     "book": "Proverbs",

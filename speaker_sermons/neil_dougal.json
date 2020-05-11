@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Behold 01-The Wonderment!",
+        "url": "http:\/\/api.sermonindex.net\/SID10250",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 3:1",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10250-download",
+        "speaker_name": "Neil Dougal",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Behold 02-Alive For Evermore!",
+        "url": "http:\/\/api.sermonindex.net\/SID10251",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 53:1",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10251-download",
+        "speaker_name": "Neil Dougal",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "53"
+            }
+        ]
+    },
+    {
+        "title": "Behold 03-The Man!",
+        "url": "http:\/\/api.sermonindex.net\/SID10252",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 19:5",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10252-download",
+        "speaker_name": "Neil Dougal",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "19"
+            }
+        ]
+    },
+    {
+        "title": "Behold 04-Your God!",
+        "url": "http:\/\/api.sermonindex.net\/SID10253",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah.40:9",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10253-download",
+        "speaker_name": "Neil Dougal",
+        "_scripture": []
+    },
+    {
+        "title": "Behold 05-Virgin Shall Concieve",
+        "url": "http:\/\/api.sermonindex.net\/SID10254",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 7:14",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10254-download",
+        "speaker_name": "Neil Dougal",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "7"
+            }
+        ]
+    },
+    {
+        "title": "Behold 06-The Bridegroom Cometh",
+        "url": "http:\/\/api.sermonindex.net\/SID10255",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 25:6",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID10255-download",
+        "speaker_name": "Neil Dougal",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "25"
+            }
+        ]
+    }
+]

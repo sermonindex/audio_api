@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1877-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1874-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1876-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1875-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1878-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1879-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1880-download",
-            "preacher_name": "Dick Hussey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dick Hussey",
             "_scripture": []
         }
     ]

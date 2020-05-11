@@ -12,9 +12,7 @@
             "topic": "Compromise",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24692-download",
-            "preacher_name": "Ken Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Miller",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Priorities",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24691-download",
-            "preacher_name": "Ken Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Miller",
             "_scripture": []
         }
     ]

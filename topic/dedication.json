@@ -11,9 +11,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26961-download",
-            "preacher_name": "Hattie Hammond",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Hattie Hammond",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Dedication",
             "description": "An excellent use of Moses as an example of what God can do through man. Maj. Thomas shows us that Moses was highly qualified to be completely useless. Moses looked \u201cthis way and that way\u201d\u2026 but not up.  Makes one completely examine themselves and ask the question, \u201cWho are we really dedicated to?",
             "download": "http:\/\/api.sermonindex.net\/SID17541-download",
-            "preacher_name": "Major Ian Thomas",
-            "preacher_image": "\/images\/major_ian_thomas.gif",
-            "preacher_description": "Major Ian Thomas (1914 \u2013 2007)\r\nListen to freely downloadable audio sermons by the speaker Major Ian Thomas in mp3 format. Evangelical writer, theological teacher and founder of the Torchbearers bible schools. These schools are now world-wide in many countries and provide a teaching base on the person of Christ in the believer and basic Biblical exposition of Bible books.\r\n\r\nAmong the many books that he wrote, the most influential have been: \"The Saving Life Of Christ\" , \"The mystery of godliness\" and \"If I perish, I Perish.\" His burden in ministry was to express and show the indwelling life of Christ in believers and the rest and power that life will have in us as we trust and have faith.",
+            "speaker_name": "Major Ian Thomas",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -44,9 +40,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1953-download",
-            "preacher_name": "Devern Fromke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Devern Fromke",
             "_scripture": []
         },
         {
@@ -58,9 +52,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1954-download",
-            "preacher_name": "Devern Fromke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Devern Fromke",
             "_scripture": []
         },
         {
@@ -72,9 +64,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2610-download",
-            "preacher_name": "Devern Fromke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Devern Fromke",
             "_scripture": []
         },
         {
@@ -86,9 +76,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3852-download",
-            "preacher_name": "Devern Fromke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Devern Fromke",
             "_scripture": []
         },
         {
@@ -100,9 +88,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3853-download",
-            "preacher_name": "Devern Fromke",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Devern Fromke",
             "_scripture": []
         },
         {
@@ -114,9 +100,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1599-download",
-            "preacher_name": "Stephen  Kaung",
-            "preacher_image": "\/images\/stephen_kaung.gif",
-            "preacher_description": "Stephen Kaung ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Stephen Kaung in mp3 format. Stephen Kaung is a Chinese Chrisitan speaker and writer, and now living in Richmond, Virgina. At an early age was converted to Christianity and was active in the Methodist Church in China, with home his father was a minister. He first met watchman need in the early 1930's and joined Nee's indigenous christian work full-time, working with him until 1949 when he left China and became involved with Christian work in other ares of the Far East.\r\n\r\nStephen Kaung worked very closely with T Austin-Sparks until his death in 1972. His burden has been to allow a testimony of the Lord in the local assembly, and to help the saints see the great importance of the Church as God intended it. Stephen Kaung's major work has been to translate the writings of Watchman Nee into English, over 50 titles which have been published by his own organisation, Christian Fellowship Publishers (CFP), In Richmond, Virgina.",
+            "speaker_name": "Stephen  Kaung",
             "_scripture": []
         },
         {
@@ -128,9 +112,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22563-download",
-            "preacher_name": "Stephen Olford",
-            "preacher_image": "",
-            "preacher_description": "Stephen Olford (1918 - 2004)\r\nListen to freely downloadable audio sermons by the speaker Stephen Olford in mp3 format. Was a 20th-century Christian leader. Dr. Billy Graham called him \"the man who most influenced my ministry.\" He was a personal confidant of Graham. Olford was also a role model and friend to prominent pastors such as Charles Stanley and Adrian Rogers. He was a pioneer in Christian television programming with his show, Encounter, in New York. His Sunday morning sermons were also broadcast around the world on radio.[1] He was the Founder and Chairman of the Board of Olford Ministries International in Memphis, Tennessee which became The Stephen Olford Center at Union University. His authorized biography, Only One Life, was written by John Philipps.\r\nIn 1953, Dr. Stephen F. Olford's years of pastoral ministry began by serving the Duke Street Baptist Church in Richmond, Surrey England (1953\u20131959) and then the Calvary Baptist Church in New York City (1959\u20131973).[1] Olford systematized his method of expository preaching and formed a curriculum used to train preachers at the Olford Institute for Biblical Preaching in Memphis, Tennessee. Pastors and scholars migrated to the institute for inspiration and instruction that often resulted in upgraded pulpit ministries.",
+            "speaker_name": "Stephen Olford",
             "_scripture": []
         },
         {
@@ -142,9 +124,7 @@
             "topic": "Dedication",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19634-download",
-            "preacher_name": "Aaron Hurst",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aaron Hurst",
             "_scripture": []
         }
     ]

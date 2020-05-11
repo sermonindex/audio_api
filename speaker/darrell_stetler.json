@@ -12,9 +12,7 @@
             "topic": "Holiness",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16608-download",
-            "preacher_name": "Darrell Stetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Darrell Stetler",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Purity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16607-download",
-            "preacher_name": "Darrell Stetler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Darrell Stetler",
             "_scripture": []
         }
     ]

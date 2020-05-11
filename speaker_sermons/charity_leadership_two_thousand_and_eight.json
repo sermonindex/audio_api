@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Evening Session Singing",
+        "url": "http:\/\/api.sermonindex.net\/SID16768",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16768-download",
+        "speaker_name": "Charity Leadership 2008",
+        "_scripture": []
+    },
+    {
+        "title": "Morning Session Singing",
+        "url": "http:\/\/api.sermonindex.net\/SID16767",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16767-download",
+        "speaker_name": "Charity Leadership 2008",
+        "_scripture": []
+    }
+]

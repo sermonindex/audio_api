@@ -1,0 +1,96 @@
+[
+    {
+        "title": "Angry With God",
+        "url": "http:\/\/api.sermonindex.net\/SID4741",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jonah 4:1-11",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4741-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "Jonah",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Beware Of Smiting The Rock",
+        "url": "http:\/\/api.sermonindex.net\/SID20535",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20535-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": []
+    },
+    {
+        "title": "Calling Down Fire",
+        "url": "http:\/\/api.sermonindex.net\/SID15481",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 9:51-56",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15481-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "9"
+            }
+        ]
+    },
+    {
+        "title": "Coming Free from the Darkness of Anger",
+        "url": "http:\/\/api.sermonindex.net\/SID28819",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28819-download",
+        "speaker_name": "Stewart Ruch",
+        "_scripture": []
+    },
+    {
+        "title": "Dealing with Anger",
+        "url": "http:\/\/api.sermonindex.net\/SID25495",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25495-download",
+        "speaker_name": "Andy Brink",
+        "_scripture": []
+    },
+    {
+        "title": "Freedom From the Spirit of Anger",
+        "url": "http:\/\/api.sermonindex.net\/SID19913",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19913-download",
+        "speaker_name": "S.M. Davis",
+        "_scripture": []
+    },
+    {
+        "title": "The Man Who Hates",
+        "url": "http:\/\/api.sermonindex.net\/SID24304",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Anger",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24304-download",
+        "speaker_name": "Steve Mays",
+        "_scripture": []
+    }
+]

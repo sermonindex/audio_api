@@ -1,0 +1,73 @@
+[
+    {
+        "title": "(Genesis #10) Symbol of Revolt",
+        "url": "http:\/\/api.sermonindex.net\/SID4840",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Rebellion Of Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4840-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "Light Rejected",
+        "url": "http:\/\/api.sermonindex.net\/SID1542",
+        "size": "8401408",
+        "format": "mp3",
+        "scripture": "John 12:46, Genesis 1:1-3, John 1:1-14",
+        "topic": "Rebellion Of Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1542-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "1"
+            },
+            {
+                "book": "John",
+                "chapter": "12"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Light Rejected! Light Neglected! Light Reflected!",
+        "url": "http:\/\/api.sermonindex.net\/SID14392",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 8:12",
+        "topic": "Rebellion Of Man",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14392-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "8"
+            }
+        ]
+    },
+    {
+        "title": "That Thou Mightest Know the Thoughts of Thy Heart",
+        "url": "http:\/\/api.sermonindex.net\/SID15213",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Daniel 2:30-35",
+        "topic": "Rebellion Of Man",
+        "description": "March 18, 2007 - All through history man has been trying to create his own image of himself without God. It is futile to try to be like God without God. If ever there was a generation where we should not bow to man's image of himself it is this generation. The greatest thing God can do for us is to come and smash every false image that we have created about ourselves from human intellect and human strength. God will begin to work in us by His Holy Spirit and transform us into the image of His Son.",
+        "download": "http:\/\/api.sermonindex.net\/SID15213-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Daniel",
+                "chapter": "2"
+            }
+        ]
+    }
+]

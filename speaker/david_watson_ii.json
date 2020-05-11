@@ -12,9 +12,7 @@
             "topic": "Evil",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23994-download",
-            "preacher_name": "David Watson II",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Watson II",
             "_scripture": []
         }
     ]

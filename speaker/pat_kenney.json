@@ -12,9 +12,7 @@
             "topic": "Baptism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7252-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -31,9 +29,7 @@
             "topic": "Messiah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7250-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7251-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -69,9 +63,7 @@
             "topic": "Spiritual Hearing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5367-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -85,12 +77,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Revelation 3:5",
-            "topic": "Overcomer's",
+            "topic": "Overcomers",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID5368-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Revelation",
@@ -107,9 +97,7 @@
             "topic": "Hebrews",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7132-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -126,9 +114,7 @@
             "topic": "Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7136-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -145,9 +131,7 @@
             "topic": "Hebrews",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7133-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -164,9 +148,7 @@
             "topic": "Hebrews",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7134-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -183,9 +165,7 @@
             "topic": "Hebrews",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7135-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -202,9 +182,7 @@
             "topic": "Heart",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7271-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -221,9 +199,7 @@
             "topic": "Heart",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7277-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -237,12 +213,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Matthew 6:1-15",
-            "topic": "Disciples' Prayer",
+            "topic": "Disciples Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7341-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",
@@ -259,9 +233,7 @@
             "topic": "Victory",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7264-download",
-            "preacher_name": "Pat Kenney",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pat Kenney",
             "_scripture": [
                 {
                     "book": "Matthew",

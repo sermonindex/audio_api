@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Training Of The Twelve",
+        "url": "http:\/\/api.sermonindex.net\/SID7677",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 6:12",
+        "topic": "Twelve Disciples",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7677-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "6"
+            }
+        ]
+    }
+]

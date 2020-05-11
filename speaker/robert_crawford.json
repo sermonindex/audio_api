@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10053-download",
-            "preacher_name": "Robert Crawford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Crawford",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10054-download",
-            "preacher_name": "Robert Crawford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Crawford",
             "_scripture": [
                 {
                     "book": "John",
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10068-download",
-            "preacher_name": "Robert Crawford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Crawford",
             "_scripture": []
         }
     ]

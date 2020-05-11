@@ -1,0 +1,67 @@
+[
+    {
+        "title": "(1 John #3) This is the Message",
+        "url": "http:\/\/api.sermonindex.net\/SID4804",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gods Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4804-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "God Is Incredible",
+        "url": "http:\/\/api.sermonindex.net\/SID20206",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gods Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20206-download",
+        "speaker_name": "William Carrol",
+        "_scripture": []
+    },
+    {
+        "title": "Men Reflecting God",
+        "url": "http:\/\/api.sermonindex.net\/SID5772",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gods Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5772-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "Self-Sufficiency of God",
+        "url": "http:\/\/api.sermonindex.net\/SID5008",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gods Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5008-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "The Greatness of God",
+        "url": "http:\/\/api.sermonindex.net\/SID5024",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Chronicles 29:11",
+        "topic": "Gods Character",
+        "description": "\u201cThe Greatness of God\u201d is a moving, philosophical message. The eloquent A. W. Tozer fashions vivid imagery to dramatize how infinitely far above all is God, and issues a warning of profound importance: \u201cThe god of the average Evangelical church is too small! He\u2019s not the God of Heaven, and the God of Creation, but he\u2019s a homemade, handmade god you can pull down. He\u2019s a stuffed shirt; he\u2019s a Santa Claus; he\u2019s just an old uncle that we want to keep on his good side so that when the time comes he can make us rich\u2026\u201d 1 Chronicles 29:11 addresses the true JHVH: \u201cThine, O LORD is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all.\u201d The sermon was preached circa 1959, and is 39 minutes, 14 seconds in length.",
+        "download": "http:\/\/api.sermonindex.net\/SID5024-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "1 Chronicles",
+                "chapter": "29"
+            }
+        ]
+    }
+]

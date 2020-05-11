@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10299-download",
-            "preacher_name": "Harold Erickson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Erickson",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -31,9 +29,7 @@
             "topic": "Geography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10300-download",
-            "preacher_name": "Harold Erickson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Erickson",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "Harold Erickson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Erickson",
             "_scripture": []
         },
         {
@@ -64,9 +58,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10302-download",
-            "preacher_name": "Harold Erickson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Harold Erickson",
             "_scripture": [
                 {
                     "book": "Matthew",

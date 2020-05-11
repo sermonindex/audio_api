@@ -1,0 +1,47 @@
+[
+    {
+        "title": "For Young People - Timothy",
+        "url": "http:\/\/api.sermonindex.net\/SID25249",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Young People",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25249-download",
+        "speaker_name": "Anton Bosch",
+        "_scripture": []
+    },
+    {
+        "title": "Solutions For Young People",
+        "url": "http:\/\/api.sermonindex.net\/SID17142",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Young People",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17142-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": []
+    },
+    {
+        "title": "The Gospel of Jesus Christ: A Burden for Young People",
+        "url": "http:\/\/api.sermonindex.net\/SID16226",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 8:21, Romans 3:21-26",
+        "topic": "Young People",
+        "description": "God gave Paul a special burden for the young people at this service. About 10 young people professed Christ within the days following this service. Many years later, about 5 of them were still living out that profession. Thus, Paul's warnings in this sermon about continuing in the faith were well justified.",
+        "download": "http:\/\/api.sermonindex.net\/SID16226-download",
+        "speaker_name": "Paul Washer",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "3"
+            },
+            {
+                "book": "Genesis",
+                "chapter": "8"
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "title": "K-019 The Shaping of Godly Character",
+        "url": "http:\/\/api.sermonindex.net\/SID12284",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Godly Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12284-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Shaping of Godly Character",
+        "url": "http:\/\/api.sermonindex.net\/SID11562",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Peter 3:11, Colossians 1:27",
+        "topic": "Godly Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11562-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Colossians",
+                "chapter": "1"
+            },
+            {
+                "book": "2 Peter",
+                "chapter": "3"
+            }
+        ]
+    }
+]

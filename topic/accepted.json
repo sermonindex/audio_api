@@ -11,9 +11,7 @@
             "topic": "Accepted",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19547-download",
-            "preacher_name": "Zac Poonen",
-            "preacher_image": "\/images\/zac_poonen.gif",
-            "preacher_description": "Zac Poonen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Zac Poonen in mp3 format. God called brother Zac Poonen to a new work early on in his Christian experience. The movement is now called Christian Fellowship Churches where the New Covenant of New Testament Christianity is clearly preached. \r\n\r\nBrother Zac Poonen has written 25 books most of them being on the deeper Christian life. Many of these have been translated into a number of languages and have been circulated widely around the world. He clearly and passionately shares the  narrow way of Christian discipleship that is neglected by so many modern preachers.",
+            "speaker_name": "Zac Poonen",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Accepted",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4753-download",
-            "preacher_name": "J. Glyn Owen",
-            "preacher_image": "\/images\/j_glyn_owen.gif",
-            "preacher_description": "J. Glyn Owen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker J. Glyn Owen in mp3 format. A welshman, Dr. Glyn Owen pastored many congregations with solid biblical exposition of the Holy Scriptures. He took over the pastorate from Martyn Lloyd-Jones after his retirement for 3 years. His preached in some Keswick convention meetings in England and has a heart for Biblical revival.\r\n\r\nDuring his pastorate at Knox Presbyterian Church in downtown Toronto, his preaching ministry attracted many young people who had come to Christ in the counter-culture Jesus Movement, and who were longing for solid biblical teaching.",
+            "speaker_name": "J. Glyn Owen",
             "_scripture": []
         }
     ]

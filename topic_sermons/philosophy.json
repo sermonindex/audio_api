@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Confronting the Philosophers",
+        "url": "http:\/\/api.sermonindex.net\/SID26704",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Philosophy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26704-download",
+        "speaker_name": "Mariano Di Gangi",
+        "_scripture": []
+    },
+    {
+        "title": "The Folly Of The World's Philosophy",
+        "url": "http:\/\/api.sermonindex.net\/SID8772",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 22:9-13",
+        "topic": "Philosophy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8772-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "22"
+            }
+        ]
+    },
+    {
+        "title": "The Philosophy Of a Fool",
+        "url": "http:\/\/api.sermonindex.net\/SID22633",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Philosophy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22633-download",
+        "speaker_name": "Dennis Jenkins",
+        "_scripture": []
+    }
+]

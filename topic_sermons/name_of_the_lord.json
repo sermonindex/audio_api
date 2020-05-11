@@ -1,0 +1,31 @@
+[
+    {
+        "title": "For His Name's Sake",
+        "url": "http:\/\/api.sermonindex.net\/SID6943",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 John 2:12",
+        "topic": "Name Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6943-download",
+        "speaker_name": "Miles DeBenedictis",
+        "_scripture": [
+            {
+                "book": "1 John",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "No Other Name",
+        "url": "http:\/\/api.sermonindex.net\/SID8013",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Name Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8013-download",
+        "speaker_name": "Carl Armerding",
+        "_scripture": []
+    }
+]

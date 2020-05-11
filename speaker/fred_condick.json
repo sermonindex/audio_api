@@ -12,9 +12,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "Fred Condick",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Condick",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -31,9 +29,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/-download",
-            "preacher_name": "Fred Condick",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Condick",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -50,9 +46,7 @@
             "topic": "Conference",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10000-download",
-            "preacher_name": "Fred Condick",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Condick",
             "_scripture": [
                 {
                     "book": "Judges",

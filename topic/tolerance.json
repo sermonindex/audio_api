@@ -11,9 +11,7 @@
             "topic": "Tolerance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17972-download",
-            "preacher_name": "Josh McDowell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Josh McDowell",
             "_scripture": [
                 {
                     "book": "1 Thessalonians",

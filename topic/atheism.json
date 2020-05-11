@@ -11,9 +11,7 @@
             "topic": "Atheism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19847-download",
-            "preacher_name": "Charlie Campbell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charlie Campbell",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Atheism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19846-download",
-            "preacher_name": "John Ankerberg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Ankerberg",
             "_scripture": []
         }
     ]

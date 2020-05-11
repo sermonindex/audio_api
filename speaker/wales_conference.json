@@ -12,9 +12,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18957-download",
-            "preacher_name": "Wales Conference",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wales Conference",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18956-download",
-            "preacher_name": "Wales Conference",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wales Conference",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18955-download",
-            "preacher_name": "Wales Conference",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wales Conference",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18954-download",
-            "preacher_name": "Wales Conference",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wales Conference",
             "_scripture": []
         }
     ]

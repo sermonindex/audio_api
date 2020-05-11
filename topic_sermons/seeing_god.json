@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Do You See Jesus?",
+        "url": "http:\/\/api.sermonindex.net\/SID19680",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Colossians 3:1-4",
+        "topic": "Seeing God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19680-download",
+        "speaker_name": "Brad Scheelke",
+        "_scripture": [
+            {
+                "book": "Colossians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "What Does It Take to See God",
+        "url": "http:\/\/api.sermonindex.net\/SID11922",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 23:34-39",
+        "topic": "Seeing God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID11922-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "23"
+            }
+        ]
+    }
+]

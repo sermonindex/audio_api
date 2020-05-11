@@ -11,9 +11,7 @@
             "topic": "Quenching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22348-download",
-            "preacher_name": "Samuel Storms",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Samuel Storms",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Quenching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10616-download",
-            "preacher_name": "Alden Gannett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alden Gannett",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -44,9 +40,7 @@
             "topic": "Quenching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10617-download",
-            "preacher_name": "Alden Gannett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alden Gannett",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -63,9 +57,7 @@
             "topic": "Quenching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10618-download",
-            "preacher_name": "Alden Gannett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alden Gannett",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -82,9 +74,7 @@
             "topic": "Quenching",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10619-download",
-            "preacher_name": "Alden Gannett",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alden Gannett",
             "_scripture": [
                 {
                     "book": "Genesis",

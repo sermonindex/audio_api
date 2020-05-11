@@ -1,0 +1,70 @@
+[
+    {
+        "title": "\"In the Beginning God created...\"",
+        "url": "http:\/\/api.sermonindex.net\/SID3126",
+        "size": "20269056",
+        "format": "mp3",
+        "scripture": "Genesis 1:1",
+        "topic": "Beginning",
+        "description": "Beginnings are always significant in the economy of God and no more so than in His creative acts. They reveal the very essence of Himself and His purpose in creating.",
+        "download": "http:\/\/api.sermonindex.net\/SID3126-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "(John) In The Beginning The Word",
+        "url": "http:\/\/api.sermonindex.net\/SID6848",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 1:1-28",
+        "topic": "Beginning",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6848-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "A new beginning",
+        "url": "http:\/\/api.sermonindex.net\/SID27965",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Corinthians 5:7",
+        "topic": "Beginning",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27965-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": [
+            {
+                "book": "2 Corinthians",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "Genesis #01 Ch. 1:1 Intro. - Universal Beginnings",
+        "url": "http:\/\/api.sermonindex.net\/SID12128",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 1:1",
+        "topic": "Beginning",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12128-download",
+        "speaker_name": "Chuck Missler",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "1"
+            }
+        ]
+    }
+]

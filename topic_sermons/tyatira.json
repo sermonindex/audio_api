@@ -1,0 +1,19 @@
+[
+    {
+        "title": "The Candlestick - Tyatira",
+        "url": "http:\/\/api.sermonindex.net\/SID2983",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 2:18-29",
+        "topic": "Tyatira",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2983-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "2"
+            }
+        ]
+    }
+]

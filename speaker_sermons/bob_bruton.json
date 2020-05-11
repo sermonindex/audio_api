@@ -1,0 +1,140 @@
+[
+    {
+        "title": "1 Peter 1; Minneapolis Conference",
+        "url": "http:\/\/api.sermonindex.net\/SID9781",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Peter 1",
+        "topic": "Conference",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9781-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": [
+            {
+                "book": "1 Peter",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Haggai 2",
+        "url": "http:\/\/api.sermonindex.net\/SID9782",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Haggai 2",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9782-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": [
+            {
+                "book": "Haggai",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Luke 13:25",
+        "url": "http:\/\/api.sermonindex.net\/SID9783",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 13:25",
+        "topic": "",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9783-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "13"
+            }
+        ]
+    },
+    {
+        "title": "Spiritual Gifts",
+        "url": "http:\/\/api.sermonindex.net\/SID9784",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Gifts",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9784-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": []
+    },
+    {
+        "title": "The Holy Spirit",
+        "url": "http:\/\/api.sermonindex.net\/SID9785",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 12:12",
+        "topic": "Holy Spirit",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9785-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "The Renunciation Chapter",
+        "url": "http:\/\/api.sermonindex.net\/SID9786",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Philippians 3:13",
+        "topic": "Renunciation",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9786-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "The Unpardonable Sin",
+        "url": "http:\/\/api.sermonindex.net\/SID9787",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Peter 2:9",
+        "topic": "Unpardonable Sin",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9787-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": [
+            {
+                "book": "2 Peter",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "To The Beloved Gaius",
+        "url": "http:\/\/api.sermonindex.net\/SID9788",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "3 John",
+        "topic": "Gaius",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9788-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": []
+    },
+    {
+        "title": "To The Elect Lady",
+        "url": "http:\/\/api.sermonindex.net\/SID9789",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 John",
+        "topic": "Elect Lady",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9789-download",
+        "speaker_name": "Bob Bruton",
+        "_scripture": []
+    }
+]

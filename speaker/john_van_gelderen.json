@@ -12,9 +12,7 @@
             "topic": "Exchanged Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22192-download",
-            "preacher_name": "John Van Gelderen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Van Gelderen",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Deeper Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22191-download",
-            "preacher_name": "John Van Gelderen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Van Gelderen",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Exchanged Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22190-download",
-            "preacher_name": "John Van Gelderen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Van Gelderen",
             "_scripture": []
         }
     ]

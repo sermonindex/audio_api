@@ -11,9 +11,7 @@
             "topic": "Scripture Praying",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25903-download",
-            "preacher_name": "David Ford",
-            "preacher_image": "",
-            "preacher_description": "David Ford ( - )\r\nListen to freely downloadable audio sermons by the speaker David Ford in mp3 format.  David preaches in city-wide crusades, church-wide conventions, at Christian colleges and universities as well as at many other venues throughout the United States and overseas. In 1983, he traveled with Dr. Stephen Olford throughout the country and had ministered on platforms with him before his Homegoing in 2004 (David was blessed to have him on his Advisory Board).\r\nSpeaking from his heart, David is deeply burdened for true revival in the church and spiritual awakening in America and the world. In God's grace and goodness, many series of meetings extends well beyond scheduled dates because God sovereignly moves in precious revival. To God be the glory!   Globe for Christ International, Inc. believes and knows that prevailing prayer is the key to revival!",
+            "speaker_name": "David Ford",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

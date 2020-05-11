@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17036-download",
-            "preacher_name": "Roger Oakland",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roger Oakland",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17037-download",
-            "preacher_name": "Roger Oakland",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roger Oakland",
             "_scripture": []
         }
     ]

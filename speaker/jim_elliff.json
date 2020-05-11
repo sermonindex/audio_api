@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13066-download",
-            "preacher_name": "Jim Elliff",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Elliff",
             "_scripture": [
                 {
                     "book": "Mark",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13064-download",
-            "preacher_name": "Jim Elliff",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Elliff",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13065-download",
-            "preacher_name": "Jim Elliff",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jim Elliff",
             "_scripture": [
                 {
                     "book": "Matthew",

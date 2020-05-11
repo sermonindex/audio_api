@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Christ Is All and In All",
+        "url": "http:\/\/api.sermonindex.net\/SID1003",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christ Is All",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID1003-download",
+        "speaker_name": "Lance Lambert",
+        "_scripture": []
+    },
+    {
+        "title": "He Must Become More and More",
+        "url": "http:\/\/api.sermonindex.net\/SID5030",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christ Is All",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5030-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "He Must Increase",
+        "url": "http:\/\/api.sermonindex.net\/SID5027",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Christ Is All",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5027-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "One Thing I Do",
+        "url": "http:\/\/api.sermonindex.net\/SID4598",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Philippians 3:13",
+        "topic": "Christ Is All",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4598-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "3"
+            }
+        ]
+    }
+]

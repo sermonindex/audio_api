@@ -12,9 +12,7 @@
             "topic": "Eternity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23703-download",
-            "preacher_name": "J. Wesley Adcock",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Wesley Adcock",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23704-download",
-            "preacher_name": "J. Wesley Adcock",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J. Wesley Adcock",
             "_scripture": []
         }
     ]

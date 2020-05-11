@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Reading from the Beatitudes",
+        "url": "http:\/\/api.sermonindex.net\/SID0268",
+        "size": "115200",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "This is believed to be the only existing audio recording of Dwight Moody. It is a very poor quality, however it must be remembered that audio recording was being invented and developed during this time. Even though it is difficult to hear the innunciation of his words, it is amazing to hear the voice of such a hero of the faith, and better yet he is reading the words of the master whom he so faithfully served.\r\n-----------------\r\nWith little education, he confounded the most learned scholars. With limited speaking abilities, he surpassed the most eloquent orators. Armed with only a Bible and the breath of heaven on his ministry, he preached to America until she turned back to God in a great revival, and then he jumped across the Atlantic to rock the British Isles with one of the greatest moves of God ever seen. It is our prayer that after listening to Mr. Moody, and reading about his life, some young preacher will ask: \"Where is the Lord God of D.L. Moody?\", and then, with holy boldness, go out and do even greater things for the kingdom of God.",
+        "download": "http:\/\/api.sermonindex.net\/SID0268-download",
+        "speaker_name": "D. L. Moody",
+        "_scripture": []
+    },
+    {
+        "title": "The Lord's Work",
+        "url": "http:\/\/api.sermonindex.net\/SID5114",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "",
+        "description": "This recording of The Lord's Work by D.L. Moody was produced by Vintage Audio Sermons in 2004. It is offered in it's entirety by ChristianAudio.com. Please visit www.christianaudio.com to explore our vast collection of Christian Classics and thoughtfully devotional audio books.",
+        "download": "http:\/\/api.sermonindex.net\/SID5114-download",
+        "speaker_name": "D. L. Moody",
+        "_scripture": []
+    },
+    {
+        "title": "Weighed in the balance (Sermon Reading)",
+        "url": "http:\/\/api.sermonindex.net\/SID1915",
+        "size": "22240768",
+        "format": "mp3",
+        "scripture": "Daniel 5:27",
+        "topic": "Reading",
+        "description": "Though not the actual voice of the great evangelist, this sermon is well read and worth the listen. The reader does an excellent job preserving the heart of Moody in the delivery. Taken from Daniel 5, the story of the finger writing on the wall 'Mene Mene Tekel Parsin', Moody expounds on how we will all be weighed in the balance of God's Ten Commandments, and our position in Christ will define the outcome. This is a solid sermon revealing further insight into the style and message of the late D.L. Moody.",
+        "download": "http:\/\/api.sermonindex.net\/SID1915-download",
+        "speaker_name": "D. L. Moody",
+        "_scripture": [
+            {
+                "book": "Daniel",
+                "chapter": "5"
+            }
+        ]
+    }
+]

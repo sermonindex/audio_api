@@ -1,0 +1,36 @@
+[
+    {
+        "title": "No Peace For The Wicked",
+        "url": "http:\/\/api.sermonindex.net\/SID8761",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 57:20-21",
+        "topic": "Wickedness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8761-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "57"
+            }
+        ]
+    },
+    {
+        "title": "Why Did The Wicked Prosper?",
+        "url": "http:\/\/api.sermonindex.net\/SID8752",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 12:1-5",
+        "topic": "Wickedness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8752-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": [
+            {
+                "book": "Jeremiah",
+                "chapter": "12"
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Learning To Serve In The Church",
+        "url": "http:\/\/api.sermonindex.net\/SID2608",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Serving",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID2608-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    },
+    {
+        "title": "Make A Difference",
+        "url": "http:\/\/api.sermonindex.net\/SID24053",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 15:32-38",
+        "topic": "Serving",
+        "description": "God wants to use us - even if we have seemingly little to offer. He will also make provision when we seek to bless those around us. Matthew 15:32-38",
+        "download": "http:\/\/api.sermonindex.net\/SID24053-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Serving The Lord From Vision",
+        "url": "http:\/\/api.sermonindex.net\/SID27146",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Serving",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27146-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    }
+]

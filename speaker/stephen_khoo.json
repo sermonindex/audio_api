@@ -12,9 +12,7 @@
             "topic": "Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12105-download",
-            "preacher_name": "Stephen Khoo",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Stephen Khoo",
             "_scripture": [
                 {
                     "book": "Romans",

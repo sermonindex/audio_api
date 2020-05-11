@@ -12,9 +12,7 @@
             "topic": "Failure",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20188-download",
-            "preacher_name": "Don Godfrey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Godfrey",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20194-download",
-            "preacher_name": "Don Godfrey",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Godfrey",
             "_scripture": []
         }
     ]

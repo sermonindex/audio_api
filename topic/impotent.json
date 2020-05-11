@@ -11,9 +11,7 @@
             "topic": "Impotent",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10002-download",
-            "preacher_name": "Robert Constable",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Robert Constable",
             "_scripture": []
         }
     ]

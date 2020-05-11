@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1439-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "Mark",
@@ -35,9 +33,7 @@
             "topic": "Jesus Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1448-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "John",
@@ -54,9 +50,7 @@
             "topic": "Communion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1445-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "Philippians",
@@ -73,9 +67,7 @@
             "topic": "Miracles",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1446-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "Mark",
@@ -92,9 +84,7 @@
             "topic": "Gifts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1835-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -106,9 +96,7 @@
             "topic": "Gifts",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1836-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -120,9 +108,7 @@
             "topic": "Jesus Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1438-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "Colossians",
@@ -139,9 +125,7 @@
             "topic": "Gospel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1444-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "Mark",
@@ -158,9 +142,7 @@
             "topic": "New Birth",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1831-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -172,9 +154,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15799-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": [
                 {
                     "book": "Ephesians",
@@ -199,9 +179,7 @@
             "topic": "Body Of Christ",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1440-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -213,9 +191,7 @@
             "topic": "Shepherd",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1441-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -227,9 +203,7 @@
             "topic": "Love",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21200-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -241,9 +215,7 @@
             "topic": "Well Of Sychar",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1443-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -255,9 +227,7 @@
             "topic": "Word Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1442-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         },
         {
@@ -269,9 +239,7 @@
             "topic": "Spirit Of God",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1447-download",
-            "preacher_name": "Norman Meeten",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Norman Meeten",
             "_scripture": []
         }
     ]

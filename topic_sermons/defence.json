@@ -1,0 +1,19 @@
+[
+    {
+        "title": "God's Hatchet",
+        "url": "http:\/\/api.sermonindex.net\/SID15398",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalm 74",
+        "topic": "Defence",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15398-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "74"
+            }
+        ]
+    }
+]

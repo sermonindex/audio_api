@@ -12,9 +12,7 @@
             "topic": "Incarnation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21978-download",
-            "preacher_name": "John Wright",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Wright",
             "_scripture": [
                 {
                     "book": "John",

@@ -11,9 +11,7 @@
             "topic": "John Wesley",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7116-download",
-            "preacher_name": "Geoffrey Thomas",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Geoffrey Thomas",
             "_scripture": []
         }
     ]

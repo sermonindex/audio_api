@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9986-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9987-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9988-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9989-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9996-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9997-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9990-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -115,9 +101,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9991-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -134,9 +118,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9992-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -148,9 +130,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9993-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -162,9 +142,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9994-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         },
         {
@@ -176,9 +154,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9995-download",
-            "preacher_name": "James R. Cochrane",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "James R. Cochrane",
             "_scripture": []
         }
     ]

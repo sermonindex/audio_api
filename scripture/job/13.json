@@ -12,9 +12,7 @@
             "topic": "Salvation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1483-download",
-            "preacher_name": "B.B. Caldwell",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "B.B. Caldwell",
             "_scripture": [
                 {
                     "book": "Job",

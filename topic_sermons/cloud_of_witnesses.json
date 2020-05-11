@@ -1,0 +1,43 @@
+[
+    {
+        "title": "A Great Company of Witnesses Surrounds Us",
+        "url": "http:\/\/api.sermonindex.net\/SID4283",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 12:1-3",
+        "topic": "Cloud of Witnesses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4283-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "FREN-01 The Invisible Cloud of Witnesses",
+        "url": "http:\/\/api.sermonindex.net\/SID14169",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Cloud of Witnesses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14169-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Invisible Cloud of Witnesses",
+        "url": "http:\/\/api.sermonindex.net\/SID10909",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Cloud of Witnesses",
+        "description": "Whether we are aware of it or not, do we see ourselves as one with, and connected to, the saints of bygone years through our Head who is also theirs?",
+        "download": "http:\/\/api.sermonindex.net\/SID10909-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    }
+]

@@ -11,9 +11,7 @@
             "topic": "Gratitude",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19867-download",
-            "preacher_name": "Larry Powers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Larry Powers",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Gratitude",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID28087-download",
-            "preacher_name": "Roy Daniel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Roy Daniel",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18199-download",
-            "preacher_name": "Dale Rhoton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dale Rhoton",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15456-download",
-            "preacher_name": "Dale Rhoton",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dale Rhoton",
             "_scripture": []
         }
     ]

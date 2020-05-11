@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12099-download",
-            "preacher_name": "Jeffrey Khoo",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeffrey Khoo",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12102-download",
-            "preacher_name": "Jeffrey Khoo",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeffrey Khoo",
             "_scripture": []
         }
     ]

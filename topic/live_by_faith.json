@@ -11,9 +11,7 @@
             "topic": "Live By Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6134-download",
-            "preacher_name": "Ray Lowe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Lowe",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Live By Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12488-download",
-            "preacher_name": "Charles E. Fuller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Charles E. Fuller",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14369-download",
-            "preacher_name": "John Greer",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Greer",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17270-download",
-            "preacher_name": "John Greer",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Greer",
             "_scripture": [
                 {
                     "book": "Hebrews",

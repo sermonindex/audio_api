@@ -12,9 +12,7 @@
             "topic": "Manhood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3036-download",
-            "preacher_name": "Mike Cleveland",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mike Cleveland",
             "_scripture": [
                 {
                     "book": "Hebrews",

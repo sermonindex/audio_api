@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Are You Well",
+        "url": "http:\/\/api.sermonindex.net\/SID3959",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "3 John 1-2",
+        "topic": "Soul",
+        "description": "In 3 John 1-2, the Apostle John greets Gaius \"whom I love in truth.\" He continues: \"I wish above all that thou mayest prosper and be in health, even as thy soul prospereth.\" Is your body as healthy as  your soul? Major Thomas explains that human beings are composed of two basic parts -- that which can be seen (the  body) and that which cannot be seen (the spirit and soul). That part no one sees constitutes the real you and the actions of the body often mirrors our true spiritual health.",
+        "download": "http:\/\/api.sermonindex.net\/SID3959-download",
+        "speaker_name": "Major Ian Thomas",
+        "_scripture": [
+            {
+                "book": "3 John",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "How do you value your Soul",
+        "url": "http:\/\/api.sermonindex.net\/SID23681",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Soul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23681-download",
+        "speaker_name": "Peter Orasuk",
+        "_scripture": []
+    },
+    {
+        "title": "Oh My Soul",
+        "url": "http:\/\/api.sermonindex.net\/SID13504",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Soul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13504-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Price of Your Soul",
+        "url": "http:\/\/api.sermonindex.net\/SID17973",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Proverbs 31:11, Proverbs 31:23-31",
+        "topic": "Soul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17973-download",
+        "speaker_name": "Steve Mays",
+        "_scripture": [
+            {
+                "book": "Proverbs",
+                "chapter": "31"
+            }
+        ]
+    },
+    {
+        "title": "The Soul of a Man",
+        "url": "http:\/\/api.sermonindex.net\/SID3340",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Soul",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID3340-download",
+        "speaker_name": "Manley Beasley",
+        "_scripture": []
+    },
+    {
+        "title": "The Voice of the Soul",
+        "url": "http:\/\/api.sermonindex.net\/SID0244",
+        "size": "2957312",
+        "format": "mp3",
+        "scripture": "Luke 12:16-21",
+        "topic": "Soul",
+        "description": "The Parable of the Rich Fool illustrates the inestimable worth of the soul as compared to everything else. Dr. Tozer uses Our Lord\u2019s story to warn of covetness. It is the voice of the soul which cries out, \u201cDon\u2019t be so concerned with the things of the world that you forget me.\u201d \u201cI am not a body containing a soul,\u201d Dr. Tozer says, \u201cI am a soul contained in a body.\u201d",
+        "download": "http:\/\/api.sermonindex.net\/SID0244-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "12"
+            }
+        ]
+    }
+]

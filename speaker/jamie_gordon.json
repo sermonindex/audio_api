@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4134-download",
-            "preacher_name": "Jamie Gordon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jamie Gordon",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4133-download",
-            "preacher_name": "Jamie Gordon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jamie Gordon",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID4132-download",
-            "preacher_name": "Jamie Gordon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jamie Gordon",
             "_scripture": []
         }
     ]

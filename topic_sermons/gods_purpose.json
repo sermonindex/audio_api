@@ -1,0 +1,36 @@
+[
+    {
+        "title": "God's Purpose",
+        "url": "http:\/\/api.sermonindex.net\/SID12257",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 7",
+        "topic": "Gods Purpose",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12257-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "7"
+            }
+        ]
+    },
+    {
+        "title": "Nothing Can Stop What God is Doing",
+        "url": "http:\/\/api.sermonindex.net\/SID4289",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Nehemiah 2:17-20",
+        "topic": "Gods Purpose",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4289-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Nehemiah",
+                "chapter": "2"
+            }
+        ]
+    }
+]

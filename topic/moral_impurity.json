@@ -11,9 +11,7 @@
             "topic": "Moral Impurity",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19774-download",
-            "preacher_name": "Al Henson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Al Henson",
             "_scripture": [
                 {
                     "book": "Luke",

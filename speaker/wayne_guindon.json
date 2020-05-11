@@ -12,9 +12,7 @@
             "topic": "Guilt",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22094-download",
-            "preacher_name": "Wayne Guindon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wayne Guindon",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Lords Supper",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22092-download",
-            "preacher_name": "Wayne Guindon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wayne Guindon",
             "_scripture": [
                 {
                     "book": "1 Corinthians",
@@ -45,9 +41,7 @@
             "topic": "Evangelism",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22093-download",
-            "preacher_name": "Wayne Guindon",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Wayne Guindon",
             "_scripture": []
         }
     ]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "It Will Cost You Everything",
+        "url": "http:\/\/api.sermonindex.net\/SID28696",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Surrender",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28696-download",
+        "speaker_name": "Steven J. Lawson",
+        "_scripture": []
+    },
+    {
+        "title": "Living in Light of Eternity",
+        "url": "http:\/\/api.sermonindex.net\/SID21796",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Eternity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21796-download",
+        "speaker_name": "Steven J. Lawson",
+        "_scripture": []
+    },
+    {
+        "title": "The Coming Final Persecution",
+        "url": "http:\/\/api.sermonindex.net\/SID19451",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 13:9-13",
+        "topic": "Persecution",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19451-download",
+        "speaker_name": "Steven J. Lawson",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "13"
+            }
+        ]
+    }
+]

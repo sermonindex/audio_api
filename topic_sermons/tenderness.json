@@ -1,0 +1,48 @@
+[
+    {
+        "title": "(John) Tender Touches",
+        "url": "http:\/\/api.sermonindex.net\/SID6875",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 14:19-31",
+        "topic": "Tenderness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6875-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "14"
+            }
+        ]
+    },
+    {
+        "title": "(John) The Tenderness Of The Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID6891",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 21:4-5",
+        "topic": "Tenderness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6891-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "21"
+            }
+        ]
+    },
+    {
+        "title": "Powerful But Tender",
+        "url": "http:\/\/api.sermonindex.net\/SID24782",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Tenderness",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24782-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    }
+]

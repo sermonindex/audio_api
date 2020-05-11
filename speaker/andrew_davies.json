@@ -12,9 +12,7 @@
             "topic": "Job",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22640-download",
-            "preacher_name": "Andrew Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Davies",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Moravian Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20591-download",
-            "preacher_name": "Andrew Davies",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Andrew Davies",
             "_scripture": [
                 {
                     "book": "Acts",

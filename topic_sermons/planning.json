@@ -1,0 +1,48 @@
+[
+    {
+        "title": "PLANNING AHEAD",
+        "url": "http:\/\/api.sermonindex.net\/SID24885",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Planning",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID24885-download",
+        "speaker_name": "Basilea Schlink",
+        "_scripture": []
+    },
+    {
+        "title": "Planning Properly, - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID22231",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:13",
+        "topic": "Planning",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22231-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "Planning Properly, - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID22230",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "James 4:13",
+        "topic": "Planning",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22230-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": [
+            {
+                "book": "James",
+                "chapter": "4"
+            }
+        ]
+    }
+]

@@ -11,9 +11,7 @@
             "topic": "Flood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9802-download",
-            "preacher_name": "Lawrence Chambers",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lawrence Chambers",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -30,9 +28,7 @@
             "topic": "Flood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17241-download",
-            "preacher_name": "Bill Randles",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Randles",
             "_scripture": [
                 {
                     "book": "Genesis",
@@ -49,9 +45,7 @@
             "topic": "Flood",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21635-download",
-            "preacher_name": "Daniel Peters",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Daniel Peters",
             "_scripture": [
                 {
                     "book": "Genesis",

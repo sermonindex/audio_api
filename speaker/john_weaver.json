@@ -12,9 +12,7 @@
             "topic": "Rapture",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23091-download",
-            "preacher_name": "John Weaver",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Weaver",
             "_scripture": []
         }
     ]

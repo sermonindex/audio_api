@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21986-download",
-            "preacher_name": "William Wilson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "William Wilson",
             "_scripture": [
                 {
                     "book": "Matthew",

@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9887-download",
-            "preacher_name": "Phil Clarkson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Phil Clarkson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9885-download",
-            "preacher_name": "Phil Clarkson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Phil Clarkson",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -45,9 +41,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9886-download",
-            "preacher_name": "Phil Clarkson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Phil Clarkson",
             "_scripture": [
                 {
                     "book": "Isaiah",

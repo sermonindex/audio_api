@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Hearing God",
+        "url": "http:\/\/api.sermonindex.net\/SID25189",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Hearing God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25189-download",
+        "speaker_name": "Anton Bosch",
+        "_scripture": []
+    },
+    {
+        "title": "Hearing The Voice of God",
+        "url": "http:\/\/api.sermonindex.net\/SID25730",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Hearing God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25730-download",
+        "speaker_name": "Shane Idleman",
+        "_scripture": []
+    },
+    {
+        "title": "Today is the Day",
+        "url": "http:\/\/api.sermonindex.net\/SID16679",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 3:15",
+        "topic": "Hearing God",
+        "description": "\u00e2\u20ac\u0153TODAY, IF YOU HEAR HIS VOICE, DO NOT HARDEN YOUR HEARTS\u00e2\u20ac\u009d (Hebrews 3:15). In this sermon, Mike explains why God says \u00e2\u20ac\u0153TODAY,\u00e2\u20ac\u009d instead of tomorrow or next year. He explains four facts that cause God to say that today is the day to give your life to Him.",
+        "download": "http:\/\/api.sermonindex.net\/SID16679-download",
+        "speaker_name": "Mike Gilchrist",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "3"
+            }
+        ]
+    }
+]

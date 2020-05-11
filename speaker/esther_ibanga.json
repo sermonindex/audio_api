@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2414-download",
-            "preacher_name": "Esther Ibanga",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Esther Ibanga",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2415-download",
-            "preacher_name": "Esther Ibanga",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Esther Ibanga",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID2416-download",
-            "preacher_name": "Esther Ibanga",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Esther Ibanga",
             "_scripture": []
         }
     ]

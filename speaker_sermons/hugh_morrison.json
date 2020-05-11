@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Not By Might",
+        "url": "http:\/\/api.sermonindex.net\/SID25162",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Zechariah 4:6",
+        "topic": "Holy Spirit",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25162-download",
+        "speaker_name": "Hugh Morrison",
+        "_scripture": [
+            {
+                "book": "Zechariah",
+                "chapter": "4"
+            }
+        ]
+    },
+    {
+        "title": "We Will Give Ourselves To Prayer",
+        "url": "http:\/\/api.sermonindex.net\/SID25161",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Prayer",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25161-download",
+        "speaker_name": "Hugh Morrison",
+        "_scripture": []
+    }
+]

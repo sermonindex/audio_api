@@ -11,9 +11,7 @@
             "topic": "Complacency",
             "description": "There are people who profess to know Christ yet they live carelessly. They do not deny biblical truth, it is simply neglected in their lives. They have a love of pleasure more than a love for God. 1. What it means to be at ease in Zion. 2. The tragic effects of being at ease. 3. The judgement awaiting those at ease. 4. The importance of stirring oneself out of spiritual complacency. Five tests for music: 1. Can you hear the Word of God clearly over the music? 2. Does the music enlarge my vision of the glory of God? 3. Will what I'm listening to produce the fruit of holiness in my life? 4. Does the music communicate sound biblical doctrine? 5. Does the music tend to sedate the mind and make it insensible to God's truth? Contemporary Christian Music (CCM):  Amusing Grace, how sensual the sound, that entertained a seeker like me. I once was lost, but now I'm amused; was blind but now I'm deceived.",
             "download": "http:\/\/api.sermonindex.net\/SID14497-download",
-            "preacher_name": "Don Currin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Don Currin",
             "_scripture": [
                 {
                     "book": "Amos",
@@ -30,9 +28,7 @@
             "topic": "Complacency",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3901-download",
-            "preacher_name": "G.B. Duncan",
-            "preacher_image": "\/images\/gb_duncan.gif",
-            "preacher_description": "",
+            "speaker_name": "G.B. Duncan",
             "_scripture": []
         }
     ]

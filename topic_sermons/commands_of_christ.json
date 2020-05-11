@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Remember the words I have spoken",
+        "url": "http:\/\/api.sermonindex.net\/SID15984",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 15:26, John 16:1-4",
+        "topic": "Commands Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15984-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "15"
+            },
+            {
+                "book": "John",
+                "chapter": "16"
+            }
+        ]
+    },
+    {
+        "title": "Sermon on the Mount",
+        "url": "http:\/\/api.sermonindex.net\/SID1545",
+        "size": "10191872",
+        "format": "mp3",
+        "scripture": "Matthew 5-7",
+        "topic": "Commands Of Christ",
+        "description": "Keith Daniel preaches this convicting message in america and its not a sermon to a local congregation but its God given aim is to the entire body of Christ in North America. He reads the entire Sermon on the mount and then focuses soley on the verse Matthew 5:13 which he believes would be the verse that Christ would want to bring to his church in our day. He gives the direct call for us to become the salt in the earth once again. You will [b]not[\/b] be the same again after you hear this message, harden not your hearts.",
+        "download": "http:\/\/api.sermonindex.net\/SID1545-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "5"
+            }
+        ]
+    }
+]

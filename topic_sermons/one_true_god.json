@@ -1,0 +1,27 @@
+[
+    {
+        "title": "To Whom is the Arm of the Lord Revealed",
+        "url": "http:\/\/api.sermonindex.net\/SID11557",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 17:5, Isaiah 40:10-11, Luke 1",
+        "topic": "One True God",
+        "description": "A sober address appropriate to all earnest inquirers after God and particularly to Jewish people and intellectuals who have had difficulty finding the one true God.",
+        "download": "http:\/\/api.sermonindex.net\/SID11557-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "1"
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "40"
+            },
+            {
+                "book": "Jeremiah",
+                "chapter": "17"
+            }
+        ]
+    }
+]

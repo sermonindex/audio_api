@@ -12,9 +12,7 @@
             "topic": "Venture Of Faith",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18611-download",
-            "preacher_name": "Clayton Dougan",
-            "preacher_image": "",
-            "preacher_description": "Clayton Dougan ( - )\r\nListen to freely downloadable audio sermons by the speaker Clayton Dougan in mp3 format. Following 20 years of full time ministry in evangelism and Bible teaching based in the south of England Clayton and Isobel Dougan followed God's call to Canada in 1984. Evangelism International was incorporated as a charitable society in 1986 to provide a support base and accountability structure for ministry in their new base, Victoria, B.C. Clayton has travelled to about a dozen countries of the world preaching the gospel and teaching God's word.\r\nClayton's calling is, as our Vision Statement says, to preach the gospel of our Lord Jesus Christ worldwide. He still feels strongly the call of God to be a preaching evangelist. The various ministries of E.I. include: Guest preaching interdenominationally, Bible teaching in conferences and church retreats, A four hour seminar on evangelism - \"Evangelism is Not a Fatal Disease\".",
+            "speaker_name": "Clayton Dougan",
             "_scripture": [
                 {
                     "book": "Luke",
@@ -28,12 +26,10 @@
             "size": "0",
             "format": "mp3",
             "scripture": "Matthew 6",
-            "topic": "Lord's Prayer",
+            "topic": "Lords Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID18612-download",
-            "preacher_name": "Clayton Dougan",
-            "preacher_image": "",
-            "preacher_description": "Clayton Dougan ( - )\r\nListen to freely downloadable audio sermons by the speaker Clayton Dougan in mp3 format. Following 20 years of full time ministry in evangelism and Bible teaching based in the south of England Clayton and Isobel Dougan followed God's call to Canada in 1984. Evangelism International was incorporated as a charitable society in 1986 to provide a support base and accountability structure for ministry in their new base, Victoria, B.C. Clayton has travelled to about a dozen countries of the world preaching the gospel and teaching God's word.\r\nClayton's calling is, as our Vision Statement says, to preach the gospel of our Lord Jesus Christ worldwide. He still feels strongly the call of God to be a preaching evangelist. The various ministries of E.I. include: Guest preaching interdenominationally, Bible teaching in conferences and church retreats, A four hour seminar on evangelism - \"Evangelism is Not a Fatal Disease\".",
+            "speaker_name": "Clayton Dougan",
             "_scripture": [
                 {
                     "book": "Matthew",

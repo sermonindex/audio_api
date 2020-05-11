@@ -11,9 +11,7 @@
             "topic": "Encounter",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27775-download",
-            "preacher_name": "R. Edward Miller",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "R. Edward Miller",
             "_scripture": []
         }
     ]

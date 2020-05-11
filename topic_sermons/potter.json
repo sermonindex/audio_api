@@ -1,0 +1,31 @@
+[
+    {
+        "title": "K-038 The Potter",
+        "url": "http:\/\/api.sermonindex.net\/SID12300",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Potter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12300-download",
+        "speaker_name": "Art Katz",
+        "_scripture": []
+    },
+    {
+        "title": "The Potter's House",
+        "url": "http:\/\/api.sermonindex.net\/SID20814",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Jeremiah 18",
+        "topic": "Potter",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20814-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Jeremiah",
+                "chapter": "18"
+            }
+        ]
+    }
+]

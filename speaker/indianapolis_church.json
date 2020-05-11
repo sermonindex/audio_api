@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7043-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7041-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7040-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7046-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7042-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7044-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7045-download",
-            "preacher_name": "Indianapolis Church",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Indianapolis Church",
             "_scripture": []
         }
     ]

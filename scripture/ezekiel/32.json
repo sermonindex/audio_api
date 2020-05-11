@@ -12,9 +12,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14469-download",
-            "preacher_name": "Alan Cairns",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Cairns",
             "_scripture": [
                 {
                     "book": "Ezekiel",
@@ -31,9 +29,7 @@
             "topic": "Hell",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13985-download",
-            "preacher_name": "Alan Cairns",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alan Cairns",
             "_scripture": [
                 {
                     "book": "Ezekiel",

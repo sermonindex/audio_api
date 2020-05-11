@@ -11,9 +11,7 @@
             "topic": "Original Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1260-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Original Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1271-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Original Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1270-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -53,9 +47,7 @@
             "topic": "Original Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22343-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         },
         {
@@ -67,9 +59,7 @@
             "topic": "Original Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1272-download",
-            "preacher_name": "John Murray",
-            "preacher_image": "\/images\/john_murray.gif",
-            "preacher_description": "",
+            "speaker_name": "John Murray",
             "_scripture": []
         }
     ]

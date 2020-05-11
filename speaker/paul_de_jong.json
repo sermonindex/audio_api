@@ -12,9 +12,7 @@
             "topic": "Failure",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20359-download",
-            "preacher_name": "Paul De Jong",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Paul De Jong",
             "_scripture": []
         }
     ]

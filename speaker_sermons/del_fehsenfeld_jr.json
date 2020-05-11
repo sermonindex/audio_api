@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Restore The Joy",
+        "url": "http:\/\/api.sermonindex.net\/SID20415",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Joy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20415-download",
+        "speaker_name": "Del Fehsenfeld Jr",
+        "_scripture": []
+    },
+    {
+        "title": "Revival is Obedience",
+        "url": "http:\/\/api.sermonindex.net\/SID19779",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 40:16",
+        "topic": "Revival",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19779-download",
+        "speaker_name": "Del Fehsenfeld Jr",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "40"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Effective Study",
+        "url": "http:\/\/api.sermonindex.net\/SID7735",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 12:20-24",
+        "topic": "Study",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7735-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "12"
+            }
+        ]
+    }
+]

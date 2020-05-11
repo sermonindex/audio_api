@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17115-download",
-            "preacher_name": "Kjell Olsen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kjell Olsen",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3262-download",
-            "preacher_name": "Kjell Olsen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kjell Olsen",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17119-download",
-            "preacher_name": "Kjell Olsen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kjell Olsen",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3288-download",
-            "preacher_name": "Kjell Olsen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kjell Olsen",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3281-download",
-            "preacher_name": "Kjell Olsen",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Kjell Olsen",
             "_scripture": []
         }
     ]

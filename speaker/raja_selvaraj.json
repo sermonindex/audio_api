@@ -12,9 +12,7 @@
             "topic": "Grace",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID27742-download",
-            "preacher_name": "Raja Selvaraj",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Raja Selvaraj",
             "_scripture": [
                 {
                     "book": "John",

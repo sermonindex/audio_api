@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Breaking Bread",
+        "url": "http:\/\/api.sermonindex.net\/SID25515",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 20:6-12",
+        "topic": "Breaking Bread",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25515-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "20"
+            }
+        ]
+    }
+]

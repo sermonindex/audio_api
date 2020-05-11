@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14471-download",
-            "preacher_name": "Tim Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tim Williams",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID14472-download",
-            "preacher_name": "Tim Williams",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Tim Williams",
             "_scripture": []
         }
     ]

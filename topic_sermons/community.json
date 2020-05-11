@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Anabaptist Missions",
+        "url": "http:\/\/api.sermonindex.net\/SID28435",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Community",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28435-download",
+        "speaker_name": "Dean Taylor",
+        "_scripture": []
+    },
+    {
+        "title": "Establishing Kingdom Communities - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID28434",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Community",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28434-download",
+        "speaker_name": "Dean Taylor",
+        "_scripture": []
+    },
+    {
+        "title": "Establishing Kingdom Communities - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID28432",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Community",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28432-download",
+        "speaker_name": "Dean Taylor",
+        "_scripture": []
+    },
+    {
+        "title": "Holy Community",
+        "url": "http:\/\/api.sermonindex.net\/SID28814",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Community",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28814-download",
+        "speaker_name": "Stewart Ruch",
+        "_scripture": []
+    },
+    {
+        "title": "The New Exodus Community - Galatians 5:1",
+        "url": "http:\/\/api.sermonindex.net\/SID28660",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Galatians 5:1",
+        "topic": "Community",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28660-download",
+        "speaker_name": "Michael Flowers",
+        "_scripture": [
+            {
+                "book": "Galatians",
+                "chapter": "5"
+            }
+        ]
+    }
+]

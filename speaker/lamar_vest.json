@@ -12,9 +12,7 @@
             "topic": "Jesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24818-download",
-            "preacher_name": "Lamar Vest",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Lamar Vest",
             "_scripture": [
                 {
                     "book": "John",

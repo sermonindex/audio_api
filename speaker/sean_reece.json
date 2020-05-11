@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16940-download",
-            "preacher_name": "Sean Reece",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Sean Reece",
             "_scripture": [
                 {
                     "book": "John",

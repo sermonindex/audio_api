@@ -1,0 +1,91 @@
+[
+    {
+        "title": "A Prayer for Guidance",
+        "url": "http:\/\/api.sermonindex.net\/SID25623",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Guidance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25623-download",
+        "speaker_name": "Chuck Smith",
+        "_scripture": []
+    },
+    {
+        "title": "God Directs His Children [part 1]",
+        "url": "http:\/\/api.sermonindex.net\/SID23396",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Guidance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23396-download",
+        "speaker_name": "Bertha Smith",
+        "_scripture": []
+    },
+    {
+        "title": "God Directs His Children [part 2]",
+        "url": "http:\/\/api.sermonindex.net\/SID23389",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Guidance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23389-download",
+        "speaker_name": "Bertha Smith",
+        "_scripture": []
+    },
+    {
+        "title": "Lead Me, Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID25430",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Guidance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25430-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": []
+    },
+    {
+        "title": "Supernatural Guidance",
+        "url": "http:\/\/api.sermonindex.net\/SID27464",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Samuel 23:1-14",
+        "topic": "Guidance",
+        "description": "Pastor Cymbala uses a passage from 1 Samuel 23 to teach about David's decision making process and it's application to our lives today. There is much to be learned from this message. 1 Sam. 23:1-14 (NIV)",
+        "download": "http:\/\/api.sermonindex.net\/SID27464-download",
+        "speaker_name": "Jim Cymbala",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "23"
+            }
+        ]
+    },
+    {
+        "title": "The Holy Spirit And Guidance",
+        "url": "http:\/\/api.sermonindex.net\/SID23302",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Guidance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23302-download",
+        "speaker_name": "Manley Beasley",
+        "_scripture": []
+    },
+    {
+        "title": "When I Don't Understand",
+        "url": "http:\/\/api.sermonindex.net\/SID28141",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Guidance",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28141-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": []
+    }
+]

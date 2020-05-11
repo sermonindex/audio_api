@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9752-download",
-            "preacher_name": "Venus Brooks",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Venus Brooks",
             "_scripture": [
                 {
                     "book": "Hebrews",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9753-download",
-            "preacher_name": "Venus Brooks",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Venus Brooks",
             "_scripture": [
                 {
                     "book": "John",
@@ -50,9 +46,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9754-download",
-            "preacher_name": "Venus Brooks",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Venus Brooks",
             "_scripture": [
                 {
                     "book": "Philippians",
@@ -69,9 +63,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9755-download",
-            "preacher_name": "Venus Brooks",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Venus Brooks",
             "_scripture": [
                 {
                     "book": "Psalms",
@@ -88,9 +80,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9756-download",
-            "preacher_name": "Venus Brooks",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Venus Brooks",
             "_scripture": []
         }
     ]

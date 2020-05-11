@@ -1,0 +1,36 @@
+[
+    {
+        "title": "(John) A Fact For All Followers Of Christ To Face",
+        "url": "http:\/\/api.sermonindex.net\/SID6879",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 16:12-22",
+        "topic": "Followers Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6879-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "16"
+            }
+        ]
+    },
+    {
+        "title": "(John) His Own Followers Believers",
+        "url": "http:\/\/api.sermonindex.net\/SID6871",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 13:1-17",
+        "topic": "Followers Of Christ",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6871-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "13"
+            }
+        ]
+    }
+]

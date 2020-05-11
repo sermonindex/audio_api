@@ -11,9 +11,7 @@
             "topic": "Hannah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9856-download",
-            "preacher_name": "Bob Clark",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Clark",
             "_scripture": []
         }
     ]

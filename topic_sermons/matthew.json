@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Gospel According to Matthew II",
+        "url": "http:\/\/api.sermonindex.net\/SID0796",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Matthew",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0796-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    },
+    {
+        "title": "Gospel According to Matthew III",
+        "url": "http:\/\/api.sermonindex.net\/SID0797",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Matthew",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0797-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    },
+    {
+        "title": "Matthew - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID2269",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 1-10",
+        "topic": "Matthew",
+        "description": "The kingdom of heaven is Matthew's emphasis, which translates to the government of heaven in the Church.  The Sermon on the Mount picks out the fundamental qualities of our righteousness, such as being a spiritual beggar before God.  Many warnings are there against false as well as encouragements to hold on to what is true, such as publicly appreciating others.",
+        "download": "http:\/\/api.sermonindex.net\/SID2269-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Matthew - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID2270",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Matthew 11-28",
+        "topic": "Matthew",
+        "description": "The grand theme of Matthew is a new covenant people who set their minds on heavenly things, not the things of earth.  The kingdom of heaven is likened to humble children; to these kinds of disciples does revelation and the glory of Christ come.  Zac touches upon many precious comparisons that abound in this gospel.",
+        "download": "http:\/\/api.sermonindex.net\/SID2270-download",
+        "speaker_name": "Zac Poonen",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "11"
+            }
+        ]
+    }
+]

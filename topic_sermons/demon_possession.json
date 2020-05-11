@@ -1,0 +1,31 @@
+[
+    {
+        "title": "(The Church Needs To Know) 2. Can Christians be Demon Possessed?",
+        "url": "http:\/\/api.sermonindex.net\/SID24986",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Demon Possession",
+        "description": "Many Christians believe that they themselves, or their brothers and sisters in Christ, can be possessed by demons after having received their salvation. What do the Scriptures say about this subject?",
+        "download": "http:\/\/api.sermonindex.net\/SID24986-download",
+        "speaker_name": "Miki Hardy",
+        "_scripture": []
+    },
+    {
+        "title": "This kind cometh not out",
+        "url": "http:\/\/api.sermonindex.net\/SID7239",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 9",
+        "topic": "Demon Possession",
+        "description": "From Mark chapter 9, an exposition that begins with the Mount of Transfiguration and ends with the demon-possessed boy, but seen as an instructive parable of the Last Days. Reveals the critical factor in Israel's own deliverance.",
+        "download": "http:\/\/api.sermonindex.net\/SID7239-download",
+        "speaker_name": "Art Katz",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "9"
+            }
+        ]
+    }
+]

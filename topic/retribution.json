@@ -11,9 +11,7 @@
             "topic": "Retribution",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID12145-download",
-            "preacher_name": "Chuck Missler",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Chuck Missler",
             "_scripture": [
                 {
                     "book": "Genesis",

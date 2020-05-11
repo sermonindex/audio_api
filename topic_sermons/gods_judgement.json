@@ -1,0 +1,78 @@
+[
+    {
+        "title": "(Romans) God's Judgement On The Jews",
+        "url": "http:\/\/api.sermonindex.net\/SID6895",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 2:17-29",
+        "topic": "Gods Judgement",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6895-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "(Romans) His Judgement And Ours",
+        "url": "http:\/\/api.sermonindex.net\/SID6942",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 14:1-23",
+        "topic": "Gods Judgement",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6942-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "14"
+            }
+        ]
+    },
+    {
+        "title": "Judgement is Mine",
+        "url": "http:\/\/api.sermonindex.net\/SID8290",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 20:13",
+        "topic": "Gods Judgement",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8290-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "20"
+            }
+        ]
+    },
+    {
+        "title": "The Voice of Gods Judgement",
+        "url": "http:\/\/api.sermonindex.net\/SID2205",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Romans 14:12,1 Corinthians 3:13,1 Corinthians 4:5",
+        "topic": "Gods Judgement",
+        "description": "According to Dr. Tozer, Christians have a tendency to hold fast to one truth at the expense of another. Then, after a time, someone comes along and preaches the forgotten Truth -- as Martin Luther did with the doctrine of justification by faith. He was first considered a heretic for peaching an unfamiliar (actually, forgotten) doctrine, but it marked the beginning of the reformation of the church. Has justification by faith now overshadowed other truths, like the inevitability of God's judgment? Dr. Tozer explores this possibility and reaches some disturbing conclusions.",
+        "download": "http:\/\/api.sermonindex.net\/SID2205-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "4"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "3"
+            },
+            {
+                "book": "Romans",
+                "chapter": "14"
+            }
+        ]
+    }
+]

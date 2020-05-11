@@ -12,9 +12,7 @@
             "topic": "Values",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23592-download",
-            "preacher_name": "David Jackman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David Jackman",
             "_scripture": [
                 {
                     "book": "Luke",

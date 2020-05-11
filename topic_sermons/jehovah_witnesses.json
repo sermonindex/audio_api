@@ -1,0 +1,43 @@
+[
+    {
+        "title": "(Depressed Disciples) Mormonisn And Jehovah Witnesses",
+        "url": "http:\/\/api.sermonindex.net\/SID7322",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 6:10-20",
+        "topic": "Jehovah Witnesses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID7322-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "6"
+            }
+        ]
+    },
+    {
+        "title": "Jehovah Witnesses - Part 1 ",
+        "url": "http:\/\/api.sermonindex.net\/SID19623",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jehovah Witnesses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19623-download",
+        "speaker_name": "Walter Martin",
+        "_scripture": []
+    },
+    {
+        "title": "Jehovah Witnesses - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID19624",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Jehovah Witnesses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19624-download",
+        "speaker_name": "Walter Martin",
+        "_scripture": []
+    }
+]

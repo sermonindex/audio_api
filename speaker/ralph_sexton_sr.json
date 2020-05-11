@@ -12,9 +12,7 @@
             "topic": "",
             "description": "Powerful camp-meeting preaching that stirs and convicts. Ralph Sexton Jr. shares the burden on his heart over the sin abounding in America. This is a clear wake up call to American Christians to pray and get a burden for the lost going to hell.",
             "download": "http:\/\/api.sermonindex.net\/SID16645-download",
-            "preacher_name": "Ralph Sexton Sr.",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Sexton Sr.",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -31,9 +29,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16709-download",
-            "preacher_name": "Ralph Sexton Sr.",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ralph Sexton Sr.",
             "_scripture": []
         }
     ]

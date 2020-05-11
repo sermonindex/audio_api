@@ -12,9 +12,7 @@
             "topic": "Biography",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23467-download",
-            "preacher_name": "Jason Janz",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jason Janz",
             "_scripture": []
         }
     ]

@@ -1,0 +1,23 @@
+[
+    {
+        "title": "(John) Jesus In The Judgement Hall",
+        "url": "http:\/\/api.sermonindex.net\/SID6885",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 18:33-40,John 19:1-6",
+        "topic": "Judgement Hall",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6885-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "19"
+            },
+            {
+                "book": "John",
+                "chapter": "18"
+            }
+        ]
+    }
+]

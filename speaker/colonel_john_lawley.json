@@ -12,9 +12,7 @@
             "topic": "Salvation Army",
             "description": "1898 audio recording of Colonel John Lawley leading worship in a salvation army meeting.",
             "download": "http:\/\/api.sermonindex.net\/SID7749-download",
-            "preacher_name": "Colonel John Lawley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Colonel John Lawley",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Salvation Army",
             "description": "1898 audio recording of Colonel John Lawley leading worship in a salvation army meeting.",
             "download": "http:\/\/api.sermonindex.net\/SID7748-download",
-            "preacher_name": "Colonel John Lawley",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Colonel John Lawley",
             "_scripture": []
         }
     ]

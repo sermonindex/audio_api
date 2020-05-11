@@ -11,9 +11,7 @@
             "topic": "Medicine",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19217-download",
-            "preacher_name": "Ken Graves",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ken Graves",
             "_scripture": []
         }
     ]

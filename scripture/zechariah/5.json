@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID9716-download",
-            "preacher_name": "John W. Bramhall",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John W. Bramhall",
             "_scripture": [
                 {
                     "book": "Zechariah",

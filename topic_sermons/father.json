@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Father",
+        "url": "http:\/\/api.sermonindex.net\/SID18975",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Father",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID18975-download",
+        "speaker_name": "Alistair Begg",
+        "_scripture": []
+    },
+    {
+        "title": "My Godly Father",
+        "url": "http:\/\/api.sermonindex.net\/SID4022",
+        "size": "13827584",
+        "format": "mp3",
+        "scripture": "Exodus 20:12",
+        "topic": "Father",
+        "description": "What a powerful testimony of the live of Keith Daniels father. There is something peculiar in this testimony that will really prick your heart and lead you onto perfection in Christ walking in holiness before our Holy God. Listen to this message with a careful ear and heart.",
+        "download": "http:\/\/api.sermonindex.net\/SID4022-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "20"
+            }
+        ]
+    },
+    {
+        "title": "My Godly Father in-law - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID8344",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Father",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8344-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": []
+    },
+    {
+        "title": "The Defeated Father",
+        "url": "http:\/\/api.sermonindex.net\/SID11043",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Samuel 8-13",
+        "topic": "Father",
+        "description": "Emanuel Esh examines principles from the life of King David, how externally he had many victories but suffered various defeats in his home life--a loss of discernment and authority.  Esh drives home the importance of parents (particularly the father) drawing clear boundaries and being firm and consistent.  In a society where children often rule the home, this is a sober warning of the consequences of parental neglect in the lives of children in years to come--when it may be too late.",
+        "download": "http:\/\/api.sermonindex.net\/SID11043-download",
+        "speaker_name": "Emanuel Esh",
+        "_scripture": [
+            {
+                "book": "2 Samuel",
+                "chapter": "8"
+            }
+        ]
+    }
+]

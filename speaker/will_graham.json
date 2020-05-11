@@ -12,9 +12,7 @@
             "topic": "John The Baptist",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19085-download",
-            "preacher_name": "Will Graham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Will Graham",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Paul The Apostle",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19086-download",
-            "preacher_name": "Will Graham",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Will Graham",
             "_scripture": []
         }
     ]

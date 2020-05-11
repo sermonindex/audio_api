@@ -11,9 +11,7 @@
             "topic": "Sowing",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24875-download",
-            "preacher_name": "Brian Long",
-            "preacher_image": "",
-            "preacher_description": "Brian Long ( - )\r\nListen to freely downloadable audio sermons by the speaker Brian Long in mp3 format. Brother Brian Long is the pastor of Cornerstone Community Church of Barnsdall. God has done a powerful work in this brothers life as he has served as a baptist pastor for a season and now God has called him out to a independent work under the Headship of Jesus Christ.\r\nHe has spoken at SermonIndex Conference as well as other revival meetings in Churches across America. His burden and passion for the glory of Jesus Christ alone is evident in his preaching. The emphasis on prayer and the prayer meeting in their fellowship has been the power behind the local church, you are welcome to visit locally for their prayer time on Wednesday.",
+            "speaker_name": "Brian Long",
             "_scripture": [
                 {
                     "book": "Galatians",
@@ -30,9 +28,7 @@
             "topic": "Sowing",
             "description": "In the Bible the preachers and ministers of the Gospel are the stars. What a pity when they go lost and are wandering about, while in charge of congregations. Yet they promote the sin of Sodom and Gomorrah. Sodom and Gomorrah were totally burnt to ashes that there was not a trace left, and so it will go with those who practice this sin of homosexuality and these preachers who promote this lifestyle and lead others astray. There are so-called Christians who are just like these people in Jude, uprooted trees, wild waves of the sea, without fruit, twice dead. They cast up the foam of their own shame. The blackest darkness is reserved for them forever. Such ministers will reap a double hell, forever.",
             "download": "http:\/\/api.sermonindex.net\/SID27510-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "Galatians",

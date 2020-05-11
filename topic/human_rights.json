@@ -11,9 +11,7 @@
             "topic": "Human Rights",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID0262-download",
-            "preacher_name": "Brother Andrew",
-            "preacher_image": "\/images\/brother_andrew.gif",
-            "preacher_description": "Brother Andrew ( - )\r\nListen to freely downloadable audio sermons by the speaker Brother Andrew in mp3 format. Known in English-speaking countries as Brother Andrew, is a Christian missionary famous for his exploits smuggling Bibles to communist countries in the height of the Cold War, a feat that has earned him the nickname \"God's smuggler\". Brother Andrew studied at the WEC Missionary Training College in Glasgow, Scotland. \r\nIn 1967, he published the first edition of God's Smuggler, written with John and Elizabeth Sherrill. God's Smuggler tells the story of Brother Andrew's early childhood, conversion to Christianity, and adventures as a Bible-smuggler behind the Iron Curtain. It has now sold over 10 million copies in thirty-five languages. After the fall of communism in Europe, Brother Andrew shifted his focus to the Middle East and has worked to strengthen the church in the Islamic world. In the 70s he visited war-torn Lebanon several times, stating that \"global conflict in the end times will focus on Israel and its neighboring countries\".",
+            "speaker_name": "Brother Andrew",
             "_scripture": []
         }
     ]

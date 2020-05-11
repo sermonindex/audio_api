@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Jesus Of Nazareth",
+        "url": "http:\/\/api.sermonindex.net\/SID19029",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Nazareth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19029-download",
+        "speaker_name": "David Guzik",
+        "_scripture": []
+    },
+    {
+        "title": "Mark - In Nazareth Again",
+        "url": "http:\/\/api.sermonindex.net\/SID26533",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Nazareth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID26533-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    }
+]

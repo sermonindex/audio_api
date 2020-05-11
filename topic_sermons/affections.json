@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Is Your Affection On Things",
+        "url": "http:\/\/api.sermonindex.net\/SID20855",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Colossians 3",
+        "topic": "Affections",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID20855-download",
+        "speaker_name": "Leonard Ravenhill",
+        "_scripture": [
+            {
+                "book": "Colossians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "My Heart is Fixed",
+        "url": "http:\/\/api.sermonindex.net\/SID22878",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Affections",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22878-download",
+        "speaker_name": "Hans R. Waldvogel",
+        "_scripture": []
+    },
+    {
+        "title": "Set Your Affections Above - Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID19611",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Affections",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19611-download",
+        "speaker_name": "Derek Prince",
+        "_scripture": []
+    },
+    {
+        "title": "Set Your Affections Above - Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID19612",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Affections",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19612-download",
+        "speaker_name": "Derek Prince",
+        "_scripture": []
+    }
+]

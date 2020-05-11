@@ -1,0 +1,31 @@
+[
+    {
+        "title": "The Resurrection Of The Dead",
+        "url": "http:\/\/api.sermonindex.net\/SID4632",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Resurrection Of The Dead",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4632-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": []
+    },
+    {
+        "title": "The Resurrection: Christ's And Ours",
+        "url": "http:\/\/api.sermonindex.net\/SID4628",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 15",
+        "topic": "Resurrection Of The Dead",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4628-download",
+        "speaker_name": "J. Glyn Owen",
+        "_scripture": [
+            {
+                "book": "1 Corinthians",
+                "chapter": "15"
+            }
+        ]
+    }
+]

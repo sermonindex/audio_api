@@ -12,9 +12,7 @@
             "topic": "Ark",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21574-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "America",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21577-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "America",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21578-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Besetting Sin",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21573-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Repentance",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21576-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -82,9 +72,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21572-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -96,9 +84,7 @@
             "topic": "Armageddon",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21579-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -110,9 +96,7 @@
             "topic": "Second Coming",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21580-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         },
         {
@@ -124,9 +108,7 @@
             "topic": "Prayer",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21575-download",
-            "preacher_name": "J.C. Hibbard",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "J.C. Hibbard",
             "_scripture": []
         }
     ]

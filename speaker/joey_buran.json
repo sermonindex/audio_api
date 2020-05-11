@@ -12,9 +12,7 @@
             "topic": "Light",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID25602-download",
-            "preacher_name": "Joey Buran",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Joey Buran",
             "_scripture": []
         }
     ]

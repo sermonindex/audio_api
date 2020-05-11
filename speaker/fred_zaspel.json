@@ -12,9 +12,7 @@
             "topic": "New Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID13057-download",
-            "preacher_name": "Fred Zaspel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Fred Zaspel",
             "_scripture": [
                 {
                     "book": "2 Corinthians",

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(John) The Glory Of The Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID6883",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 18:1-11",
+        "topic": "Glory Of The Lord",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6883-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "18"
+            }
+        ]
+    }
+]

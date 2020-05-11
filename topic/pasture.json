@@ -11,9 +11,7 @@
             "topic": "Pasture",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID6135-download",
-            "preacher_name": "Ray Lowe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ray Lowe",
             "_scripture": []
         }
     ]

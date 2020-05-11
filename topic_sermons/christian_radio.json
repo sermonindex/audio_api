@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The Dangers of The Christian Radio",
+        "url": "http:\/\/api.sermonindex.net\/SID16733",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Corinthians 15:33-34, 1 Corinthians 2:14-16, Philippians 1:8-11",
+        "topic": "Christian Radio",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16733-download",
+        "speaker_name": "Denny Kenaston",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "1"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "2"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "15"
+            }
+        ]
+    }
+]

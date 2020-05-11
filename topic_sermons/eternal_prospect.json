@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The Eternal Prospect of the Christian",
+        "url": "http:\/\/api.sermonindex.net\/SID1047",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Peter 1:11,1 John 3:3, Revelation 3:21",
+        "topic": "Eternal Prospect",
+        "description": "This message was delivered on 01\/01\/1955.",
+        "download": "http:\/\/api.sermonindex.net\/SID1047-download",
+        "speaker_name": "T. Austin Sparks",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "3"
+            },
+            {
+                "book": "1 John",
+                "chapter": "3"
+            },
+            {
+                "book": "2 Peter",
+                "chapter": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "(Daniel) Daniel in the Lion's Den",
+        "url": "http:\/\/api.sermonindex.net\/SID13846",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Daniel 6:1-28",
+        "topic": "Lions Den",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID13846-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Daniel",
+                "chapter": "6"
+            }
+        ]
+    }
+]

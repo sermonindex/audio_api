@@ -12,9 +12,7 @@
             "topic": "Passover",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20428-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Sufficiency",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23310-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Obedience",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23311-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": [
                 {
                     "book": "2 Corinthians",
@@ -59,9 +53,7 @@
             "topic": "Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20429-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -73,9 +65,7 @@
             "topic": "Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20433-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -87,9 +77,7 @@
             "topic": "Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20431-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -101,9 +89,7 @@
             "topic": "Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20432-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -115,9 +101,7 @@
             "topic": "Revival",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23309-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         },
         {
@@ -129,9 +113,7 @@
             "topic": "Covenant",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20430-download",
-            "preacher_name": "Bill Stafford",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bill Stafford",
             "_scripture": []
         }
     ]

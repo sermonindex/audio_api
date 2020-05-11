@@ -12,9 +12,7 @@
             "topic": "Postmodern",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16891-download",
-            "preacher_name": "D.A. Carson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "D.A. Carson",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Postmodern",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16892-download",
-            "preacher_name": "D.A. Carson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "D.A. Carson",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Postmodern",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16889-download",
-            "preacher_name": "D.A. Carson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "D.A. Carson",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Postmodern",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16888-download",
-            "preacher_name": "D.A. Carson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "D.A. Carson",
             "_scripture": []
         },
         {
@@ -68,9 +60,7 @@
             "topic": "Postmodern",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID16890-download",
-            "preacher_name": "D.A. Carson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "D.A. Carson",
             "_scripture": []
         }
     ]

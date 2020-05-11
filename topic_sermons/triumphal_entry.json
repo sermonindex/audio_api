@@ -1,0 +1,44 @@
+[
+    {
+        "title": "(John) The Triumphal Entry Into Jerusalem",
+        "url": "http:\/\/api.sermonindex.net\/SID6869",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 12:12-28",
+        "topic": "Triumphal Entry",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID6869-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "12"
+            }
+        ]
+    },
+    {
+        "title": "The Triumphal Entry: The King Comes for His Kingdom\t",
+        "url": "http:\/\/api.sermonindex.net\/SID27685",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Mark 11:1-11, Zechariah 9:9, Psalm 118:25-26",
+        "topic": "Triumphal Entry",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27685-download",
+        "speaker_name": "S. Lewis Johnson",
+        "_scripture": [
+            {
+                "book": "Mark",
+                "chapter": "11"
+            },
+            {
+                "book": "Zechariah",
+                "chapter": "9"
+            },
+            {
+                "book": "Psalms",
+                "chapter": "118"
+            }
+        ]
+    }
+]

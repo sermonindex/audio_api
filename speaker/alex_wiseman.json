@@ -12,9 +12,7 @@
             "topic": "Ephesus",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21984-download",
-            "preacher_name": "Alex Wiseman",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alex Wiseman",
             "_scripture": []
         }
     ]

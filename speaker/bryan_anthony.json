@@ -12,9 +12,7 @@
             "topic": "Foundation",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23126-download",
-            "preacher_name": "Bryan Anthony",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bryan Anthony",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Israel",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23920-download",
-            "preacher_name": "Bryan Anthony",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bryan Anthony",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "Knowledge",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23157-download",
-            "preacher_name": "Bryan Anthony",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bryan Anthony",
             "_scripture": []
         },
         {
@@ -54,9 +48,7 @@
             "topic": "Recovery And Testimony",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23174-download",
-            "preacher_name": "Bryan Anthony",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bryan Anthony",
             "_scripture": []
         }
     ]

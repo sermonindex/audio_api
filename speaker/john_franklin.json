@@ -12,9 +12,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17319-download",
-            "preacher_name": "John Franklin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Franklin",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17320-download",
-            "preacher_name": "John Franklin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Franklin",
             "_scripture": []
         },
         {
@@ -40,9 +36,7 @@
             "topic": "",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID17321-download",
-            "preacher_name": "John Franklin",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "John Franklin",
             "_scripture": []
         }
     ]

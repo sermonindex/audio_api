@@ -1,0 +1,136 @@
+[
+    {
+        "title": "Counterfeit Christians",
+        "url": "http:\/\/api.sermonindex.net\/SID21211",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Counterfeit",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21211-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": []
+    },
+    {
+        "title": "Freedom From Fear and Worry",
+        "url": "http:\/\/api.sermonindex.net\/SID19839",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 12:4-7, Luke 22-32",
+        "topic": "Worry",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19839-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "12"
+            },
+            {
+                "book": "Luke",
+                "chapter": "22"
+            }
+        ]
+    },
+    {
+        "title": "God Blessed Him There",
+        "url": "http:\/\/api.sermonindex.net\/SID19840",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Genesis 32:24-30",
+        "topic": "Blessing Of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19840-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "32"
+            }
+        ]
+    },
+    {
+        "title": "How to Comment Spiritual Suicide",
+        "url": "http:\/\/api.sermonindex.net\/SID19841",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Samuel 31:3-4",
+        "topic": "Suicide",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19841-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "1 Samuel",
+                "chapter": "31"
+            }
+        ]
+    },
+    {
+        "title": "How to Get Along With Everybody All The Time",
+        "url": "http:\/\/api.sermonindex.net\/SID19842",
+        "size": "0",
+        "format": "",
+        "scripture": "Matthew 18:21-35",
+        "topic": "Bitterness",
+        "description": "God's hand is withheld because of bitterness and unforgiveness. Charlie Orr talks about how the Bible has 27 reciprocal demands on how we should treat one another.",
+        "download": "http:\/\/api.sermonindex.net\/SID19842-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "Matthew",
+                "chapter": "18"
+            }
+        ]
+    },
+    {
+        "title": "The Presence of God",
+        "url": "http:\/\/api.sermonindex.net\/SID19843",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 64:1-9",
+        "topic": "Presence of God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19843-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "64"
+            }
+        ]
+    },
+    {
+        "title": "The Winable War",
+        "url": "http:\/\/api.sermonindex.net\/SID21212",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Warfare",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21212-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": []
+    },
+    {
+        "title": "Time To Grow Up",
+        "url": "http:\/\/api.sermonindex.net\/SID19844",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Hebrews 5:11-14, Hebrews 6:1",
+        "topic": "Christian Growth",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19844-download",
+        "speaker_name": "Charlie Orr",
+        "_scripture": [
+            {
+                "book": "Hebrews",
+                "chapter": "5"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "6"
+            }
+        ]
+    }
+]

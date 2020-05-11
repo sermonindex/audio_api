@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Moved to Generosity",
+        "url": "http:\/\/api.sermonindex.net\/SID28798",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Generosity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28798-download",
+        "speaker_name": "Stewart Ruch",
+        "_scripture": []
+    },
+    {
+        "title": "The Generosity Of God ",
+        "url": "http:\/\/api.sermonindex.net\/SID12759",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "1 Timothy 6:17",
+        "topic": "Generosity",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID12759-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "1 Timothy",
+                "chapter": "6"
+            }
+        ]
+    }
+]

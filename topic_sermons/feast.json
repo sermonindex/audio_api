@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Feast at the Table",
+        "url": "http:\/\/api.sermonindex.net\/SID15737",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Exodus 24:9-11",
+        "topic": "Feast",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15737-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Exodus",
+                "chapter": "24"
+            }
+        ]
+    }
+]

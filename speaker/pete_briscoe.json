@@ -12,9 +12,7 @@
             "topic": "Bema Seat",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20365-download",
-            "preacher_name": "Pete Briscoe",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Pete Briscoe",
             "_scripture": []
         }
     ]

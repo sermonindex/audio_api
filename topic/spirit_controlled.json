@@ -11,9 +11,7 @@
             "topic": "Spirit Controlled",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19798-download",
-            "preacher_name": "Bob Anderson",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Bob Anderson",
             "_scripture": []
         }
     ]

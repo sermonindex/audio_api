@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Establishing the Lordship of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID27701",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID27701-download",
+        "speaker_name": "Major Ian Thomas",
+        "_scripture": []
+    },
+    {
+        "title": "Exalted God above All",
+        "url": "http:\/\/api.sermonindex.net\/SID5006",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5006-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "Exalting God",
+        "url": "http:\/\/api.sermonindex.net\/SID5713",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID5713-download",
+        "speaker_name": "A.W. Tozer",
+        "_scripture": []
+    },
+    {
+        "title": "Jesus Is Lord: Part 1",
+        "url": "http:\/\/api.sermonindex.net\/SID28840",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28840-download",
+        "speaker_name": "Thaddeus Barnum",
+        "_scripture": []
+    },
+    {
+        "title": "Jesus Is Lord: Part 2",
+        "url": "http:\/\/api.sermonindex.net\/SID28839",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28839-download",
+        "speaker_name": "Thaddeus Barnum",
+        "_scripture": []
+    },
+    {
+        "title": "The Lordship of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID23585",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID23585-download",
+        "speaker_name": "Brother Andrew",
+        "_scripture": []
+    },
+    {
+        "title": "Who is the Head of Your Table?",
+        "url": "http:\/\/api.sermonindex.net\/SID22323",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "2 Samuel 9:1-13",
+        "topic": "Lordship",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID22323-download",
+        "speaker_name": "Roy Hession",
+        "_scripture": [
+            {
+                "book": "2 Samuel",
+                "chapter": "9"
+            }
+        ]
+    }
+]

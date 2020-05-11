@@ -1,0 +1,27 @@
+[
+    {
+        "title": "(Faith Community Chapel) 10\/31 Message",
+        "url": "http:\/\/api.sermonindex.net\/SID16388",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Malachi 2: 14-16, Ephesians 5:22-25, Ephesians 6:1",
+        "topic": "Obeying Parents",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16388-download",
+        "speaker_name": "Keith Daniel",
+        "_scripture": [
+            {
+                "book": "Ephesians",
+                "chapter": "6"
+            },
+            {
+                "book": "Ephesians",
+                "chapter": "5"
+            },
+            {
+                "book": "Malachi",
+                "chapter": "2"
+            }
+        ]
+    }
+]

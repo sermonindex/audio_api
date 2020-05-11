@@ -12,9 +12,7 @@
             "topic": "Pressure",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23809-download",
-            "preacher_name": "Ernie Albrecht",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ernie Albrecht",
             "_scripture": []
         }
     ]

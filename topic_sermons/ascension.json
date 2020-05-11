@@ -1,0 +1,43 @@
+[
+    {
+        "title": "(Following The Footsteps Of Christ) The Ascension",
+        "url": "http:\/\/api.sermonindex.net\/SID8400",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 1:1-12",
+        "topic": "Ascension",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8400-download",
+        "speaker_name": "Willie Mullan",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Ascension Of The Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID8009",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Ascension",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID8009-download",
+        "speaker_name": "Carl Armerding",
+        "_scripture": []
+    },
+    {
+        "title": "The Ascension of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID28749",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Ascension",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID28749-download",
+        "speaker_name": "Todd Atkinson",
+        "_scripture": []
+    }
+]

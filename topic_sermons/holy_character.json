@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Be Ye Holy",
+        "url": "http:\/\/api.sermonindex.net\/SID14511",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Holy Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID14511-download",
+        "speaker_name": "Gary Ellison",
+        "_scripture": []
+    },
+    {
+        "title": "The Christian In This World",
+        "url": "http:\/\/api.sermonindex.net\/SID9591",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "John 17",
+        "topic": "Holy Character",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID9591-download",
+        "speaker_name": "Vance Havner",
+        "_scripture": [
+            {
+                "book": "John",
+                "chapter": "17"
+            }
+        ]
+    }
+]

@@ -11,9 +11,7 @@
             "topic": "Jonah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23715-download",
-            "preacher_name": "Ian Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Ian Murray",
             "_scripture": [
                 {
                     "book": "Jonah",
@@ -30,9 +28,7 @@
             "topic": "Jonah",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7365-download",
-            "preacher_name": "Keith Daniel",
-            "preacher_image": "\/images\/keith_daniel.gif",
-            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "speaker_name": "Keith Daniel",
             "_scripture": [
                 {
                     "book": "Romans",
@@ -53,9 +49,7 @@
             "topic": "Jonah",
             "description": "A.E. Discusses how the \u201cMonster\u201d of the deep consumed Jonah.  He analyzes the science of Blue and Pot (Sperm) whales (likely candidates for the job.)  Upon discovering how Jonah\u2019s body would have reacted to the stomach juices of the monster, he preaches on how the signs of death were upon Jonah.   Wilder-Smith says that the marks of death upon a preacher will cause there to be a hearing on the parts of the recipients of the sermons.  The death of the cross must be seen in the preacher before his message will be heard.   We must be crucified for Christ\u2019s sake.  Even the king of Nineveh will listen to that man.",
             "download": "http:\/\/api.sermonindex.net\/SID0548-download",
-            "preacher_name": "Dr. A.E. Wilder-Smith",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Dr. A.E. WilderSmith",
             "_scripture": []
         }
     ]

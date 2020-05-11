@@ -1,0 +1,27 @@
+[
+    {
+        "title": "How To Develop Your Life's Message",
+        "url": "http:\/\/api.sermonindex.net\/SID19881",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Psalms 27:1-4, Hebrews 11:6, 2 Corinthians 3:17-18",
+        "topic": "Preaching",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID19881-download",
+        "speaker_name": "Joe Humrichous",
+        "_scripture": [
+            {
+                "book": "Psalms",
+                "chapter": "27"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "11"
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "3"
+            }
+        ]
+    }
+]

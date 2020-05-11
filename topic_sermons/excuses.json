@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Excuses",
+        "url": "http:\/\/api.sermonindex.net\/SID16629",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Joshua 5:13-14,  Romans 12:1",
+        "topic": "Excuses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID16629-download",
+        "speaker_name": "William MacDonald",
+        "_scripture": [
+            {
+                "book": "Romans",
+                "chapter": "12"
+            },
+            {
+                "book": "Joshua",
+                "chapter": "5"
+            }
+        ]
+    },
+    {
+        "title": "Your Excuses",
+        "url": "http:\/\/api.sermonindex.net\/SID25599",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Job 40:1-14",
+        "topic": "Excuses",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25599-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Job",
+                "chapter": "40"
+            }
+        ]
+    }
+]

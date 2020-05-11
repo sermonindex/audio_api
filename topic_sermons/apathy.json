@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Apathy",
+        "url": "http:\/\/api.sermonindex.net\/SID17489",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apathy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17489-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "Apathy 30 Minutes",
+        "url": "http:\/\/api.sermonindex.net\/SID17494",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apathy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID17494-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    },
+    {
+        "title": "Full Time Ministry",
+        "url": "http:\/\/api.sermonindex.net\/SID3674",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Revelation 1:9-10",
+        "topic": "Apathy",
+        "description": "David Wilkerson gives a very clear warning to the spirit of the age that many Christians are living in. Think you're too busy to pray? No matter how busy or what your occupation in this life, every Believer is called into \"Full Time Ministry.\"",
+        "download": "http:\/\/api.sermonindex.net\/SID3674-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Revelation",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "GV1065 Apathy",
+        "url": "http:\/\/api.sermonindex.net\/SID21515",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Apathy",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21515-download",
+        "speaker_name": "George Verwer",
+        "_scripture": []
+    }
+]

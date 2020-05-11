@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Availability and Angels",
+        "url": "http:\/\/api.sermonindex.net\/SID25512",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Acts 11:1-18",
+        "topic": "Availability",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID25512-download",
+        "speaker_name": "Paris Reidhead",
+        "_scripture": [
+            {
+                "book": "Acts",
+                "chapter": "11"
+            }
+        ]
+    },
+    {
+        "title": "Hebrews: Availability of Christ",
+        "url": "http:\/\/api.sermonindex.net\/SID0792",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Availability",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID0792-download",
+        "speaker_name": "Stephen  Kaung",
+        "_scripture": []
+    }
+]

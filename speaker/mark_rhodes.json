@@ -12,9 +12,7 @@
             "topic": "Opposition",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23805-download",
-            "preacher_name": "Mark Rhodes",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Mark Rhodes",
             "_scripture": []
         }
     ]

@@ -12,9 +12,7 @@
             "topic": "Quiet Time",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID19808-download",
-            "preacher_name": "Herb Atwood",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Herb Atwood",
             "_scripture": []
         }
     ]

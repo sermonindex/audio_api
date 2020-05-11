@@ -11,9 +11,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7329-download",
-            "preacher_name": "Zac Poonen",
-            "preacher_image": "\/images\/zac_poonen.gif",
-            "preacher_description": "Zac Poonen ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Zac Poonen in mp3 format. God called brother Zac Poonen to a new work early on in his Christian experience. The movement is now called Christian Fellowship Churches where the New Covenant of New Testament Christianity is clearly preached. \r\n\r\nBrother Zac Poonen has written 25 books most of them being on the deeper Christian life. Many of these have been translated into a number of languages and have been circulated widely around the world. He clearly and passionately shares the  narrow way of Christian discipleship that is neglected by so many modern preachers.",
+            "speaker_name": "Zac Poonen",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID20601-download",
-            "preacher_name": "Leonard Ravenhill",
-            "preacher_image": "\/images\/leonard_ravenhill.gif",
-            "preacher_description": "Leonard Ravenhill (1907 \u00c2\u2013 1994)\r\nListen to freely downloadable audio sermons by the speaker Leonard Ravenhill in mp3 format. A revivalist and man of God who sought God's will above all else. He was a man of prayer who practiced what he preached. He wrote the book: 'Why Revival Tarries' which has become a classic on revival. His prophetic edge and burden made him to be respected by some and disliked by others. Yet he stayed true to God's call on his life prayed and pleading for true heaven sent revival. \r\n\r\n\"Those who know of Leonard Ravenhill recognize in him the religious specialist, the man sent from God to battle the priests of Baal on their own mountain top, to shame the careless priest at the altar, to face the false prophet, and to warn the people who are being led astray by him. \" - Tozer | \"Leonard Ravenhill was one of the few men I have ever known who was a true prophet.\" - David Wilkerson",
+            "speaker_name": "Leonard Ravenhill",
             "_scripture": []
         },
         {
@@ -39,9 +35,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3289-download",
-            "preacher_name": "Erlo Stegen",
-            "preacher_image": "\/images\/erlo_stegen.gif",
-            "preacher_description": "Erlo Stegen (1935 - Present)\r\nListen to freely downloadable audio sermons by the speaker Erlo Stegen in mp3 format. Used of God in the Zulu revival in South Africa. He helped found the Kwasizabantu Mission where a few thousand live on the mission doing work for the Lord. He shares a powerful burden for the purity of the Church and revival in the Church. \r\n\r\nMany ministers have preached in their large conventions through the years namely David Wilkerson who enjoyed greatly the mission's work. They have established over 30 other missions around the work as a work of the Spirit of God.",
+            "speaker_name": "Erlo Stegen",
             "_scripture": [
                 {
                     "book": "James",
@@ -58,9 +52,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID22240-download",
-            "preacher_name": "Alistair Begg",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Alistair Begg",
             "_scripture": [
                 {
                     "book": "James",
@@ -77,9 +69,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID23632-download",
-            "preacher_name": "Peter Maiden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Maiden",
             "_scripture": []
         },
         {
@@ -91,9 +81,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID7374-download",
-            "preacher_name": "Keith Daniel",
-            "preacher_image": "\/images\/keith_daniel.gif",
-            "preacher_description": "Keith Daniel ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Keith Daniel in mp3 format. Keith Daniel of Cape Town, South Africa is an evangelist with the African Evangelistic Band. He travels extensively across South Africa preaching the Word of God, and also lectures at Glenvar Bible College in Cape Town. He has made over twenty tours to North America over the past two decades.\r\n\r\nBrother Keith has a passion to preach God's uncompromising Word to this generation and calls out to pastors and theologians of our day to believe God's truth over man's reason. He has preached in many conventions including SermonIndex.net Conferences in the last 5 years.",
+            "speaker_name": "Keith Daniel",
             "_scripture": [
                 {
                     "book": "James",
@@ -110,9 +98,7 @@
             "topic": "Tongue",
             "description": "The wisdom and grace that enables a man to bridle his tongue will be the same wisdom and grace that will enable him to control his actions, attitudes and whole life. A changed tongue is found only in changing the source. No man can tame the tongue\u2014but the Lord can! This message is full of practical teaching.",
             "download": "http:\/\/api.sermonindex.net\/SID15241-download",
-            "preacher_name": "Aaron Hurst",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Aaron Hurst",
             "_scripture": [
                 {
                     "book": "James",
@@ -129,9 +115,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24308-download",
-            "preacher_name": "Steve Mays",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Steve Mays",
             "_scripture": []
         },
         {
@@ -143,9 +127,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID21502-download",
-            "preacher_name": "Peter Maiden",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Peter Maiden",
             "_scripture": []
         },
         {
@@ -157,9 +139,7 @@
             "topic": "Tongue",
             "description": "David Murray shares from the Heidelberg Catechism on the tongue and the sins of the tongue. He very carefully goes through many of the warnings in scriptures of the wrong use of the tongue and encourages us to use the tongue rightly by the Spirit of God.",
             "download": "http:\/\/api.sermonindex.net\/SID22576-download",
-            "preacher_name": "David P. Murray",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "David P. Murray",
             "_scripture": [
                 {
                     "book": "James",
@@ -176,9 +156,7 @@
             "topic": "Tongue",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24874-download",
-            "preacher_name": "Brian Long",
-            "preacher_image": "",
-            "preacher_description": "Brian Long ( - )\r\nListen to freely downloadable audio sermons by the speaker Brian Long in mp3 format. Brother Brian Long is the pastor of Cornerstone Community Church of Barnsdall. God has done a powerful work in this brothers life as he has served as a baptist pastor for a season and now God has called him out to a independent work under the Headship of Jesus Christ.\r\nHe has spoken at SermonIndex Conference as well as other revival meetings in Churches across America. His burden and passion for the glory of Jesus Christ alone is evident in his preaching. The emphasis on prayer and the prayer meeting in their fellowship has been the power behind the local church, you are welcome to visit locally for their prayer time on Wednesday.",
+            "speaker_name": "Brian Long",
             "_scripture": [
                 {
                     "book": "Acts",

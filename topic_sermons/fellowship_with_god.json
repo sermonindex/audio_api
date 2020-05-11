@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Breaking Away From Father",
+        "url": "http:\/\/api.sermonindex.net\/SID15393",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Luke 15:11-13",
+        "topic": "Fellowship With God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID15393-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Luke",
+                "chapter": "15"
+            }
+        ]
+    },
+    {
+        "title": "Enjoying fellowship with God",
+        "url": "http:\/\/api.sermonindex.net\/SID21074",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Fellowship With God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21074-download",
+        "speaker_name": "Alan Redpath",
+        "_scripture": []
+    },
+    {
+        "title": "Living before the Lord",
+        "url": "http:\/\/api.sermonindex.net\/SID21314",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "",
+        "topic": "Fellowship With God",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID21314-download",
+        "speaker_name": "Erlo Stegen",
+        "_scripture": []
+    }
+]

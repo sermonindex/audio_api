@@ -12,9 +12,7 @@
             "topic": "Christian Life",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26969-download",
-            "preacher_name": "Gottfried A. Waldvogel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gottfried A. Waldvogel",
             "_scripture": []
         },
         {
@@ -26,9 +24,7 @@
             "topic": "Communion",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID26970-download",
-            "preacher_name": "Gottfried A. Waldvogel",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Gottfried A. Waldvogel",
             "_scripture": []
         }
     ]

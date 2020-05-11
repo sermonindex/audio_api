@@ -12,9 +12,7 @@
             "topic": "Communion Service",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID1163-download",
-            "preacher_name": "Jeffery A Valentine",
-            "preacher_image": "",
-            "preacher_description": "",
+            "speaker_name": "Jeffery A Valentine",
             "_scripture": []
         }
     ]

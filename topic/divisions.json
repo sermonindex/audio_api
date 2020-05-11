@@ -11,9 +11,7 @@
             "topic": "Divisions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID24718-download",
-            "preacher_name": "Ben Torrey",
-            "preacher_image": "",
-            "preacher_description": "Ben Torrey ( - )\r\nListen to freely downloadable audio sermons by the speaker Ben Torrey in mp3 format. Executive director of The Fourth River Project, Inc which is an organization that is preparing for the opening of North Korea. Their intercession and practical preparations are helping the body of Christ to be spiritually prepared to share the Good News of Christ effectively with North Korea.\r\nJesus Abbey is an intentional community and house of intercessory prayer founded by Jane and Archer Torrey, in 1965 by faith in God's provision. Currently Ben Torrey serves as chairman of the Jesus Abbey board of trustees. As he travels to America yearly he serves as the Archdeacon in the Evangelical Apostolic Church of North America which is in the tradition of the Church of the East. All 53 of the recordings below were recorded for the Far East Broadcasting company in 2007.",
+            "speaker_name": "Ben Torrey",
             "_scripture": []
         },
         {
@@ -25,9 +23,7 @@
             "topic": "Divisions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID10283-download",
-            "preacher_name": "Chuck Smith",
-            "preacher_image": "\/images\/chuck_smith.gif",
-            "preacher_description": "Chuck Smith (1927 - 2013)\r\nListen to freely downloadable audio sermons by the speaker Chuck Smith in mp3 format. Pastor Chuck was used in the Jesus People revival where he was used along with others to minister to the hippy young people. They saw a work of the Spirit where many were added to the church and discipled. He has raised up many pastors who are a part of the Calvary Chapel movement now and where he pastors the large Costa Mesa church in California.\r\n\r\nThe Calvary Chapel movement is based of simple principles that Chuck Smith taught over the years such as: The priority of agape love, Simple fellowship amongst the saints, the breaking of bread, the teaching of God's word chapter by chapter and verse by verse. And lastly and most importantly the principle not by might nor by power but by my spirit saith the Lord.",
+            "speaker_name": "Chuck Smith",
             "_scripture": [
                 {
                     "book": "Acts",
@@ -44,9 +40,7 @@
             "topic": "Divisions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID3819-download",
-            "preacher_name": "Gerhard Du Toit",
-            "preacher_image": "",
-            "preacher_description": "Gerhard Du Toit ( - )\r\nListen to freely downloadable audio sermons by the speaker Gerhard Du Toit in mp3 format. Originally from South Africa, Gerhard was brought up in the Dutch Reformed Church and trained as an evangelist there. He has had extensive evangelistic experience in South Africa, where his ministry is greatly appreciated. He has also been engaged in convention and evangelistic ministry in the British Isles.\r\nGerhard has resided in Canada, with his wife and daughter, since 1987. He is a coveted speaker in conferences around the world. His powerful preaching and authoritative, biblical message greatly bless and move the hearts of those who hear him. He also has a deep burden to see a revival of praying men. Like the prophet Jeremiah, his heart burns for an elevated standard of godliness in our day. He know is part of Life Action in Canada serving with that ministry.",
+            "speaker_name": "Gerhard Du Toit",
             "_scripture": [
                 {
                     "book": "Isaiah",
@@ -67,9 +61,7 @@
             "topic": "Divisions",
             "description": "",
             "download": "http:\/\/api.sermonindex.net\/SID15482-download",
-            "preacher_name": "Carter Conlon",
-            "preacher_image": "\/images\/carter_conlon.gif",
-            "preacher_description": "Carter Conlon ( - Present)\r\nListen to freely downloadable audio sermons by the speaker Carter Conlon in mp3 format. Carter Conlon is the Senior Pastor of Times Square Church. David Wilkerson is the Founding Pastor of Times Square Church. God called Brother Carter to full-time ministry in Canada by faith and He has been serving the Lord with the same faith till this day. \r\n\r\nGod has used brother Carter Conlon to preach across the world at pastors conferences and evangelism crusades. He has also recently written 2 books with the newest title: \"Fear Not\" in which he is strengthening the body of Christ for what is coming upon the world in the end-times.",
+            "speaker_name": "Carter Conlon",
             "_scripture": [
                 {
                     "book": "Luke",

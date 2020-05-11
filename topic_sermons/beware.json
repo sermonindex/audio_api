@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Beware Of Dogs",
+        "url": "http:\/\/api.sermonindex.net\/SID3353",
+        "size": "10004992",
+        "format": "mp3",
+        "scripture": "Philippians 3:2-10",
+        "topic": "Beware",
+        "description": "Out of the 3rd Chapter in Philipians, Wilkerson preaches on false teachers and preachers in society today.  This is another classic Wilkerson; sounding the alarm, message for the church.  For those that defend the gospel, this is a must hear message.",
+        "download": "http:\/\/api.sermonindex.net\/SID3353-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Philippians",
+                "chapter": "3"
+            }
+        ]
+    },
+    {
+        "title": "Beware Of The Wisdom Of Men",
+        "url": "http:\/\/api.sermonindex.net\/SID2613",
+        "size": "7315456",
+        "format": "mp3",
+        "scripture": "1 Corinthians 2:1-5, 1 Timothy 4:1, Genesis 2:7",
+        "topic": "Beware",
+        "description": "(preached: Oct. 5, 2003)",
+        "download": "http:\/\/api.sermonindex.net\/SID2613-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "Genesis",
+                "chapter": "2"
+            },
+            {
+                "book": "1 Timothy",
+                "chapter": "4"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "2"
+            }
+        ]
+    },
+    {
+        "title": "Beware When You Are Full",
+        "url": "http:\/\/api.sermonindex.net\/SID4243",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Joel 1:14, Joel 1:6-7, 2 Timothy 3:1-4",
+        "topic": "Beware",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4243-download",
+        "speaker_name": "Carter Conlon",
+        "_scripture": [
+            {
+                "book": "2 Timothy",
+                "chapter": "3"
+            },
+            {
+                "book": "Joel",
+                "chapter": "1"
+            }
+        ]
+    },
+    {
+        "title": "Beware of the Smiters",
+        "url": "http:\/\/api.sermonindex.net\/SID4242",
+        "size": "0",
+        "format": "mp3",
+        "scripture": "Isaiah 50:6",
+        "topic": "Beware",
+        "description": "",
+        "download": "http:\/\/api.sermonindex.net\/SID4242-download",
+        "speaker_name": "David Wilkerson",
+        "_scripture": [
+            {
+                "book": "Isaiah",
+                "chapter": "50"
+            }
+        ]
+    }
+]
