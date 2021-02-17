@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sermonindex/audio_api/master/api-image.jpg">
+<img src="https://raw.githubusercontent.com/sermonindex/audio_api/master/api-header.jpg">
 
 # Sermonindex.net (Audio API)
 
