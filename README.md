@@ -91,5 +91,5 @@ If you would like to automate these updates via a `cronjob`, [read this post](ht
 
 ## [Support this project](http://www.sermonindex.net/give/)
 
-With over 100 million sermons distributed in 10 years of ministry, SermonIndex has touched an countless amount of believers. Since the inception of SermonIndex we have sought as best as possible to not make specific needs known for the ministry. Our [trust is in God](http://www.sermonindex.net/give/) for what He desires this ministry to accomplish, till the coming of the Lord.
+With over 100 million sermons distributed in over 19 years of ministry, SermonIndex has touched an countless amount of believers. Since the inception of SermonIndex we have sought as best as possible to not make specific needs known for the ministry. Our [trust is in God](http://www.sermonindex.net/give/) for what He desires this ministry to accomplish, till the coming of the Lord.
 
